@@ -70,3 +70,7 @@ jupyter nbconvert --to html \
     --output-dir "$(realpath "$nb_dir")" \
     --output "summary"
 
+echo "REMOVING THE OUTLIERS"
+
+python3 "$scripts_dir/iqr_apply.py"
+

@@ -1,18 +1,19 @@
 import pandas as pd
 import os
 
-df = pd.read_csv('../Data/data_chen_5.csv')
-df_iqr = pd.read_csv('../Data/summary_iqr.csv')
+df = pd.read_csv('Data/Chen_Analysis/chen_data_5.csv')
+df_iqr = pd.read_csv('Data/Chen_Analysis/summary_iqr.csv')
 
-files = set(df_iqr['file'].to_list())
+files_to_keep = set(df_iqr['file'].tolist())
 
-df_new = df[df['Sample name'].isin(files)]
+fasta_dir = "Data/Chen_Analysis/Bins"
 
-fasta_dir = "../Data/Bins"
-
-for i in files:
-    file_path = os.path.join(fasta_dir, f"{i}.fa.gz")
-    if os.path.exists(file_path):
-        os.remove(file_path)
-    else:
-        print("File not found")
+for filename in os.listdir(fasta_dir):
+    if filename.endswith(".fa.gz"):
+        sample_name = filename[:-6] 
+        
+        
+        if sample_name not in files_to_keep:
+            file_path = os.path.join(fasta_dir, filename)
+            os.remove(file_path)
+            print(f"Removido: {file_path}")
