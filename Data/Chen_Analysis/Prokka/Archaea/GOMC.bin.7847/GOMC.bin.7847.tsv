@@ -1,0 +1,1529 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+EKPNOOPC_00001	CDS	522	atpC			V-type ATP synthase subunit C
+EKPNOOPC_00002	CDS	306	atpF		COG1436	V-type ATP synthase subunit F
+EKPNOOPC_00003	CDS	1806	atpA	7.1.2.2	COG1155	V-type ATP synthase alpha chain
+EKPNOOPC_00004	CDS	1383	atpB		COG1156	V-type ATP synthase beta chain
+EKPNOOPC_00005	CDS	624	atpD		COG1394	V-type ATP synthase subunit D
+EKPNOOPC_00006	CDS	741	glcV	7.5.2.-	COG3839	Glucose import ATP-binding protein GlcV
+EKPNOOPC_00007	CDS	768				hypothetical protein
+EKPNOOPC_00008	CDS	1161	maeA	1.1.1.38		NAD-dependent malic enzyme
+EKPNOOPC_00009	CDS	267				hypothetical protein
+EKPNOOPC_00010	CDS	939				hypothetical protein
+EKPNOOPC_00011	CDS	996	rsxB	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+EKPNOOPC_00012	CDS	612	ogg		COG1059	N-glycosylase/DNA lyase
+EKPNOOPC_00013	CDS	465				hypothetical protein
+EKPNOOPC_00014	CDS	663		3.2.2.-		G/T mismatches repair enzyme
+EKPNOOPC_00015	CDS	714	alaXM		COG2872	Alanyl-tRNA editing protein AlaX-M
+EKPNOOPC_00016	CDS	564				hypothetical protein
+EKPNOOPC_00017	CDS	894				hypothetical protein
+EKPNOOPC_00018	CDS	378				hypothetical protein
+EKPNOOPC_00019	CDS	252				hypothetical protein
+EKPNOOPC_00020	CDS	1209				hypothetical protein
+EKPNOOPC_00021	CDS	432				hypothetical protein
+EKPNOOPC_00022	CDS	1482				hypothetical protein
+EKPNOOPC_00023	CDS	378				hypothetical protein
+EKPNOOPC_00024	CDS	1650				hypothetical protein
+EKPNOOPC_00025	CDS	162				hypothetical protein
+EKPNOOPC_00026	CDS	258				hypothetical protein
+EKPNOOPC_00027	CDS	483				hypothetical protein
+EKPNOOPC_00028	CDS	1467				hypothetical protein
+EKPNOOPC_00029	CDS	1752				hypothetical protein
+EKPNOOPC_00030	CDS	909	moaA_1			GTP 3',8-cyclase
+EKPNOOPC_00031	CDS	975	moaA_2			GTP 3',8-cyclase
+EKPNOOPC_00032	CDS	963	moaA_3			GTP 3',8-cyclase
+EKPNOOPC_00033	CDS	888				hypothetical protein
+EKPNOOPC_00034	CDS	1542				hypothetical protein
+EKPNOOPC_00035	CDS	1122				hypothetical protein
+EKPNOOPC_00036	CDS	132				hypothetical protein
+EKPNOOPC_00037	CDS	231				hypothetical protein
+EKPNOOPC_00038	CDS	546				hypothetical protein
+EKPNOOPC_00039	CDS	1134				hypothetical protein
+EKPNOOPC_00040	CDS	690	aglJ_1	2.4.1.-	COG0463	Glycosyltransferase AglJ
+EKPNOOPC_00041	CDS	549	iorB	1.2.7.8	COG1014	Indolepyruvate oxidoreductase subunit IorB
+EKPNOOPC_00042	CDS	1560	iorA	1.2.7.8	COG4231	Indolepyruvate oxidoreductase subunit IorA
+EKPNOOPC_00043	CDS	453	dapH_1	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+EKPNOOPC_00044	CDS	1353	gdhA_1	1.4.1.3		Glutamate dehydrogenase
+EKPNOOPC_00045	tRNA	88				tRNA-Phe(aaa)
+EKPNOOPC_00046	CDS	567				hypothetical protein
+EKPNOOPC_00047	CDS	771				Iron-sulfur cluster carrier protein
+EKPNOOPC_00048	CDS	453				hypothetical protein
+EKPNOOPC_00049	CDS	495				hypothetical protein
+EKPNOOPC_00050	CDS	1209				hypothetical protein
+EKPNOOPC_00051	CDS	348	nac		COG1308	Nascent polypeptide-associated complex protein
+EKPNOOPC_00052	CDS	180				hypothetical protein
+EKPNOOPC_00053	CDS	891	ttuA	2.8.1.-	COG0037	tRNA-5-methyluridine(54) 2-sulfurtransferase
+EKPNOOPC_00054	CDS	1089	tgtA	2.4.2.48	COG0343	tRNA-guanine(15) transglycosylase
+EKPNOOPC_00055	CDS	1860	purF_1	2.4.2.14		Amidophosphoribosyltransferase
+EKPNOOPC_00056	CDS	1110				hypothetical protein
+EKPNOOPC_00057	CDS	1455				hypothetical protein
+EKPNOOPC_00058	CDS	1422				hypothetical protein
+EKPNOOPC_00059	CDS	1224				hypothetical protein
+EKPNOOPC_00060	CDS	1494				hypothetical protein
+EKPNOOPC_00061	CDS	627				hypothetical protein
+EKPNOOPC_00062	CDS	1476				hypothetical protein
+EKPNOOPC_00063	CDS	1482				hypothetical protein
+EKPNOOPC_00064	CDS	1434				hypothetical protein
+EKPNOOPC_00065	CDS	1689				hypothetical protein
+EKPNOOPC_00066	CDS	1509				hypothetical protein
+EKPNOOPC_00067	CDS	696	aglD_1	2.4.1.-	COG0392	Glycosyltransferase AglD
+EKPNOOPC_00068	CDS	1041				hypothetical protein
+EKPNOOPC_00069	CDS	864				hypothetical protein
+EKPNOOPC_00070	CDS	975				hypothetical protein
+EKPNOOPC_00071	CDS	1293	gatD	6.3.5.-	COG0252	Glutamyl-tRNA(Gln) amidotransferase subunit D
+EKPNOOPC_00072	CDS	1452	GATB	6.3.5.-		Glutamyl-tRNA(Gln) amidotransferase subunit B, chloroplastic/mitochondrial
+EKPNOOPC_00073	CDS	1719	kefB_1			Glutathione-regulated potassium-efflux system protein KefB
+EKPNOOPC_00074	CDS	498				hypothetical protein
+EKPNOOPC_00075	CDS	2673	kdpB	7.2.2.6		Potassium-transporting ATPase ATP-binding subunit
+EKPNOOPC_00076	CDS	1713				hypothetical protein
+EKPNOOPC_00077	CDS	453				hypothetical protein
+EKPNOOPC_00078	CDS	369				hypothetical protein
+EKPNOOPC_00079	CDS	2667	ppsA_1	2.7.9.2	COG0574	Phosphoenolpyruvate synthase
+EKPNOOPC_00080	CDS	1104				hypothetical protein
+EKPNOOPC_00081	CDS	192				hypothetical protein
+EKPNOOPC_00082	CDS	1197				hypothetical protein
+EKPNOOPC_00083	CDS	477	cdd	3.5.4.5		Cytidine deaminase
+EKPNOOPC_00084	CDS	975	truD	5.4.99.27	COG0585	putative tRNA pseudouridine synthase D
+EKPNOOPC_00085	CDS	1179				hypothetical protein
+EKPNOOPC_00086	CDS	1602				hypothetical protein
+EKPNOOPC_00087	CDS	1173				hypothetical protein
+EKPNOOPC_00088	CDS	1641				hypothetical protein
+EKPNOOPC_00089	CDS	2586				hypothetical protein
+EKPNOOPC_00090	CDS	651	adk	2.7.4.3	COG0563	Adenylate kinase
+EKPNOOPC_00091	CDS	465				hypothetical protein
+EKPNOOPC_00092	tRNA	73				tRNA-Thr(tgt)
+EKPNOOPC_00093	CDS	597				hypothetical protein
+EKPNOOPC_00094	CDS	666				hypothetical protein
+EKPNOOPC_00095	CDS	357				hypothetical protein
+EKPNOOPC_00096	CDS	1200	OLA1			Obg-like ATPase 1
+EKPNOOPC_00097	CDS	666	mnmC	2.1.1.61		tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC
+EKPNOOPC_00098	CDS	1704	ycdX	3.1.3.-		phosphatase YcdX
+EKPNOOPC_00099	CDS	114				hypothetical protein
+EKPNOOPC_00100	CDS	375				hypothetical protein
+EKPNOOPC_00101	CDS	396				hypothetical protein
+EKPNOOPC_00102	CDS	633	der_1			GTPase Der
+EKPNOOPC_00103	CDS	1170				hypothetical protein
+EKPNOOPC_00104	CDS	1221				hypothetical protein
+EKPNOOPC_00105	CDS	312				hypothetical protein
+EKPNOOPC_00106	CDS	837	dxs	2.2.1.7		1-deoxy-D-xylulose-5-phosphate synthase
+EKPNOOPC_00107	CDS	723	nagB	3.5.99.6		Glucosamine-6-phosphate deaminase
+EKPNOOPC_00108	CDS	816	tal	2.2.1.2	COG0176	putative transaldolase
+EKPNOOPC_00109	CDS	1413	zwf	1.1.1.49		Glucose-6-phosphate 1-dehydrogenase
+EKPNOOPC_00110	CDS	927	gndA	1.1.1.343	COG1023	6-phosphogluconate dehydrogenase, NAD(+)-dependent, decarboxylating
+EKPNOOPC_00111	CDS	132				hypothetical protein
+EKPNOOPC_00112	CDS	237				hypothetical protein
+EKPNOOPC_00113	CDS	903	sudA	1.8.1.19	COG0493	Sulfide dehydrogenase subunit alpha
+EKPNOOPC_00114	CDS	702	hydG	1.12.98.4	COG0543	Sulfhydrogenase 1 subunit gamma
+EKPNOOPC_00115	CDS	360				hypothetical protein
+EKPNOOPC_00116	CDS	711	cysH	1.8.4.8		Phosphoadenosine phosphosulfate reductase
+EKPNOOPC_00117	CDS	933	cysO	4.2.1.22	COG0031	Protein CysO
+EKPNOOPC_00118	CDS	747	cmoM_1	2.1.1.-		tRNA 5-carboxymethoxyuridine methyltransferase
+EKPNOOPC_00119	CDS	876				hypothetical protein
+EKPNOOPC_00120	CDS	819	napF_1			Ferredoxin-type protein NapF
+EKPNOOPC_00121	CDS	516				hypothetical protein
+EKPNOOPC_00122	CDS	642	glgC_1	2.7.7.27		Glucose-1-phosphate adenylyltransferase
+EKPNOOPC_00123	CDS	705	glgC_2	2.7.7.27		Glucose-1-phosphate adenylyltransferase
+EKPNOOPC_00124	CDS	750	lgt	2.5.1.145		Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+EKPNOOPC_00125	CDS	963	dsbD_1	1.8.1.8		Thiol:disulfide interchange protein DsbD
+EKPNOOPC_00126	CDS	558	bdbC			disulfide formation protein
+EKPNOOPC_00127	CDS	351				hypothetical protein
+EKPNOOPC_00128	CDS	597				hypothetical protein
+EKPNOOPC_00129	CDS	678				hypothetical protein
+EKPNOOPC_00130	CDS	243				hypothetical protein
+EKPNOOPC_00131	CDS	393				hypothetical protein
+EKPNOOPC_00132	CDS	1203				hypothetical protein
+EKPNOOPC_00133	CDS	225				hypothetical protein
+EKPNOOPC_00134	CDS	750				hypothetical protein
+EKPNOOPC_00135	CDS	204				hypothetical protein
+EKPNOOPC_00136	CDS	741				hypothetical protein
+EKPNOOPC_00137	CDS	1740				hypothetical protein
+EKPNOOPC_00138	CDS	480				hypothetical protein
+EKPNOOPC_00139	CDS	1185				hypothetical protein
+EKPNOOPC_00140	CDS	609				hypothetical protein
+EKPNOOPC_00141	CDS	285				hypothetical protein
+EKPNOOPC_00142	CDS	276				hypothetical protein
+EKPNOOPC_00143	CDS	1335				hypothetical protein
+EKPNOOPC_00144	CDS	414				hypothetical protein
+EKPNOOPC_00145	CDS	213				hypothetical protein
+EKPNOOPC_00146	CDS	879				hypothetical protein
+EKPNOOPC_00147	CDS	2889				hypothetical protein
+EKPNOOPC_00148	CDS	945				hypothetical protein
+EKPNOOPC_00149	CDS	1293	eno	4.2.1.11	COG0148	Enolase
+EKPNOOPC_00150	CDS	663	gpmA_1	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+EKPNOOPC_00151	CDS	468				hypothetical protein
+EKPNOOPC_00152	CDS	666		3.6.4.12	COG1204	ATP-dependent DNA helicase Hel308
+EKPNOOPC_00153	CDS	237				hypothetical protein
+EKPNOOPC_00154	CDS	1245	ftsY			Signal recognition particle receptor FtsY
+EKPNOOPC_00155	CDS	414	pfdA		COG1730	Prefoldin subunit alpha
+EKPNOOPC_00156	CDS	804	scpA			Segregation and condensation protein A
+EKPNOOPC_00157	CDS	1086	pgk2	2.7.2.-	COG2074	2-phosphoglycerate kinase
+EKPNOOPC_00158	CDS	621				hypothetical protein
+EKPNOOPC_00159	CDS	945	taw1	4.1.3.44	COG0731	S-adenosyl-L-methionine-dependent tRNA 4-demethylwyosine synthase
+EKPNOOPC_00160	CDS	489				hypothetical protein
+EKPNOOPC_00161	CDS	1686	thyA	2.1.1.45		Thymidylate synthase
+EKPNOOPC_00162	CDS	120				hypothetical protein
+EKPNOOPC_00163	CDS	687	tmk_1	2.7.4.9		Thymidylate kinase
+EKPNOOPC_00164	CDS	258				hypothetical protein
+EKPNOOPC_00165	CDS	387				hypothetical protein
+EKPNOOPC_00166	CDS	237				hypothetical protein
+EKPNOOPC_00167	CDS	318	tfs			Transcription factor S
+EKPNOOPC_00168	CDS	720				hypothetical protein
+EKPNOOPC_00169	CDS	936				hypothetical protein
+EKPNOOPC_00170	CDS	585				hypothetical protein
+EKPNOOPC_00171	CDS	852				hypothetical protein
+EKPNOOPC_00172	CDS	303				hypothetical protein
+EKPNOOPC_00173	CDS	288				hypothetical protein
+EKPNOOPC_00174	CDS	822				hypothetical protein
+EKPNOOPC_00175	CDS	636	gph	3.1.3.18		Phosphoglycolate phosphatase
+EKPNOOPC_00176	CDS	420				hypothetical protein
+EKPNOOPC_00177	CDS	339				hypothetical protein
+EKPNOOPC_00178	CDS	783				hypothetical protein
+EKPNOOPC_00179	CDS	1539				hypothetical protein
+EKPNOOPC_00180	CDS	948				hypothetical protein
+EKPNOOPC_00181	CDS	1032				hypothetical protein
+EKPNOOPC_00182	CDS	915				hypothetical protein
+EKPNOOPC_00183	CDS	906				hypothetical protein
+EKPNOOPC_00184	CDS	1659				hypothetical protein
+EKPNOOPC_00185	CDS	1050				hypothetical protein
+EKPNOOPC_00186	CDS	936	queE_1	4.3.99.3		7-carboxy-7-deazaguanine synthase
+EKPNOOPC_00187	CDS	681	aglJ_2	2.4.1.-	COG0463	Glycosyltransferase AglJ
+EKPNOOPC_00188	CDS	1455				hypothetical protein
+EKPNOOPC_00189	CDS	1431				hypothetical protein
+EKPNOOPC_00190	CDS	1446				hypothetical protein
+EKPNOOPC_00191	CDS	1764				hypothetical protein
+EKPNOOPC_00192	CDS	573				hypothetical protein
+EKPNOOPC_00193	CDS	531				hypothetical protein
+EKPNOOPC_00194	CDS	1047			COG0668	Small-conductance mechanosensitive channel MscMJ
+EKPNOOPC_00195	CDS	861				hypothetical protein
+EKPNOOPC_00196	CDS	609			COG0197	50S ribosomal protein L10e
+EKPNOOPC_00197	CDS	273				hypothetical protein
+EKPNOOPC_00198	CDS	591				hypothetical protein
+EKPNOOPC_00199	CDS	315				hypothetical protein
+EKPNOOPC_00200	CDS	408				hypothetical protein
+EKPNOOPC_00201	CDS	474				hypothetical protein
+EKPNOOPC_00202	CDS	132				hypothetical protein
+EKPNOOPC_00203	CDS	270				hypothetical protein
+EKPNOOPC_00204	CDS	222				hypothetical protein
+EKPNOOPC_00205	CDS	546	tbp_1			TATA-box-binding protein
+EKPNOOPC_00206	CDS	270				hypothetical protein
+EKPNOOPC_00207	CDS	222				hypothetical protein
+EKPNOOPC_00208	CDS	645				hypothetical protein
+EKPNOOPC_00209	CDS	342				hypothetical protein
+EKPNOOPC_00210	CDS	1059				hypothetical protein
+EKPNOOPC_00211	CDS	597		3.6.-.-	COG3642	KEOPS complex subunit Bud32
+EKPNOOPC_00212	tRNA	72				tRNA-His(gtg)
+EKPNOOPC_00213	CDS	405	hisI_1	3.5.4.19		Phosphoribosyl-AMP cyclohydrolase
+EKPNOOPC_00214	CDS	861	hisI_2	3.5.4.19		Histidine biosynthesis bifunctional protein HisIE
+EKPNOOPC_00215	CDS	1263	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+EKPNOOPC_00216	CDS	630				hypothetical protein
+EKPNOOPC_00217	CDS	618				hypothetical protein
+EKPNOOPC_00218	CDS	930				hypothetical protein
+EKPNOOPC_00219	CDS	762	cmoM_2	2.1.1.-		tRNA 5-carboxymethoxyuridine methyltransferase
+EKPNOOPC_00220	CDS	1164				hypothetical protein
+EKPNOOPC_00221	CDS	2178				hypothetical protein
+EKPNOOPC_00222	CDS	1038		2.4.1.281		4-O-beta-D-mannosyl-D-glucose phosphorylase
+EKPNOOPC_00223	CDS	2067				hypothetical protein
+EKPNOOPC_00224	CDS	855				hypothetical protein
+EKPNOOPC_00225	CDS	1050				hypothetical protein
+EKPNOOPC_00226	CDS	993		5.3.1.9	COG0166	Bifunctional phosphoglucose/phosphomannose isomerase
+EKPNOOPC_00227	CDS	816				hypothetical protein
+EKPNOOPC_00228	CDS	621				hypothetical protein
+EKPNOOPC_00229	CDS	909				hypothetical protein
+EKPNOOPC_00230	CDS	555				hypothetical protein
+EKPNOOPC_00231	CDS	1218	cca	2.7.7.72	COG1746	CCA-adding enzyme
+EKPNOOPC_00232	CDS	291				hypothetical protein
+EKPNOOPC_00233	CDS	129				hypothetical protein
+EKPNOOPC_00234	CDS	1203	nhaP2			K(+)/H(+) antiporter NhaP2
+EKPNOOPC_00235	CDS	1131				hypothetical protein
+EKPNOOPC_00236	CDS	192				hypothetical protein
+EKPNOOPC_00237	CDS	567	rnp3	3.1.26.5	COG1603	Ribonuclease P protein component 3
+EKPNOOPC_00238	CDS	585				hypothetical protein
+EKPNOOPC_00239	CDS	834	thiI_1	2.8.1.4		tRNA sulfurtransferase
+EKPNOOPC_00240	CDS	186				hypothetical protein
+EKPNOOPC_00241	CDS	216				hypothetical protein
+EKPNOOPC_00242	CDS	1758	aspS	6.1.1.12		Aspartate--tRNA(Asp/Asn) ligase
+EKPNOOPC_00243	CDS	942	corA		COG0598	Cobalt/magnesium transport protein CorA
+EKPNOOPC_00244	CDS	810				hypothetical protein
+EKPNOOPC_00245	CDS	285	GATC	6.3.5.-		Glutamyl-tRNA(Gln) amidotransferase subunit C, chloroplastic/mitochondrial
+EKPNOOPC_00246	CDS	1419		3.5.1.4	COG0154	Amidase
+EKPNOOPC_00247	CDS	195				hypothetical protein
+EKPNOOPC_00248	CDS	1431	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+EKPNOOPC_00249	CDS	387				hypothetical protein
+EKPNOOPC_00250	CDS	1089	top6A	5.6.2.2	COG1697	Type 2 DNA topoisomerase 6 subunit A
+EKPNOOPC_00251	CDS	1749	top6B	5.6.2.2	COG1389	Type 2 DNA topoisomerase 6 subunit B
+EKPNOOPC_00252	CDS	543				hypothetical protein
+EKPNOOPC_00253	CDS	120				hypothetical protein
+EKPNOOPC_00254	CDS	579	sua5	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+EKPNOOPC_00255	CDS	585				hypothetical protein
+EKPNOOPC_00256	CDS	645				hypothetical protein
+EKPNOOPC_00257	CDS	576	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+EKPNOOPC_00258	CDS	861				hypothetical protein
+EKPNOOPC_00259	CDS	1413	rtcB	6.5.1.-	COG1690	tRNA-splicing ligase RtcB
+EKPNOOPC_00260	CDS	858				hypothetical protein
+EKPNOOPC_00261	CDS	417			COG1371	Protein archease
+EKPNOOPC_00262	CDS	420				hypothetical protein
+EKPNOOPC_00263	CDS	804	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+EKPNOOPC_00264	CDS	753				Iron-sulfur cluster carrier protein
+EKPNOOPC_00265	CDS	435				hypothetical protein
+EKPNOOPC_00266	CDS	414	rppH	3.6.1.-		RNA pyrophosphohydrolase
+EKPNOOPC_00267	CDS	786				hypothetical protein
+EKPNOOPC_00268	CDS	1311				hypothetical protein
+EKPNOOPC_00269	CDS	1617				hypothetical protein
+EKPNOOPC_00270	CDS	609				hypothetical protein
+EKPNOOPC_00271	CDS	597	tbp_2		COG2101	TATA-box-binding protein
+EKPNOOPC_00272	CDS	2019	MCM	3.6.4.12	COG1241	Minichromosome maintenance protein MCM
+EKPNOOPC_00273	CDS	651				hypothetical protein
+EKPNOOPC_00274	CDS	861				hypothetical protein
+EKPNOOPC_00275	CDS	495			COG0099	30S ribosomal protein S13
+EKPNOOPC_00276	CDS	597	rps4		COG0522	30S ribosomal protein S4
+EKPNOOPC_00277	CDS	402			COG0100	30S ribosomal protein S11
+EKPNOOPC_00278	CDS	795	rpoD	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit D
+EKPNOOPC_00279	CDS	570				hypothetical protein
+EKPNOOPC_00280	CDS	360			COG1727	50S ribosomal protein L18e
+EKPNOOPC_00281	CDS	414			COG0102	50S ribosomal protein L13
+EKPNOOPC_00282	CDS	402	rps9		COG0103	30S ribosomal protein S9
+EKPNOOPC_00283	CDS	198	rpoN	2.7.7.6	COG1644	DNA-directed RNA polymerase subunit N
+EKPNOOPC_00284	CDS	750				hypothetical protein
+EKPNOOPC_00285	CDS	372				hypothetical protein
+EKPNOOPC_00286	CDS	2682	ileS_1	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+EKPNOOPC_00287	CDS	810	rbn_1	3.1.26.11		Ribonuclease BN
+EKPNOOPC_00288	CDS	888				hypothetical protein
+EKPNOOPC_00289	CDS	459			COG1325	RNA-binding protein
+EKPNOOPC_00290	CDS	189				hypothetical protein
+EKPNOOPC_00291	CDS	636				hypothetical protein
+EKPNOOPC_00292	CDS	1251	prs_1			Putative ribose-phosphate pyrophosphokinase
+EKPNOOPC_00293	CDS	1326				hypothetical protein
+EKPNOOPC_00294	CDS	2067	prsA_1	5.2.1.8		Foldase protein PrsA
+EKPNOOPC_00295	CDS	1299	dnaG	2.7.7.-	COG0358	DNA primase DnaG
+EKPNOOPC_00296	CDS	702	rio1	2.7.11.1	COG1718	RIO-type serine/threonine-protein kinase Rio1
+EKPNOOPC_00297	CDS	546				hypothetical protein
+EKPNOOPC_00298	CDS	576				hypothetical protein
+EKPNOOPC_00299	CDS	243				hypothetical protein
+EKPNOOPC_00300	CDS	606	thiI_2	2.8.1.4		tRNA sulfurtransferase
+EKPNOOPC_00301	CDS	498				hypothetical protein
+EKPNOOPC_00302	CDS	654				hypothetical protein
+EKPNOOPC_00303	CDS	924				hypothetical protein
+EKPNOOPC_00304	CDS	1035				hypothetical protein
+EKPNOOPC_00305	CDS	1017	korA	1.2.7.3	COG0674	2-oxoglutarate synthase subunit KorA
+EKPNOOPC_00306	CDS	774	korB	1.2.7.3	COG1013	2-oxoglutarate synthase subunit KorB
+EKPNOOPC_00307	CDS	966				hypothetical protein
+EKPNOOPC_00308	CDS	1107				hypothetical protein
+EKPNOOPC_00309	CDS	858	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+EKPNOOPC_00310	CDS	1350				hypothetical protein
+EKPNOOPC_00311	CDS	2565				hypothetical protein
+EKPNOOPC_00312	CDS	1140				hypothetical protein
+EKPNOOPC_00313	CDS	2022				hypothetical protein
+EKPNOOPC_00314	CDS	273				hypothetical protein
+EKPNOOPC_00315	CDS	537				hypothetical protein
+EKPNOOPC_00316	CDS	531				hypothetical protein
+EKPNOOPC_00317	CDS	591				hypothetical protein
+EKPNOOPC_00318	CDS	117				hypothetical protein
+EKPNOOPC_00319	CDS	378				hypothetical protein
+EKPNOOPC_00320	CDS	684				hypothetical protein
+EKPNOOPC_00321	CDS	399				hypothetical protein
+EKPNOOPC_00322	CDS	348				hypothetical protein
+EKPNOOPC_00323	CDS	921				hypothetical protein
+EKPNOOPC_00324	CDS	363				hypothetical protein
+EKPNOOPC_00325	CDS	261				hypothetical protein
+EKPNOOPC_00326	CDS	567				hypothetical protein
+EKPNOOPC_00327	CDS	318				hypothetical protein
+EKPNOOPC_00328	CDS	195				hypothetical protein
+EKPNOOPC_00329	CDS	546				hypothetical protein
+EKPNOOPC_00330	CDS	1233				hypothetical protein
+EKPNOOPC_00331	CDS	1968				hypothetical protein
+EKPNOOPC_00332	CDS	1161				hypothetical protein
+EKPNOOPC_00333	CDS	270				hypothetical protein
+EKPNOOPC_00334	CDS	825				hypothetical protein
+EKPNOOPC_00335	CDS	546				hypothetical protein
+EKPNOOPC_00336	CDS	1431		3.3.1.-	COG0499	S-inosyl-L-homocysteine hydrolase
+EKPNOOPC_00337	CDS	1257				hypothetical protein
+EKPNOOPC_00338	CDS	2802	uvrA			UvrABC system protein A
+EKPNOOPC_00339	CDS	1545	uvrC			UvrABC system protein C
+EKPNOOPC_00340	CDS	1926	uvrB			UvrABC system protein B
+EKPNOOPC_00341	CDS	750	der_2			GTPase Der
+EKPNOOPC_00342	CDS	201				hypothetical protein
+EKPNOOPC_00343	CDS	972	ala	1.4.1.1	COG2423	Alanine dehydrogenase
+EKPNOOPC_00344	CDS	2718				hypothetical protein
+EKPNOOPC_00345	CDS	1896	gyrB	5.6.2.2		DNA gyrase subunit B
+EKPNOOPC_00346	CDS	744				hypothetical protein
+EKPNOOPC_00347	CDS	417				hypothetical protein
+EKPNOOPC_00348	CDS	678				hypothetical protein
+EKPNOOPC_00349	CDS	204				hypothetical protein
+EKPNOOPC_00350	CDS	1083	gshB	6.3.2.3		Glutathione synthetase
+EKPNOOPC_00351	CDS	348				hypothetical protein
+EKPNOOPC_00352	CDS	717				hypothetical protein
+EKPNOOPC_00353	CDS	873		3.5.3.24	COG0010	N(1)-aminopropylagmatine ureohydrolase
+EKPNOOPC_00354	CDS	588				hypothetical protein
+EKPNOOPC_00355	CDS	195				hypothetical protein
+EKPNOOPC_00356	CDS	525				hypothetical protein
+EKPNOOPC_00357	CDS	501	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+EKPNOOPC_00358	CDS	264				hypothetical protein
+EKPNOOPC_00359	CDS	1065	pelA_1	3.1.-.-	COG1537	Protein pelota 
+EKPNOOPC_00360	CDS	471				hypothetical protein
+EKPNOOPC_00361	CDS	2394	ileS_2	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+EKPNOOPC_00362	CDS	930	fbp	3.1.3.11		Fructose-1,6-bisphosphatase class 1
+EKPNOOPC_00363	CDS	1398	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+EKPNOOPC_00364	CDS	594				hypothetical protein
+EKPNOOPC_00365	CDS	276				hypothetical protein
+EKPNOOPC_00366	CDS	1419				hypothetical protein
+EKPNOOPC_00367	CDS	456			COG0184	30S ribosomal protein S15
+EKPNOOPC_00368	CDS	171				hypothetical protein
+EKPNOOPC_00369	CDS	729				hypothetical protein
+EKPNOOPC_00370	CDS	642				hypothetical protein
+EKPNOOPC_00371	CDS	561				hypothetical protein
+EKPNOOPC_00372	CDS	735	dphB	2.1.1.98	COG1798	Diphthine synthase
+EKPNOOPC_00373	CDS	951				hypothetical protein
+EKPNOOPC_00374	CDS	660				hypothetical protein
+EKPNOOPC_00375	CDS	402				hypothetical protein
+EKPNOOPC_00376	CDS	1080	ftsZ1		COG0206	Cell division protein FtsZ 1
+EKPNOOPC_00377	CDS	780				hypothetical protein
+EKPNOOPC_00378	CDS	591				hypothetical protein
+EKPNOOPC_00379	CDS	282	prsA_2	5.2.1.8		Foldase protein PrsA
+EKPNOOPC_00380	CDS	954				hypothetical protein
+EKPNOOPC_00381	CDS	120				hypothetical protein
+EKPNOOPC_00382	CDS	195				hypothetical protein
+EKPNOOPC_00383	CDS	1245	moaA_4			GTP 3',8-cyclase
+EKPNOOPC_00384	CDS	414				hypothetical protein
+EKPNOOPC_00385	CDS	723				hypothetical protein
+EKPNOOPC_00386	CDS	666				hypothetical protein
+EKPNOOPC_00387	CDS	942	dusB_1	1.3.1.-		tRNA-dihydrouridine synthase B
+EKPNOOPC_00388	CDS	801	fmt	2.1.2.9		Methionyl-tRNA formyltransferase
+EKPNOOPC_00389	CDS	156				hypothetical protein
+EKPNOOPC_00390	tRNA	73				tRNA-Thr(cgt)
+EKPNOOPC_00391	CDS	261				hypothetical protein
+EKPNOOPC_00392	CDS	273				hypothetical protein
+EKPNOOPC_00393	CDS	993	pylB	5.4.99.58	COG0502	3-methylornithine synthase
+EKPNOOPC_00394	CDS	576				hypothetical protein
+EKPNOOPC_00395	CDS	540				hypothetical protein
+EKPNOOPC_00396	CDS	528				hypothetical protein
+EKPNOOPC_00397	CDS	1335	mdtK			Multidrug resistance protein MdtK
+EKPNOOPC_00398	CDS	1212				hypothetical protein
+EKPNOOPC_00399	CDS	1227				hypothetical protein
+EKPNOOPC_00400	CDS	1269				hypothetical protein
+EKPNOOPC_00401	CDS	708			COG1136	putative ABC transporter ATP-binding protein
+EKPNOOPC_00402	CDS	480				hypothetical protein
+EKPNOOPC_00403	CDS	669				hypothetical protein
+EKPNOOPC_00404	CDS	501				hypothetical protein
+EKPNOOPC_00405	CDS	723				hypothetical protein
+EKPNOOPC_00406	CDS	594		2.1.1.-	COG2813	putative S-adenosylmethionine-dependent methyltransferase
+EKPNOOPC_00407	CDS	378				hypothetical protein
+EKPNOOPC_00408	CDS	1518				hypothetical protein
+EKPNOOPC_00409	CDS	1233	gdhA_2	1.4.1.3		Glutamate dehydrogenase
+EKPNOOPC_00410	CDS	1461	thrC	4.2.3.1	COG0498	Threonine synthase
+EKPNOOPC_00411	CDS	615				hypothetical protein
+EKPNOOPC_00412	CDS	516				hypothetical protein
+EKPNOOPC_00413	CDS	156				hypothetical protein
+EKPNOOPC_00414	CDS	603				hypothetical protein
+EKPNOOPC_00415	CDS	582				hypothetical protein
+EKPNOOPC_00416	CDS	582				hypothetical protein
+EKPNOOPC_00417	CDS	1299				hypothetical protein
+EKPNOOPC_00418	CDS	327				hypothetical protein
+EKPNOOPC_00419	CDS	306				hypothetical protein
+EKPNOOPC_00420	CDS	1044				hypothetical protein
+EKPNOOPC_00421	CDS	564				hypothetical protein
+EKPNOOPC_00422	CDS	636				hypothetical protein
+EKPNOOPC_00423	CDS	621	lig_1	6.5.1.1		DNA ligase
+EKPNOOPC_00424	CDS	327				hypothetical protein
+EKPNOOPC_00425	CDS	666	radB		COG0468	DNA repair and recombination protein RadB
+EKPNOOPC_00426	CDS	600	rps2		COG0052	30S ribosomal protein S2
+EKPNOOPC_00427	CDS	537				hypothetical protein
+EKPNOOPC_00428	CDS	819				hypothetical protein
+EKPNOOPC_00429	CDS	525		2.7.4.3	COG1936	Putative adenylate kinase
+EKPNOOPC_00430	CDS	651				hypothetical protein
+EKPNOOPC_00431	CDS	1134	glmU_1		COG1208	Bifunctional protein GlmU
+EKPNOOPC_00432	CDS	1065				hypothetical protein
+EKPNOOPC_00433	CDS	1731	iolD	3.7.1.22		3D-(3,5/4)-trihydroxycyclohexane-1,2-dione hydrolase
+EKPNOOPC_00434	rRNA	99				5S ribosomal RNA
+EKPNOOPC_00435	CDS	156				hypothetical protein
+EKPNOOPC_00436	CDS	972				hypothetical protein
+EKPNOOPC_00437	CDS	798	cugP_1	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+EKPNOOPC_00438	CDS	1266	aglM	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase AglM
+EKPNOOPC_00439	CDS	876	aglF_1	2.7.7.9	COG1209	UTP--glucose-1-phosphate uridylyltransferase AglF
+EKPNOOPC_00440	CDS	744	glmU_2		COG1208	Bifunctional protein GlmU
+EKPNOOPC_00441	CDS	939	fcl_1	1.1.1.271		GDP-L-fucose synthase
+EKPNOOPC_00442	CDS	771	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+EKPNOOPC_00443	CDS	3699				hypothetical protein
+EKPNOOPC_00444	CDS	984	mraY	2.7.8.13		Phospho-N-acetylmuramoyl-pentapeptide-transferase
+EKPNOOPC_00445	CDS	951	fcl_2	1.1.1.271		GDP-L-fucose synthase
+EKPNOOPC_00446	CDS	660	aglK_1	2.4.1.153		UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminyltransferase
+EKPNOOPC_00447	CDS	369				hypothetical protein
+EKPNOOPC_00448	CDS	771				hypothetical protein
+EKPNOOPC_00449	CDS	942				hypothetical protein
+EKPNOOPC_00450	CDS	915				hypothetical protein
+EKPNOOPC_00451	CDS	840	ispE	2.7.1.148		Putative 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+EKPNOOPC_00452	CDS	1035				hypothetical protein
+EKPNOOPC_00453	CDS	1044	norW	1.18.1.-		Nitric oxide reductase FlRd-NAD(+) reductase
+EKPNOOPC_00454	CDS	408				hypothetical protein
+EKPNOOPC_00455	tRNA	86				tRNA-Ser(tga)
+EKPNOOPC_00456	CDS	2388				hypothetical protein
+EKPNOOPC_00457	CDS	1023				hypothetical protein
+EKPNOOPC_00458	CDS	462				hypothetical protein
+EKPNOOPC_00459	CDS	1368				hypothetical protein
+EKPNOOPC_00460	CDS	273				hypothetical protein
+EKPNOOPC_00461	CDS	390				hypothetical protein
+EKPNOOPC_00462	CDS	579				hypothetical protein
+EKPNOOPC_00463	CDS	1026				hypothetical protein
+EKPNOOPC_00464	CDS	759				hypothetical protein
+EKPNOOPC_00465	CDS	639				hypothetical protein
+EKPNOOPC_00466	CDS	2481	mutS			DNA mismatch repair protein MutS
+EKPNOOPC_00467	CDS	3894				hypothetical protein
+EKPNOOPC_00468	CDS	393				hypothetical protein
+EKPNOOPC_00469	CDS	3189				hypothetical protein
+EKPNOOPC_00470	CDS	543				hypothetical protein
+EKPNOOPC_00471	CDS	180				hypothetical protein
+EKPNOOPC_00472	CDS	693				hypothetical protein
+EKPNOOPC_00473	CDS	867				hypothetical protein
+EKPNOOPC_00474	CDS	177				hypothetical protein
+EKPNOOPC_00475	CDS	1710		2.3.1.-	COG1243	tRNA uridine(34) acetyltransferase
+EKPNOOPC_00476	CDS	987				hypothetical protein
+EKPNOOPC_00477	CDS	687	udk	2.7.1.48		Uridine kinase
+EKPNOOPC_00478	CDS	633	ppaX_1	3.6.1.1		Pyrophosphatase PpaX
+EKPNOOPC_00479	CDS	810				hypothetical protein
+EKPNOOPC_00480	CDS	288				hypothetical protein
+EKPNOOPC_00481	CDS	930		2.1.1.-	COG0144	tRNA (cytosine(49)-C(5))-methyltransferase
+EKPNOOPC_00482	CDS	237				hypothetical protein
+EKPNOOPC_00483	CDS	411				hypothetical protein
+EKPNOOPC_00484	CDS	417				hypothetical protein
+EKPNOOPC_00485	CDS	327	hypA			Hydrogenase maturation factor HypA
+EKPNOOPC_00486	CDS	309				hypothetical protein
+EKPNOOPC_00487	CDS	738				hypothetical protein
+EKPNOOPC_00488	CDS	918				hypothetical protein
+EKPNOOPC_00489	CDS	375				hypothetical protein
+EKPNOOPC_00490	CDS	1257	hydA	1.12.1.3	COG3259	Sulfhydrogenase 1 subunit alpha
+EKPNOOPC_00491	CDS	777	hydD	1.12.1.3	COG1941	Sulfhydrogenase 1 subunit delta
+EKPNOOPC_00492	CDS	783	shyC	1.12.98.4	COG0543	Sulfhydrogenase 2 subunit gamma
+EKPNOOPC_00493	CDS	996	shyB	1.12.98.4	COG1145	Sulfhydrogenase 2 subunit beta
+EKPNOOPC_00494	CDS	1077				hypothetical protein
+EKPNOOPC_00495	CDS	735	deoC	4.1.2.4	COG0274	Deoxyribose-phosphate aldolase
+EKPNOOPC_00496	CDS	1482				hypothetical protein
+EKPNOOPC_00497	CDS	1008	gyaR	1.1.1.26	COG1052	Glyoxylate reductase
+EKPNOOPC_00498	CDS	1083	maX1_1		COG0530	Sodium/calcium exchanger MaX1
+EKPNOOPC_00499	CDS	414				hypothetical protein
+EKPNOOPC_00500	CDS	147				hypothetical protein
+EKPNOOPC_00501	CDS	1002	epd	1.2.1.72		D-erythrose-4-phosphate dehydrogenase
+EKPNOOPC_00502	CDS	714				hypothetical protein
+EKPNOOPC_00503	CDS	849				hypothetical protein
+EKPNOOPC_00504	CDS	1935				hypothetical protein
+EKPNOOPC_00505	CDS	336				hypothetical protein
+EKPNOOPC_00506	CDS	366				hypothetical protein
+EKPNOOPC_00507	CDS	567				hypothetical protein
+EKPNOOPC_00508	CDS	1131	metK_1	2.5.1.6		S-adenosylmethionine synthase
+EKPNOOPC_00509	CDS	693				hypothetical protein
+EKPNOOPC_00510	CDS	675				hypothetical protein
+EKPNOOPC_00511	CDS	606				hypothetical protein
+EKPNOOPC_00512	CDS	570	gpmA_2	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+EKPNOOPC_00513	CDS	414				hypothetical protein
+EKPNOOPC_00514	CDS	1122	trm1	2.1.1.216	COG1867	tRNA (guanine(26)-N(2))-dimethyltransferase
+EKPNOOPC_00515	CDS	471				hypothetical protein
+EKPNOOPC_00516	CDS	843				hypothetical protein
+EKPNOOPC_00517	CDS	888				hypothetical protein
+EKPNOOPC_00518	CDS	276	ef1b		COG2092	Elongation factor 1-beta
+EKPNOOPC_00519	CDS	177				hypothetical protein
+EKPNOOPC_00520	CDS	2769				hypothetical protein
+EKPNOOPC_00521	CDS	1065	rtc	6.5.1.5	COG0430	RNA 3'-terminal phosphate cyclase
+EKPNOOPC_00522	CDS	270				hypothetical protein
+EKPNOOPC_00523	CDS	1203	argG	6.3.4.5		Argininosuccinate synthase
+EKPNOOPC_00524	CDS	462				hypothetical protein
+EKPNOOPC_00525	CDS	636				hypothetical protein
+EKPNOOPC_00526	CDS	300				hypothetical protein
+EKPNOOPC_00527	CDS	495				hypothetical protein
+EKPNOOPC_00528	CDS	1236	nreB		COG1602	DNA repair protein NreB
+EKPNOOPC_00529	CDS	291				hypothetical protein
+EKPNOOPC_00530	CDS	633				hypothetical protein
+EKPNOOPC_00531	CDS	1035				hypothetical protein
+EKPNOOPC_00532	CDS	1068				hypothetical protein
+EKPNOOPC_00533	CDS	855				hypothetical protein
+EKPNOOPC_00534	CDS	999				hypothetical protein
+EKPNOOPC_00535	CDS	1953	hppA1_1	7.2.3.-	COG3808	K(+)-stimulated pyrophosphate-energized sodium pump
+EKPNOOPC_00536	CDS	540	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+EKPNOOPC_00537	CDS	1143				hypothetical protein
+EKPNOOPC_00538	CDS	699				hypothetical protein
+EKPNOOPC_00539	CDS	144				hypothetical protein
+EKPNOOPC_00540	CDS	771				hypothetical protein
+EKPNOOPC_00541	CDS	288				hypothetical protein
+EKPNOOPC_00542	CDS	882	arnC	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+EKPNOOPC_00543	CDS	1452				hypothetical protein
+EKPNOOPC_00544	CDS	912				hypothetical protein
+EKPNOOPC_00545	CDS	1413				hypothetical protein
+EKPNOOPC_00546	CDS	1131	moaA_5			GTP 3',8-cyclase
+EKPNOOPC_00547	CDS	783	COQ3_1	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+EKPNOOPC_00548	CDS	1452				hypothetical protein
+EKPNOOPC_00549	CDS	1155	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+EKPNOOPC_00550	CDS	1182				hypothetical protein
+EKPNOOPC_00551	CDS	984	hldD_1	5.1.3.20		ADP-L-glycero-D-manno-heptose-6-epimerase
+EKPNOOPC_00552	CDS	1119	mshA_3	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+EKPNOOPC_00553	CDS	216	hmfA		COG2036	DNA-binding protein HMf-1
+EKPNOOPC_00554	CDS	492		3.1.4.-	COG0622	Phosphodiesterase
+EKPNOOPC_00555	CDS	456				hypothetical protein
+EKPNOOPC_00556	CDS	516				hypothetical protein
+EKPNOOPC_00557	CDS	252				hypothetical protein
+EKPNOOPC_00558	CDS	525	ppaX_2	3.6.1.1		Pyrophosphatase PpaX
+EKPNOOPC_00559	CDS	201				hypothetical protein
+EKPNOOPC_00560	CDS	663				hypothetical protein
+EKPNOOPC_00561	CDS	1317		2.7.2.4	COG0527	putative aspartokinase
+EKPNOOPC_00562	CDS	753	dapB	1.17.1.8		4-hydroxy-tetrahydrodipicolinate reductase
+EKPNOOPC_00563	CDS	876	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+EKPNOOPC_00564	CDS	1086	asd_1	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+EKPNOOPC_00565	CDS	1293	lysA_1	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+EKPNOOPC_00566	CDS	180				hypothetical protein
+EKPNOOPC_00567	CDS	1167	dapL	2.6.1.83		LL-diaminopimelate aminotransferase
+EKPNOOPC_00568	CDS	381				hypothetical protein
+EKPNOOPC_00569	CDS	1863				hypothetical protein
+EKPNOOPC_00570	CDS	411				hypothetical protein
+EKPNOOPC_00571	CDS	708				hypothetical protein
+EKPNOOPC_00572	CDS	615				hypothetical protein
+EKPNOOPC_00573	CDS	957				hypothetical protein
+EKPNOOPC_00574	CDS	4035				hypothetical protein
+EKPNOOPC_00575	CDS	846				hypothetical protein
+EKPNOOPC_00576	CDS	1929				hypothetical protein
+EKPNOOPC_00577	CDS	1554				hypothetical protein
+EKPNOOPC_00578	CDS	561				hypothetical protein
+EKPNOOPC_00579	CDS	264				hypothetical protein
+EKPNOOPC_00580	CDS	348				hypothetical protein
+EKPNOOPC_00581	CDS	228				hypothetical protein
+EKPNOOPC_00582	CDS	138	rpoP	2.7.7.6		DNA-directed RNA polymerase subunit P
+EKPNOOPC_00583	CDS	405				hypothetical protein
+EKPNOOPC_00584	tRNA	76				tRNA-Pro(tgg)
+EKPNOOPC_00585	CDS	1101	prf1		COG1503	Peptide chain release factor subunit 1
+EKPNOOPC_00586	CDS	1641				hypothetical protein
+EKPNOOPC_00587	CDS	657	tmk_2	2.7.4.9		Thymidylate kinase
+EKPNOOPC_00588	CDS	981	moaA_6			GTP 3',8-cyclase
+EKPNOOPC_00589	CDS	1092	moaA_7			GTP 3',8-cyclase
+EKPNOOPC_00590	CDS	987				hypothetical protein
+EKPNOOPC_00591	CDS	663				hypothetical protein
+EKPNOOPC_00592	CDS	399	eif5a_1		COG0231	Translation initiation factor 5A
+EKPNOOPC_00593	CDS	162				hypothetical protein
+EKPNOOPC_00594	CDS	1161				hypothetical protein
+EKPNOOPC_00595	CDS	534				hypothetical protein
+EKPNOOPC_00596	CDS	939				hypothetical protein
+EKPNOOPC_00597	CDS	1275	gshA	6.3.2.2		Glutamate--cysteine ligase
+EKPNOOPC_00598	CDS	717				hypothetical protein
+EKPNOOPC_00599	CDS	675	trmJ	2.1.1.-	COG0565	tRNA (cytidine-2'-O-)-methyltransferase TrmJ
+EKPNOOPC_00600	CDS	756				hypothetical protein
+EKPNOOPC_00601	CDS	339				hypothetical protein
+EKPNOOPC_00602	CDS	1674	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+EKPNOOPC_00603	CDS	963		2.1.1.213	COG1041	tRNA (guanine(10)-N2)-dimethyltransferase
+EKPNOOPC_00604	CDS	2388	ppsA_2	2.7.9.2	COG0574	Phosphoenolpyruvate synthase
+EKPNOOPC_00605	CDS	570				hypothetical protein
+EKPNOOPC_00606	CDS	321				hypothetical protein
+EKPNOOPC_00607	CDS	831				hypothetical protein
+EKPNOOPC_00608	CDS	519				hypothetical protein
+EKPNOOPC_00609	CDS	864				hypothetical protein
+EKPNOOPC_00610	CDS	348				hypothetical protein
+EKPNOOPC_00611	CDS	681				hypothetical protein
+EKPNOOPC_00612	CDS	1824	mutL			DNA mismatch repair protein MutL
+EKPNOOPC_00613	CDS	1188				hypothetical protein
+EKPNOOPC_00614	CDS	279				hypothetical protein
+EKPNOOPC_00615	CDS	360	rnp2	3.1.26.5	COG1369	Ribonuclease P protein component 2
+EKPNOOPC_00616	CDS	735	psmA	3.4.25.1	COG0638	Proteasome subunit alpha
+EKPNOOPC_00617	CDS	717			COG1500	Ribosome maturation protein SDO1 
+EKPNOOPC_00618	CDS	699	rrp4		COG1097	Exosome complex component Rrp4
+EKPNOOPC_00619	CDS	708		3.1.13.-	COG0689	Exosome complex component Rrp41
+EKPNOOPC_00620	CDS	771			COG2123	Exosome complex component Rrp42
+EKPNOOPC_00621	CDS	228				hypothetical protein
+EKPNOOPC_00622	CDS	327				hypothetical protein
+EKPNOOPC_00623	CDS	597				hypothetical protein
+EKPNOOPC_00624	CDS	348				hypothetical protein
+EKPNOOPC_00625	CDS	297			COG2139	50S ribosomal protein L21e
+EKPNOOPC_00626	CDS	345	pth	3.1.1.29	COG1990	Peptidyl-tRNA hydrolase
+EKPNOOPC_00627	CDS	354				hypothetical protein
+EKPNOOPC_00628	CDS	519				hypothetical protein
+EKPNOOPC_00629	CDS	1914				hypothetical protein
+EKPNOOPC_00630	CDS	309				hypothetical protein
+EKPNOOPC_00631	CDS	150				hypothetical protein
+EKPNOOPC_00632	CDS	1371			COG0541	Signal recognition particle 54 kDa protein
+EKPNOOPC_00633	CDS	336				hypothetical protein
+EKPNOOPC_00634	CDS	519	cmk_1	2.7.4.25		Cytidylate kinase
+EKPNOOPC_00635	CDS	1377				hypothetical protein
+EKPNOOPC_00636	CDS	1026	ablA	5.4.3.2	COG1509	L-lysine 2,3-aminomutase
+EKPNOOPC_00637	CDS	390				hypothetical protein
+EKPNOOPC_00638	CDS	552				hypothetical protein
+EKPNOOPC_00639	CDS	369				hypothetical protein
+EKPNOOPC_00640	CDS	1323	glmM_1	5.4.2.10	COG1109	putative phosphoglucosamine mutase
+EKPNOOPC_00641	CDS	1683				hypothetical protein
+EKPNOOPC_00642	CDS	570	dapH_2	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+EKPNOOPC_00643	CDS	621				hypothetical protein
+EKPNOOPC_00644	CDS	1002				hypothetical protein
+EKPNOOPC_00645	CDS	156				hypothetical protein
+EKPNOOPC_00646	CDS	681	flpA	2.1.1.-	COG1889	Fibrillarin-like rRNA/tRNA 2'-O-methyltransferase
+EKPNOOPC_00647	CDS	192				hypothetical protein
+EKPNOOPC_00648	CDS	744				hypothetical protein
+EKPNOOPC_00649	CDS	927			COG1498	putative NOP5 family protein
+EKPNOOPC_00650	CDS	612				hypothetical protein
+EKPNOOPC_00651	CDS	159				hypothetical protein
+EKPNOOPC_00652	CDS	1440				hypothetical protein
+EKPNOOPC_00653	CDS	582	porC	1.2.7.1	COG1014	Pyruvate synthase subunit PorC
+EKPNOOPC_00654	CDS	279	porD		COG1144	Pyruvate synthase subunit PorD
+EKPNOOPC_00655	CDS	309	cutA		COG1324	Divalent-cation tolerance protein CutA
+EKPNOOPC_00656	CDS	1140	porA	1.2.7.1	COG0674	Pyruvate synthase subunit PorA
+EKPNOOPC_00657	CDS	210				hypothetical protein
+EKPNOOPC_00658	CDS	894	porB	1.2.7.1	COG1013	Pyruvate synthase subunit PorB
+EKPNOOPC_00659	CDS	318				hypothetical protein
+EKPNOOPC_00660	CDS	1629	ubiB	2.7.-.-		protein kinase UbiB
+EKPNOOPC_00661	CDS	468				hypothetical protein
+EKPNOOPC_00662	CDS	1026				hypothetical protein
+EKPNOOPC_00663	CDS	2046				hypothetical protein
+EKPNOOPC_00664	CDS	504				hypothetical protein
+EKPNOOPC_00665	CDS	468				hypothetical protein
+EKPNOOPC_00666	CDS	957				hypothetical protein
+EKPNOOPC_00667	CDS	633				hypothetical protein
+EKPNOOPC_00668	CDS	3429				hypothetical protein
+EKPNOOPC_00669	CDS	966				hypothetical protein
+EKPNOOPC_00670	CDS	381	eif5a_2		COG0231	Translation initiation factor 5A
+EKPNOOPC_00671	CDS	1491				hypothetical protein
+EKPNOOPC_00672	CDS	1431				hypothetical protein
+EKPNOOPC_00673	CDS	1236				hypothetical protein
+EKPNOOPC_00674	CDS	642				hypothetical protein
+EKPNOOPC_00675	CDS	699	aglK_2	2.4.1.153		UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminyltransferase
+EKPNOOPC_00676	CDS	471				hypothetical protein
+EKPNOOPC_00677	CDS	957	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+EKPNOOPC_00678	CDS	1836				hypothetical protein
+EKPNOOPC_00679	CDS	483	vat		COG0464	VCP-like ATPase
+EKPNOOPC_00680	CDS	939	obg_1	3.6.5.-		GTPase Obg
+EKPNOOPC_00681	CDS	456				hypothetical protein
+EKPNOOPC_00682	CDS	1008				hypothetical protein
+EKPNOOPC_00683	CDS	447				hypothetical protein
+EKPNOOPC_00684	CDS	192				hypothetical protein
+EKPNOOPC_00685	CDS	375	rps8e		COG2007	30S ribosomal protein S8e
+EKPNOOPC_00686	CDS	1650				hypothetical protein
+EKPNOOPC_00687	CDS	234				hypothetical protein
+EKPNOOPC_00688	CDS	426				hypothetical protein
+EKPNOOPC_00689	CDS	273				hypothetical protein
+EKPNOOPC_00690	CDS	360				hypothetical protein
+EKPNOOPC_00691	CDS	651				hypothetical protein
+EKPNOOPC_00692	CDS	801	gloB	3.1.2.6		Hydroxyacylglutathione hydrolase
+EKPNOOPC_00693	CDS	345				hypothetical protein
+EKPNOOPC_00694	CDS	936	cugP_2	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+EKPNOOPC_00695	CDS	927	hldD_2	5.1.3.20		ADP-L-glycero-D-manno-heptose-6-epimerase
+EKPNOOPC_00696	CDS	732	glmU_3		COG1208	Bifunctional protein GlmU
+EKPNOOPC_00697	CDS	2391	glmM_2			Phosphoglucosamine mutase
+EKPNOOPC_00698	CDS	1161	pfp	2.7.1.90	COG0205	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+EKPNOOPC_00699	CDS	1029	AAH1	3.5.4.2		Adenine deaminase
+EKPNOOPC_00700	CDS	393				hypothetical protein
+EKPNOOPC_00701	CDS	843				hypothetical protein
+EKPNOOPC_00702	CDS	1365		5.4.2.2	COG1109	Phosphoglucomutase/phosphomannomutase
+EKPNOOPC_00703	CDS	522			COG1632	50S ribosomal protein L15e
+EKPNOOPC_00704	CDS	636				hypothetical protein
+EKPNOOPC_00705	CDS	855				hypothetical protein
+EKPNOOPC_00706	CDS	546				hypothetical protein
+EKPNOOPC_00707	CDS	882				hypothetical protein
+EKPNOOPC_00708	CDS	1212	metK_2	2.5.1.6		S-adenosylmethionine synthase
+EKPNOOPC_00709	CDS	384				hypothetical protein
+EKPNOOPC_00710	CDS	531	apt	2.4.2.7		Adenine phosphoribosyltransferase
+EKPNOOPC_00711	CDS	345				hypothetical protein
+EKPNOOPC_00712	CDS	753	mtnP	2.4.2.28	COG0005	S-methyl-5'-thioadenosine phosphorylase
+EKPNOOPC_00713	CDS	1629				hypothetical protein
+EKPNOOPC_00714	CDS	522				hypothetical protein
+EKPNOOPC_00715	CDS	435				hypothetical protein
+EKPNOOPC_00716	CDS	207				hypothetical protein
+EKPNOOPC_00717	CDS	468				hypothetical protein
+EKPNOOPC_00718	CDS	870				hypothetical protein
+EKPNOOPC_00719	CDS	513				hypothetical protein
+EKPNOOPC_00720	CDS	552				hypothetical protein
+EKPNOOPC_00721	CDS	1047				hypothetical protein
+EKPNOOPC_00722	tRNA	90				tRNA-Asp(atc)
+EKPNOOPC_00723	CDS	579				hypothetical protein
+EKPNOOPC_00724	CDS	1563		3.6.4.12	COG1204	ATP-dependent DNA helicase Hel308
+EKPNOOPC_00725	CDS	558				hypothetical protein
+EKPNOOPC_00726	CDS	1290	PURA	6.3.4.4		Adenylosuccinate synthetase, organellar chromatophore
+EKPNOOPC_00727	CDS	912				hypothetical protein
+EKPNOOPC_00728	CDS	1284	miaB_1	2.8.4.3		tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+EKPNOOPC_00729	CDS	534	queH	1.17.99.6		Epoxyqueuosine reductase QueH
+EKPNOOPC_00730	CDS	981	queA	2.4.99.17		S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+EKPNOOPC_00731	CDS	507	aroK_1	2.7.1.71		Shikimate kinase
+EKPNOOPC_00732	CDS	396				hypothetical protein
+EKPNOOPC_00733	CDS	213				hypothetical protein
+EKPNOOPC_00734	CDS	438				hypothetical protein
+EKPNOOPC_00735	CDS	318	erpA			Iron-sulfur cluster insertion protein ErpA
+EKPNOOPC_00736	CDS	606	ppaX_3	3.6.1.1		Pyrophosphatase PpaX
+EKPNOOPC_00737	CDS	372				hypothetical protein
+EKPNOOPC_00738	CDS	1200		3.6.4.13	COG0513	putative ATP-dependent RNA helicase
+EKPNOOPC_00739	CDS	258				hypothetical protein
+EKPNOOPC_00740	CDS	684		5.1.1.13	COG1794	Aspartate racemase
+EKPNOOPC_00741	CDS	291				hypothetical protein
+EKPNOOPC_00742	CDS	288				hypothetical protein
+EKPNOOPC_00743	CDS	816	dusB_2	1.3.1.-		tRNA-dihydrouridine synthase B
+EKPNOOPC_00744	CDS	180				hypothetical protein
+EKPNOOPC_00745	CDS	558				hypothetical protein
+EKPNOOPC_00746	CDS	459				hypothetical protein
+EKPNOOPC_00747	CDS	417				hypothetical protein
+EKPNOOPC_00748	CDS	1107		3.6.4.13	COG0513	putative ATP-dependent RNA helicase
+EKPNOOPC_00749	CDS	540				hypothetical protein
+EKPNOOPC_00750	CDS	342				hypothetical protein
+EKPNOOPC_00751	CDS	1239		3.6.4.13	COG0513	putative ATP-dependent RNA helicase
+EKPNOOPC_00752	CDS	333				hypothetical protein
+EKPNOOPC_00753	CDS	420				hypothetical protein
+EKPNOOPC_00754	CDS	804				hypothetical protein
+EKPNOOPC_00755	CDS	627	cmoM_3	2.1.1.-		tRNA 5-carboxymethoxyuridine methyltransferase
+EKPNOOPC_00756	CDS	507				hypothetical protein
+EKPNOOPC_00757	CDS	195				hypothetical protein
+EKPNOOPC_00758	CDS	420				hypothetical protein
+EKPNOOPC_00759	CDS	552				hypothetical protein
+EKPNOOPC_00760	CDS	315				hypothetical protein
+EKPNOOPC_00761	CDS	123				hypothetical protein
+EKPNOOPC_00762	CDS	345				hypothetical protein
+EKPNOOPC_00763	CDS	366				hypothetical protein
+EKPNOOPC_00764	CDS	249				hypothetical protein
+EKPNOOPC_00765	CDS	276				hypothetical protein
+EKPNOOPC_00766	CDS	357				hypothetical protein
+EKPNOOPC_00767	CDS	129				hypothetical protein
+EKPNOOPC_00768	CDS	699				hypothetical protein
+EKPNOOPC_00769	CDS	711				hypothetical protein
+EKPNOOPC_00770	CDS	1431				hypothetical protein
+EKPNOOPC_00771	CDS	561				hypothetical protein
+EKPNOOPC_00772	CDS	2004				hypothetical protein
+EKPNOOPC_00773	CDS	1446	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+EKPNOOPC_00774	CDS	795	proB	2.7.2.11		Glutamate 5-kinase
+EKPNOOPC_00775	CDS	915		1.18.1.2		Ferredoxin--NADP reductase
+EKPNOOPC_00776	CDS	186				hypothetical protein
+EKPNOOPC_00777	CDS	1524				hypothetical protein
+EKPNOOPC_00778	CDS	1401				hypothetical protein
+EKPNOOPC_00779	CDS	1104	moaA_8			GTP 3',8-cyclase
+EKPNOOPC_00780	CDS	1392				hypothetical protein
+EKPNOOPC_00781	CDS	1629				hypothetical protein
+EKPNOOPC_00782	CDS	927	fcl_3	1.1.1.271		GDP-L-fucose synthase
+EKPNOOPC_00783	CDS	714	aglK_3	2.4.1.153		UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminyltransferase
+EKPNOOPC_00784	CDS	1287	miaB_2	2.8.4.3		tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+EKPNOOPC_00785	CDS	1461	murJ_1			lipid II flippase MurJ
+EKPNOOPC_00786	CDS	1299				hypothetical protein
+EKPNOOPC_00787	CDS	756				hypothetical protein
+EKPNOOPC_00788	CDS	2922	hldE	2.7.7.70		Bifunctional protein HldE
+EKPNOOPC_00789	CDS	696				hypothetical protein
+EKPNOOPC_00790	CDS	798				hypothetical protein
+EKPNOOPC_00791	CDS	1071	gtfA	2.4.1.-		UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase GtfA subunit
+EKPNOOPC_00792	CDS	1137	arnB_1	2.6.1.87		UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+EKPNOOPC_00793	CDS	1428				hypothetical protein
+EKPNOOPC_00794	CDS	498				hypothetical protein
+EKPNOOPC_00795	CDS	156				hypothetical protein
+EKPNOOPC_00796	CDS	333				hypothetical protein
+EKPNOOPC_00797	CDS	318	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+EKPNOOPC_00798	CDS	936	tfb			Transcription initiation factor IIB
+EKPNOOPC_00799	CDS	174				hypothetical protein
+EKPNOOPC_00800	CDS	321				hypothetical protein
+EKPNOOPC_00801	CDS	669				hypothetical protein
+EKPNOOPC_00802	CDS	135				hypothetical protein
+EKPNOOPC_00803	CDS	501				hypothetical protein
+EKPNOOPC_00804	CDS	684	APOA1BP	5.1.99.6		NAD(P)H-hydrate epimerase
+EKPNOOPC_00805	CDS	1314	purD	6.3.4.13		Phosphoribosylamine--glycine ligase
+EKPNOOPC_00806	CDS	393				hypothetical protein
+EKPNOOPC_00807	CDS	1236				hypothetical protein
+EKPNOOPC_00808	CDS	1101		2.6.1.57		Aromatic-amino-acid aminotransferase 2
+EKPNOOPC_00809	CDS	825	pheA	4.2.1.51	COG0077	Prephenate dehydratase
+EKPNOOPC_00810	CDS	840				hypothetical protein
+EKPNOOPC_00811	CDS	714		3.1.3.-	COG1011	Glyceraldehyde 3-phosphate phosphatase
+EKPNOOPC_00812	CDS	1053	aroC	4.2.3.5		Chorismate synthase
+EKPNOOPC_00813	CDS	534				hypothetical protein
+EKPNOOPC_00814	CDS	333				hypothetical protein
+EKPNOOPC_00815	CDS	468				hypothetical protein
+EKPNOOPC_00816	CDS	1263	aroA	2.5.1.19		3-phosphoshikimate 1-carboxyvinyltransferase
+EKPNOOPC_00817	CDS	804	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+EKPNOOPC_00818	CDS	1176	trpB1	4.2.1.20	COG0133	Tryptophan synthase beta chain 1
+EKPNOOPC_00819	CDS	756	trpC	4.1.1.48	COG0134	Indole-3-glycerol phosphate synthase
+EKPNOOPC_00820	CDS	1014	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+EKPNOOPC_00821	CDS	579	trpG	4.1.3.27	COG0512	Anthranilate synthase component 2
+EKPNOOPC_00822	CDS	1617	menF	5.4.4.2		Isochorismate synthase MenF
+EKPNOOPC_00823	CDS	783				hypothetical protein
+EKPNOOPC_00824	CDS	120				hypothetical protein
+EKPNOOPC_00825	CDS	276				hypothetical protein
+EKPNOOPC_00826	CDS	627				hypothetical protein
+EKPNOOPC_00827	CDS	444				hypothetical protein
+EKPNOOPC_00828	CDS	1233	eif2g		COG5257	Translation initiation factor 2 subunit gamma
+EKPNOOPC_00829	CDS	1332				hypothetical protein
+EKPNOOPC_00830	CDS	558				hypothetical protein
+EKPNOOPC_00831	CDS	591				hypothetical protein
+EKPNOOPC_00832	CDS	156				hypothetical protein
+EKPNOOPC_00833	CDS	519				hypothetical protein
+EKPNOOPC_00834	CDS	420				hypothetical protein
+EKPNOOPC_00835	CDS	720				hypothetical protein
+EKPNOOPC_00836	CDS	1524				hypothetical protein
+EKPNOOPC_00837	CDS	891				hypothetical protein
+EKPNOOPC_00838	CDS	972				hypothetical protein
+EKPNOOPC_00839	CDS	756				hypothetical protein
+EKPNOOPC_00840	CDS	357				hypothetical protein
+EKPNOOPC_00841	CDS	759			COG0327	GTP cyclohydrolase 1 type 2 
+EKPNOOPC_00842	CDS	624	asd_2	4.1.1.-	COG0688	Putative archaetidylserine decarboxylase proenzyme
+EKPNOOPC_00843	CDS	519		2.7.8.38	COG1183	Archaetidylserine synthase
+EKPNOOPC_00844	CDS	363				hypothetical protein
+EKPNOOPC_00845	CDS	501				hypothetical protein
+EKPNOOPC_00846	CDS	1752	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+EKPNOOPC_00847	CDS	1236				hypothetical protein
+EKPNOOPC_00848	CDS	384				hypothetical protein
+EKPNOOPC_00849	CDS	912				hypothetical protein
+EKPNOOPC_00850	CDS	924				hypothetical protein
+EKPNOOPC_00851	CDS	1836	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+EKPNOOPC_00852	CDS	426				hypothetical protein
+EKPNOOPC_00853	CDS	786	trmI	2.1.1.219	COG2519	tRNA (adenine(57)-N(1)/adenine(58)-N(1))-methyltransferase TrmI
+EKPNOOPC_00854	CDS	579				hypothetical protein
+EKPNOOPC_00855	CDS	558				hypothetical protein
+EKPNOOPC_00856	CDS	579				hypothetical protein
+EKPNOOPC_00857	CDS	255				hypothetical protein
+EKPNOOPC_00858	CDS	1380				hypothetical protein
+EKPNOOPC_00859	CDS	1500				hypothetical protein
+EKPNOOPC_00860	CDS	1488				hypothetical protein
+EKPNOOPC_00861	CDS	1416				hypothetical protein
+EKPNOOPC_00862	CDS	1686				hypothetical protein
+EKPNOOPC_00863	CDS	312				hypothetical protein
+EKPNOOPC_00864	CDS	216				hypothetical protein
+EKPNOOPC_00865	CDS	294				hypothetical protein
+EKPNOOPC_00866	CDS	1452				hypothetical protein
+EKPNOOPC_00867	CDS	411				hypothetical protein
+EKPNOOPC_00868	CDS	1122				hypothetical protein
+EKPNOOPC_00869	CDS	753				hypothetical protein
+EKPNOOPC_00870	CDS	1509				hypothetical protein
+EKPNOOPC_00871	CDS	792				hypothetical protein
+EKPNOOPC_00872	CDS	1074				hypothetical protein
+EKPNOOPC_00873	CDS	1212	arnB_2	2.6.1.87		UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+EKPNOOPC_00874	CDS	1098		2.1.1.256	COG0116	tRNA (guanine(6)-N2)-methyltransferase
+EKPNOOPC_00875	CDS	2922	gyrA	5.6.2.2		DNA gyrase subunit A
+EKPNOOPC_00876	CDS	954	scpB			Segregation and condensation protein B
+EKPNOOPC_00877	CDS	588				hypothetical protein
+EKPNOOPC_00878	CDS	1059	carA_1	6.3.5.5		Carbamoyl-phosphate synthase small chain
+EKPNOOPC_00879	CDS	543	idi	5.3.3.2		Isopentenyl-diphosphate Delta-isomerase
+EKPNOOPC_00880	CDS	3174	carB			Carbamoyl-phosphate synthase large chain
+EKPNOOPC_00881	CDS	903	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase
+EKPNOOPC_00882	CDS	468	pyrI		COG1781	Aspartate carbamoyltransferase regulatory chain
+EKPNOOPC_00883	CDS	1002				hypothetical protein
+EKPNOOPC_00884	CDS	762				hypothetical protein
+EKPNOOPC_00885	CDS	1134	coaD	2.7.7.3		Phosphopantetheine adenylyltransferase
+EKPNOOPC_00886	CDS	2607				hypothetical protein
+EKPNOOPC_00887	CDS	1629				hypothetical protein
+EKPNOOPC_00888	CDS	1140				hypothetical protein
+EKPNOOPC_00889	CDS	942				hypothetical protein
+EKPNOOPC_00890	CDS	135				hypothetical protein
+EKPNOOPC_00891	CDS	228				hypothetical protein
+EKPNOOPC_00892	CDS	1518	carA_2	6.3.5.5		Carbamoyl-phosphate synthase small chain
+EKPNOOPC_00893	CDS	732				hypothetical protein
+EKPNOOPC_00894	CDS	240				hypothetical protein
+EKPNOOPC_00895	CDS	429				hypothetical protein
+EKPNOOPC_00896	CDS	345				hypothetical protein
+EKPNOOPC_00897	CDS	288				hypothetical protein
+EKPNOOPC_00898	CDS	801				hypothetical protein
+EKPNOOPC_00899	CDS	732				hypothetical protein
+EKPNOOPC_00900	CDS	477				hypothetical protein
+EKPNOOPC_00901	CDS	1431	guaB_1	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+EKPNOOPC_00902	CDS	987				hypothetical protein
+EKPNOOPC_00903	CDS	1047				hypothetical protein
+EKPNOOPC_00904	CDS	363				hypothetical protein
+EKPNOOPC_00905	CDS	534				hypothetical protein
+EKPNOOPC_00906	CDS	525				hypothetical protein
+EKPNOOPC_00907	CDS	861				hypothetical protein
+EKPNOOPC_00908	CDS	936	dys	2.5.1.46	COG1899	putative deoxyhypusine synthase
+EKPNOOPC_00909	CDS	1044	lysA_2	4.1.1.20		Diaminopimelate decarboxylase
+EKPNOOPC_00910	CDS	1572	lysS	6.1.1.6	COG1384	Lysine--tRNA ligase
+EKPNOOPC_00911	CDS	654				hypothetical protein
+EKPNOOPC_00912	CDS	228				hypothetical protein
+EKPNOOPC_00913	CDS	1389				hypothetical protein
+EKPNOOPC_00914	CDS	1362				hypothetical protein
+EKPNOOPC_00915	CDS	423				hypothetical protein
+EKPNOOPC_00916	CDS	1545				hypothetical protein
+EKPNOOPC_00917	CDS	1581				hypothetical protein
+EKPNOOPC_00918	CDS	1128	dnaJ			Chaperone protein DnaJ
+EKPNOOPC_00919	CDS	636				hypothetical protein
+EKPNOOPC_00920	CDS	339				hypothetical protein
+EKPNOOPC_00921	CDS	1932	dnaK			Chaperone protein DnaK
+EKPNOOPC_00922	CDS	345				hypothetical protein
+EKPNOOPC_00923	CDS	357				hypothetical protein
+EKPNOOPC_00924	CDS	507				hypothetical protein
+EKPNOOPC_00925	CDS	501	grpE		COG0576	Protein GrpE
+EKPNOOPC_00926	CDS	408				hypothetical protein
+EKPNOOPC_00927	CDS	687				hypothetical protein
+EKPNOOPC_00928	CDS	426				hypothetical protein
+EKPNOOPC_00929	CDS	483				hypothetical protein
+EKPNOOPC_00930	CDS	1404				hypothetical protein
+EKPNOOPC_00931	CDS	363				hypothetical protein
+EKPNOOPC_00932	CDS	489				hypothetical protein
+EKPNOOPC_00933	CDS	543				hypothetical protein
+EKPNOOPC_00934	CDS	597				hypothetical protein
+EKPNOOPC_00935	CDS	1896				hypothetical protein
+EKPNOOPC_00936	CDS	648	psmB	3.4.25.1	COG0638	Proteasome subunit beta
+EKPNOOPC_00937	CDS	183				hypothetical protein
+EKPNOOPC_00938	CDS	2616	cshB	3.6.4.13		DEAD-box ATP-dependent RNA helicase CshB
+EKPNOOPC_00939	CDS	132				hypothetical protein
+EKPNOOPC_00940	CDS	732				hypothetical protein
+EKPNOOPC_00941	CDS	789				hypothetical protein
+EKPNOOPC_00942	CDS	627				hypothetical protein
+EKPNOOPC_00943	CDS	402				hypothetical protein
+EKPNOOPC_00944	CDS	852	fieF			Ferrous-iron efflux pump FieF
+EKPNOOPC_00945	CDS	2103	rep	3.6.4.12		ATP-dependent DNA helicase Rep
+EKPNOOPC_00946	CDS	696				hypothetical protein
+EKPNOOPC_00947	CDS	1605				hypothetical protein
+EKPNOOPC_00948	CDS	708				hypothetical protein
+EKPNOOPC_00949	CDS	1329				hypothetical protein
+EKPNOOPC_00950	CDS	393				hypothetical protein
+EKPNOOPC_00951	CDS	849				hypothetical protein
+EKPNOOPC_00952	CDS	960				hypothetical protein
+EKPNOOPC_00953	CDS	309				hypothetical protein
+EKPNOOPC_00954	CDS	258				hypothetical protein
+EKPNOOPC_00955	CDS	663	PROSC			Pyridoxal phosphate homeostasis protein
+EKPNOOPC_00956	CDS	552	aroK_2	2.7.1.71		Shikimate kinase
+EKPNOOPC_00957	CDS	741				hypothetical protein
+EKPNOOPC_00958	CDS	522				hypothetical protein
+EKPNOOPC_00959	CDS	2481				hypothetical protein
+EKPNOOPC_00960	CDS	1797				hypothetical protein
+EKPNOOPC_00961	CDS	651	tdk	2.7.1.21		Thymidine kinase
+EKPNOOPC_00962	CDS	357	copA	7.2.2.8	COG2217	putative copper-exporting P-type ATPase
+EKPNOOPC_00963	CDS	567				hypothetical protein
+EKPNOOPC_00964	CDS	219				hypothetical protein
+EKPNOOPC_00965	CDS	150				hypothetical protein
+EKPNOOPC_00966	CDS	330				hypothetical protein
+EKPNOOPC_00967	CDS	213				hypothetical protein
+EKPNOOPC_00968	CDS	183				hypothetical protein
+EKPNOOPC_00969	CDS	555	resA_1			Thiol-disulfide oxidoreductase ResA
+EKPNOOPC_00970	CDS	600				hypothetical protein
+EKPNOOPC_00971	CDS	381				hypothetical protein
+EKPNOOPC_00972	CDS	132				hypothetical protein
+EKPNOOPC_00973	CDS	564		1.11.1.15	COG0450	Peroxiredoxin
+EKPNOOPC_00974	CDS	2145				hypothetical protein
+EKPNOOPC_00975	CDS	384				hypothetical protein
+EKPNOOPC_00976	CDS	468				hypothetical protein
+EKPNOOPC_00977	CDS	525				hypothetical protein
+EKPNOOPC_00978	CDS	237				hypothetical protein
+EKPNOOPC_00979	CDS	879				hypothetical protein
+EKPNOOPC_00980	CDS	1731				hypothetical protein
+EKPNOOPC_00981	CDS	834		3.4.17.19	COG2317	Thermostable carboxypeptidase 1
+EKPNOOPC_00982	CDS	423	mntR			HTH-type transcriptional regulator MntR
+EKPNOOPC_00983	CDS	819				hypothetical protein
+EKPNOOPC_00984	CDS	1980			COG0370	Fe(2+) transporter FeoB
+EKPNOOPC_00985	CDS	441				hypothetical protein
+EKPNOOPC_00986	CDS	258				hypothetical protein
+EKPNOOPC_00987	CDS	1818	malP	2.4.1.1		Maltodextrin phosphorylase
+EKPNOOPC_00988	CDS	504				hypothetical protein
+EKPNOOPC_00989	CDS	879				hypothetical protein
+EKPNOOPC_00990	CDS	1038				hypothetical protein
+EKPNOOPC_00991	CDS	1134				hypothetical protein
+EKPNOOPC_00992	CDS	1098	obg_2	3.6.5.-		GTPase Obg
+EKPNOOPC_00993	CDS	846	xerA_1		COG0582	Tyrosine recombinase XerA
+EKPNOOPC_00994	CDS	282				hypothetical protein
+EKPNOOPC_00995	CDS	768				hypothetical protein
+EKPNOOPC_00996	CDS	591				hypothetical protein
+EKPNOOPC_00997	CDS	339				hypothetical protein
+EKPNOOPC_00998	CDS	885	map	3.4.11.18	COG0024	Methionine aminopeptidase
+EKPNOOPC_00999	CDS	246	rbn_2	3.1.26.11		Ribonuclease BN
+EKPNOOPC_01000	CDS	234				hypothetical protein
+EKPNOOPC_01001	CDS	375				hypothetical protein
+EKPNOOPC_01002	CDS	519				hypothetical protein
+EKPNOOPC_01003	CDS	666				hypothetical protein
+EKPNOOPC_01004	CDS	984	truB	5.4.99.25	COG0130	putative tRNA pseudouridine synthase B
+EKPNOOPC_01005	CDS	294				hypothetical protein
+EKPNOOPC_01006	CDS	585		3.6.1.9		dTTP/UTP pyrophosphatase
+EKPNOOPC_01007	CDS	1347				hypothetical protein
+EKPNOOPC_01008	CDS	1725	purF_2	2.4.2.14		Amidophosphoribosyltransferase
+EKPNOOPC_01009	CDS	699	aglK_4	2.4.1.153		UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminyltransferase
+EKPNOOPC_01010	CDS	1656				hypothetical protein
+EKPNOOPC_01011	CDS	1404	lapB			Lipopolysaccharide assembly protein B
+EKPNOOPC_01012	CDS	1077	ycf3			Photosystem I assembly protein Ycf3
+EKPNOOPC_01013	CDS	2508				hypothetical protein
+EKPNOOPC_01014	CDS	1203	moaA_9			GTP 3',8-cyclase
+EKPNOOPC_01015	CDS	3462				hypothetical protein
+EKPNOOPC_01016	CDS	408				hypothetical protein
+EKPNOOPC_01017	CDS	648	dph2	2.5.1.108	COG1736	2-(3-amino-3-carboxypropyl)histidine synthase
+EKPNOOPC_01018	CDS	753				hypothetical protein
+EKPNOOPC_01019	CDS	2388	pol	2.7.7.7		DNA polymerase
+EKPNOOPC_01020	CDS	609				hypothetical protein
+EKPNOOPC_01021	CDS	210				hypothetical protein
+EKPNOOPC_01022	CDS	441	argH	4.3.2.1		Argininosuccinate lyase
+EKPNOOPC_01023	CDS	492				hypothetical protein
+EKPNOOPC_01024	CDS	477				hypothetical protein
+EKPNOOPC_01025	CDS	459				hypothetical protein
+EKPNOOPC_01026	CDS	1431				hypothetical protein
+EKPNOOPC_01027	CDS	735				hypothetical protein
+EKPNOOPC_01028	CDS	690				hypothetical protein
+EKPNOOPC_01029	CDS	909	kaiC	2.7.11.1		Circadian clock protein kinase KaiC
+EKPNOOPC_01030	CDS	756				hypothetical protein
+EKPNOOPC_01031	CDS	549	IMPDH	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+EKPNOOPC_01032	CDS	1119				hypothetical protein
+EKPNOOPC_01033	CDS	249				hypothetical protein
+EKPNOOPC_01034	CDS	729	nth	4.2.99.18		Endonuclease III
+EKPNOOPC_01035	CDS	129				hypothetical protein
+EKPNOOPC_01036	CDS	816				hypothetical protein
+EKPNOOPC_01037	CDS	441				hypothetical protein
+EKPNOOPC_01038	CDS	441	lspA	3.4.23.36		Lipoprotein signal peptidase
+EKPNOOPC_01039	CDS	138				hypothetical protein
+EKPNOOPC_01040	CDS	2199				hypothetical protein
+EKPNOOPC_01041	CDS	594				hypothetical protein
+EKPNOOPC_01042	CDS	588				hypothetical protein
+EKPNOOPC_01043	CDS	345	eIF1A		COG0361	Translation initiation factor 1A
+EKPNOOPC_01044	CDS	954				hypothetical protein
+EKPNOOPC_01045	CDS	780				hypothetical protein
+EKPNOOPC_01046	CDS	1212				hypothetical protein
+EKPNOOPC_01047	CDS	537				hypothetical protein
+EKPNOOPC_01048	CDS	831	CARKD	4.2.1.136		ATP-dependent (S)-NAD(P)H-hydrate dehydratase
+EKPNOOPC_01049	CDS	129				hypothetical protein
+EKPNOOPC_01050	CDS	1776	kefC			Glutathione-regulated potassium-efflux system protein KefC
+EKPNOOPC_01051	CDS	255				hypothetical protein
+EKPNOOPC_01052	CDS	357				hypothetical protein
+EKPNOOPC_01053	CDS	1416				hypothetical protein
+EKPNOOPC_01054	CDS	567				hypothetical protein
+EKPNOOPC_01055	CDS	2202				hypothetical protein
+EKPNOOPC_01056	CDS	525				hypothetical protein
+EKPNOOPC_01057	CDS	807				hypothetical protein
+EKPNOOPC_01058	CDS	444				hypothetical protein
+EKPNOOPC_01059	CDS	594				hypothetical protein
+EKPNOOPC_01060	CDS	1446				hypothetical protein
+EKPNOOPC_01061	CDS	2529	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+EKPNOOPC_01062	CDS	783				hypothetical protein
+EKPNOOPC_01063	CDS	666	rsmI	2.1.1.198		Ribosomal RNA small subunit methyltransferase I
+EKPNOOPC_01064	CDS	270				hypothetical protein
+EKPNOOPC_01065	CDS	957	msrA	1.8.4.11		Peptide methionine sulfoxide reductase MsrA
+EKPNOOPC_01066	CDS	1518	guaB_2	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+EKPNOOPC_01067	CDS	795				hypothetical protein
+EKPNOOPC_01068	CDS	624	nfi	3.1.21.7	COG1515	Endonuclease V
+EKPNOOPC_01069	CDS	273	acyP	3.6.1.7	COG1254	Acylphosphatase
+EKPNOOPC_01070	CDS	420				hypothetical protein
+EKPNOOPC_01071	CDS	927				hypothetical protein
+EKPNOOPC_01072	CDS	1260				hypothetical protein
+EKPNOOPC_01073	CDS	1263				hypothetical protein
+EKPNOOPC_01074	CDS	483				hypothetical protein
+EKPNOOPC_01075	CDS	1881		3.6.4.12	COG1199	ATP-dependent DNA helicase
+EKPNOOPC_01076	CDS	990				hypothetical protein
+EKPNOOPC_01077	CDS	264				hypothetical protein
+EKPNOOPC_01078	CDS	459				hypothetical protein
+EKPNOOPC_01079	CDS	861				hypothetical protein
+EKPNOOPC_01080	CDS	198				hypothetical protein
+EKPNOOPC_01081	CDS	6447				hypothetical protein
+EKPNOOPC_01082	CDS	729				hypothetical protein
+EKPNOOPC_01083	CDS	537	cmk_2	2.7.4.25		Cytidylate kinase
+EKPNOOPC_01084	CDS	663		5.2.1.8	COG1047	Putative FKBP-type peptidyl-prolyl cis-trans isomerase
+EKPNOOPC_01085	CDS	1401	ftsZ			Cell division protein FtsZ
+EKPNOOPC_01086	CDS	204	secE		COG2443	Protein translocase subunit SecE
+EKPNOOPC_01087	CDS	504	spt5		COG0250	Transcription elongation factor Spt5
+EKPNOOPC_01088	CDS	798				hypothetical protein
+EKPNOOPC_01089	CDS	822	dtdA	3.1.1.96	COG1650	D-aminoacyl-tRNA deacylase
+EKPNOOPC_01090	CDS	606				hypothetical protein
+EKPNOOPC_01091	CDS	237				hypothetical protein
+EKPNOOPC_01092	CDS	1146				hypothetical protein
+EKPNOOPC_01093	CDS	666				hypothetical protein
+EKPNOOPC_01094	CDS	201				hypothetical protein
+EKPNOOPC_01095	CDS	2805	tolB			Tol-Pal system protein TolB
+EKPNOOPC_01096	CDS	672	tpiA	5.3.1.1		Triosephosphate isomerase
+EKPNOOPC_01097	CDS	606				hypothetical protein
+EKPNOOPC_01098	CDS	183				hypothetical protein
+EKPNOOPC_01099	CDS	621				hypothetical protein
+EKPNOOPC_01100	CDS	504				hypothetical protein
+EKPNOOPC_01101	CDS	1074				hypothetical protein
+EKPNOOPC_01102	CDS	930				hypothetical protein
+EKPNOOPC_01103	CDS	1212				hypothetical protein
+EKPNOOPC_01104	CDS	321				hypothetical protein
+EKPNOOPC_01105	CDS	231				hypothetical protein
+EKPNOOPC_01106	CDS	525				hypothetical protein
+EKPNOOPC_01107	CDS	2352				hypothetical protein
+EKPNOOPC_01108	CDS	1206	rfcL		COG0470	Replication factor C large subunit
+EKPNOOPC_01109	CDS	726				hypothetical protein
+EKPNOOPC_01110	CDS	621				hypothetical protein
+EKPNOOPC_01111	CDS	1515				hypothetical protein
+EKPNOOPC_01112	CDS	1182				hypothetical protein
+EKPNOOPC_01113	CDS	507				hypothetical protein
+EKPNOOPC_01114	CDS	708				hypothetical protein
+EKPNOOPC_01115	CDS	282				hypothetical protein
+EKPNOOPC_01116	CDS	2193				hypothetical protein
+EKPNOOPC_01117	CDS	342				hypothetical protein
+EKPNOOPC_01118	CDS	2301				hypothetical protein
+EKPNOOPC_01119	CDS	297				hypothetical protein
+EKPNOOPC_01120	CDS	459				hypothetical protein
+EKPNOOPC_01121	CDS	777				hypothetical protein
+EKPNOOPC_01122	CDS	162				hypothetical protein
+EKPNOOPC_01123	CDS	93				hypothetical protein
+EKPNOOPC_01124	CDS	369				hypothetical protein
+EKPNOOPC_01125	CDS	714				hypothetical protein
+EKPNOOPC_01126	CDS	870				hypothetical protein
+EKPNOOPC_01127	CDS	762				hypothetical protein
+EKPNOOPC_01128	CDS	357				hypothetical protein
+EKPNOOPC_01129	CDS	2211	srmB	3.6.4.13		ATP-dependent RNA helicase SrmB
+EKPNOOPC_01130	CDS	267				hypothetical protein
+EKPNOOPC_01131	CDS	849	htpX	3.4.24.-		Protease HtpX
+EKPNOOPC_01132	CDS	1518				hypothetical protein
+EKPNOOPC_01133	CDS	729				hypothetical protein
+EKPNOOPC_01134	CDS	441		5.2.1.8		FKBP-type peptidyl-prolyl cis-trans isomerase
+EKPNOOPC_01135	CDS	1923				hypothetical protein
+EKPNOOPC_01136	CDS	621				hypothetical protein
+EKPNOOPC_01137	CDS	978	rpl3		COG0087	50S ribosomal protein L3
+EKPNOOPC_01138	CDS	807	rpl4		COG0088	50S ribosomal protein L4
+EKPNOOPC_01139	CDS	252			COG0089	50S ribosomal protein L23
+EKPNOOPC_01140	CDS	717	rpl2		COG0090	50S ribosomal protein L2
+EKPNOOPC_01141	CDS	384			COG0185	30S ribosomal protein S19
+EKPNOOPC_01142	CDS	666				hypothetical protein
+EKPNOOPC_01143	CDS	843				hypothetical protein
+EKPNOOPC_01144	CDS	210				hypothetical protein
+EKPNOOPC_01145	CDS	309			COG0023	Protein translation factor SUI1 
+EKPNOOPC_01146	CDS	435				hypothetical protein
+EKPNOOPC_01147	CDS	402			COG0093	50S ribosomal protein L14
+EKPNOOPC_01148	CDS	393			COG0198	50S ribosomal protein L24
+EKPNOOPC_01149	CDS	699	rps4e		COG1471	30S ribosomal protein S4e
+EKPNOOPC_01150	CDS	516	rpl5		COG0094	50S ribosomal protein L5
+EKPNOOPC_01151	CDS	231				hypothetical protein
+EKPNOOPC_01152	CDS	390	rps8		COG0096	30S ribosomal protein S8
+EKPNOOPC_01153	CDS	561	rpl6		COG0097	50S ribosomal protein L6
+EKPNOOPC_01154	CDS	609				hypothetical protein
+EKPNOOPC_01155	CDS	456			COG2147	50S ribosomal protein L19e
+EKPNOOPC_01156	CDS	579			COG0256	50S ribosomal protein L18
+EKPNOOPC_01157	CDS	963				hypothetical protein
+EKPNOOPC_01158	CDS	501			COG1841	50S ribosomal protein L30
+EKPNOOPC_01159	CDS	486			COG0200	50S ribosomal protein L15
+EKPNOOPC_01160	CDS	1395	secY		COG0201	Protein translocase subunit SecY
+EKPNOOPC_01161	CDS	759				hypothetical protein
+EKPNOOPC_01162	CDS	264			COG2174	50S ribosomal protein L34e
+EKPNOOPC_01163	CDS	474				hypothetical protein
+EKPNOOPC_01164	CDS	1659	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+EKPNOOPC_01165	CDS	561	isf			Iron-sulfur flavoprotein
+EKPNOOPC_01166	CDS	1548	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+EKPNOOPC_01167	CDS	819				hypothetical protein
+EKPNOOPC_01168	CDS	1953	acsA	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+EKPNOOPC_01169	CDS	1977	hppA1_2	7.2.3.-	COG3808	K(+)-stimulated pyrophosphate-energized sodium pump
+EKPNOOPC_01170	CDS	1065	pelA_2	3.1.-.-	COG1537	Protein pelota 
+EKPNOOPC_01171	CDS	1191				hypothetical protein
+EKPNOOPC_01172	CDS	2439				hypothetical protein
+EKPNOOPC_01173	CDS	1005				hypothetical protein
+EKPNOOPC_01174	CDS	444	gshAB	6.3.2.3		Glutathione biosynthesis bifunctional protein GshAB
+EKPNOOPC_01175	CDS	465				hypothetical protein
+EKPNOOPC_01176	CDS	1044				hypothetical protein
+EKPNOOPC_01177	CDS	432				hypothetical protein
+EKPNOOPC_01178	CDS	321				hypothetical protein
+EKPNOOPC_01179	CDS	1122				hypothetical protein
+EKPNOOPC_01180	CDS	669	pyrH	2.7.4.22	COG0528	Uridylate kinase
+EKPNOOPC_01181	CDS	903	moaA_10			GTP 3',8-cyclase
+EKPNOOPC_01182	CDS	861				hypothetical protein
+EKPNOOPC_01183	CDS	351	arnE_1			4-amino-4-deoxy-L-arabinose-phosphoundecaprenol flippase subunit ArnE
+EKPNOOPC_01184	CDS	369	arnE_2			4-amino-4-deoxy-L-arabinose-phosphoundecaprenol flippase subunit ArnE
+EKPNOOPC_01185	CDS	456				hypothetical protein
+EKPNOOPC_01186	CDS	714				hypothetical protein
+EKPNOOPC_01187	CDS	1824	secD			Protein translocase subunit SecD
+EKPNOOPC_01188	CDS	1023	secF			Protein-export membrane protein SecF
+EKPNOOPC_01189	CDS	1689	pyrG	6.3.4.2	COG0504	CTP synthase
+EKPNOOPC_01190	CDS	483				hypothetical protein
+EKPNOOPC_01191	CDS	633	glpG	3.4.21.105		Rhomboid protease GlpG
+EKPNOOPC_01192	CDS	339				hypothetical protein
+EKPNOOPC_01193	CDS	1206	iscS2	2.8.1.7	COG1104	Cysteine desulfurase IscS 2
+EKPNOOPC_01194	CDS	399	iscU2		COG0822	Iron-sulfur cluster assembly scaffold protein IscU 2
+EKPNOOPC_01195	CDS	255				hypothetical protein
+EKPNOOPC_01196	CDS	204				Ferredoxin
+EKPNOOPC_01197	CDS	579				hypothetical protein
+EKPNOOPC_01198	CDS	702	queE_2	4.3.99.3		7-carboxy-7-deazaguanine synthase
+EKPNOOPC_01199	CDS	255				hypothetical protein
+EKPNOOPC_01200	CDS	2160				hypothetical protein
+EKPNOOPC_01201	CDS	450	nrdR			Transcriptional repressor NrdR
+EKPNOOPC_01202	CDS	639				hypothetical protein
+EKPNOOPC_01203	CDS	879	prs_2	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+EKPNOOPC_01204	CDS	651				hypothetical protein
+EKPNOOPC_01205	CDS	441	lacB	5.3.1.26		Galactose-6-phosphate isomerase subunit LacB
+EKPNOOPC_01206	CDS	993	RBKS	2.7.1.15		Ribokinase
+EKPNOOPC_01207	CDS	921	fba	4.1.2.13	COG0191	Fructose-bisphosphate aldolase class 2
+EKPNOOPC_01208	CDS	876				hypothetical protein
+EKPNOOPC_01209	CDS	309				hypothetical protein
+EKPNOOPC_01210	CDS	1974				hypothetical protein
+EKPNOOPC_01211	CDS	3324	atpH			ATP synthase subunit c
+EKPNOOPC_01212	CDS	582	atpE		COG1390	V-type ATP synthase subunit E
+EKPNOOPC_01213	CDS	471				hypothetical protein
+EKPNOOPC_01214	CDS	2196				hypothetical protein
+EKPNOOPC_01215	CDS	792				hypothetical protein
+EKPNOOPC_01216	CDS	1893				hypothetical protein
+EKPNOOPC_01217	CDS	372				hypothetical protein
+EKPNOOPC_01218	CDS	639				hypothetical protein
+EKPNOOPC_01219	CDS	309			COG1631	50S ribosomal protein L44e
+EKPNOOPC_01220	CDS	186			COG2051	30S ribosomal protein S27e
+EKPNOOPC_01221	CDS	792	eif2a		COG1093	Translation initiation factor 2 subunit alpha
+EKPNOOPC_01222	CDS	198				hypothetical protein
+EKPNOOPC_01223	CDS	798				hypothetical protein
+EKPNOOPC_01224	CDS	1062				hypothetical protein
+EKPNOOPC_01225	CDS	1500	deoA	2.4.2.57	COG0213	AMP phosphorylase
+EKPNOOPC_01226	CDS	597				hypothetical protein
+EKPNOOPC_01227	CDS	534	prmC	2.1.1.297		Release factor glutamine methyltransferase
+EKPNOOPC_01228	CDS	1218				hypothetical protein
+EKPNOOPC_01229	CDS	228				hypothetical protein
+EKPNOOPC_01230	CDS	642				hypothetical protein
+EKPNOOPC_01231	CDS	477				hypothetical protein
+EKPNOOPC_01232	CDS	273				hypothetical protein
+EKPNOOPC_01233	CDS	3111	ileS_3	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+EKPNOOPC_01234	CDS	324				hypothetical protein
+EKPNOOPC_01235	CDS	417	glmU_4		COG1208	Bifunctional protein GlmU
+EKPNOOPC_01236	CDS	462				hypothetical protein
+EKPNOOPC_01237	CDS	954	fcl_4	1.1.1.271		GDP-L-fucose synthase
+EKPNOOPC_01238	CDS	897				hypothetical protein
+EKPNOOPC_01239	CDS	381				hypothetical protein
+EKPNOOPC_01240	CDS	459				hypothetical protein
+EKPNOOPC_01241	CDS	477	nosZ	1.7.2.4		Nitrous-oxide reductase
+EKPNOOPC_01242	CDS	423				hypothetical protein
+EKPNOOPC_01243	CDS	441				hypothetical protein
+EKPNOOPC_01244	CDS	1110	resA_2			Thiol-disulfide oxidoreductase ResA
+EKPNOOPC_01245	CDS	735	dsbD_2	1.8.1.8		Thiol:disulfide interchange protein DsbD
+EKPNOOPC_01246	CDS	690	nadK	2.7.1.23		NAD kinase
+EKPNOOPC_01247	CDS	255				hypothetical protein
+EKPNOOPC_01248	CDS	741	zupT			Zinc transporter ZupT
+EKPNOOPC_01249	CDS	1203				hypothetical protein
+EKPNOOPC_01250	CDS	534				hypothetical protein
+EKPNOOPC_01251	CDS	642				hypothetical protein
+EKPNOOPC_01252	CDS	1296				hypothetical protein
+EKPNOOPC_01253	CDS	291				hypothetical protein
+EKPNOOPC_01254	CDS	1806				hypothetical protein
+EKPNOOPC_01255	CDS	366				hypothetical protein
+EKPNOOPC_01256	CDS	1527	cimA	2.3.1.182	COG0119	(R)-citramalate synthase CimA
+EKPNOOPC_01257	CDS	255				hypothetical protein
+EKPNOOPC_01258	CDS	450				hypothetical protein
+EKPNOOPC_01259	CDS	558		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+EKPNOOPC_01260	CDS	462	rsmF	2.1.1.178		Ribosomal RNA small subunit methyltransferase F
+EKPNOOPC_01261	CDS	1767	infB		COG0532	putative translation initiation factor IF-2
+EKPNOOPC_01262	CDS	354				hypothetical protein
+EKPNOOPC_01263	CDS	786				hypothetical protein
+EKPNOOPC_01264	CDS	948				hypothetical protein
+EKPNOOPC_01265	CDS	966	gmd_1	4.2.1.47		GDP-mannose 4,6-dehydratase
+EKPNOOPC_01266	CDS	189	napF_2			Ferredoxin-type protein NapF
+EKPNOOPC_01267	CDS	1188	mshA_4	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+EKPNOOPC_01268	CDS	603	ribBA	3.5.4.25		Riboflavin biosynthesis protein RibBA
+EKPNOOPC_01269	CDS	1071	mshA_5	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+EKPNOOPC_01270	CDS	327				hypothetical protein
+EKPNOOPC_01271	CDS	492				hypothetical protein
+EKPNOOPC_01272	CDS	1410	moaA_11			GTP 3',8-cyclase
+EKPNOOPC_01273	CDS	483	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+EKPNOOPC_01274	CDS	420				hypothetical protein
+EKPNOOPC_01275	CDS	1056	moaA_12			GTP 3',8-cyclase
+EKPNOOPC_01276	CDS	414				hypothetical protein
+EKPNOOPC_01277	CDS	288				hypothetical protein
+EKPNOOPC_01278	CDS	444				hypothetical protein
+EKPNOOPC_01279	CDS	708				hypothetical protein
+EKPNOOPC_01280	CDS	1224	miaB_3	2.8.4.3		tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+EKPNOOPC_01281	CDS	1428				hypothetical protein
+EKPNOOPC_01282	CDS	186				hypothetical protein
+EKPNOOPC_01283	CDS	1671	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+EKPNOOPC_01284	CDS	195			COG1383	30S ribosomal protein S17e
+EKPNOOPC_01285	CDS	285	albA		COG1581	DNA/RNA-binding protein Alba
+EKPNOOPC_01286	CDS	1452				hypothetical protein
+EKPNOOPC_01287	CDS	609				hypothetical protein
+EKPNOOPC_01288	CDS	1398				hypothetical protein
+EKPNOOPC_01289	CDS	1014				hypothetical protein
+EKPNOOPC_01290	CDS	1137	mshA_6	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+EKPNOOPC_01291	CDS	1215	mshA_7	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+EKPNOOPC_01292	CDS	1995				hypothetical protein
+EKPNOOPC_01293	CDS	861	aglJ_3	2.4.1.-	COG0463	Glycosyltransferase AglJ
+EKPNOOPC_01294	CDS	924	frhB	1.12.98.1	COG1035	Coenzyme F420 hydrogenase subunit beta
+EKPNOOPC_01295	CDS	717	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+EKPNOOPC_01296	CDS	915	fcl_5	1.1.1.271		GDP-L-fucose synthase
+EKPNOOPC_01297	CDS	969				hypothetical protein
+EKPNOOPC_01298	CDS	432				hypothetical protein
+EKPNOOPC_01299	CDS	1074	moaA_13			GTP 3',8-cyclase
+EKPNOOPC_01300	CDS	501				hypothetical protein
+EKPNOOPC_01301	CDS	516				hypothetical protein
+EKPNOOPC_01302	CDS	354				hypothetical protein
+EKPNOOPC_01303	CDS	201				hypothetical protein
+EKPNOOPC_01304	CDS	276				hypothetical protein
+EKPNOOPC_01305	CDS	1203				hypothetical protein
+EKPNOOPC_01306	CDS	765				hypothetical protein
+EKPNOOPC_01307	CDS	351				hypothetical protein
+EKPNOOPC_01308	CDS	1053				hypothetical protein
+EKPNOOPC_01309	CDS	1614				hypothetical protein
+EKPNOOPC_01310	CDS	378				hypothetical protein
+EKPNOOPC_01311	CDS	597	rpoE1	2.7.7.6	COG1095	DNA-directed RNA polymerase subunit E'
+EKPNOOPC_01312	CDS	186				hypothetical protein
+EKPNOOPC_01313	CDS	372				hypothetical protein
+EKPNOOPC_01314	CDS	207				hypothetical protein
+EKPNOOPC_01315	CDS	891				hypothetical protein
+EKPNOOPC_01316	CDS	321				hypothetical protein
+EKPNOOPC_01317	CDS	1080				hypothetical protein
+EKPNOOPC_01318	CDS	729	rpl1			50S ribosomal protein L1
+EKPNOOPC_01319	CDS	162				hypothetical protein
+EKPNOOPC_01320	CDS	1089				hypothetical protein
+EKPNOOPC_01321	CDS	138				hypothetical protein
+EKPNOOPC_01322	CDS	144				hypothetical protein
+EKPNOOPC_01323	CDS	135				hypothetical protein
+EKPNOOPC_01324	CDS	552				hypothetical protein
+EKPNOOPC_01325	CDS	699				hypothetical protein
+EKPNOOPC_01326	CDS	1209				hypothetical protein
+EKPNOOPC_01327	CDS	540				hypothetical protein
+EKPNOOPC_01328	CDS	945				hypothetical protein
+EKPNOOPC_01329	CDS	438				hypothetical protein
+EKPNOOPC_01330	CDS	1065				hypothetical protein
+EKPNOOPC_01331	CDS	1008	fni	5.3.3.2	COG1304	Isopentenyl-diphosphate delta-isomerase
+EKPNOOPC_01332	CDS	885	ispH	1.17.7.4		4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+EKPNOOPC_01333	CDS	711	uppS	2.5.1.89	COG0020	Tritrans,polycis-undecaprenyl-diphosphate synthase (GGDP specific)
+EKPNOOPC_01334	CDS	582			COG2078	Protein
+EKPNOOPC_01335	CDS	279	rpoL	2.7.7.6	COG1761	DNA-directed RNA polymerase subunit L
+EKPNOOPC_01336	CDS	624	rlmG	2.1.1.174		Ribosomal RNA large subunit methyltransferase G
+EKPNOOPC_01337	CDS	531				hypothetical protein
+EKPNOOPC_01338	CDS	291				hypothetical protein
+EKPNOOPC_01339	CDS	753				hypothetical protein
+EKPNOOPC_01340	CDS	420				hypothetical protein
+EKPNOOPC_01341	CDS	819	xerA_2		COG0582	Tyrosine recombinase XerA
+EKPNOOPC_01342	CDS	603				hypothetical protein
+EKPNOOPC_01343	CDS	183				hypothetical protein
+EKPNOOPC_01344	CDS	714				hypothetical protein
+EKPNOOPC_01345	CDS	1590				hypothetical protein
+EKPNOOPC_01346	CDS	1332				hypothetical protein
+EKPNOOPC_01347	CDS	1182				hypothetical protein
+EKPNOOPC_01348	CDS	411				hypothetical protein
+EKPNOOPC_01349	CDS	984	kae1	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+EKPNOOPC_01350	CDS	129				hypothetical protein
+EKPNOOPC_01351	CDS	1890	lon	3.4.21.-	COG1067	Archaeal Lon protease
+EKPNOOPC_01352	CDS	240	rpoH	2.7.7.6	COG2012	DNA-directed RNA polymerase subunit H
+EKPNOOPC_01353	CDS	1491	rpoB2	2.7.7.6		DNA-directed RNA polymerase subunit B''
+EKPNOOPC_01354	CDS	1803	rpoB1	2.7.7.6		DNA-directed RNA polymerase subunit B'
+EKPNOOPC_01355	CDS	2574	rpoA1	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit A'
+EKPNOOPC_01356	CDS	1134	rpoA2	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit A''
+EKPNOOPC_01357	CDS	288			COG1911	50S ribosomal protein L30e
+EKPNOOPC_01358	CDS	381	nusA			Transcription termination/antitermination protein NusA
+EKPNOOPC_01359	CDS	438			COG0048	30S ribosomal protein S12
+EKPNOOPC_01360	CDS	600	rps7		COG0049	30S ribosomal protein S7
+EKPNOOPC_01361	CDS	552				hypothetical protein
+EKPNOOPC_01362	CDS	840				hypothetical protein
+EKPNOOPC_01363	CDS	606				hypothetical protein
+EKPNOOPC_01364	CDS	585				hypothetical protein
+EKPNOOPC_01365	CDS	159				hypothetical protein
+EKPNOOPC_01366	CDS	1146	gmm	3.6.1.-		GDP-mannose mannosyl hydrolase
+EKPNOOPC_01367	CDS	915				hypothetical protein
+EKPNOOPC_01368	CDS	2049	nadE	6.3.5.1		Glutamine-dependent NAD(+) synthetase
+EKPNOOPC_01369	CDS	1497				hypothetical protein
+EKPNOOPC_01370	CDS	237				hypothetical protein
+EKPNOOPC_01371	CDS	642				hypothetical protein
+EKPNOOPC_01372	CDS	996	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+EKPNOOPC_01373	CDS	525		2.7.7.1	COG1056	Nicotinamide-nucleotide adenylyltransferase
+EKPNOOPC_01374	CDS	474	nudF	3.6.1.13	COG1051	ADP-ribose pyrophosphatase
+EKPNOOPC_01375	CDS	888				hypothetical protein
+EKPNOOPC_01376	CDS	789	cysQ	3.1.3.7		3'(2'),5'-bisphosphate nucleotidase CysQ
+EKPNOOPC_01377	CDS	726	moaA_14			GTP 3',8-cyclase
+EKPNOOPC_01378	CDS	1302				hypothetical protein
+EKPNOOPC_01379	CDS	1419				hypothetical protein
+EKPNOOPC_01380	CDS	561				hypothetical protein
+EKPNOOPC_01381	CDS	915				hypothetical protein
+EKPNOOPC_01382	CDS	1917	lig_2	6.5.1.1		DNA ligase
+EKPNOOPC_01383	CDS	678				hypothetical protein
+EKPNOOPC_01384	CDS	444				hypothetical protein
+EKPNOOPC_01385	CDS	393				hypothetical protein
+EKPNOOPC_01386	CDS	315				hypothetical protein
+EKPNOOPC_01387	CDS	1725	mshA_8	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+EKPNOOPC_01388	CDS	987	gmd_2	4.2.1.47		GDP-mannose 4,6-dehydratase
+EKPNOOPC_01389	CDS	693	aglF_2	2.7.7.9	COG1209	UTP--glucose-1-phosphate uridylyltransferase AglF
+EKPNOOPC_01390	CDS	975		1.1.1.179		D-xylose 1-dehydrogenase (NADP(+)) 2
+EKPNOOPC_01391	CDS	1110	mshA_9	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+EKPNOOPC_01392	CDS	2436				hypothetical protein
+EKPNOOPC_01393	CDS	1542				hypothetical protein
+EKPNOOPC_01394	CDS	1536	murJ_2			lipid II flippase MurJ
+EKPNOOPC_01395	CDS	3144				hypothetical protein
+EKPNOOPC_01396	CDS	576				hypothetical protein
+EKPNOOPC_01397	CDS	1095		1.3.7.11	COG0644	Digeranylgeranylglycerophospholipid reductase
+EKPNOOPC_01398	CDS	1308				hypothetical protein
+EKPNOOPC_01399	CDS	1062				hypothetical protein
+EKPNOOPC_01400	CDS	207	ppsA_3	2.7.9.2	COG0574	putative phosphoenolpyruvate synthase
+EKPNOOPC_01401	CDS	1440				hypothetical protein
+EKPNOOPC_01402	CDS	141				hypothetical protein
+EKPNOOPC_01403	CDS	744				hypothetical protein
+EKPNOOPC_01404	CDS	312			COG0051	30S ribosomal protein S10
+EKPNOOPC_01405	CDS	1287	tuf		COG5256	Elongation factor 1-alpha
+EKPNOOPC_01406	CDS	681				hypothetical protein
+EKPNOOPC_01407	CDS	603				hypothetical protein
+EKPNOOPC_01408	CDS	177				hypothetical protein
+EKPNOOPC_01409	CDS	1677	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+EKPNOOPC_01410	CDS	783	tam	2.1.1.144		Trans-aconitate 2-methyltransferase
+EKPNOOPC_01411	CDS	1647	ths			Thermosome subunit
+EKPNOOPC_01412	CDS	93				hypothetical protein
+EKPNOOPC_01413	CDS	366				hypothetical protein
+EKPNOOPC_01414	CDS	675				hypothetical protein
+EKPNOOPC_01415	CDS	2061				hypothetical protein
+EKPNOOPC_01416	CDS	480				hypothetical protein
+EKPNOOPC_01417	CDS	1836			COG1855	putative KH and PIN-domain containing protein
+EKPNOOPC_01418	CDS	1998				hypothetical protein
+EKPNOOPC_01419	CDS	1065				hypothetical protein
+EKPNOOPC_01420	CDS	738				hypothetical protein
+EKPNOOPC_01421	CDS	900				hypothetical protein
+EKPNOOPC_01422	CDS	318				hypothetical protein
+EKPNOOPC_01423	CDS	654	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+EKPNOOPC_01424	CDS	3495	smc		COG1196	Chromosome partition protein Smc
+EKPNOOPC_01425	CDS	417				hypothetical protein
+EKPNOOPC_01426	CDS	1131	mshA_10	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+EKPNOOPC_01427	CDS	648	dac	3.5.1.105	COG2120	Diacetylchitobiose deacetylase
+EKPNOOPC_01428	CDS	939	maX1_2		COG0530	Sodium/calcium exchanger MaX1
+EKPNOOPC_01429	tRNA	90				tRNA-Tyr(ata)
+EKPNOOPC_01430	CDS	315				hypothetical protein
+EKPNOOPC_01431	CDS	765				hypothetical protein
+EKPNOOPC_01432	CDS	486				hypothetical protein
+EKPNOOPC_01433	CDS	174				hypothetical protein
+EKPNOOPC_01434	CDS	324			COG2118	DNA-binding protein
+EKPNOOPC_01435	CDS	555				hypothetical protein
+EKPNOOPC_01436	CDS	2178	fusA		COG0480	Elongation factor 2
+EKPNOOPC_01437	CDS	480	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+EKPNOOPC_01438	CDS	189			COG2075	50S ribosomal protein L24e
+EKPNOOPC_01439	CDS	297				hypothetical protein
+EKPNOOPC_01440	CDS	321	rpl7ae		COG1358	50S ribosomal protein L7Ae
+EKPNOOPC_01441	CDS	807				hypothetical protein
+EKPNOOPC_01442	CDS	570				hypothetical protein
+EKPNOOPC_01443	CDS	1356	rnj	3.1.-.-		Ribonuclease J
+EKPNOOPC_01444	CDS	750				hypothetical protein
+EKPNOOPC_01445	CDS	807				hypothetical protein
+EKPNOOPC_01446	CDS	402				hypothetical protein
+EKPNOOPC_01447	CDS	1215	COQ3_2	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+EKPNOOPC_01448	CDS	258				hypothetical protein
+EKPNOOPC_01449	CDS	657				hypothetical protein
+EKPNOOPC_01450	CDS	369				hypothetical protein
+EKPNOOPC_01451	CDS	342				hypothetical protein
+EKPNOOPC_01452	CDS	795				hypothetical protein
+EKPNOOPC_01453	CDS	345				hypothetical protein
+EKPNOOPC_01454	CDS	300				hypothetical protein
+EKPNOOPC_01455	CDS	216				hypothetical protein
+EKPNOOPC_01456	CDS	384				hypothetical protein
+EKPNOOPC_01457	CDS	948				hypothetical protein
+EKPNOOPC_01458	CDS	384				hypothetical protein
+EKPNOOPC_01459	CDS	309				hypothetical protein
+EKPNOOPC_01460	CDS	1914				hypothetical protein
+EKPNOOPC_01461	CDS	1029				hypothetical protein
+EKPNOOPC_01462	CDS	414				hypothetical protein
+EKPNOOPC_01463	CDS	306				hypothetical protein
+EKPNOOPC_01464	CDS	177				hypothetical protein
+EKPNOOPC_01465	CDS	612				hypothetical protein
+EKPNOOPC_01466	CDS	201				hypothetical protein
+EKPNOOPC_01467	CDS	225				hypothetical protein
+EKPNOOPC_01468	CDS	213				hypothetical protein
+EKPNOOPC_01469	CDS	156				hypothetical protein
+EKPNOOPC_01470	CDS	285				hypothetical protein
+EKPNOOPC_01471	CDS	1188				hypothetical protein
+EKPNOOPC_01472	CDS	330				hypothetical protein
+EKPNOOPC_01473	CDS	156				hypothetical protein
+EKPNOOPC_01474	CDS	1053	purM	6.3.3.1		Phosphoribosylformylglycinamidine cyclo-ligase
+EKPNOOPC_01475	CDS	540				hypothetical protein
+EKPNOOPC_01476	CDS	189				hypothetical protein
+EKPNOOPC_01477	CDS	450				hypothetical protein
+EKPNOOPC_01478	CDS	534				hypothetical protein
+EKPNOOPC_01479	CDS	915				hypothetical protein
+EKPNOOPC_01480	CDS	1200	sufS	2.8.1.7	COG0520	Cysteine desulfurase
+EKPNOOPC_01481	CDS	381				hypothetical protein
+EKPNOOPC_01482	CDS	168				hypothetical protein
+EKPNOOPC_01483	CDS	150				hypothetical protein
+EKPNOOPC_01484	CDS	294				hypothetical protein
+EKPNOOPC_01485	CDS	642	COQ5_3	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+EKPNOOPC_01486	CDS	579				hypothetical protein
+EKPNOOPC_01487	CDS	498				hypothetical protein
+EKPNOOPC_01488	CDS	270				hypothetical protein
+EKPNOOPC_01489	CDS	537				hypothetical protein
+EKPNOOPC_01490	CDS	708				hypothetical protein
+EKPNOOPC_01491	CDS	1170	kefB_2			Glutathione-regulated potassium-efflux system protein KefB
+EKPNOOPC_01492	CDS	1386	glnA	6.3.1.2	COG0174	Glutamine synthetase
+EKPNOOPC_01493	CDS	240				hypothetical protein
+EKPNOOPC_01494	CDS	447			COG1522	putative HTH-type transcriptional regulator
+EKPNOOPC_01495	CDS	1110				hypothetical protein
+EKPNOOPC_01496	CDS	1140	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+EKPNOOPC_01497	CDS	1275				hypothetical protein
+EKPNOOPC_01498	CDS	1089				hypothetical protein
+EKPNOOPC_01499	CDS	1029				hypothetical protein
+EKPNOOPC_01500	CDS	1182				hypothetical protein
+EKPNOOPC_01501	CDS	2340	dinG	3.1.-.-		3'-5' exonuclease DinG
+EKPNOOPC_01502	CDS	336				hypothetical protein
+EKPNOOPC_01503	CDS	591	cpdA	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+EKPNOOPC_01504	tRNA	75				tRNA-Glu(ttc)
+EKPNOOPC_01505	CDS	471				hypothetical protein
+EKPNOOPC_01506	CDS	498				hypothetical protein
+EKPNOOPC_01507	CDS	474				hypothetical protein
+EKPNOOPC_01508	CDS	249				hypothetical protein
+EKPNOOPC_01509	CDS	291				hypothetical protein
+EKPNOOPC_01510	CDS	129				hypothetical protein
+EKPNOOPC_01511	CDS	342				hypothetical protein
+EKPNOOPC_01512	CDS	453				hypothetical protein
+EKPNOOPC_01513	CDS	1734				hypothetical protein
+EKPNOOPC_01514	CDS	225			COG1958	Putative snRNP Sm-like protein
+EKPNOOPC_01515	CDS	165				50S ribosomal protein L37e
+EKPNOOPC_01516	CDS	1623				hypothetical protein
+EKPNOOPC_01517	CDS	663				hypothetical protein
+EKPNOOPC_01518	CDS	579				hypothetical protein
+EKPNOOPC_01519	CDS	750				hypothetical protein
+EKPNOOPC_01520	CDS	1626				hypothetical protein
+EKPNOOPC_01521	CDS	1461				hypothetical protein
+EKPNOOPC_01522	CDS	702	aglD_2	2.4.1.-	COG0392	Glycosyltransferase AglD
+EKPNOOPC_01523	CDS	237				hypothetical protein
+EKPNOOPC_01524	CDS	300				hypothetical protein
+EKPNOOPC_01525	CDS	237				hypothetical protein
+EKPNOOPC_01526	CDS	543				hypothetical protein
+EKPNOOPC_01527	CDS	552				hypothetical protein
+EKPNOOPC_01528	CDS	1590				hypothetical protein

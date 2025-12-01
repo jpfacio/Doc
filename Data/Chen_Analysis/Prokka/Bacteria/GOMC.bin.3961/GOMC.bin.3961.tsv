@@ -1,0 +1,569 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+MNPEDHOL_00001	CDS	204	atpF			ATP synthase subunit b
+MNPEDHOL_00002	CDS	432	atpD_1			ATP synthase subunit delta
+MNPEDHOL_00003	CDS	483	swrC		COG0841	Swarming motility protein SwrC
+MNPEDHOL_00004	CDS	231				hypothetical protein
+MNPEDHOL_00005	CDS	990	aaeA			p-hydroxybenzoic acid efflux pump subunit AaeA
+MNPEDHOL_00006	CDS	1221				hypothetical protein
+MNPEDHOL_00007	CDS	687			COG1136	putative ABC transporter ATP-binding protein
+MNPEDHOL_00008	CDS	396				hypothetical protein
+MNPEDHOL_00009	CDS	513	hrcA			Heat-inducible transcription repressor HrcA
+MNPEDHOL_00010	CDS	915	grpE			Protein GrpE
+MNPEDHOL_00011	CDS	330	rplQ		COG0203	50S ribosomal protein L17
+MNPEDHOL_00012	CDS	393	rplM		COG0102	50S ribosomal protein L13
+MNPEDHOL_00013	CDS	471	rpsI		COG0103	30S ribosomal protein S9
+MNPEDHOL_00014	CDS	606	tmk_1	2.7.4.9		Thymidylate kinase
+MNPEDHOL_00015	CDS	408	dnaG_1	2.7.7.-		DNA primase
+MNPEDHOL_00016	CDS	2025	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+MNPEDHOL_00017	CDS	777				hypothetical protein
+MNPEDHOL_00018	CDS	1635	murJ_1		COG0728	putative lipid II flippase MurJ
+MNPEDHOL_00019	CDS	690				hypothetical protein
+MNPEDHOL_00020	CDS	2382		7.2.2.10		Calcium-transporting ATPase 1
+MNPEDHOL_00021	CDS	567	mrdB	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+MNPEDHOL_00022	CDS	294				hypothetical protein
+MNPEDHOL_00023	CDS	699				hypothetical protein
+MNPEDHOL_00024	CDS	513				hypothetical protein
+MNPEDHOL_00025	tRNA	88				tRNA-Leu(gag)
+MNPEDHOL_00026	tRNA	75				tRNA-Val(tac)
+MNPEDHOL_00027	tRNA	73				tRNA-Phe(gaa)
+MNPEDHOL_00028	CDS	1746	spoVD		COG0768	Stage V sporulation protein D
+MNPEDHOL_00029	CDS	300	ftsL			Cell division protein FtsL
+MNPEDHOL_00030	CDS	885	rsmH	2.1.1.199		Ribosomal RNA small subunit methyltransferase H
+MNPEDHOL_00031	CDS	1149				hypothetical protein
+MNPEDHOL_00032	CDS	243				hypothetical protein
+MNPEDHOL_00033	CDS	747				hypothetical protein
+MNPEDHOL_00034	CDS	714	exoX	3.1.11.-	COG0847	Exodeoxyribonuclease 10
+MNPEDHOL_00035	CDS	429	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+MNPEDHOL_00036	CDS	411	comM		COG0606	Competence protein ComM
+MNPEDHOL_00037	CDS	894	prmC	2.1.1.297		Release factor glutamine methyltransferase
+MNPEDHOL_00038	CDS	147				hypothetical protein
+MNPEDHOL_00039	CDS	348				hypothetical protein
+MNPEDHOL_00040	CDS	243				hypothetical protein
+MNPEDHOL_00041	CDS	615	ndk	2.7.4.6		Nucleoside diphosphate kinase
+MNPEDHOL_00042	CDS	1029				hypothetical protein
+MNPEDHOL_00043	CDS	1407	murD	6.3.2.9	COG0771	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+MNPEDHOL_00044	CDS	1572	dan	3.5.1.81		D-aminoacylase
+MNPEDHOL_00045	CDS	1005	gap	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase
+MNPEDHOL_00046	CDS	1269	ftsA_1			Cell division protein FtsA
+MNPEDHOL_00047	CDS	711	pfkB	2.7.1.11	COG0524	ATP-dependent 6-phosphofructokinase
+MNPEDHOL_00048	CDS	270	xerD			Tyrosine recombinase XerD
+MNPEDHOL_00049	CDS	2136	pcrA	3.6.4.12		ATP-dependent DNA helicase PcrA
+MNPEDHOL_00050	CDS	1284				hypothetical protein
+MNPEDHOL_00051	CDS	717			COG0217	putative transcriptional regulatory protein
+MNPEDHOL_00052	CDS	342				hypothetical protein
+MNPEDHOL_00053	CDS	1173				hypothetical protein
+MNPEDHOL_00054	CDS	597				hypothetical protein
+MNPEDHOL_00055	CDS	297	rpsO			30S ribosomal protein S15
+MNPEDHOL_00056	CDS	498				hypothetical protein
+MNPEDHOL_00057	tRNA	86				tRNA-Leu(tag)
+MNPEDHOL_00058	CDS	282				hypothetical protein
+MNPEDHOL_00059	CDS	1209	tyrS	6.1.1.1	COG0162	Tyrosine--tRNA ligase
+MNPEDHOL_00060	CDS	111				hypothetical protein
+MNPEDHOL_00061	CDS	549				hypothetical protein
+MNPEDHOL_00062	CDS	486				hypothetical protein
+MNPEDHOL_00063	CDS	573	coaE	2.7.1.24		Dephospho-CoA kinase
+MNPEDHOL_00064	CDS	1293				hypothetical protein
+MNPEDHOL_00065	CDS	582				hypothetical protein
+MNPEDHOL_00066	CDS	552				hypothetical protein
+MNPEDHOL_00067	CDS	441				hypothetical protein
+MNPEDHOL_00068	CDS	1101	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+MNPEDHOL_00069	CDS	1971				hypothetical protein
+MNPEDHOL_00070	CDS	357				hypothetical protein
+MNPEDHOL_00071	CDS	462	def1	3.5.1.88	COG0242	Peptide deformylase 1
+MNPEDHOL_00072	CDS	168				hypothetical protein
+MNPEDHOL_00073	CDS	1656	pheT	6.1.1.20		Phenylalanine--tRNA ligase beta subunit
+MNPEDHOL_00074	CDS	366				hypothetical protein
+MNPEDHOL_00075	CDS	120				hypothetical protein
+MNPEDHOL_00076	CDS	204				hypothetical protein
+MNPEDHOL_00077	CDS	456	rplO		COG0200	50S ribosomal protein L15
+MNPEDHOL_00078	CDS	486	rpsE		COG0098	30S ribosomal protein S5
+MNPEDHOL_00079	CDS	324	rplR			50S ribosomal protein L18
+MNPEDHOL_00080	CDS	543	rplF			50S ribosomal protein L6
+MNPEDHOL_00081	CDS	408	rpsH		COG0096	30S ribosomal protein S8
+MNPEDHOL_00082	CDS	2097	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+MNPEDHOL_00083	CDS	573				hypothetical protein
+MNPEDHOL_00084	CDS	222				hypothetical protein
+MNPEDHOL_00085	CDS	1011	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+MNPEDHOL_00086	CDS	504				hypothetical protein
+MNPEDHOL_00087	CDS	681				hypothetical protein
+MNPEDHOL_00088	CDS	411	lspA	3.4.23.36		Lipoprotein signal peptidase
+MNPEDHOL_00089	CDS	351	yocK		COG1734	General stress protein 16O
+MNPEDHOL_00090	CDS	408	atpD_2	7.1.2.2	COG0055	ATP synthase subunit beta
+MNPEDHOL_00091	CDS	429	atpC		COG0355	ATP synthase epsilon chain
+MNPEDHOL_00092	CDS	624				hypothetical protein
+MNPEDHOL_00093	CDS	213				hypothetical protein
+MNPEDHOL_00094	CDS	990	ggt	3.4.19.13	COG0405	Glutathione hydrolase proenzyme
+MNPEDHOL_00095	CDS	1149				hypothetical protein
+MNPEDHOL_00096	CDS	873	rtcB	6.5.1.-	COG1690	RNA-splicing ligase RtcB
+MNPEDHOL_00097	CDS	585	tmk_2	2.7.4.9		Thymidylate kinase
+MNPEDHOL_00098	CDS	1470	murJ_2			lipid II flippase MurJ
+MNPEDHOL_00099	CDS	1284				hypothetical protein
+MNPEDHOL_00100	tRNA	75				tRNA-Val(gac)
+MNPEDHOL_00101	CDS	948	dusB	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+MNPEDHOL_00102	CDS	282				hypothetical protein
+MNPEDHOL_00103	CDS	687				hypothetical protein
+MNPEDHOL_00104	CDS	405				hypothetical protein
+MNPEDHOL_00105	CDS	1230				hypothetical protein
+MNPEDHOL_00106	CDS	828				hypothetical protein
+MNPEDHOL_00107	CDS	1773				hypothetical protein
+MNPEDHOL_00108	CDS	957	atpG		COG0224	ATP synthase gamma chain
+MNPEDHOL_00109	CDS	606	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+MNPEDHOL_00110	CDS	906				hypothetical protein
+MNPEDHOL_00111	CDS	1305				hypothetical protein
+MNPEDHOL_00112	CDS	345				hypothetical protein
+MNPEDHOL_00113	CDS	402				hypothetical protein
+MNPEDHOL_00114	CDS	930	rmlD	1.1.1.133	COG1091	dTDP-4-dehydrorhamnose reductase
+MNPEDHOL_00115	CDS	1725	uvrA			UvrABC system protein A
+MNPEDHOL_00116	CDS	1134	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+MNPEDHOL_00117	CDS	1920				hypothetical protein
+MNPEDHOL_00118	CDS	693				hypothetical protein
+MNPEDHOL_00119	CDS	492		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+MNPEDHOL_00120	CDS	612				hypothetical protein
+MNPEDHOL_00121	CDS	489				hypothetical protein
+MNPEDHOL_00122	CDS	594	maf	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+MNPEDHOL_00123	CDS	627				hypothetical protein
+MNPEDHOL_00124	CDS	570	engB		COG0218	putative GTP-binding protein EngB
+MNPEDHOL_00125	CDS	1146	rpoS_1			RNA polymerase sigma factor RpoS
+MNPEDHOL_00126	CDS	1617				hypothetical protein
+MNPEDHOL_00127	CDS	1866				hypothetical protein
+MNPEDHOL_00128	CDS	426				hypothetical protein
+MNPEDHOL_00129	CDS	945	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+MNPEDHOL_00130	CDS	4407				hypothetical protein
+MNPEDHOL_00131	CDS	1374				hypothetical protein
+MNPEDHOL_00132	CDS	1203				hypothetical protein
+MNPEDHOL_00133	CDS	108				hypothetical protein
+MNPEDHOL_00134	CDS	384				hypothetical protein
+MNPEDHOL_00135	CDS	1176	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+MNPEDHOL_00136	CDS	1008	mreB_1		COG1077	Cell shape-determining protein MreB
+MNPEDHOL_00137	CDS	1305	murA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+MNPEDHOL_00138	CDS	183				hypothetical protein
+MNPEDHOL_00139	CDS	357				hypothetical protein
+MNPEDHOL_00140	CDS	1194	thiI	2.8.1.4	COG0301	putative tRNA sulfurtransferase
+MNPEDHOL_00141	CDS	810	corA		COG0598	Cobalt/magnesium transport protein CorA
+MNPEDHOL_00142	CDS	522				hypothetical protein
+MNPEDHOL_00143	CDS	831				hypothetical protein
+MNPEDHOL_00144	CDS	222	rpsJ		COG0051	30S ribosomal protein S10
+MNPEDHOL_00145	CDS	570	rplC		COG0087	50S ribosomal protein L3
+MNPEDHOL_00146	CDS	630	rplD			50S ribosomal protein L4
+MNPEDHOL_00147	CDS	417				hypothetical protein
+MNPEDHOL_00148	CDS	327				hypothetical protein
+MNPEDHOL_00149	CDS	531				hypothetical protein
+MNPEDHOL_00150	CDS	834	rplB			50S ribosomal protein L2
+MNPEDHOL_00151	CDS	288	rpsC		COG0092	30S ribosomal protein S3
+MNPEDHOL_00152	CDS	405	rplP		COG0197	50S ribosomal protein L16
+MNPEDHOL_00153	CDS	210				hypothetical protein
+MNPEDHOL_00154	CDS	255	rpsQ			30S ribosomal protein S17
+MNPEDHOL_00155	CDS	366	rplN		COG0093	50S ribosomal protein L14
+MNPEDHOL_00156	CDS	309	rplX			50S ribosomal protein L24
+MNPEDHOL_00157	CDS	594	rplE		COG0094	50S ribosomal protein L5
+MNPEDHOL_00158	CDS	186	rpsN1		COG0199	30S ribosomal protein S14
+MNPEDHOL_00159	CDS	1851	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+MNPEDHOL_00160	CDS	924				hypothetical protein
+MNPEDHOL_00161	CDS	474				hypothetical protein
+MNPEDHOL_00162	CDS	702	znuC	7.2.2.-	COG1121	Zinc import ATP-binding protein ZnuC
+MNPEDHOL_00163	CDS	264				hypothetical protein
+MNPEDHOL_00164	CDS	1251	gluD	1.4.1.2		NAD-specific glutamate dehydrogenase
+MNPEDHOL_00165	CDS	462				hypothetical protein
+MNPEDHOL_00166	CDS	270				hypothetical protein
+MNPEDHOL_00167	CDS	1263	hoxH	1.12.1.2		NAD-reducing hydrogenase HoxS subunit beta
+MNPEDHOL_00168	CDS	783				hypothetical protein
+MNPEDHOL_00169	CDS	1212	hypF	6.2.-.-	COG0068	Carbamoyltransferase HypF
+MNPEDHOL_00170	CDS	405	hypE	4.2.1.-		Carbamoyl dehydratase HypE
+MNPEDHOL_00171	CDS	1083	pilT		COG2805	Twitching mobility protein
+MNPEDHOL_00172	CDS	396	phoB_1		COG0745	Phosphate regulon transcriptional regulatory protein PhoB
+MNPEDHOL_00173	CDS	1665				hypothetical protein
+MNPEDHOL_00174	CDS	297				hypothetical protein
+MNPEDHOL_00175	CDS	252				hypothetical protein
+MNPEDHOL_00176	CDS	423	tagD	2.7.7.39	COG0615	Glycerol-3-phosphate cytidylyltransferase
+MNPEDHOL_00177	CDS	966	obg	3.6.5.-		GTPase Obg
+MNPEDHOL_00178	CDS	921	secF		COG0341	Protein translocase subunit SecF
+MNPEDHOL_00179	CDS	1692	secD			Protein translocase subunit SecD
+MNPEDHOL_00180	CDS	2049	secA		COG0653	Protein translocase subunit SecA
+MNPEDHOL_00181	CDS	216				hypothetical protein
+MNPEDHOL_00182	CDS	417				hypothetical protein
+MNPEDHOL_00183	CDS	555	mnmA	2.8.1.13	COG0482	tRNA-specific 2-thiouridylase MnmA
+MNPEDHOL_00184	CDS	810	pepA	3.4.11.1	COG0260	Cytosol aminopeptidase
+MNPEDHOL_00185	CDS	1080	eno	4.2.1.11	COG0148	Enolase
+MNPEDHOL_00186	CDS	1581	gpmI_1	5.4.2.12		2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+MNPEDHOL_00187	CDS	1611				hypothetical protein
+MNPEDHOL_00188	CDS	279	OSGEPL1	2.3.1.234		tRNA N6-adenosine threonylcarbamoyltransferase, mitochondrial
+MNPEDHOL_00189	CDS	2688	valS	6.1.1.9		Valine--tRNA ligase
+MNPEDHOL_00190	CDS	579				hypothetical protein
+MNPEDHOL_00191	CDS	600				hypothetical protein
+MNPEDHOL_00192	CDS	1032	hypD		COG0409	Hydrogenase maturation factor HypD
+MNPEDHOL_00193	CDS	234	hypC		COG0298	Hydrogenase maturation factor HypC
+MNPEDHOL_00194	CDS	714				hypothetical protein
+MNPEDHOL_00195	CDS	1038	manC1	2.7.7.13	COG0662	Mannose-1-phosphate guanylyltransferase 1
+MNPEDHOL_00196	CDS	1002				hypothetical protein
+MNPEDHOL_00197	CDS	243				hypothetical protein
+MNPEDHOL_00198	CDS	711		2.5.1.68	COG0020	(2Z,6E)-farnesyl diphosphate synthase
+MNPEDHOL_00199	CDS	420	rpsL		COG0048	30S ribosomal protein S12
+MNPEDHOL_00200	CDS	468	rpsG		COG0049	30S ribosomal protein S7
+MNPEDHOL_00201	CDS	2121	fusA		COG0480	Elongation factor G
+MNPEDHOL_00202	CDS	1323				hypothetical protein
+MNPEDHOL_00203	CDS	1866	lepA	3.6.5.-	COG0481	Elongation factor 4
+MNPEDHOL_00204	CDS	231				hypothetical protein
+MNPEDHOL_00205	CDS	1770	dnaG_2	2.7.7.-		DNA primase
+MNPEDHOL_00206	CDS	1458				hypothetical protein
+MNPEDHOL_00207	CDS	1719				hypothetical protein
+MNPEDHOL_00208	CDS	1251	wcaJ	2.7.8.31	COG2148	UDP-glucose:undecaprenyl-phosphate glucose-1-phosphate transferase
+MNPEDHOL_00209	CDS	660				hypothetical protein
+MNPEDHOL_00210	CDS	222				hypothetical protein
+MNPEDHOL_00211	CDS	1218	ftsZ		COG0206	Cell division protein FtsZ
+MNPEDHOL_00212	CDS	618				hypothetical protein
+MNPEDHOL_00213	CDS	1254	ftsA_2		COG0849	Cell division protein FtsA
+MNPEDHOL_00214	CDS	387	dgkA	2.7.1.66	COG0818	Undecaprenol kinase
+MNPEDHOL_00215	CDS	462	ybeY	3.1.-.-		Endoribonuclease YbeY
+MNPEDHOL_00216	CDS	450	yqeY		COG1610	putative protein YqeY
+MNPEDHOL_00217	CDS	252				hypothetical protein
+MNPEDHOL_00218	CDS	351		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+MNPEDHOL_00219	CDS	1107	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+MNPEDHOL_00220	CDS	774	arnC	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+MNPEDHOL_00221	CDS	1053	galT	2.7.7.12	COG1085	Galactose-1-phosphate uridylyltransferase
+MNPEDHOL_00222	CDS	444				hypothetical protein
+MNPEDHOL_00223	CDS	621	pcm	2.1.1.77	COG2518	Protein-L-isoaspartate O-methyltransferase
+MNPEDHOL_00224	CDS	1077	dnaJ		COG0484	Chaperone protein DnaJ
+MNPEDHOL_00225	CDS	876	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+MNPEDHOL_00226	CDS	867	fba	4.1.2.13		Fructose-bisphosphate aldolase
+MNPEDHOL_00227	CDS	1149	dapX	2.6.1.-	COG0436	putative N-acetyl-LL-diaminopimelate aminotransferase
+MNPEDHOL_00228	CDS	585				hypothetical protein
+MNPEDHOL_00229	CDS	318				hypothetical protein
+MNPEDHOL_00230	CDS	1080	prfA		COG0216	Peptide chain release factor 1
+MNPEDHOL_00231	CDS	342				hypothetical protein
+MNPEDHOL_00232	CDS	1044	rpoS_2			RNA polymerase sigma factor RpoS
+MNPEDHOL_00233	CDS	1068				hypothetical protein
+MNPEDHOL_00234	CDS	99				hypothetical protein
+MNPEDHOL_00235	CDS	1056				hypothetical protein
+MNPEDHOL_00236	CDS	1653				hypothetical protein
+MNPEDHOL_00237	CDS	288				hypothetical protein
+MNPEDHOL_00238	CDS	813				hypothetical protein
+MNPEDHOL_00239	CDS	423				hypothetical protein
+MNPEDHOL_00240	CDS	1779	typA		COG1217	GTP-binding protein TypA/BipA 
+MNPEDHOL_00241	CDS	1362	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+MNPEDHOL_00242	CDS	543	lemA		COG1704	Protein LemA
+MNPEDHOL_00243	CDS	654	htpX_1	3.4.24.-	COG0501	Protease HtpX 
+MNPEDHOL_00244	CDS	219	htpX_2	3.4.24.-	COG0501	Protease HtpX 
+MNPEDHOL_00245	CDS	396				hypothetical protein
+MNPEDHOL_00246	CDS	408				hypothetical protein
+MNPEDHOL_00247	CDS	297				hypothetical protein
+MNPEDHOL_00248	CDS	561				hypothetical protein
+MNPEDHOL_00249	CDS	1224	rarA		COG2256	Replication-associated recombination protein A
+MNPEDHOL_00250	CDS	567	rfbC	5.1.3.13	COG1898	dTDP-4-dehydrorhamnose 3,5-epimerase
+MNPEDHOL_00251	CDS	102				hypothetical protein
+MNPEDHOL_00252	CDS	654	mshA_3	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+MNPEDHOL_00253	CDS	1734				hypothetical protein
+MNPEDHOL_00254	CDS	1143	mshA_4	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+MNPEDHOL_00255	CDS	1164	tagU_1	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+MNPEDHOL_00256	CDS	822	wbbL	2.4.1.289	COG1216	N-acetylglucosaminyl-diphospho-decaprenol L-rhamnosyltransferase
+MNPEDHOL_00257	CDS	564				hypothetical protein
+MNPEDHOL_00258	CDS	1392				hypothetical protein
+MNPEDHOL_00259	CDS	573	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+MNPEDHOL_00260	CDS	432				hypothetical protein
+MNPEDHOL_00261	CDS	573				hypothetical protein
+MNPEDHOL_00262	CDS	1857				hypothetical protein
+MNPEDHOL_00263	CDS	810	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+MNPEDHOL_00264	CDS	183	secE			Protein translocase subunit SecE
+MNPEDHOL_00265	CDS	546	nusG		COG0250	Transcription termination/antitermination protein NusG
+MNPEDHOL_00266	CDS	417	rplK		COG0080	50S ribosomal protein L11
+MNPEDHOL_00267	CDS	672	rplA		COG0081	50S ribosomal protein L1
+MNPEDHOL_00268	CDS	405				hypothetical protein
+MNPEDHOL_00269	CDS	951	rlpA	4.2.2.-		Endolytic peptidoglycan transglycosylase RlpA
+MNPEDHOL_00270	CDS	702	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+MNPEDHOL_00271	CDS	1020	rluC	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+MNPEDHOL_00272	CDS	1011	femX	2.3.2.10		UDP-N-acetylmuramoylpentapeptide-lysine N(6)-alanyltransferase
+MNPEDHOL_00273	CDS	573	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+MNPEDHOL_00274	CDS	984				hypothetical protein
+MNPEDHOL_00275	CDS	738	scpA		COG1354	Segregation and condensation protein A
+MNPEDHOL_00276	CDS	576	scpB			Segregation and condensation protein B
+MNPEDHOL_00277	CDS	1014				hypothetical protein
+MNPEDHOL_00278	CDS	1110	murG	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+MNPEDHOL_00279	CDS	1389	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+MNPEDHOL_00280	CDS	1488	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+MNPEDHOL_00281	CDS	2190	topA	5.6.2.1		DNA topoisomerase 1
+MNPEDHOL_00282	CDS	1170				hypothetical protein
+MNPEDHOL_00283	CDS	450			COG0328	Bifunctional protein
+MNPEDHOL_00284	CDS	582	recR		COG0353	Recombination protein RecR
+MNPEDHOL_00285	CDS	297	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+MNPEDHOL_00286	CDS	1098	ftsA_3			Cell division protein FtsA
+MNPEDHOL_00287	CDS	459	greA		COG0782	Transcription elongation factor GreA
+MNPEDHOL_00288	tRNA	73				tRNA-Glu(ctc)
+MNPEDHOL_00289	CDS	981	secY		COG0201	Protein translocase subunit SecY
+MNPEDHOL_00290	CDS	774	map	3.4.11.18	COG0024	Methionine aminopeptidase 1
+MNPEDHOL_00291	CDS	432	yqgF	3.1.-.-		Putative pre-16S rRNA nuclease
+MNPEDHOL_00292	CDS	288				hypothetical protein
+MNPEDHOL_00293	CDS	666				hypothetical protein
+MNPEDHOL_00294	CDS	363				hypothetical protein
+MNPEDHOL_00295	CDS	354				hypothetical protein
+MNPEDHOL_00296	CDS	276				hypothetical protein
+MNPEDHOL_00297	CDS	864	comEC		COG0658	ComE operon protein 3
+MNPEDHOL_00298	CDS	1464				hypothetical protein
+MNPEDHOL_00299	CDS	528				hypothetical protein
+MNPEDHOL_00300	CDS	807	cysQ	3.1.3.7	COG1218	3'(2'),5'-bisphosphate nucleotidase CysQ
+MNPEDHOL_00301	CDS	741				hypothetical protein
+MNPEDHOL_00302	CDS	624				hypothetical protein
+MNPEDHOL_00303	CDS	321				hypothetical protein
+MNPEDHOL_00304	CDS	618	sipT	3.4.21.89	COG0681	Signal peptidase I T
+MNPEDHOL_00305	CDS	483	rpsA		COG0539	30S ribosomal protein S1
+MNPEDHOL_00306	CDS	561	cmk	2.7.4.25		Cytidylate kinase
+MNPEDHOL_00307	CDS	972	tilS	6.3.4.19		tRNA(Ile)-lysidine synthase
+MNPEDHOL_00308	CDS	1848	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+MNPEDHOL_00309	tRNA	74				tRNA-Pro(tgg)
+MNPEDHOL_00310	CDS	1017	recA		COG0468	Protein RecA
+MNPEDHOL_00311	CDS	675				hypothetical protein
+MNPEDHOL_00312	CDS	1239	glyA	2.1.2.1		Serine hydroxymethyltransferase
+MNPEDHOL_00313	CDS	618	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+MNPEDHOL_00314	CDS	243				hypothetical protein
+MNPEDHOL_00315	CDS	765	atpB		COG0356	ATP synthase subunit a
+MNPEDHOL_00316	CDS	267	atpE			ATP synthase subunit c, sodium ion specific
+MNPEDHOL_00317	CDS	297				hypothetical protein
+MNPEDHOL_00318	CDS	756	rpsB		COG0052	30S ribosomal protein S2
+MNPEDHOL_00319	CDS	579	tsf		COG0264	Elongation factor Ts
+MNPEDHOL_00320	CDS	789				hypothetical protein
+MNPEDHOL_00321	CDS	144				hypothetical protein
+MNPEDHOL_00322	CDS	945	gshAB	6.3.2.3		Glutathione biosynthesis bifunctional protein GshAB
+MNPEDHOL_00323	CDS	864				hypothetical protein
+MNPEDHOL_00324	CDS	1401				hypothetical protein
+MNPEDHOL_00325	CDS	492				hypothetical protein
+MNPEDHOL_00326	CDS	120				hypothetical protein
+MNPEDHOL_00327	CDS	981	dnaA		COG0593	Chromosomal replication initiator protein DnaA
+MNPEDHOL_00328	CDS	135				hypothetical protein
+MNPEDHOL_00329	CDS	816				hypothetical protein
+MNPEDHOL_00330	CDS	285				hypothetical protein
+MNPEDHOL_00331	CDS	957	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+MNPEDHOL_00332	CDS	1062	yerB			Putative lipoprotein YerB
+MNPEDHOL_00333	CDS	957	yqeN		COG1466	putative protein YqeN
+MNPEDHOL_00334	CDS	267				hypothetical protein
+MNPEDHOL_00335	CDS	1659	groL			60 kDa chaperonin
+MNPEDHOL_00336	CDS	1272		3.4.24.-	COG0612	putative zinc protease
+MNPEDHOL_00337	CDS	693				hypothetical protein
+MNPEDHOL_00338	CDS	663				hypothetical protein
+MNPEDHOL_00339	CDS	213				hypothetical protein
+MNPEDHOL_00340	CDS	228				hypothetical protein
+MNPEDHOL_00341	CDS	2442	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+MNPEDHOL_00342	CDS	1083				hypothetical protein
+MNPEDHOL_00343	CDS	1089	mreB_2		COG1077	Cell shape-determining protein MreB
+MNPEDHOL_00344	CDS	822				hypothetical protein
+MNPEDHOL_00345	CDS	534				hypothetical protein
+MNPEDHOL_00346	CDS	1869	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+MNPEDHOL_00347	CDS	1068		2.5.1.10	COG0142	(2E,6E)-farnesyl diphosphate synthase
+MNPEDHOL_00348	CDS	1056	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+MNPEDHOL_00349	CDS	201				hypothetical protein
+MNPEDHOL_00350	CDS	297				hypothetical protein
+MNPEDHOL_00351	CDS	561				hypothetical protein
+MNPEDHOL_00352	CDS	219				hypothetical protein
+MNPEDHOL_00353	CDS	777	rsmA	2.1.1.182		Ribosomal RNA small subunit methyltransferase A
+MNPEDHOL_00354	rRNA	70				5S ribosomal RNA (partial)
+MNPEDHOL_00355	CDS	390				hypothetical protein
+MNPEDHOL_00356	CDS	1281	baiN	1.3.1.114	COG2081	3-dehydro-bile acid delta(4,6)-reductase
+MNPEDHOL_00357	CDS	1410	mggS	2.4.1.-		Mannosylglucosylglycerate synthase
+MNPEDHOL_00358	CDS	603	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+MNPEDHOL_00359	CDS	1164				hypothetical protein
+MNPEDHOL_00360	CDS	1215				hypothetical protein
+MNPEDHOL_00361	CDS	1290				hypothetical protein
+MNPEDHOL_00362	CDS	912	mutM	3.2.2.23	COG0266	Formamidopyrimidine-DNA glycosylase
+MNPEDHOL_00363	CDS	954				hypothetical protein
+MNPEDHOL_00364	CDS	771				hypothetical protein
+MNPEDHOL_00365	CDS	1566	cca	2.7.7.72		CCA-adding enzyme
+MNPEDHOL_00366	CDS	945	sasA	2.7.-.-		Adaptive-response sensory-kinase SasA
+MNPEDHOL_00367	CDS	381	phoB_2		COG0745	Phosphate regulon transcriptional regulatory protein PhoB
+MNPEDHOL_00368	CDS	192				hypothetical protein
+MNPEDHOL_00369	CDS	543	infC			Translation initiation factor IF-3
+MNPEDHOL_00370	tmRNA	423	ssrA			transfer-messenger RNA, SsrA
+MNPEDHOL_00371	CDS	474	smpB		COG0691	SsrA-binding protein
+MNPEDHOL_00372	CDS	855	folD		COG0190	Bifunctional protein FolD protein
+MNPEDHOL_00373	tRNA	83				tRNA-Leu(caa)
+MNPEDHOL_00374	CDS	765	soj	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+MNPEDHOL_00375	CDS	1203				hypothetical protein
+MNPEDHOL_00376	CDS	606				hypothetical protein
+MNPEDHOL_00377	CDS	351				hypothetical protein
+MNPEDHOL_00378	CDS	204				hypothetical protein
+MNPEDHOL_00379	CDS	1314	aspS2	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+MNPEDHOL_00380	CDS	957	tehA		COG1275	Tellurite resistance protein TehA 
+MNPEDHOL_00381	CDS	279				hypothetical protein
+MNPEDHOL_00382	CDS	204				hypothetical protein
+MNPEDHOL_00383	CDS	102				hypothetical protein
+MNPEDHOL_00384	CDS	669	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+MNPEDHOL_00385	CDS	1107	ftsW	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+MNPEDHOL_00386	CDS	1098	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+MNPEDHOL_00387	CDS	843	pleC	2.7.13.3		Non-motile and phage-resistance protein
+MNPEDHOL_00388	CDS	282				hypothetical protein
+MNPEDHOL_00389	CDS	1563				hypothetical protein
+MNPEDHOL_00390	CDS	273	clpB		COG0542	Chaperone protein ClpB
+MNPEDHOL_00391	CDS	111				hypothetical protein
+MNPEDHOL_00392	CDS	411				hypothetical protein
+MNPEDHOL_00393	CDS	192				hypothetical protein
+MNPEDHOL_00394	CDS	234				hypothetical protein
+MNPEDHOL_00395	CDS	498				Single-stranded DNA-binding protein
+MNPEDHOL_00396	CDS	216	rpsR			30S ribosomal protein S18
+MNPEDHOL_00397	CDS	558	efp			Elongation factor P
+MNPEDHOL_00398	CDS	639				hypothetical protein
+MNPEDHOL_00399	CDS	684	rnc	3.1.26.3		Ribonuclease 3
+MNPEDHOL_00400	CDS	489	nusB		COG0781	Transcription antitermination protein NusB
+MNPEDHOL_00401	CDS	186	rpmF			50S ribosomal protein L32
+MNPEDHOL_00402	tRNA	74				tRNA-Thr(cgt)
+MNPEDHOL_00403	CDS	2583				hypothetical protein
+MNPEDHOL_00404	CDS	315	trxA		COG0526	Thioredoxin
+MNPEDHOL_00405	CDS	1314	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+MNPEDHOL_00406	CDS	492				hypothetical protein
+MNPEDHOL_00407	CDS	225	gpmI_2	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+MNPEDHOL_00408	CDS	1323	lysS	6.1.1.6		Lysine--tRNA ligase
+MNPEDHOL_00409	CDS	417				hypothetical protein
+MNPEDHOL_00410	CDS	522				hypothetical protein
+MNPEDHOL_00411	CDS	267				hypothetical protein
+MNPEDHOL_00412	CDS	363				hypothetical protein
+MNPEDHOL_00413	CDS	291	gatC	6.3.5.-		Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C
+MNPEDHOL_00414	CDS	1353	ligA	6.5.1.2	COG0272	DNA ligase
+MNPEDHOL_00415	CDS	510				hypothetical protein
+MNPEDHOL_00416	CDS	1422				hypothetical protein
+MNPEDHOL_00417	CDS	330				hypothetical protein
+MNPEDHOL_00418	CDS	1962				hypothetical protein
+MNPEDHOL_00419	CDS	1644		2.3.1.-		tRNA uridine(34) acetyltransferase
+MNPEDHOL_00420	CDS	405				hypothetical protein
+MNPEDHOL_00421	CDS	243	prfB			Peptide chain release factor 2
+MNPEDHOL_00422	CDS	1215				hypothetical protein
+MNPEDHOL_00423	CDS	381				hypothetical protein
+MNPEDHOL_00424	CDS	132				hypothetical protein
+MNPEDHOL_00425	CDS	522				hypothetical protein
+MNPEDHOL_00426	CDS	957	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+MNPEDHOL_00427	CDS	342	rbfA			Ribosome-binding factor A
+MNPEDHOL_00428	CDS	828	infB			Translation initiation factor IF-2
+MNPEDHOL_00429	CDS	264				hypothetical protein
+MNPEDHOL_00430	CDS	1407	metG	6.1.1.10	COG0143	Methionine--tRNA ligase
+MNPEDHOL_00431	CDS	675				hypothetical protein
+MNPEDHOL_00432	CDS	1848	rnjA	3.1.-.-	COG0595	Ribonuclease J1
+MNPEDHOL_00433	CDS	606				hypothetical protein
+MNPEDHOL_00434	CDS	354				hypothetical protein
+MNPEDHOL_00435	CDS	1680				hypothetical protein
+MNPEDHOL_00436	CDS	1254	bglA	3.2.1.21		Beta-glucosidase A
+MNPEDHOL_00437	CDS	1314	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+MNPEDHOL_00438	CDS	1203	ytrF		COG0577	ABC transporter permease YtrF
+MNPEDHOL_00439	CDS	579	porC	1.2.7.1	COG1014	Pyruvate synthase subunit PorC
+MNPEDHOL_00440	CDS	267	porD		COG1144	Pyruvate synthase subunit PorD
+MNPEDHOL_00441	CDS	375				hypothetical protein
+MNPEDHOL_00442	CDS	795	pppA		COG1989	Prepilin peptidase PppA
+MNPEDHOL_00443	CDS	558	frr		COG0233	Ribosome-recycling factor
+MNPEDHOL_00444	CDS	1158	rasP	3.4.24.-	COG0750	Regulator of sigma-W protease RasP
+MNPEDHOL_00445	CDS	723	recO		COG1381	DNA repair protein RecO
+MNPEDHOL_00446	CDS	1062	gpmI_3	5.4.2.12		2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+MNPEDHOL_00447	CDS	477	gpmI_4	5.4.2.12		2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+MNPEDHOL_00448	CDS	2037	nrdD	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+MNPEDHOL_00449	CDS	453	nrdR		COG1327	Transcriptional repressor NrdR
+MNPEDHOL_00450	CDS	549				hypothetical protein
+MNPEDHOL_00451	CDS	1311	nusA		COG0195	Transcription termination/antitermination protein NusA
+MNPEDHOL_00452	CDS	1284	tig	5.2.1.8	COG0544	Trigger factor
+MNPEDHOL_00453	CDS	594	clpP	3.4.21.92		ATP-dependent Clp protease proteolytic subunit
+MNPEDHOL_00454	CDS	1473	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+MNPEDHOL_00455	CDS	960	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+MNPEDHOL_00456	CDS	675	miaB_1	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+MNPEDHOL_00457	CDS	591	miaB_2	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+MNPEDHOL_00458	CDS	1140				hypothetical protein
+MNPEDHOL_00459	tRNA	74				tRNA-Arg(cct)
+MNPEDHOL_00460	CDS	594				hypothetical protein
+MNPEDHOL_00461	CDS	696				hypothetical protein
+MNPEDHOL_00462	CDS	843	mshA_5	2.4.1.250	COG0438	D-inositol 3-phosphate glycosyltransferase
+MNPEDHOL_00463	CDS	720				hypothetical protein
+MNPEDHOL_00464	tRNA	75				tRNA-Arg(tct)
+MNPEDHOL_00465	tRNA	74				tRNA-Lys(ctt)
+MNPEDHOL_00466	CDS	408	smc		COG1196	Chromosome partition protein Smc
+MNPEDHOL_00467	CDS	435				hypothetical protein
+MNPEDHOL_00468	CDS	153				hypothetical protein
+MNPEDHOL_00469	CDS	384	iscU		COG0822	Iron-sulfur cluster assembly scaffold protein IscU
+MNPEDHOL_00470	CDS	1137	iscS	2.8.1.7		Cysteine desulfurase IscS
+MNPEDHOL_00471	CDS	216				hypothetical protein
+MNPEDHOL_00472	CDS	3048	ileS2	6.1.1.5		Isoleucine--tRNA ligase 2
+MNPEDHOL_00473	CDS	1236	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+MNPEDHOL_00474	CDS	237				hypothetical protein
+MNPEDHOL_00475	CDS	297				hypothetical protein
+MNPEDHOL_00476	CDS	174				hypothetical protein
+MNPEDHOL_00477	CDS	825				hypothetical protein
+MNPEDHOL_00478	CDS	543		3.6.1.66		dITP/XTP pyrophosphatase
+MNPEDHOL_00479	CDS	993	rmlB	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+MNPEDHOL_00480	CDS	120				hypothetical protein
+MNPEDHOL_00481	CDS	168				hypothetical protein
+MNPEDHOL_00482	CDS	657				hypothetical protein
+MNPEDHOL_00483	CDS	390	ilvA	4.3.1.19	COG1171	L-threonine dehydratase biosynthetic IlvA
+MNPEDHOL_00484	CDS	711	pyrH			Uridylate kinase
+MNPEDHOL_00485	CDS	1113				hypothetical protein
+MNPEDHOL_00486	CDS	591				hypothetical protein
+MNPEDHOL_00487	CDS	516				hypothetical protein
+MNPEDHOL_00488	CDS	207				hypothetical protein
+MNPEDHOL_00489	CDS	243				hypothetical protein
+MNPEDHOL_00490	CDS	288				hypothetical protein
+MNPEDHOL_00491	CDS	1428	murJ_3			lipid II flippase MurJ
+MNPEDHOL_00492	CDS	462				hypothetical protein
+MNPEDHOL_00493	CDS	759	yidC2		COG0706	Membrane protein insertase YidC 2
+MNPEDHOL_00494	CDS	141	rpmH			50S ribosomal protein L34
+MNPEDHOL_00495	CDS	450				hypothetical protein
+MNPEDHOL_00496	CDS	987	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase 1
+MNPEDHOL_00497	CDS	279	groS			10 kDa chaperonin
+MNPEDHOL_00498	CDS	801	glpE	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+MNPEDHOL_00499	CDS	540	fmt	2.1.2.9		Methionyl-tRNA formyltransferase
+MNPEDHOL_00500	CDS	1146	dnaE2	2.7.7.7		Error-prone DNA polymerase
+MNPEDHOL_00501	CDS	261	rplI		COG0359	50S ribosomal protein L9
+MNPEDHOL_00502	CDS	1635	pyrG	6.3.4.2		CTP synthase
+MNPEDHOL_00503	CDS	939	trxB_1	1.8.1.9		Thioredoxin reductase
+MNPEDHOL_00504	CDS	1164	mshA_6	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+MNPEDHOL_00505	CDS	2217				hypothetical protein
+MNPEDHOL_00506	CDS	1788	recD2	3.6.4.12		ATP-dependent RecD-like DNA helicase
+MNPEDHOL_00507	CDS	1278	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+MNPEDHOL_00508	CDS	1140				hypothetical protein
+MNPEDHOL_00509	CDS	342	glyQS	6.1.1.14	COG0423	Glycine--tRNA ligase
+MNPEDHOL_00510	tRNA	75				tRNA-Lys(ttt)
+MNPEDHOL_00511	CDS	1176	mshA_7	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+MNPEDHOL_00512	CDS	300				hypothetical protein
+MNPEDHOL_00513	CDS	1053	ychF		COG0012	Ribosome-binding ATPase YchF
+MNPEDHOL_00514	CDS	447				hypothetical protein
+MNPEDHOL_00515	CDS	1800	priA	3.6.4.-	COG1198	Primosomal protein N'
+MNPEDHOL_00516	CDS	705				hypothetical protein
+MNPEDHOL_00517	CDS	342				hypothetical protein
+MNPEDHOL_00518	tRNA	73				tRNA-Arg(tcg)
+MNPEDHOL_00519	tRNA	72				tRNA-His(gtg)
+MNPEDHOL_00520	CDS	597	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+MNPEDHOL_00521	CDS	882	bshA	2.4.1.-	COG0438	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+MNPEDHOL_00522	CDS	936				hypothetical protein
+MNPEDHOL_00523	tRNA	88				tRNA-Ser(cga)
+MNPEDHOL_00524	CDS	219	infA			Translation initiation factor IF-1
+MNPEDHOL_00525	CDS	114	rpmJ		COG0257	50S ribosomal protein L36
+MNPEDHOL_00526	CDS	540				hypothetical protein
+MNPEDHOL_00527	CDS	387	rpsM		COG0099	30S ribosomal protein S13
+MNPEDHOL_00528	CDS	1140	tagU_2	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+MNPEDHOL_00529	CDS	216				hypothetical protein
+MNPEDHOL_00530	CDS	1338	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+MNPEDHOL_00531	CDS	135				hypothetical protein
+MNPEDHOL_00532	CDS	258	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+MNPEDHOL_00533	CDS	522				hypothetical protein
+MNPEDHOL_00534	CDS	912	trxB_2	1.8.1.9	COG0492	Thioredoxin reductase
+MNPEDHOL_00535	CDS	1119		1.1.1.38		NAD-dependent malic enzyme
+MNPEDHOL_00536	CDS	399				hypothetical protein
+MNPEDHOL_00537	CDS	693				hypothetical protein
+MNPEDHOL_00538	CDS	1146	wecA	2.7.8.33		Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase
+MNPEDHOL_00539	CDS	375				hypothetical protein
+MNPEDHOL_00540	CDS	426	dut	3.6.1.23	COG0756	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+MNPEDHOL_00541	CDS	633				hypothetical protein
+MNPEDHOL_00542	CDS	477				hypothetical protein
+MNPEDHOL_00543	CDS	417				hypothetical protein
+MNPEDHOL_00544	CDS	1221	epsF		COG1459	Type II secretion system protein F
+MNPEDHOL_00545	CDS	402				hypothetical protein
+MNPEDHOL_00546	CDS	1050				hypothetical protein
+MNPEDHOL_00547	CDS	396				hypothetical protein
+MNPEDHOL_00548	CDS	477	IMPDH	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+MNPEDHOL_00549	CDS	657				hypothetical protein
+MNPEDHOL_00550	CDS	813	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+MNPEDHOL_00551	CDS	1122			COG0628	Putative transport protein
+MNPEDHOL_00552	CDS	909	ftsX		COG2177	Cell division protein FtsX
+MNPEDHOL_00553	CDS	411	ftsE		COG2884	Cell division ATP-binding protein FtsE
+MNPEDHOL_00554	CDS	333				hypothetical protein
+MNPEDHOL_00555	CDS	1044				hypothetical protein
+MNPEDHOL_00556	CDS	1023	mltG	4.2.2.-		Endolytic murein transglycosylase
+MNPEDHOL_00557	CDS	504				hypothetical protein
+MNPEDHOL_00558	CDS	600			COG0586	putative membrane protein
+MNPEDHOL_00559	CDS	831		3.1.1.23		Thermostable monoacylglycerol lipase
+MNPEDHOL_00560	CDS	1155		2.4.1.337	COG0438	Alpha-monoglucosyldiacylglycerol synthase
+MNPEDHOL_00561	CDS	384				hypothetical protein
+MNPEDHOL_00562	CDS	375				hypothetical protein
+MNPEDHOL_00563	CDS	1239	rny	3.1.-.-	COG1418	Ribonuclease Y
+MNPEDHOL_00564	CDS	282	hup			DNA-binding protein HU
+MNPEDHOL_00565	tRNA	74				tRNA-Ala(tgc)
+MNPEDHOL_00566	CDS	924	ppaC	3.6.1.1	COG1227	putative manganese-dependent inorganic pyrophosphatase
+MNPEDHOL_00567	CDS	1038	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+MNPEDHOL_00568	CDS	699	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase

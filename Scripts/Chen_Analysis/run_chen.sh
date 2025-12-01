@@ -61,7 +61,7 @@ nb_dir="Data/Chen_Analysis/Reports"
 mkdir -p "$nb_dir"
 
 jupyter nbconvert --to notebook --execute \
-    "$scripts_dir/summary.ipynb" \
+    "$chen_data_dir/Reports/summary.ipynb" \
     --output-dir "$(realpath "$nb_dir")" \
     --output "summary"
 
@@ -89,4 +89,13 @@ else
     echo "Running CheckM2 analysis..."
     bash "$scripts_dir/checkm2_analysis.sh"
 fi
+
+jupyter nbconvert --to notebook --execute \
+    "$chen_data_dir/Reports/qc_report.ipynb" \
+    --output-dir "$(realpath "$nb_dir")" \
+    --output "qc_report"
+
+echo "REMOVING LOW QUALITY BINS"
+
+python3 "$scripts_dir/qc_apply.py"
 

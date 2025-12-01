@@ -1,0 +1,2469 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+EHOFDCAI_00001	CDS	1038	recA			Protein RecA
+EHOFDCAI_00002	CDS	2649	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+EHOFDCAI_00003	CDS	1068	citA	2.3.3.16	COG0372	Citrate synthase 1
+EHOFDCAI_00004	CDS	1131				hypothetical protein
+EHOFDCAI_00005	CDS	672				hypothetical protein
+EHOFDCAI_00006	CDS	957				hypothetical protein
+EHOFDCAI_00007	CDS	753				hypothetical protein
+EHOFDCAI_00008	CDS	1176	frc	2.8.3.16	COG1804	Formyl-CoA:oxalate CoA-transferase
+EHOFDCAI_00009	CDS	2820	ppc	4.1.1.31		Phosphoenolpyruvate carboxylase
+EHOFDCAI_00010	CDS	411				hypothetical protein
+EHOFDCAI_00011	CDS	528				hypothetical protein
+EHOFDCAI_00012	CDS	1515				hypothetical protein
+EHOFDCAI_00013	CDS	744	cypM_1	2.1.1.301		Cypemycin N-terminal methyltransferase
+EHOFDCAI_00014	CDS	630	scoB	2.8.3.5	COG2057	putative succinyl-CoA:3-ketoacid coenzyme A transferase subunit B
+EHOFDCAI_00015	CDS	153				hypothetical protein
+EHOFDCAI_00016	CDS	699	scoA	2.8.3.5	COG1788	putative succinyl-CoA:3-ketoacid coenzyme A transferase subunit A
+EHOFDCAI_00017	CDS	696				hypothetical protein
+EHOFDCAI_00018	CDS	726				hypothetical protein
+EHOFDCAI_00019	CDS	507				hypothetical protein
+EHOFDCAI_00020	CDS	858	azoB_1	1.7.-.-		NAD(P)H azoreductase
+EHOFDCAI_00021	CDS	1002				hypothetical protein
+EHOFDCAI_00022	CDS	720	ypeA	2.3.1.-		Acetyltransferase YpeA
+EHOFDCAI_00023	CDS	1638	groL5			60 kDa chaperonin 5
+EHOFDCAI_00024	CDS	291	groS			10 kDa chaperonin
+EHOFDCAI_00025	CDS	273				hypothetical protein
+EHOFDCAI_00026	CDS	612				hypothetical protein
+EHOFDCAI_00027	CDS	1182				hypothetical protein
+EHOFDCAI_00028	CDS	1437	entS			Enterobactin exporter EntS
+EHOFDCAI_00029	CDS	453				hypothetical protein
+EHOFDCAI_00030	CDS	1206				hypothetical protein
+EHOFDCAI_00031	CDS	492				hypothetical protein
+EHOFDCAI_00032	CDS	288				hypothetical protein
+EHOFDCAI_00033	CDS	354	mrpG		COG1320	Na(+)/H(+) antiporter subunit G
+EHOFDCAI_00034	CDS	621				hypothetical protein
+EHOFDCAI_00035	CDS	453				hypothetical protein
+EHOFDCAI_00036	CDS	534				hypothetical protein
+EHOFDCAI_00037	CDS	1533	mrpD_1		COG0651	Na(+)/H(+) antiporter subunit D
+EHOFDCAI_00038	CDS	1512	mrpD_2		COG0651	Na(+)/H(+) antiporter subunit D
+EHOFDCAI_00039	CDS	381				hypothetical protein
+EHOFDCAI_00040	CDS	1779	ndhB	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+EHOFDCAI_00041	CDS	417	ros_1		COG4957	Transcriptional regulatory protein ros
+EHOFDCAI_00042	CDS	501				hypothetical protein
+EHOFDCAI_00043	CDS	336	dnaA			Chromosomal replication initiator protein DnaA
+EHOFDCAI_00044	CDS	690				hypothetical protein
+EHOFDCAI_00045	CDS	414	sufE		COG2166	Cysteine desulfuration protein SufE
+EHOFDCAI_00046	CDS	1011				hypothetical protein
+EHOFDCAI_00047	CDS	1239	rcsC_1	2.7.13.3		Sensor histidine kinase RcsC
+EHOFDCAI_00048	CDS	312				hypothetical protein
+EHOFDCAI_00049	CDS	354				hypothetical protein
+EHOFDCAI_00050	CDS	1596	prfC		COG4108	Peptide chain release factor 3
+EHOFDCAI_00051	CDS	747				hypothetical protein
+EHOFDCAI_00052	CDS	1632	oppA		COG4166	Periplasmic oligopeptide-binding protein
+EHOFDCAI_00053	CDS	951				hypothetical protein
+EHOFDCAI_00054	CDS	702	rluA	5.4.99.28	COG0564	Dual-specificity RNA pseudouridine synthase RluA
+EHOFDCAI_00055	CDS	1617	abgT		COG2978	p-aminobenzoyl-glutamate transport protein
+EHOFDCAI_00056	CDS	567	lemA_1		COG1704	Protein LemA
+EHOFDCAI_00057	CDS	1725				hypothetical protein
+EHOFDCAI_00058	CDS	414	ros_2		COG4957	Transcriptional regulatory protein ros
+EHOFDCAI_00059	CDS	201				hypothetical protein
+EHOFDCAI_00060	CDS	993	dmlR_1			HTH-type transcriptional regulator DmlR
+EHOFDCAI_00061	CDS	321	divK_1			Polar-differentiation response regulator DivK
+EHOFDCAI_00062	CDS	615	fixJ			Transcriptional regulatory protein FixJ
+EHOFDCAI_00063	CDS	1161	fixL	2.7.13.3		Sensor protein FixL
+EHOFDCAI_00064	CDS	258				hypothetical protein
+EHOFDCAI_00065	CDS	1689	fixN	1.9.3.1	COG3278	Cytochrome c oxidase subunit 1 , bacteroid
+EHOFDCAI_00066	CDS	771				hypothetical protein
+EHOFDCAI_00067	CDS	168				hypothetical protein
+EHOFDCAI_00068	CDS	885	fixP		COG2010	Cbb3-type cytochrome c oxidase subunit FixP
+EHOFDCAI_00069	CDS	1467				hypothetical protein
+EHOFDCAI_00070	CDS	510				hypothetical protein
+EHOFDCAI_00071	CDS	2208	copA	7.2.2.8		putative copper-importing P-type ATPase A
+EHOFDCAI_00072	CDS	150				hypothetical protein
+EHOFDCAI_00073	CDS	1944	acsA	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+EHOFDCAI_00074	CDS	762	caiD_1	4.2.1.149		Carnitinyl-CoA dehydratase
+EHOFDCAI_00075	CDS	1572				hypothetical protein
+EHOFDCAI_00076	CDS	2511	btuB_1			Vitamin B12 transporter BtuB
+EHOFDCAI_00077	CDS	3273				hypothetical protein
+EHOFDCAI_00078	CDS	525				hypothetical protein
+EHOFDCAI_00079	CDS	891				hypothetical protein
+EHOFDCAI_00080	tRNA	75				tRNA-Gly(gcc)
+EHOFDCAI_00081	CDS	444		3.1.3.48		Putative low molecular weight protein-tyrosine-phosphatase
+EHOFDCAI_00082	CDS	1035	asd2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase 2
+EHOFDCAI_00083	CDS	372				hypothetical protein
+EHOFDCAI_00084	CDS	429				hypothetical protein
+EHOFDCAI_00085	CDS	1017				hypothetical protein
+EHOFDCAI_00086	CDS	957				hypothetical protein
+EHOFDCAI_00087	CDS	1086				hypothetical protein
+EHOFDCAI_00088	CDS	891				Iron-sulfur cluster carrier protein
+EHOFDCAI_00089	CDS	429				hypothetical protein
+EHOFDCAI_00090	CDS	489				hypothetical protein
+EHOFDCAI_00091	CDS	870	panC	6.3.2.1	COG0414	Pantothenate synthetase
+EHOFDCAI_00092	CDS	1377	yfeW	3.4.16.4		Putative D-alanyl-D-alanine carboxypeptidase
+EHOFDCAI_00093	CDS	249				hypothetical protein
+EHOFDCAI_00094	CDS	342				hypothetical protein
+EHOFDCAI_00095	CDS	537				hypothetical protein
+EHOFDCAI_00096	CDS	744	cysH	1.8.4.8		Phosphoadenosine phosphosulfate reductase
+EHOFDCAI_00097	CDS	492				hypothetical protein
+EHOFDCAI_00098	CDS	1659	sir	1.8.7.1	COG0155	Sulfite reductase [ferredoxin]
+EHOFDCAI_00099	CDS	636	yfcG_1	1.8.4.-	COG0625	Disulfide-bond oxidoreductase YfcG
+EHOFDCAI_00100	CDS	306				hypothetical protein
+EHOFDCAI_00101	CDS	1404	cysG		COG0007	Siroheme synthase
+EHOFDCAI_00102	CDS	936	gcvA			Glycine cleavage system transcriptional activator
+EHOFDCAI_00103	CDS	825				hypothetical protein
+EHOFDCAI_00104	CDS	1335	tig	5.2.1.8	COG0544	Trigger factor
+EHOFDCAI_00105	CDS	900				hypothetical protein
+EHOFDCAI_00106	tRNA	85				tRNA-Leu(tag)
+EHOFDCAI_00107	CDS	501				hypothetical protein
+EHOFDCAI_00108	CDS	612				hypothetical protein
+EHOFDCAI_00109	CDS	1374				hypothetical protein
+EHOFDCAI_00110	CDS	822				hypothetical protein
+EHOFDCAI_00111	CDS	696				hypothetical protein
+EHOFDCAI_00112	CDS	1086				hypothetical protein
+EHOFDCAI_00113	CDS	1377				hypothetical protein
+EHOFDCAI_00114	CDS	2646				hypothetical protein
+EHOFDCAI_00115	CDS	588	tdk	2.7.1.21		Thymidine kinase
+EHOFDCAI_00116	CDS	495				hypothetical protein
+EHOFDCAI_00117	CDS	543				hypothetical protein
+EHOFDCAI_00118	CDS	447				hypothetical protein
+EHOFDCAI_00119	CDS	462				hypothetical protein
+EHOFDCAI_00120	CDS	813	fpr	1.18.1.2	COG1018	Flavodoxin/ferredoxin--NADP reductase
+EHOFDCAI_00121	CDS	468				hypothetical protein
+EHOFDCAI_00122	CDS	777				hypothetical protein
+EHOFDCAI_00123	CDS	1092	aroC	4.2.3.5	COG0082	Chorismate synthase
+EHOFDCAI_00124	CDS	666	pdxH	1.4.3.5	COG0259	Pyridoxine/pyridoxamine 5'-phosphate oxidase
+EHOFDCAI_00125	CDS	810				hypothetical protein
+EHOFDCAI_00126	CDS	387				hypothetical protein
+EHOFDCAI_00127	CDS	669	gph_1	3.1.3.18	COG0546	Phosphoglycolate phosphatase
+EHOFDCAI_00128	CDS	711				hypothetical protein
+EHOFDCAI_00129	CDS	1269				hypothetical protein
+EHOFDCAI_00130	CDS	666				hypothetical protein
+EHOFDCAI_00131	CDS	1650	egtB_1	1.14.99.50		Hercynine oxygenase
+EHOFDCAI_00132	CDS	738	tlyA	2.1.1.226	COG1189	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+EHOFDCAI_00133	CDS	870				hypothetical protein
+EHOFDCAI_00134	CDS	387	flbT_1			flagellum biosynthesis repressor protein FlbT
+EHOFDCAI_00135	CDS	312				hypothetical protein
+EHOFDCAI_00136	CDS	651				hypothetical protein
+EHOFDCAI_00137	CDS	1296				hypothetical protein
+EHOFDCAI_00138	CDS	417	dksA		COG1734	RNA polymerase-binding transcription factor DksA
+EHOFDCAI_00139	CDS	1020				hypothetical protein
+EHOFDCAI_00140	CDS	1005				hypothetical protein
+EHOFDCAI_00141	CDS	978		1.6.5.11	COG2070	NADH:quinone reductase
+EHOFDCAI_00142	CDS	1416	pntB	7.1.1.1	COG1282	NAD(P) transhydrogenase subunit beta
+EHOFDCAI_00143	CDS	372	pntA	7.1.1.1	COG3288	NAD(P) transhydrogenase subunit alpha
+EHOFDCAI_00144	CDS	1113	pntAA	7.1.1.1	COG3288	NAD(P) transhydrogenase subunit alpha part 1
+EHOFDCAI_00145	CDS	1869				hypothetical protein
+EHOFDCAI_00146	CDS	2565	cckA			Sensor kinase CckA
+EHOFDCAI_00147	CDS	549				hypothetical protein
+EHOFDCAI_00148	CDS	2730	btuB_2			Vitamin B12 transporter BtuB
+EHOFDCAI_00149	CDS	375				hypothetical protein
+EHOFDCAI_00150	CDS	1002	bioB	2.8.1.6	COG0502	Biotin synthase
+EHOFDCAI_00151	CDS	651				hypothetical protein
+EHOFDCAI_00152	CDS	603				hypothetical protein
+EHOFDCAI_00153	CDS	294	phhB	4.2.1.96	COG2154	Putative pterin-4-alpha-carbinolamine dehydratase
+EHOFDCAI_00154	CDS	771				hypothetical protein
+EHOFDCAI_00155	CDS	774	linX	1.1.1.-		2,5-dichloro-2,5-cyclohexadiene-1,4-diol dehydrogenase LinX
+EHOFDCAI_00156	CDS	378				hypothetical protein
+EHOFDCAI_00157	CDS	1302	tetA_1			Tetracycline resistance protein, class B
+EHOFDCAI_00158	CDS	525				hypothetical protein
+EHOFDCAI_00159	CDS	1554	amiC_1	3.5.1.4	COG0154	Putative amidase AmiC
+EHOFDCAI_00160	CDS	1389	sdaA	4.3.1.17	COG1760	L-serine dehydratase 1
+EHOFDCAI_00161	CDS	558				hypothetical protein
+EHOFDCAI_00162	CDS	1071	gloB_1	3.1.2.6		Hydroxyacylglutathione hydrolase
+EHOFDCAI_00163	CDS	267				hypothetical protein
+EHOFDCAI_00164	CDS	315				hypothetical protein
+EHOFDCAI_00165	CDS	867	lepB	3.4.21.89	COG0681	Signal peptidase I
+EHOFDCAI_00166	CDS	606				hypothetical protein
+EHOFDCAI_00167	CDS	246	xseB	3.1.11.6	COG1722	Exodeoxyribonuclease 7 small subunit
+EHOFDCAI_00168	CDS	903		2.5.1.10		Farnesyl diphosphate synthase
+EHOFDCAI_00169	CDS	1920	dxs_1	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+EHOFDCAI_00170	CDS	645				hypothetical protein
+EHOFDCAI_00171	CDS	510				hypothetical protein
+EHOFDCAI_00172	CDS	1749	lcfB_1	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+EHOFDCAI_00173	CDS	1506	ethA_1	1.14.13.-	COG2072	FAD-containing monooxygenase EthA
+EHOFDCAI_00174	CDS	687				hypothetical protein
+EHOFDCAI_00175	CDS	558				hypothetical protein
+EHOFDCAI_00176	CDS	1206	mdeA	4.4.1.11		L-methionine gamma-lyase
+EHOFDCAI_00177	CDS	456	decR_1		COG1522	DNA-binding transcriptional activator DecR
+EHOFDCAI_00178	CDS	900				hypothetical protein
+EHOFDCAI_00179	CDS	1632	alkJ	1.1.99.-		Alcohol dehydrogenase [acceptor]
+EHOFDCAI_00180	CDS	906	crt_1	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+EHOFDCAI_00181	CDS	1887				hypothetical protein
+EHOFDCAI_00182	CDS	360				hypothetical protein
+EHOFDCAI_00183	CDS	492	malT_1			HTH-type transcriptional regulator MalT
+EHOFDCAI_00184	CDS	522				hypothetical protein
+EHOFDCAI_00185	CDS	1464	carB_1			Carbamoyl-phosphate synthase large chain
+EHOFDCAI_00186	CDS	1977	ccmF		COG1138	Cytochrome c-type biogenesis protein CcmF
+EHOFDCAI_00187	CDS	546	dsbE		COG0526	Thiol:disulfide interchange protein DsbE
+EHOFDCAI_00188	CDS	462	ccmH		COG3088	Cytochrome c-type biogenesis protein CcmH
+EHOFDCAI_00189	CDS	894				hypothetical protein
+EHOFDCAI_00190	CDS	1392	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+EHOFDCAI_00191	CDS	624	leuD	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit
+EHOFDCAI_00192	CDS	1215	uctC_1	2.8.3.19		Acetyl-CoA:oxalate CoA-transferase
+EHOFDCAI_00193	CDS	951	liuE	4.1.3.26	COG0119	3-hydroxy-3-isohexenylglutaryl-CoA/hydroxy-methylglutaryl-CoA lyase
+EHOFDCAI_00194	CDS	1449	opuE		COG0591	Osmoregulated proline transporter OpuE
+EHOFDCAI_00195	CDS	921				hypothetical protein
+EHOFDCAI_00196	CDS	1086				hypothetical protein
+EHOFDCAI_00197	CDS	375				hypothetical protein
+EHOFDCAI_00198	CDS	507				hypothetical protein
+EHOFDCAI_00199	CDS	2541	btuB_3			Vitamin B12 transporter BtuB
+EHOFDCAI_00200	CDS	936				hypothetical protein
+EHOFDCAI_00201	CDS	459	decR_2		COG1522	DNA-binding transcriptional activator DecR
+EHOFDCAI_00202	CDS	1068	cysK	2.5.1.47		Cysteine synthase
+EHOFDCAI_00203	CDS	1398	mao	1.5.3.21		4-methylaminobutanoate oxidase (methylamine-forming)
+EHOFDCAI_00204	CDS	1560				hypothetical protein
+EHOFDCAI_00205	CDS	807	dhmA_1	3.8.1.5		Haloalkane dehalogenase
+EHOFDCAI_00206	CDS	1014	curA_1	1.3.1.-	COG2130	NADPH-dependent curcumin reductase
+EHOFDCAI_00207	CDS	882				hypothetical protein
+EHOFDCAI_00208	CDS	300				hypothetical protein
+EHOFDCAI_00209	CDS	840				hypothetical protein
+EHOFDCAI_00210	CDS	1179		1.3.1.-	COG3268	Putative trans-acting enoyl reductase
+EHOFDCAI_00211	CDS	1185	purT	2.1.2.-	COG0027	Formate-dependent phosphoribosylglycinamide formyltransferase
+EHOFDCAI_00212	CDS	441				hypothetical protein
+EHOFDCAI_00213	CDS	1161	mmgC_1	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+EHOFDCAI_00214	CDS	1251			COG1680	putative protein
+EHOFDCAI_00215	CDS	375				hypothetical protein
+EHOFDCAI_00216	CDS	786	paaG_1	5.3.3.18	COG1024	1,2-epoxyphenylacetyl-CoA isomerase
+EHOFDCAI_00217	CDS	1437	calB	1.2.1.68		Coniferyl aldehyde dehydrogenase
+EHOFDCAI_00218	CDS	1947				hypothetical protein
+EHOFDCAI_00219	CDS	1479	rhlE_1	3.6.4.13		ATP-dependent RNA helicase RhlE
+EHOFDCAI_00220	CDS	606	sodB	1.15.1.1		Superoxide dismutase [Fe]
+EHOFDCAI_00221	CDS	648				hypothetical protein
+EHOFDCAI_00222	CDS	1311	bepC			Outer membrane efflux protein BepC
+EHOFDCAI_00223	CDS	705				hypothetical protein
+EHOFDCAI_00224	CDS	2964	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+EHOFDCAI_00225	CDS	1014	iaaA	3.4.19.5	COG1446	Isoaspartyl peptidase
+EHOFDCAI_00226	CDS	1728	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+EHOFDCAI_00227	CDS	1041				hypothetical protein
+EHOFDCAI_00228	CDS	366				hypothetical protein
+EHOFDCAI_00229	CDS	780	xthA_1	3.1.11.2	COG0708	Exodeoxyribonuclease III
+EHOFDCAI_00230	CDS	315				hypothetical protein
+EHOFDCAI_00231	CDS	408				hypothetical protein
+EHOFDCAI_00232	CDS	588				hypothetical protein
+EHOFDCAI_00233	CDS	672	nbzA_1	1.7.1.16		Nitrobenzene nitroreductase
+EHOFDCAI_00234	CDS	453				hypothetical protein
+EHOFDCAI_00235	CDS	531				hypothetical protein
+EHOFDCAI_00236	CDS	1449	scmP	3.5.1.-	COG1473	N-acetylcysteine deacetylase
+EHOFDCAI_00237	CDS	816				hypothetical protein
+EHOFDCAI_00238	CDS	744				hypothetical protein
+EHOFDCAI_00239	CDS	621				hypothetical protein
+EHOFDCAI_00240	CDS	1722	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+EHOFDCAI_00241	CDS	411				hypothetical protein
+EHOFDCAI_00242	CDS	456				hypothetical protein
+EHOFDCAI_00243	tRNA	76				tRNA-Thr(tgt)
+EHOFDCAI_00244	CDS	2958	btuB_4			Vitamin B12 transporter BtuB
+EHOFDCAI_00245	CDS	1497	bauC	1.2.1.-	COG1012	Putative 3-oxopropanoate dehydrogenase
+EHOFDCAI_00246	CDS	1470	cobQ			Cobyric acid synthase
+EHOFDCAI_00247	CDS	762	fepC		COG1120	Ferric enterobactin transport ATP-binding protein FepC
+EHOFDCAI_00248	CDS	990	btuC		COG4139	Vitamin B12 import system permease protein BtuC
+EHOFDCAI_00249	CDS	903				hypothetical protein
+EHOFDCAI_00250	CDS	1821	cirA		COG4771	Colicin I receptor
+EHOFDCAI_00251	CDS	1065	galK	2.7.1.6	COG0153	Galactokinase
+EHOFDCAI_00252	CDS	1083				hypothetical protein
+EHOFDCAI_00253	CDS	2142	rafA	3.2.1.22		Alpha-galactosidase
+EHOFDCAI_00254	CDS	786	glpR		COG1349	Glycerol-3-phosphate regulon repressor
+EHOFDCAI_00255	CDS	1560	yidK		COG4146	putative symporter YidK
+EHOFDCAI_00256	CDS	1494	eryB	1.1.1.402	COG0578	D-erythritol 1-phosphate dehydrogenase
+EHOFDCAI_00257	CDS	1494	glpK	2.7.1.30		Glycerol kinase
+EHOFDCAI_00258	CDS	3393	putA		COG0506	Bifunctional protein PutA
+EHOFDCAI_00259	CDS	477	lrp		COG1522	Leucine-responsive regulatory protein
+EHOFDCAI_00260	tRNA	76				tRNA-Asn(gtt)
+EHOFDCAI_00261	tRNA	74				tRNA-Cys(gca)
+EHOFDCAI_00262	CDS	336				hypothetical protein
+EHOFDCAI_00263	CDS	765				hypothetical protein
+EHOFDCAI_00264	CDS	516				hypothetical protein
+EHOFDCAI_00265	CDS	576				hypothetical protein
+EHOFDCAI_00266	CDS	594				hypothetical protein
+EHOFDCAI_00267	CDS	498				hypothetical protein
+EHOFDCAI_00268	CDS	1797	sfrB	1.-.-.-	COG0493	NADPH-Fe(3+) oxidoreductase subunit beta
+EHOFDCAI_00269	CDS	1812	korA	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+EHOFDCAI_00270	CDS	1056				hypothetical protein
+EHOFDCAI_00271	CDS	1011				hypothetical protein
+EHOFDCAI_00272	CDS	552	fosB	2.5.1.-		Metallothiol transferase FosB
+EHOFDCAI_00273	CDS	1101	hpd	1.13.11.27		4-hydroxyphenylpyruvate dioxygenase
+EHOFDCAI_00274	CDS	771				hypothetical protein
+EHOFDCAI_00275	CDS	1224	ddlA	6.3.2.4	COG1181	D-alanine--D-alanine ligase A
+EHOFDCAI_00276	CDS	762	bioH	3.1.1.85		Pimeloyl-[acyl-carrier protein] methyl ester esterase
+EHOFDCAI_00277	CDS	1590	murF	6.3.2.10		UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+EHOFDCAI_00278	CDS	570				hypothetical protein
+EHOFDCAI_00279	CDS	573	ecfG			ECF RNA polymerase sigma factor EcfG
+EHOFDCAI_00280	CDS	141				hypothetical protein
+EHOFDCAI_00281	CDS	1104				hypothetical protein
+EHOFDCAI_00282	CDS	1428	gdhA	1.4.1.3	COG0334	Glutamate dehydrogenase
+EHOFDCAI_00283	CDS	1788				hypothetical protein
+EHOFDCAI_00284	CDS	201				hypothetical protein
+EHOFDCAI_00285	CDS	669				hypothetical protein
+EHOFDCAI_00286	CDS	375				hypothetical protein
+EHOFDCAI_00287	CDS	438				hypothetical protein
+EHOFDCAI_00288	CDS	597				hypothetical protein
+EHOFDCAI_00289	CDS	1446	sthA	1.6.1.1	COG1249	putative soluble pyridine nucleotide transhydrogenase
+EHOFDCAI_00290	CDS	309				hypothetical protein
+EHOFDCAI_00291	CDS	240				hypothetical protein
+EHOFDCAI_00292	CDS	267				hypothetical protein
+EHOFDCAI_00293	CDS	384				hypothetical protein
+EHOFDCAI_00294	CDS	636				hypothetical protein
+EHOFDCAI_00295	CDS	582				hypothetical protein
+EHOFDCAI_00296	CDS	990	dmlR_2			HTH-type transcriptional regulator DmlR
+EHOFDCAI_00297	CDS	207				hypothetical protein
+EHOFDCAI_00298	CDS	336				hypothetical protein
+EHOFDCAI_00299	CDS	363				hypothetical protein
+EHOFDCAI_00300	CDS	318				hypothetical protein
+EHOFDCAI_00301	CDS	1089	flhB		COG1377	Flagellar biosynthetic protein FlhB
+EHOFDCAI_00302	CDS	759				hypothetical protein
+EHOFDCAI_00303	CDS	2070	flhA_1		COG1298	Flagellar biosynthesis protein FlhA
+EHOFDCAI_00304	CDS	264				hypothetical protein
+EHOFDCAI_00305	CDS	297	fliE			Flagellar hook-basal body complex protein FliE
+EHOFDCAI_00306	CDS	384	flgC		COG1558	Flagellar basal-body rod protein FlgC
+EHOFDCAI_00307	CDS	360				hypothetical protein
+EHOFDCAI_00308	CDS	1278	ssaN	7.1.2.2	COG1157	putative secretion system apparatus ATP synthase SsaN
+EHOFDCAI_00309	CDS	888				hypothetical protein
+EHOFDCAI_00310	CDS	417	flbT_2			flagellum biosynthesis repressor protein FlbT
+EHOFDCAI_00311	CDS	357				hypothetical protein
+EHOFDCAI_00312	CDS	1248				hypothetical protein
+EHOFDCAI_00313	CDS	387				hypothetical protein
+EHOFDCAI_00314	CDS	306				hypothetical protein
+EHOFDCAI_00315	CDS	1380				hypothetical protein
+EHOFDCAI_00316	CDS	678				hypothetical protein
+EHOFDCAI_00317	CDS	543				hypothetical protein
+EHOFDCAI_00318	CDS	717	flgH			Flagellar L-ring protein
+EHOFDCAI_00319	CDS	402				hypothetical protein
+EHOFDCAI_00320	CDS	786	flgG_1		COG4786	Flagellar basal-body rod protein FlgG
+EHOFDCAI_00321	CDS	714	flgG_2		COG4786	Flagellar basal-body rod protein FlgG
+EHOFDCAI_00322	CDS	1704				hypothetical protein
+EHOFDCAI_00323	CDS	867	motA		COG1291	Motility protein A
+EHOFDCAI_00324	CDS	888				hypothetical protein
+EHOFDCAI_00325	CDS	864	motB_1		COG1360	Motility protein B
+EHOFDCAI_00326	CDS	1305	flgE		COG1749	Flagellar hook protein FlgE
+EHOFDCAI_00327	CDS	1449				hypothetical protein
+EHOFDCAI_00328	CDS	978				hypothetical protein
+EHOFDCAI_00329	CDS	1110	flgI			Flagellar P-ring protein
+EHOFDCAI_00330	CDS	1083	fliG		COG1536	Flagellar motor switch protein FliG
+EHOFDCAI_00331	CDS	789	fliP		COG1338	Flagellar biosynthetic protein FliP
+EHOFDCAI_00332	CDS	315				hypothetical protein
+EHOFDCAI_00333	CDS	609				hypothetical protein
+EHOFDCAI_00334	CDS	1536				hypothetical protein
+EHOFDCAI_00335	CDS	510				hypothetical protein
+EHOFDCAI_00336	CDS	501				hypothetical protein
+EHOFDCAI_00337	CDS	621				hypothetical protein
+EHOFDCAI_00338	CDS	396				hypothetical protein
+EHOFDCAI_00339	CDS	1074	vdcA	2.7.7.65		Diguanylate cyclase VdcA
+EHOFDCAI_00340	CDS	2628				hypothetical protein
+EHOFDCAI_00341	CDS	1419				hypothetical protein
+EHOFDCAI_00342	CDS	471				hypothetical protein
+EHOFDCAI_00343	CDS	2271	sctC_1			Type 3 secretion system secretin
+EHOFDCAI_00344	CDS	540				hypothetical protein
+EHOFDCAI_00345	CDS	1197	gspF		COG1459	Putative type II secretion system protein F
+EHOFDCAI_00346	CDS	1776				hypothetical protein
+EHOFDCAI_00347	CDS	1056				hypothetical protein
+EHOFDCAI_00348	CDS	1071				hypothetical protein
+EHOFDCAI_00349	CDS	600				hypothetical protein
+EHOFDCAI_00350	CDS	480				hypothetical protein
+EHOFDCAI_00351	CDS	417				hypothetical protein
+EHOFDCAI_00352	CDS	1425				hypothetical protein
+EHOFDCAI_00353	CDS	528				hypothetical protein
+EHOFDCAI_00354	tRNA	77				tRNA-Met(cat)
+EHOFDCAI_00355	CDS	1257				hypothetical protein
+EHOFDCAI_00356	CDS	1227				hypothetical protein
+EHOFDCAI_00357	CDS	1131		6.3.2.2	COG2170	Putative glutamate--cysteine ligase 2
+EHOFDCAI_00358	CDS	741				hypothetical protein
+EHOFDCAI_00359	rRNA	87				5S ribosomal RNA (partial)
+EHOFDCAI_00360	CDS	423	rplQ		COG0203	50S ribosomal protein L17
+EHOFDCAI_00361	CDS	1206	pksS	1.14.-.-	COG2124	Polyketide biosynthesis cytochrome P450 PksS
+EHOFDCAI_00362	CDS	2268				hypothetical protein
+EHOFDCAI_00363	CDS	915	sadH	1.-.-.-		Putative oxidoreductase SadH
+EHOFDCAI_00364	CDS	1011	aphB	3.5.1.-	COG0123	Acetylpolyamine amidohydrolase 2
+EHOFDCAI_00365	CDS	735				hypothetical protein
+EHOFDCAI_00366	CDS	990		1.6.5.11	COG2070	NADH:quinone reductase
+EHOFDCAI_00367	CDS	840	hcaB_1	1.3.1.87		3-phenylpropionate-dihydrodiol/cinnamic acid-dihydrodiol dehydrogenase
+EHOFDCAI_00368	CDS	1230				hypothetical protein
+EHOFDCAI_00369	CDS	363				hypothetical protein
+EHOFDCAI_00370	CDS	438				hypothetical protein
+EHOFDCAI_00371	CDS	444	rnhA	3.1.26.4	COG0328	Ribonuclease HI
+EHOFDCAI_00372	CDS	588				hypothetical protein
+EHOFDCAI_00373	CDS	768	cinA			Putative competence-damage inducible protein
+EHOFDCAI_00374	CDS	495				hypothetical protein
+EHOFDCAI_00375	CDS	777	echA8	4.2.1.17	COG1024	putative enoyl-CoA hydratase echA8
+EHOFDCAI_00376	CDS	1203			COG2885	Outer membrane protein
+EHOFDCAI_00377	CDS	906	dhlA	3.8.1.5		Haloalkane dehalogenase
+EHOFDCAI_00378	CDS	303				hypothetical protein
+EHOFDCAI_00379	CDS	1278	carC_1	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+EHOFDCAI_00380	CDS	1218				hypothetical protein
+EHOFDCAI_00381	CDS	210				hypothetical protein
+EHOFDCAI_00382	CDS	1155	gcvT	2.1.2.10	COG0404	Aminomethyltransferase
+EHOFDCAI_00383	CDS	372	gcvH		COG0509	Glycine cleavage system H protein
+EHOFDCAI_00384	CDS	381				hypothetical protein
+EHOFDCAI_00385	CDS	1344	gcvPA	1.4.4.2	COG0403	putative glycine dehydrogenase (decarboxylating) subunit 1
+EHOFDCAI_00386	CDS	1569	gcvPB	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 2
+EHOFDCAI_00387	CDS	1188				hypothetical protein
+EHOFDCAI_00388	CDS	1107				hypothetical protein
+EHOFDCAI_00389	CDS	375				hypothetical protein
+EHOFDCAI_00390	CDS	552	atpF		COG0711	ATP synthase subunit b
+EHOFDCAI_00391	CDS	543	atpG			ATP synthase subunit b'
+EHOFDCAI_00392	CDS	240	atpE			ATP synthase subunit c
+EHOFDCAI_00393	CDS	789	atpB		COG0356	ATP synthase subunit a
+EHOFDCAI_00394	CDS	348				hypothetical protein
+EHOFDCAI_00395	CDS	3462	smc		COG1196	Chromosome partition protein Smc
+EHOFDCAI_00396	CDS	687				hypothetical protein
+EHOFDCAI_00397	CDS	684				hypothetical protein
+EHOFDCAI_00398	CDS	573				hypothetical protein
+EHOFDCAI_00399	CDS	1044	mutY	3.2.2.31	COG1194	Adenine DNA glycosylase
+EHOFDCAI_00400	CDS	1134				hypothetical protein
+EHOFDCAI_00401	CDS	1353	melB		COG2211	Melibiose carrier protein
+EHOFDCAI_00402	CDS	1089				hypothetical protein
+EHOFDCAI_00403	CDS	564				hypothetical protein
+EHOFDCAI_00404	CDS	411				hypothetical protein
+EHOFDCAI_00405	CDS	1935	phaC	2.3.1.-	COG3243	Poly(3-hydroxyalkanoate) polymerase subunit PhaC
+EHOFDCAI_00406	CDS	405				hypothetical protein
+EHOFDCAI_00407	CDS	1218	alaC	2.6.1.2	COG0436	Glutamate-pyruvate aminotransferase AlaC
+EHOFDCAI_00408	CDS	1284	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+EHOFDCAI_00409	CDS	954	glpX	3.1.3.11	COG1494	Fructose-1,6-bisphosphatase class 2
+EHOFDCAI_00410	CDS	1791	recJ	3.1.-.-	COG0608	Single-stranded-DNA-specific exonuclease RecJ
+EHOFDCAI_00411	CDS	849				hypothetical protein
+EHOFDCAI_00412	CDS	1194	ldc	4.1.1.17		Lysine/ornithine decarboxylase
+EHOFDCAI_00413	CDS	144				hypothetical protein
+EHOFDCAI_00414	CDS	2673	rne_1	3.1.26.12		Ribonuclease E
+EHOFDCAI_00415	CDS	462				hypothetical protein
+EHOFDCAI_00416	CDS	1257	amiC_2	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase AmiC
+EHOFDCAI_00417	CDS	2586	mrcA		COG5009	Penicillin-binding protein 1A
+EHOFDCAI_00418	CDS	1011	prfB		COG1186	Peptide chain release factor RF2
+EHOFDCAI_00419	CDS	519				hypothetical protein
+EHOFDCAI_00420	CDS	1212				hypothetical protein
+EHOFDCAI_00421	CDS	480		1.11.1.15		Peroxiredoxin
+EHOFDCAI_00422	CDS	3441				hypothetical protein
+EHOFDCAI_00423	CDS	1254	tyrS	6.1.1.1	COG0162	Tyrosine--tRNA ligase
+EHOFDCAI_00424	CDS	1218				hypothetical protein
+EHOFDCAI_00425	CDS	537				hypothetical protein
+EHOFDCAI_00426	CDS	756				hypothetical protein
+EHOFDCAI_00427	CDS	273				hypothetical protein
+EHOFDCAI_00428	CDS	1140	iscS	2.8.1.7		Cysteine desulfurase IscS
+EHOFDCAI_00429	CDS	1758	atsA	3.1.6.1	COG3119	Arylsulfatase
+EHOFDCAI_00430	CDS	1293				hypothetical protein
+EHOFDCAI_00431	CDS	462				hypothetical protein
+EHOFDCAI_00432	CDS	1086	rbn	3.1.26.11		Ribonuclease BN
+EHOFDCAI_00433	CDS	381				hypothetical protein
+EHOFDCAI_00434	CDS	627				hypothetical protein
+EHOFDCAI_00435	CDS	933		1.8.3.7	COG1262	Formylglycine-generating enzyme
+EHOFDCAI_00436	CDS	627				hypothetical protein
+EHOFDCAI_00437	CDS	1677		3.1.6.-	COG3119	N-acetylgalactosamine-6-O-sulfatase
+EHOFDCAI_00438	CDS	1032				hypothetical protein
+EHOFDCAI_00439	CDS	1086	oleB	4.1.1.114	COG0596	Cis-3-alkyl-4-alkyloxetan-2-one decarboxylase
+EHOFDCAI_00440	CDS	612				hypothetical protein
+EHOFDCAI_00441	CDS	624				hypothetical protein
+EHOFDCAI_00442	CDS	351				hypothetical protein
+EHOFDCAI_00443	CDS	1644	vgb	4.2.99.-		Virginiamycin B lyase
+EHOFDCAI_00444	CDS	438				hypothetical protein
+EHOFDCAI_00445	CDS	2478				hypothetical protein
+EHOFDCAI_00446	CDS	2139				hypothetical protein
+EHOFDCAI_00447	CDS	717		2.4.-.-	COG0463	putative glycosyltransferase
+EHOFDCAI_00448	CDS	1422				hypothetical protein
+EHOFDCAI_00449	CDS	897				hypothetical protein
+EHOFDCAI_00450	CDS	1299				hypothetical protein
+EHOFDCAI_00451	CDS	1254				hypothetical protein
+EHOFDCAI_00452	CDS	600				hypothetical protein
+EHOFDCAI_00453	CDS	1476				hypothetical protein
+EHOFDCAI_00454	CDS	5013				hypothetical protein
+EHOFDCAI_00455	CDS	786				hypothetical protein
+EHOFDCAI_00456	CDS	798				hypothetical protein
+EHOFDCAI_00457	CDS	1359				hypothetical protein
+EHOFDCAI_00458	CDS	456				hypothetical protein
+EHOFDCAI_00459	CDS	1038	yfmJ_1	1.-.-.-	COG2130	Putative NADP-dependent oxidoreductase YfmJ
+EHOFDCAI_00460	CDS	474				hypothetical protein
+EHOFDCAI_00461	CDS	1617	maeA	1.1.1.38	COG0281	NAD-dependent malic enzyme
+EHOFDCAI_00462	CDS	1245	gltP_1		COG1301	Proton/glutamate-aspartate symporter
+EHOFDCAI_00463	CDS	267				hypothetical protein
+EHOFDCAI_00464	CDS	1590	dag	3.5.1.82		N-acyl-D-glutamate deacylase
+EHOFDCAI_00465	CDS	1185				hypothetical protein
+EHOFDCAI_00466	CDS	1230	dadA	1.4.99.-	COG0665	D-amino acid dehydrogenase
+EHOFDCAI_00467	CDS	462				hypothetical protein
+EHOFDCAI_00468	CDS	1773	ggt	3.4.19.13	COG0405	Glutathione hydrolase proenzyme
+EHOFDCAI_00469	CDS	3048	btuB_5			Vitamin B12 transporter BtuB
+EHOFDCAI_00470	CDS	912				hypothetical protein
+EHOFDCAI_00471	CDS	1329				hypothetical protein
+EHOFDCAI_00472	CDS	1191				hypothetical protein
+EHOFDCAI_00473	CDS	1245				hypothetical protein
+EHOFDCAI_00474	CDS	621				hypothetical protein
+EHOFDCAI_00475	CDS	543	rpoE		COG1595	ECF RNA polymerase sigma-E factor
+EHOFDCAI_00476	CDS	4698				hypothetical protein
+EHOFDCAI_00477	CDS	1749	prsD			Type I secretion system ATP-binding protein PrsD
+EHOFDCAI_00478	CDS	1305	prsE			Type I secretion system membrane fusion protein PrsE
+EHOFDCAI_00479	CDS	795	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+EHOFDCAI_00480	CDS	1497		1.1.3.47		5-(hydroxymethyl)furfural oxidase
+EHOFDCAI_00481	CDS	639				hypothetical protein
+EHOFDCAI_00482	CDS	801				hypothetical protein
+EHOFDCAI_00483	CDS	1212	cfa	2.1.1.79	COG2230	Cyclopropane-fatty-acyl-phospholipid synthase
+EHOFDCAI_00484	CDS	1725	menE_1	6.2.1.26		2-succinylbenzoate--CoA ligase
+EHOFDCAI_00485	CDS	945				hypothetical protein
+EHOFDCAI_00486	CDS	249	acpP_1			Acyl carrier protein
+EHOFDCAI_00487	CDS	1194	bioF_1	2.3.1.47		8-amino-7-oxononanoate synthase
+EHOFDCAI_00488	CDS	939				hypothetical protein
+EHOFDCAI_00489	CDS	966				hypothetical protein
+EHOFDCAI_00490	CDS	1056	lptG		COG0795	Lipopolysaccharide export system permease protein LptG
+EHOFDCAI_00491	CDS	1218				hypothetical protein
+EHOFDCAI_00492	CDS	477				hypothetical protein
+EHOFDCAI_00493	CDS	1146	yghO			Protein YghO
+EHOFDCAI_00494	CDS	813				hypothetical protein
+EHOFDCAI_00495	CDS	1401				hypothetical protein
+EHOFDCAI_00496	CDS	453				hypothetical protein
+EHOFDCAI_00497	CDS	1134				hypothetical protein
+EHOFDCAI_00498	CDS	726		2.7.7.-	COG1213	CTP:phosphoglutamine cytidylyltransferase
+EHOFDCAI_00499	CDS	1956				hypothetical protein
+EHOFDCAI_00500	CDS	1245	pal			Peptidoglycan-associated lipoprotein
+EHOFDCAI_00501	CDS	648				hypothetical protein
+EHOFDCAI_00502	CDS	1902				hypothetical protein
+EHOFDCAI_00503	CDS	390				hypothetical protein
+EHOFDCAI_00504	CDS	705	exaE			Transcriptional activator protein ExaE
+EHOFDCAI_00505	CDS	1803	rcsC_2	2.7.13.3		Sensor histidine kinase RcsC
+EHOFDCAI_00506	CDS	567				hypothetical protein
+EHOFDCAI_00507	CDS	537				hypothetical protein
+EHOFDCAI_00508	CDS	1218	bktB	2.3.1.16	COG0183	Beta-ketothiolase BktB
+EHOFDCAI_00509	CDS	1446	nanT_1			Sialic acid transporter NanT
+EHOFDCAI_00510	CDS	1509	prnA_1	1.14.19.9		Flavin-dependent tryptophan halogenase PrnA
+EHOFDCAI_00511	CDS	3366				hypothetical protein
+EHOFDCAI_00512	CDS	1083	rbsR_1		COG1609	Ribose operon repressor
+EHOFDCAI_00513	CDS	1011				hypothetical protein
+EHOFDCAI_00514	CDS	2328		3.2.1.-		Beta-xylosidase
+EHOFDCAI_00515	CDS	1392	yagG_1		COG2211	Putative glycoside/cation symporter YagG
+EHOFDCAI_00516	CDS	993				hypothetical protein
+EHOFDCAI_00517	CDS	1551	davD	1.2.1.-	COG1012	Glutarate-semialdehyde dehydrogenase
+EHOFDCAI_00518	CDS	345				hypothetical protein
+EHOFDCAI_00519	CDS	636	slmA			Nucleoid occlusion factor SlmA
+EHOFDCAI_00520	CDS	1761	cocE	3.1.1.84		Cocaine esterase
+EHOFDCAI_00521	CDS	1014	cobT_1	2.4.2.21		Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+EHOFDCAI_00522	CDS	759	cobS_1	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+EHOFDCAI_00523	CDS	540				hypothetical protein
+EHOFDCAI_00524	CDS	600	cobO	2.5.1.17		Corrinoid adenosyltransferase
+EHOFDCAI_00525	CDS	132				hypothetical protein
+EHOFDCAI_00526	CDS	693	cobD		COG1270	Cobalamin biosynthesis protein CobD
+EHOFDCAI_00527	CDS	210				hypothetical protein
+EHOFDCAI_00528	CDS	960	hisC	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+EHOFDCAI_00529	CDS	513	cobP	2.7.1.156		Bifunctional adenosylcobalamin biosynthesis protein CobP
+EHOFDCAI_00530	CDS	234				hypothetical protein
+EHOFDCAI_00531	CDS	2058				hypothetical protein
+EHOFDCAI_00532	CDS	876				hypothetical protein
+EHOFDCAI_00533	CDS	681				hypothetical protein
+EHOFDCAI_00534	CDS	2661	malT_2			HTH-type transcriptional regulator MalT
+EHOFDCAI_00535	CDS	2277	btuB_6			Vitamin B12 transporter BtuB
+EHOFDCAI_00536	CDS	2049	apc3_1	6.4.1.8	COG0145	Acetophenone carboxylase gamma subunit
+EHOFDCAI_00537	CDS	1692	apc4_1	6.4.1.8	COG0146	Acetophenone carboxylase delta subunit
+EHOFDCAI_00538	CDS	1305	naiP			Putative niacin/nicotinamide transporter NaiP
+EHOFDCAI_00539	CDS	378				hypothetical protein
+EHOFDCAI_00540	CDS	2073	apc3_2	6.4.1.8	COG0145	Acetophenone carboxylase gamma subunit
+EHOFDCAI_00541	CDS	1683	apc4_2	6.4.1.8	COG0146	Acetophenone carboxylase delta subunit
+EHOFDCAI_00542	CDS	1242			COG1228	putative protein
+EHOFDCAI_00543	CDS	363				hypothetical protein
+EHOFDCAI_00544	CDS	411				hypothetical protein
+EHOFDCAI_00545	CDS	483				hypothetical protein
+EHOFDCAI_00546	CDS	930	rclR		COG2207	RCS-specific HTH-type transcriptional activator RclR
+EHOFDCAI_00547	CDS	909	aes_1	3.1.1.-		Acetyl esterase
+EHOFDCAI_00548	CDS	2193	fyuA_1		COG1629	Pesticin receptor
+EHOFDCAI_00549	CDS	390				hypothetical protein
+EHOFDCAI_00550	CDS	597				hypothetical protein
+EHOFDCAI_00551	CDS	1104				hypothetical protein
+EHOFDCAI_00552	CDS	1077				hypothetical protein
+EHOFDCAI_00553	CDS	1599	pknD_1	2.7.11.1		Serine/threonine-protein kinase PknD
+EHOFDCAI_00554	CDS	1161				hypothetical protein
+EHOFDCAI_00555	CDS	1668				hypothetical protein
+EHOFDCAI_00556	CDS	552				hypothetical protein
+EHOFDCAI_00557	CDS	447				hypothetical protein
+EHOFDCAI_00558	CDS	669				hypothetical protein
+EHOFDCAI_00559	CDS	2394	pknD_2	2.7.11.1		Serine/threonine-protein kinase PknD
+EHOFDCAI_00560	CDS	741	apaH_1	3.6.1.41		Bis(5'-nucleosyl)-tetraphosphatase, symmetrical
+EHOFDCAI_00561	CDS	672				hypothetical protein
+EHOFDCAI_00562	CDS	1176				hypothetical protein
+EHOFDCAI_00563	CDS	939		1.1.1.215	COG1052	2-ketogluconate reductase
+EHOFDCAI_00564	CDS	534				hypothetical protein
+EHOFDCAI_00565	CDS	747	lutR		COG2186	HTH-type transcriptional regulator LutR
+EHOFDCAI_00566	CDS	3303				hypothetical protein
+EHOFDCAI_00567	CDS	2205				hypothetical protein
+EHOFDCAI_00568	CDS	2172		4.2.2.26		Exo-oligoalginate lyase
+EHOFDCAI_00569	CDS	360				hypothetical protein
+EHOFDCAI_00570	CDS	1317	exuT			Hexuronate transporter
+EHOFDCAI_00571	CDS	891	garR	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase
+EHOFDCAI_00572	CDS	1020	kdgK	2.7.1.45		2-dehydro-3-deoxygluconokinase
+EHOFDCAI_00573	CDS	2997	btuB_7			Vitamin B12 transporter BtuB
+EHOFDCAI_00574	CDS	645				IS6 family transposase ISApr5
+EHOFDCAI_00575	CDS	282				hypothetical protein
+EHOFDCAI_00576	CDS	693				hypothetical protein
+EHOFDCAI_00577	CDS	222				hypothetical protein
+EHOFDCAI_00578	CDS	780				hypothetical protein
+EHOFDCAI_00579	CDS	1296				hypothetical protein
+EHOFDCAI_00580	CDS	1143				hypothetical protein
+EHOFDCAI_00581	CDS	636				hypothetical protein
+EHOFDCAI_00582	CDS	834				hypothetical protein
+EHOFDCAI_00583	CDS	954				hypothetical protein
+EHOFDCAI_00584	CDS	1188	tuf		COG0050	Elongation factor Tu
+EHOFDCAI_00585	CDS	1299				hypothetical protein
+EHOFDCAI_00586	CDS	813				hypothetical protein
+EHOFDCAI_00587	CDS	2559	apaH_2	3.6.1.41		Bis(5'-nucleosyl)-tetraphosphatase, symmetrical
+EHOFDCAI_00588	CDS	225				hypothetical protein
+EHOFDCAI_00589	CDS	399				hypothetical protein
+EHOFDCAI_00590	CDS	1512				hypothetical protein
+EHOFDCAI_00591	tRNA	91				tRNA-Ser(gct)
+EHOFDCAI_00592	CDS	2013				hypothetical protein
+EHOFDCAI_00593	CDS	684	rnd_1	3.1.13.5		Ribonuclease D
+EHOFDCAI_00594	CDS	663				hypothetical protein
+EHOFDCAI_00595	CDS	522	lptA			Lipopolysaccharide export system protein LptA
+EHOFDCAI_00596	CDS	735	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+EHOFDCAI_00597	CDS	1506	rpoN2		COG1508	RNA polymerase sigma-54 factor 2
+EHOFDCAI_00598	CDS	543				hypothetical protein
+EHOFDCAI_00599	CDS	300				hypothetical protein
+EHOFDCAI_00600	CDS	1704				hypothetical protein
+EHOFDCAI_00601	CDS	2508	rhlB	3.6.4.13		ATP-dependent RNA helicase RhlB
+EHOFDCAI_00602	CDS	669				hypothetical protein
+EHOFDCAI_00603	CDS	1464				hypothetical protein
+EHOFDCAI_00604	CDS	1029				hypothetical protein
+EHOFDCAI_00605	CDS	909	ada		COG0350	Bifunctional transcriptional activator/DNA repair enzyme Ada
+EHOFDCAI_00606	CDS	492				hypothetical protein
+EHOFDCAI_00607	CDS	474	gloA	4.4.1.5	COG0346	Lactoylglutathione lyase
+EHOFDCAI_00608	CDS	717				hypothetical protein
+EHOFDCAI_00609	CDS	873				hypothetical protein
+EHOFDCAI_00610	CDS	195				hypothetical protein
+EHOFDCAI_00611	CDS	549				hypothetical protein
+EHOFDCAI_00612	CDS	1113		1.-.-.-		NADH oxidase
+EHOFDCAI_00613	CDS	1074				hypothetical protein
+EHOFDCAI_00614	CDS	426				hypothetical protein
+EHOFDCAI_00615	CDS	726				hypothetical protein
+EHOFDCAI_00616	CDS	573				hypothetical protein
+EHOFDCAI_00617	CDS	678	nbzA_2	1.7.1.16		Nitrobenzene nitroreductase
+EHOFDCAI_00618	CDS	549	sigW		COG1595	ECF RNA polymerase sigma factor SigW
+EHOFDCAI_00619	CDS	363				hypothetical protein
+EHOFDCAI_00620	CDS	942	yadG		COG1131	putative ABC transporter ATP-binding protein YadG
+EHOFDCAI_00621	CDS	192				hypothetical protein
+EHOFDCAI_00622	CDS	1455				hypothetical protein
+EHOFDCAI_00623	CDS	606				hypothetical protein
+EHOFDCAI_00624	CDS	1245	fadA_1	2.3.1.-	COG0183	Putative acyltransferase
+EHOFDCAI_00625	CDS	1269	tetA_2			Tetracycline resistance protein, class C
+EHOFDCAI_00626	CDS	1560		2.3.1.20		Putative diacyglycerol O-acyltransferase
+EHOFDCAI_00627	CDS	780				hypothetical protein
+EHOFDCAI_00628	CDS	1452	atoC_1		COG2204	Regulatory protein AtoC
+EHOFDCAI_00629	CDS	483				hypothetical protein
+EHOFDCAI_00630	CDS	990				hypothetical protein
+EHOFDCAI_00631	CDS	771				hypothetical protein
+EHOFDCAI_00632	CDS	1182				Iron-sulfur cluster carrier protein
+EHOFDCAI_00633	CDS	1137	hflK		COG0330	Modulator of FtsH protease HflK
+EHOFDCAI_00634	CDS	957				hypothetical protein
+EHOFDCAI_00635	CDS	198				hypothetical protein
+EHOFDCAI_00636	CDS	1434				hypothetical protein
+EHOFDCAI_00637	CDS	936				hypothetical protein
+EHOFDCAI_00638	CDS	933	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+EHOFDCAI_00639	CDS	1773	ilvI	2.2.1.6	COG0028	Acetolactate synthase isozyme 3 large subunit
+EHOFDCAI_00640	CDS	750				hypothetical protein
+EHOFDCAI_00641	CDS	546	ilvH	2.2.1.6	COG0440	Acetolactate synthase isozyme 3 small subunit
+EHOFDCAI_00642	CDS	1017	ilvC	1.1.1.86	COG0059	Ketol-acid reductoisomerase (NADP(+))
+EHOFDCAI_00643	CDS	1467	zwf	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase
+EHOFDCAI_00644	CDS	1827	edd	4.2.1.12		Phosphogluconate dehydratase
+EHOFDCAI_00645	CDS	972	glk	2.7.1.2	COG0837	Glucokinase
+EHOFDCAI_00646	CDS	642	eda	4.1.2.14	COG0800	2-dehydro-3-deoxy-phosphogluconate aldolase
+EHOFDCAI_00647	CDS	1395	ttuE	2.7.1.40		Pyruvate kinase
+EHOFDCAI_00648	CDS	966	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+EHOFDCAI_00649	CDS	756				hypothetical protein
+EHOFDCAI_00650	CDS	969				hypothetical protein
+EHOFDCAI_00651	CDS	912	zitB		COG1230	Zinc transporter ZitB
+EHOFDCAI_00652	CDS	444				hypothetical protein
+EHOFDCAI_00653	CDS	834	bamD		COG4105	Outer membrane protein assembly factor BamD
+EHOFDCAI_00654	CDS	1698	recN		COG0497	DNA repair protein RecN
+EHOFDCAI_00655	CDS	2112	ligA	6.5.1.2	COG0272	DNA ligase
+EHOFDCAI_00656	CDS	1812				hypothetical protein
+EHOFDCAI_00657	CDS	192				hypothetical protein
+EHOFDCAI_00658	CDS	864	prmC	2.1.1.297		Release factor glutamine methyltransferase
+EHOFDCAI_00659	CDS	810	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+EHOFDCAI_00660	CDS	363				hypothetical protein
+EHOFDCAI_00661	CDS	1236	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+EHOFDCAI_00662	CDS	315				hypothetical protein
+EHOFDCAI_00663	CDS	837	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+EHOFDCAI_00664	CDS	903				hypothetical protein
+EHOFDCAI_00665	CDS	561				hypothetical protein
+EHOFDCAI_00666	CDS	576				hypothetical protein
+EHOFDCAI_00667	CDS	825	mcl2	3.1.2.30	COG2301	(3S)-malyl-CoA thioesterase
+EHOFDCAI_00668	CDS	522	mch	4.2.1.148	COG2030	Mesaconyl-CoA hydratase
+EHOFDCAI_00669	CDS	1200	mmgC_2	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+EHOFDCAI_00670	CDS	1155	yfdE	2.8.3.19	COG1804	Acetyl-CoA:oxalate CoA-transferase
+EHOFDCAI_00671	CDS	1167	uctC_2	2.8.3.19		Acetyl-CoA:oxalate CoA-transferase
+EHOFDCAI_00672	CDS	441				hypothetical protein
+EHOFDCAI_00673	CDS	714	mngR		COG2188	Mannosyl-D-glycerate transport/metabolism system repressor MngR
+EHOFDCAI_00674	CDS	1266		2.8.3.-		butyrate:acetyl-CoA coenzyme A-transferase
+EHOFDCAI_00675	CDS	1302				hypothetical protein
+EHOFDCAI_00676	CDS	1374				hypothetical protein
+EHOFDCAI_00677	CDS	1395	paaK	6.2.1.30		Phenylacetate-coenzyme A ligase
+EHOFDCAI_00678	CDS	1227	gatA_1	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+EHOFDCAI_00679	CDS	783		4.2.1.150	COG1024	Crotonyl-CoA hydratase
+EHOFDCAI_00680	CDS	1422	ald	1.2.99.10		4,4'-diapolycopene aldehyde oxidase
+EHOFDCAI_00681	CDS	1593				hypothetical protein
+EHOFDCAI_00682	CDS	660				hypothetical protein
+EHOFDCAI_00683	CDS	801	nagR		COG2188	HTH-type transcriptional repressor NagR
+EHOFDCAI_00684	CDS	834				hypothetical protein
+EHOFDCAI_00685	CDS	756				hypothetical protein
+EHOFDCAI_00686	CDS	423				hypothetical protein
+EHOFDCAI_00687	CDS	1116	amiF	3.5.1.49		Formamidase
+EHOFDCAI_00688	CDS	912				hypothetical protein
+EHOFDCAI_00689	CDS	507				hypothetical protein
+EHOFDCAI_00690	CDS	939				hypothetical protein
+EHOFDCAI_00691	CDS	699	nicF	3.5.1.107	COG1335	Maleamate amidohydrolase
+EHOFDCAI_00692	CDS	435				hypothetical protein
+EHOFDCAI_00693	CDS	2178	btuB_8			Vitamin B12 transporter BtuB
+EHOFDCAI_00694	CDS	1095				hypothetical protein
+EHOFDCAI_00695	CDS	2238	parC	5.6.2.2	COG0188	DNA topoisomerase 4 subunit A
+EHOFDCAI_00696	CDS	684				hypothetical protein
+EHOFDCAI_00697	CDS	372				hypothetical protein
+EHOFDCAI_00698	CDS	195				hypothetical protein
+EHOFDCAI_00699	CDS	726	recO			DNA repair protein RecO
+EHOFDCAI_00700	CDS	972	era		COG1159	GTPase Era
+EHOFDCAI_00701	CDS	768	rnc	3.1.26.3	COG0571	Ribonuclease 3
+EHOFDCAI_00702	CDS	402	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+EHOFDCAI_00703	CDS	744	pdxJ	2.6.99.2	COG0854	Pyridoxine 5'-phosphate synthase
+EHOFDCAI_00704	CDS	582	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+EHOFDCAI_00705	CDS	2250	rsh	2.7.6.5		GTP pyrophosphokinase rsh
+EHOFDCAI_00706	CDS	351	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+EHOFDCAI_00707	CDS	639	udgb	3.2.2.-	COG1573	Type-5 uracil-DNA glycosylase
+EHOFDCAI_00708	CDS	561	lemA_2		COG1704	Protein LemA
+EHOFDCAI_00709	CDS	1578				hypothetical protein
+EHOFDCAI_00710	CDS	657				hypothetical protein
+EHOFDCAI_00711	CDS	1110			COG4663	Monocarboxylate 2-oxoacid-binding periplasmic protein
+EHOFDCAI_00712	CDS	759	bpt	2.3.2.29	COG2935	Aspartate/glutamate leucyltransferase
+EHOFDCAI_00713	CDS	1836				hypothetical protein
+EHOFDCAI_00714	CDS	690	motB_2		COG1360	Motility protein B
+EHOFDCAI_00715	CDS	867	glxR	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase
+EHOFDCAI_00716	CDS	627				hypothetical protein
+EHOFDCAI_00717	CDS	1011				hypothetical protein
+EHOFDCAI_00718	CDS	441				hypothetical protein
+EHOFDCAI_00719	CDS	522				hypothetical protein
+EHOFDCAI_00720	CDS	396				hypothetical protein
+EHOFDCAI_00721	CDS	396				hypothetical protein
+EHOFDCAI_00722	CDS	1005	hemB	4.2.1.24	COG0113	Delta-aminolevulinic acid dehydratase
+EHOFDCAI_00723	CDS	573				hypothetical protein
+EHOFDCAI_00724	CDS	1140	acdA_1	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+EHOFDCAI_00725	CDS	369				hypothetical protein
+EHOFDCAI_00726	CDS	861	rdpA_1	1.14.11.44		(R)-phenoxypropionate/alpha-ketoglutarate-dioxygenase
+EHOFDCAI_00727	CDS	948	sprT	3.4.21.4	COG5640	Trypsin
+EHOFDCAI_00728	CDS	732	rhlG	1.1.1.100		Rhamnolipids biosynthesis 3-oxoacyl-[acyl-carrier-protein] reductase
+EHOFDCAI_00729	CDS	654				hypothetical protein
+EHOFDCAI_00730	CDS	1641	bicA		COG0659	Bicarbonate transporter BicA
+EHOFDCAI_00731	CDS	1062	fadJ	5.1.2.3		Fatty acid oxidation complex subunit alpha
+EHOFDCAI_00732	CDS	471				hypothetical protein
+EHOFDCAI_00733	CDS	510				hypothetical protein
+EHOFDCAI_00734	CDS	690				hypothetical protein
+EHOFDCAI_00735	CDS	2367	aceE	1.2.4.1	COG2609	Pyruvate dehydrogenase E1 component
+EHOFDCAI_00736	CDS	531				hypothetical protein
+EHOFDCAI_00737	CDS	420				hypothetical protein
+EHOFDCAI_00738	CDS	3042				hypothetical protein
+EHOFDCAI_00739	CDS	345				hypothetical protein
+EHOFDCAI_00740	CDS	450				hypothetical protein
+EHOFDCAI_00741	CDS	753				hypothetical protein
+EHOFDCAI_00742	CDS	1365				hypothetical protein
+EHOFDCAI_00743	CDS	1260				hypothetical protein
+EHOFDCAI_00744	CDS	450	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3, chloroplastic
+EHOFDCAI_00745	CDS	570	nuoB	7.1.1.-	COG0377	NADH-quinone oxidoreductase subunit B
+EHOFDCAI_00746	CDS	627	nqo5	7.1.1.-	COG0852	NADH-quinone oxidoreductase chain 5
+EHOFDCAI_00747	CDS	1206	nuoD	7.1.1.-	COG0649	NADH-quinone oxidoreductase subunit D
+EHOFDCAI_00748	CDS	363				hypothetical protein
+EHOFDCAI_00749	CDS	450				hypothetical protein
+EHOFDCAI_00750	CDS	1053				hypothetical protein
+EHOFDCAI_00751	CDS	216				hypothetical protein
+EHOFDCAI_00752	CDS	1305	nqo1	7.1.1.-	COG1894	NADH-quinone oxidoreductase chain 1
+EHOFDCAI_00753	CDS	2100	nqo3	7.1.1.-	COG1034	NADH-quinone oxidoreductase chain 3
+EHOFDCAI_00754	CDS	1077	nuoH	7.1.1.-	COG1005	NADH-quinone oxidoreductase subunit H
+EHOFDCAI_00755	CDS	486	nuoI	7.1.1.-	COG1143	NADH-quinone oxidoreductase subunit I
+EHOFDCAI_00756	CDS	597	nuoJ	7.1.1.-	COG0839	NADH-quinone oxidoreductase subunit J
+EHOFDCAI_00757	CDS	309	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+EHOFDCAI_00758	CDS	2130	nuoL	7.1.1.-	COG1009	NADH-quinone oxidoreductase subunit L
+EHOFDCAI_00759	CDS	1494	nuoM	7.1.1.-	COG1008	NADH-quinone oxidoreductase subunit M
+EHOFDCAI_00760	CDS	1431	nuoN	7.1.1.-	COG1007	NADH-quinone oxidoreductase subunit N
+EHOFDCAI_00761	CDS	741	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+EHOFDCAI_00762	CDS	774	coaX	2.7.1.33	COG1521	Type III pantothenate kinase
+EHOFDCAI_00763	CDS	1686	rnj	3.1.-.-	COG0595	Ribonuclease J
+EHOFDCAI_00764	CDS	432	epi	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+EHOFDCAI_00765	CDS	240				hypothetical protein
+EHOFDCAI_00766	CDS	1167	argE	3.5.1.16		Acetylornithine deacetylase
+EHOFDCAI_00767	CDS	1917				hypothetical protein
+EHOFDCAI_00768	CDS	834				hypothetical protein
+EHOFDCAI_00769	CDS	978				hypothetical protein
+EHOFDCAI_00770	CDS	381				hypothetical protein
+EHOFDCAI_00771	tRNA	90				tRNA-Ser(tga)
+EHOFDCAI_00772	CDS	1398	rlpA	4.2.2.-		Endolytic peptidoglycan transglycosylase RlpA
+EHOFDCAI_00773	CDS	1149	dacC	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacC
+EHOFDCAI_00774	CDS	633	tmk	2.7.4.9	COG0125	Thymidylate kinase
+EHOFDCAI_00775	CDS	930				hypothetical protein
+EHOFDCAI_00776	CDS	771	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+EHOFDCAI_00777	CDS	816				hypothetical protein
+EHOFDCAI_00778	CDS	1725	aas		COG0204	Bifunctional protein Aas
+EHOFDCAI_00779	CDS	948	lipA	2.8.1.8	COG0320	Lipoyl synthase
+EHOFDCAI_00780	CDS	462	pasT		COG2867	Persistence and stress-resistance toxin PasT
+EHOFDCAI_00781	CDS	1266				hypothetical protein
+EHOFDCAI_00782	CDS	1203	mnmA	2.8.1.13	COG0482	tRNA-specific 2-thiouridylase MnmA
+EHOFDCAI_00783	CDS	849	tauD	1.14.11.17	COG2175	Alpha-ketoglutarate-dependent taurine dioxygenase
+EHOFDCAI_00784	CDS	489	pncC	3.5.1.42	COG1546	Nicotinamide-nucleotide amidohydrolase PncC
+EHOFDCAI_00785	CDS	1212	ispDF		COG0245	Bifunctional enzyme IspD/IspF
+EHOFDCAI_00786	CDS	999	dusB	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+EHOFDCAI_00787	CDS	1056	glnL	2.7.13.3	COG3852	Sensory histidine kinase/phosphatase NtrB
+EHOFDCAI_00788	CDS	1374	ntrC		COG2204	DNA-binding transcriptional regulator NtrC
+EHOFDCAI_00789	CDS	2205	sasA	2.7.-.-		Adaptive-response sensory-kinase SasA
+EHOFDCAI_00790	CDS	1392	atoC_2		COG2204	Regulatory protein AtoC
+EHOFDCAI_00791	CDS	1374	trkA		COG0569	Trk system potassium uptake protein TrkA
+EHOFDCAI_00792	CDS	1410	trkH_1		COG0168	Trk system potassium uptake protein TrkH
+EHOFDCAI_00793	CDS	243	hfq		COG1923	RNA-binding protein Hfq
+EHOFDCAI_00794	CDS	1338	hflX		COG2262	GTPase HflX
+EHOFDCAI_00795	CDS	345				hypothetical protein
+EHOFDCAI_00796	CDS	624	clpP	3.4.21.92		ATP-dependent Clp protease proteolytic subunit
+EHOFDCAI_00797	CDS	1269	clpX			ATP-dependent Clp protease ATP-binding subunit ClpX
+EHOFDCAI_00798	CDS	2409	lon	3.4.21.53	COG0466	Lon protease
+EHOFDCAI_00799	tRNA	76				tRNA-Val(tac)
+EHOFDCAI_00800	CDS	2049				hypothetical protein
+EHOFDCAI_00801	CDS	540				hypothetical protein
+EHOFDCAI_00802	CDS	771				hypothetical protein
+EHOFDCAI_00803	CDS	339	glnB		COG0347	Nitrogen regulatory protein P-II
+EHOFDCAI_00804	CDS	1404	glnA	6.3.1.2	COG0174	Glutamine synthetase
+EHOFDCAI_00805	CDS	219				hypothetical protein
+EHOFDCAI_00806	CDS	783				hypothetical protein
+EHOFDCAI_00807	CDS	810	mazG	3.6.1.8	COG1694	Nucleoside triphosphate pyrophosphohydrolase
+EHOFDCAI_00808	CDS	912	araB	3.1.1.15		L-arabinolactonase
+EHOFDCAI_00809	CDS	216	secE			Protein translocase subunit SecE
+EHOFDCAI_00810	CDS	546	nusG		COG0250	Transcription termination/antitermination protein NusG
+EHOFDCAI_00811	CDS	1530	pgi	5.3.1.9		Glucose-6-phosphate isomerase
+EHOFDCAI_00812	CDS	702	pgl	3.1.1.31	COG0363	6-phosphogluconolactonase
+EHOFDCAI_00813	CDS	558	lemA_3		COG1704	Protein LemA
+EHOFDCAI_00814	CDS	1074				hypothetical protein
+EHOFDCAI_00815	CDS	999				hypothetical protein
+EHOFDCAI_00816	CDS	225				hypothetical protein
+EHOFDCAI_00817	CDS	258				hypothetical protein
+EHOFDCAI_00818	CDS	897				hypothetical protein
+EHOFDCAI_00819	CDS	615				hypothetical protein
+EHOFDCAI_00820	CDS	972		1.3.1.103		2-haloacrylate reductase
+EHOFDCAI_00821	CDS	594	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+EHOFDCAI_00822	CDS	501				hypothetical protein
+EHOFDCAI_00823	CDS	1074	arsM	2.1.1.137		Arsenite methyltransferase
+EHOFDCAI_00824	CDS	876	ttcA	2.8.1.-	COG0037	tRNA-cytidine(32) 2-sulfurtransferase
+EHOFDCAI_00825	CDS	1860				hypothetical protein
+EHOFDCAI_00826	CDS	903	pgrR			HTH-type transcriptional regulator PgrR
+EHOFDCAI_00827	CDS	621				hypothetical protein
+EHOFDCAI_00828	CDS	396				hypothetical protein
+EHOFDCAI_00829	CDS	1092	pyrD	1.3.5.2		Dihydroorotate dehydrogenase (quinone)
+EHOFDCAI_00830	CDS	1272	dinF		COG0534	DNA damage-inducible protein F
+EHOFDCAI_00831	CDS	1314	amtB			Ammonia channel
+EHOFDCAI_00832	CDS	1839	recQ	3.6.4.12	COG0514	ATP-dependent DNA helicase RecQ
+EHOFDCAI_00833	CDS	891				hypothetical protein
+EHOFDCAI_00834	CDS	438				hypothetical protein
+EHOFDCAI_00835	CDS	483				hypothetical protein
+EHOFDCAI_00836	CDS	1341		1.18.1.2		Ferredoxin--NADP reductase
+EHOFDCAI_00837	CDS	699				hypothetical protein
+EHOFDCAI_00838	CDS	678				hypothetical protein
+EHOFDCAI_00839	CDS	630				hypothetical protein
+EHOFDCAI_00840	CDS	1035	aes_2	3.1.1.-		Acetyl esterase
+EHOFDCAI_00841	CDS	975	mas	2.3.1.111		Mycocerosic acid synthase
+EHOFDCAI_00842	CDS	1764				hypothetical protein
+EHOFDCAI_00843	CDS	1437				hypothetical protein
+EHOFDCAI_00844	CDS	837				hypothetical protein
+EHOFDCAI_00845	CDS	654				hypothetical protein
+EHOFDCAI_00846	CDS	711	mtgA	2.4.1.129	COG0744	Biosynthetic peptidoglycan transglycosylase
+EHOFDCAI_00847	CDS	1125	queG	1.17.99.6	COG1600	Epoxyqueuosine reductase
+EHOFDCAI_00848	CDS	675	fzlA			FtsZ-localized protein A
+EHOFDCAI_00849	CDS	2727				hypothetical protein
+EHOFDCAI_00850	CDS	4728	gdh	1.4.1.2	COG2902	NAD-specific glutamate dehydrogenase
+EHOFDCAI_00851	CDS	1122	yhhT		COG0628	Putative transport protein YhhT
+EHOFDCAI_00852	CDS	798				hypothetical protein
+EHOFDCAI_00853	CDS	771				hypothetical protein
+EHOFDCAI_00854	CDS	258				putative glutaredoxin
+EHOFDCAI_00855	CDS	438				hypothetical protein
+EHOFDCAI_00856	CDS	420	queD	4.1.2.50	COG0720	6-carboxy-5,6,7,8-tetrahydropterin synthase
+EHOFDCAI_00857	CDS	651	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+EHOFDCAI_00858	CDS	708	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+EHOFDCAI_00859	CDS	2550	btuB_9			Vitamin B12 transporter BtuB
+EHOFDCAI_00860	CDS	1152	yliI	1.1.5.-	COG2133	Aldose sugar dehydrogenase YliI
+EHOFDCAI_00861	CDS	570	recR		COG0353	Recombination protein RecR
+EHOFDCAI_00862	CDS	1374	linC_1	1.14.14.84		Linalool 8-monooxygenase
+EHOFDCAI_00863	CDS	636				hypothetical protein
+EHOFDCAI_00864	CDS	1761	kefC_1		COG0475	Glutathione-regulated potassium-efflux system protein KefC
+EHOFDCAI_00865	CDS	324	ybaB		COG0718	Nucleoid-associated protein YbaB
+EHOFDCAI_00866	CDS	1752	ruvB_1	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+EHOFDCAI_00867	CDS	1995				hypothetical protein
+EHOFDCAI_00868	CDS	828	nudC	3.6.1.22		NADH pyrophosphatase
+EHOFDCAI_00869	CDS	531				hypothetical protein
+EHOFDCAI_00870	CDS	534				hypothetical protein
+EHOFDCAI_00871	CDS	666				hypothetical protein
+EHOFDCAI_00872	CDS	1626	betA_1	1.2.1.8		Oxygen-dependent choline dehydrogenase
+EHOFDCAI_00873	CDS	120				hypothetical protein
+EHOFDCAI_00874	CDS	465				hypothetical protein
+EHOFDCAI_00875	CDS	534				hypothetical protein
+EHOFDCAI_00876	CDS	576				hypothetical protein
+EHOFDCAI_00877	CDS	906	dmlR_3			HTH-type transcriptional regulator DmlR
+EHOFDCAI_00878	CDS	1893				hypothetical protein
+EHOFDCAI_00879	CDS	345				hypothetical protein
+EHOFDCAI_00880	tmRNA	341	ssrA			transfer-messenger RNA, SsrA
+EHOFDCAI_00881	CDS	486				hypothetical protein
+EHOFDCAI_00882	CDS	465				hypothetical protein
+EHOFDCAI_00883	CDS	399				hypothetical protein
+EHOFDCAI_00884	CDS	315	hxlR		COG1733	HTH-type transcriptional activator HxlR
+EHOFDCAI_00885	CDS	1440				hypothetical protein
+EHOFDCAI_00886	CDS	357				hypothetical protein
+EHOFDCAI_00887	CDS	1059	hemH	4.99.1.1	COG0276	Ferrochelatase
+EHOFDCAI_00888	tRNA	86				tRNA-Leu(caa)
+EHOFDCAI_00889	CDS	864				hypothetical protein
+EHOFDCAI_00890	CDS	615				hypothetical protein
+EHOFDCAI_00891	CDS	576	dsbB			Disulfide bond formation protein B
+EHOFDCAI_00892	CDS	483				hypothetical protein
+EHOFDCAI_00893	CDS	609				hypothetical protein
+EHOFDCAI_00894	CDS	363				hypothetical protein
+EHOFDCAI_00895	CDS	1404	lpd3	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase 3
+EHOFDCAI_00896	CDS	612				hypothetical protein
+EHOFDCAI_00897	CDS	669	inhA	4.2.1.103		Isonitrile hydratase
+EHOFDCAI_00898	CDS	408				hypothetical protein
+EHOFDCAI_00899	CDS	756				hypothetical protein
+EHOFDCAI_00900	CDS	831	xecD	1.1.1.268		2-(R)-hydroxypropyl-CoM dehydrogenase
+EHOFDCAI_00901	CDS	171				hypothetical protein
+EHOFDCAI_00902	CDS	558				hypothetical protein
+EHOFDCAI_00903	CDS	438				hypothetical protein
+EHOFDCAI_00904	CDS	2202	iorB	1.3.99.16		Isoquinoline 1-oxidoreductase subunit beta
+EHOFDCAI_00905	CDS	462	iorA_1	1.3.99.16		Isoquinoline 1-oxidoreductase subunit alpha
+EHOFDCAI_00906	CDS	612				hypothetical protein
+EHOFDCAI_00907	CDS	705				hypothetical protein
+EHOFDCAI_00908	CDS	534	ppa	3.6.1.1	COG0221	Inorganic pyrophosphatase
+EHOFDCAI_00909	CDS	306				hypothetical protein
+EHOFDCAI_00910	CDS	987				hypothetical protein
+EHOFDCAI_00911	CDS	588				hypothetical protein
+EHOFDCAI_00912	CDS	975				hypothetical protein
+EHOFDCAI_00913	CDS	804	cysQ_1	3.1.3.7	COG1218	3'(2'),5'-bisphosphate nucleotidase CysQ
+EHOFDCAI_00914	CDS	474				hypothetical protein
+EHOFDCAI_00915	CDS	1827				hypothetical protein
+EHOFDCAI_00916	tRNA	79				tRNA-Lys(ctt)
+EHOFDCAI_00917	CDS	771	fabG_3	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+EHOFDCAI_00918	CDS	612	gstB_1	2.5.1.18	COG0625	Glutathione S-transferase GST-6.0
+EHOFDCAI_00919	CDS	2172	hemR		COG1629	Hemin receptor
+EHOFDCAI_00920	CDS	1044				hypothetical protein
+EHOFDCAI_00921	CDS	795				hypothetical protein
+EHOFDCAI_00922	CDS	612	cpcT	4.-.-.-		Chromophore lyase CpcT/CpeT
+EHOFDCAI_00923	CDS	531				hypothetical protein
+EHOFDCAI_00924	CDS	786	amiD	3.5.1.28	COG3023	N-acetylmuramoyl-L-alanine amidase AmiD
+EHOFDCAI_00925	CDS	909	eamA		COG0697	putative amino-acid metabolite efflux pump
+EHOFDCAI_00926	CDS	1629	lig	6.5.1.1		DNA ligase
+EHOFDCAI_00927	CDS	372				hypothetical protein
+EHOFDCAI_00928	CDS	1908				hypothetical protein
+EHOFDCAI_00929	CDS	387				hypothetical protein
+EHOFDCAI_00930	CDS	450	soxR		COG0789	Redox-sensitive transcriptional activator SoxR
+EHOFDCAI_00931	CDS	1371	pepA_1	3.4.11.10		cytosol aminopeptidase
+EHOFDCAI_00932	CDS	996				hypothetical protein
+EHOFDCAI_00933	CDS	975				hypothetical protein
+EHOFDCAI_00934	CDS	1038				hypothetical protein
+EHOFDCAI_00935	CDS	1500				hypothetical protein
+EHOFDCAI_00936	CDS	1398				hypothetical protein
+EHOFDCAI_00937	CDS	708				hypothetical protein
+EHOFDCAI_00938	CDS	1671	sctC_2			Type 3 secretion system secretin
+EHOFDCAI_00939	CDS	843				hypothetical protein
+EHOFDCAI_00940	CDS	516				hypothetical protein
+EHOFDCAI_00941	CDS	153				hypothetical protein
+EHOFDCAI_00942	CDS	162				hypothetical protein
+EHOFDCAI_00943	CDS	228				hypothetical protein
+EHOFDCAI_00944	CDS	447				hypothetical protein
+EHOFDCAI_00945	CDS	840				hypothetical protein
+EHOFDCAI_00946	CDS	2217	ptsP	2.7.3.9	COG3605	Phosphoenolpyruvate-dependent phosphotransferase system
+EHOFDCAI_00947	CDS	1251		2.7.2.4	COG0527	Aspartate kinase
+EHOFDCAI_00948	CDS	777	ubiG	2.1.1.222	COG2227	Ubiquinone biosynthesis O-methyltransferase
+EHOFDCAI_00949	CDS	621				hypothetical protein
+EHOFDCAI_00950	CDS	915				hypothetical protein
+EHOFDCAI_00951	CDS	525				hypothetical protein
+EHOFDCAI_00952	CDS	2457				hypothetical protein
+EHOFDCAI_00953	CDS	1215	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+EHOFDCAI_00954	CDS	543	rimM		COG0806	Ribosome maturation factor RimM
+EHOFDCAI_00955	CDS	993				hypothetical protein
+EHOFDCAI_00956	CDS	996				hypothetical protein
+EHOFDCAI_00957	CDS	396	menI	3.1.2.28		1,4-dihydroxy-2-naphthoyl-CoA hydrolase
+EHOFDCAI_00958	CDS	981	galE	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+EHOFDCAI_00959	CDS	783		1.-.-.-		putative oxidoreductase
+EHOFDCAI_00960	CDS	1134	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+EHOFDCAI_00961	CDS	1071				hypothetical protein
+EHOFDCAI_00962	CDS	1236		1.14.13.239		Carnitine monooxygenase oxygenase subunit
+EHOFDCAI_00963	CDS	669				hypothetical protein
+EHOFDCAI_00964	CDS	480	ibpA		COG0071	Small heat shock protein IbpA
+EHOFDCAI_00965	CDS	927				hypothetical protein
+EHOFDCAI_00966	CDS	2646				hypothetical protein
+EHOFDCAI_00967	CDS	1266	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+EHOFDCAI_00968	CDS	273				hypothetical protein
+EHOFDCAI_00969	CDS	1398	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+EHOFDCAI_00970	CDS	603	resA			Thiol-disulfide oxidoreductase ResA
+EHOFDCAI_00971	CDS	753				hypothetical protein
+EHOFDCAI_00972	CDS	1047				hypothetical protein
+EHOFDCAI_00973	CDS	1989	cobT_2	6.6.1.2		Aerobic cobaltochelatase subunit CobT
+EHOFDCAI_00974	CDS	1212				hypothetical protein
+EHOFDCAI_00975	CDS	984	cobS_2	6.6.1.2		Aerobic cobaltochelatase subunit CobS
+EHOFDCAI_00976	CDS	900	rdmC	3.1.1.95		Aclacinomycin methylesterase RdmC
+EHOFDCAI_00977	CDS	837	paaG_2	5.3.3.18	COG1024	1,2-epoxyphenylacetyl-CoA isomerase
+EHOFDCAI_00978	CDS	1716	nfdA	3.5.1.91		N-substituted formamide deformylase
+EHOFDCAI_00979	CDS	291	rpmB		COG0227	50S ribosomal protein L28
+EHOFDCAI_00980	CDS	855				hypothetical protein
+EHOFDCAI_00981	CDS	816	xthA_2	3.1.11.2	COG0708	Exodeoxyribonuclease III
+EHOFDCAI_00982	CDS	789				hypothetical protein
+EHOFDCAI_00983	CDS	1077				hypothetical protein
+EHOFDCAI_00984	CDS	342				hypothetical protein
+EHOFDCAI_00985	CDS	780	sdhB	1.3.5.1	COG0479	Succinate dehydrogenase iron-sulfur subunit
+EHOFDCAI_00986	CDS	1791	sdhA	1.3.5.1		Succinate dehydrogenase flavoprotein subunit
+EHOFDCAI_00987	CDS	381				hypothetical protein
+EHOFDCAI_00988	CDS	399				hypothetical protein
+EHOFDCAI_00989	CDS	1755				hypothetical protein
+EHOFDCAI_00990	CDS	1152				putative transporter
+EHOFDCAI_00991	CDS	807				hypothetical protein
+EHOFDCAI_00992	CDS	1518	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+EHOFDCAI_00993	CDS	1473				hypothetical protein
+EHOFDCAI_00994	CDS	735	mftF	2.-.-.-	COG0463	Putative mycofactocin biosynthesis glycosyltransferase MftF
+EHOFDCAI_00995	CDS	759				hypothetical protein
+EHOFDCAI_00996	CDS	1815				hypothetical protein
+EHOFDCAI_00997	CDS	978		3.4.11.-	COG3191	putative aminopeptidase
+EHOFDCAI_00998	tRNA	77				tRNA-Arg(acg)
+EHOFDCAI_00999	CDS	291				hypothetical protein
+EHOFDCAI_01000	CDS	1695				hypothetical protein
+EHOFDCAI_01001	CDS	1284		1.8.98.-	COG0641	Anaerobic sulfatase-maturating enzyme
+EHOFDCAI_01002	CDS	249				hypothetical protein
+EHOFDCAI_01003	CDS	1236	cvaA		COG0845	Colicin V secretion protein CvaA
+EHOFDCAI_01004	CDS	2145	apxIB		COG2274	Toxin RTX-I translocation ATP-binding protein
+EHOFDCAI_01005	CDS	1896				hypothetical protein
+EHOFDCAI_01006	CDS	1227				hypothetical protein
+EHOFDCAI_01007	CDS	684				hypothetical protein
+EHOFDCAI_01008	CDS	600				hypothetical protein
+EHOFDCAI_01009	CDS	1080				hypothetical protein
+EHOFDCAI_01010	CDS	624				hypothetical protein
+EHOFDCAI_01011	CDS	435				hypothetical protein
+EHOFDCAI_01012	CDS	414				hypothetical protein
+EHOFDCAI_01013	CDS	438				hypothetical protein
+EHOFDCAI_01014	CDS	552				hypothetical protein
+EHOFDCAI_01015	CDS	540	yyaP		COG0262	putative protein YyaP
+EHOFDCAI_01016	CDS	870	ampR			HTH-type transcriptional activator AmpR
+EHOFDCAI_01017	CDS	690				hypothetical protein
+EHOFDCAI_01018	CDS	1044		1.1.1.1	COG1063	putative zinc-binding alcohol dehydrogenase
+EHOFDCAI_01019	CDS	1482				hypothetical protein
+EHOFDCAI_01020	CDS	1878				hypothetical protein
+EHOFDCAI_01021	CDS	1461				hypothetical protein
+EHOFDCAI_01022	CDS	1674				hypothetical protein
+EHOFDCAI_01023	CDS	744				hypothetical protein
+EHOFDCAI_01024	CDS	1059	aguA	3.5.3.12		Agmatine deiminase
+EHOFDCAI_01025	CDS	402				hypothetical protein
+EHOFDCAI_01026	CDS	1011		1.6.5.11	COG2070	NADH:quinone reductase
+EHOFDCAI_01027	CDS	507			COG1733	putative HTH-type transcriptional regulator
+EHOFDCAI_01028	CDS	753				hypothetical protein
+EHOFDCAI_01029	CDS	663	nahD	5.99.1.4		2-hydroxychromene-2-carboxylate isomerase
+EHOFDCAI_01030	CDS	1800	dmdC_1	1.3.8.-	COG1960	3-methylmercaptopropionyl-CoA dehydrogenase
+EHOFDCAI_01031	CDS	801	caiD_2	4.2.1.149		Carnitinyl-CoA dehydratase
+EHOFDCAI_01032	CDS	597				hypothetical protein
+EHOFDCAI_01033	CDS	1443	nylA	3.5.2.12		6-aminohexanoate-cyclic-dimer hydrolase
+EHOFDCAI_01034	CDS	519				hypothetical protein
+EHOFDCAI_01035	CDS	1365		1.4.5.-		L-amino acid dehydrogenase
+EHOFDCAI_01036	CDS	1632	lcfB_2	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+EHOFDCAI_01037	CDS	894	gmuE	2.7.1.4	COG1940	Putative fructokinase
+EHOFDCAI_01038	CDS	2454	btuB_10			Vitamin B12 transporter BtuB
+EHOFDCAI_01039	CDS	951	ydjJ	1.-.-.-	COG1063	putative zinc-type alcohol dehydrogenase-like protein YdjJ
+EHOFDCAI_01040	CDS	996	iolG	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+EHOFDCAI_01041	CDS	1242	tsgA			Protein TsgA
+EHOFDCAI_01042	CDS	768				hypothetical protein
+EHOFDCAI_01043	CDS	1029	rbsR_2		COG1609	Ribose operon repressor
+EHOFDCAI_01044	CDS	420				hypothetical protein
+EHOFDCAI_01045	CDS	693				hypothetical protein
+EHOFDCAI_01046	CDS	258				hypothetical protein
+EHOFDCAI_01047	CDS	519				hypothetical protein
+EHOFDCAI_01048	CDS	210				hypothetical protein
+EHOFDCAI_01049	CDS	315				hypothetical protein
+EHOFDCAI_01050	CDS	867				hypothetical protein
+EHOFDCAI_01051	CDS	1248	recF			DNA replication and repair protein RecF
+EHOFDCAI_01052	CDS	555				hypothetical protein
+EHOFDCAI_01053	CDS	855				hypothetical protein
+EHOFDCAI_01054	CDS	1782				hypothetical protein
+EHOFDCAI_01055	CDS	1038				hypothetical protein
+EHOFDCAI_01056	tRNA	74				tRNA-Thr(ggt)
+EHOFDCAI_01057	CDS	1071				hypothetical protein
+EHOFDCAI_01058	CDS	1617				hypothetical protein
+EHOFDCAI_01059	CDS	411				hypothetical protein
+EHOFDCAI_01060	CDS	435				hypothetical protein
+EHOFDCAI_01061	CDS	1035				hypothetical protein
+EHOFDCAI_01062	CDS	1575				hypothetical protein
+EHOFDCAI_01063	CDS	957	xerC_1			Tyrosine recombinase XerC
+EHOFDCAI_01064	CDS	1161				hypothetical protein
+EHOFDCAI_01065	CDS	255				hypothetical protein
+EHOFDCAI_01066	CDS	342				hypothetical protein
+EHOFDCAI_01067	CDS	408				hypothetical protein
+EHOFDCAI_01068	CDS	342				hypothetical protein
+EHOFDCAI_01069	CDS	966				hypothetical protein
+EHOFDCAI_01070	CDS	2133				hypothetical protein
+EHOFDCAI_01071	CDS	516				hypothetical protein
+EHOFDCAI_01072	CDS	606	bshB1	3.5.1.-	COG2120	N-acetyl-alpha-D-glucosaminyl L-malate deacetylase 1
+EHOFDCAI_01073	CDS	828	polA_1	2.7.7.7	COG0258	DNA polymerase I, thermostable
+EHOFDCAI_01074	CDS	531	egtB_2	1.14.99.50		Hercynine oxygenase
+EHOFDCAI_01075	CDS	810				hypothetical protein
+EHOFDCAI_01076	CDS	1473	bchE	1.21.98.3	COG1032	Anaerobic magnesium-protoporphyrin IX monomethyl ester cyclase
+EHOFDCAI_01077	CDS	459				hypothetical protein
+EHOFDCAI_01078	CDS	1131	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+EHOFDCAI_01079	CDS	489	cmk	2.7.4.25		Cytidylate kinase
+EHOFDCAI_01080	CDS	1149	intA		COG0582	Prophage integrase IntA
+EHOFDCAI_01081	CDS	1224				hypothetical protein
+EHOFDCAI_01082	CDS	678				hypothetical protein
+EHOFDCAI_01083	CDS	885	ilvE_1	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+EHOFDCAI_01084	CDS	474				hypothetical protein
+EHOFDCAI_01085	CDS	678	ompR			Transcriptional regulatory protein OmpR
+EHOFDCAI_01086	CDS	612	gstB_2	2.5.1.18	COG0625	Glutathione S-transferase GST-6.0
+EHOFDCAI_01087	CDS	213				hypothetical protein
+EHOFDCAI_01088	CDS	183				hypothetical protein
+EHOFDCAI_01089	CDS	915	oxyR_1			Hydrogen peroxide-inducible genes activator
+EHOFDCAI_01090	CDS	1299	envZ	2.7.13.3		Osmolarity sensor protein EnvZ
+EHOFDCAI_01091	CDS	600				hypothetical protein
+EHOFDCAI_01092	CDS	804	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+EHOFDCAI_01093	CDS	507				hypothetical protein
+EHOFDCAI_01094	CDS	507				hypothetical protein
+EHOFDCAI_01095	CDS	237				hypothetical protein
+EHOFDCAI_01096	CDS	942	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+EHOFDCAI_01097	CDS	1053				hypothetical protein
+EHOFDCAI_01098	CDS	747	etfB			Electron transfer flavoprotein subunit beta
+EHOFDCAI_01099	CDS	930	etfA		COG2025	Electron transfer flavoprotein subunit alpha
+EHOFDCAI_01100	CDS	720				hypothetical protein
+EHOFDCAI_01101	CDS	420				hypothetical protein
+EHOFDCAI_01102	CDS	1935	rpoD		COG0568	RNA polymerase sigma factor RpoD
+EHOFDCAI_01103	CDS	1950	dnaG	2.7.7.-		DNA primase
+EHOFDCAI_01104	CDS	360				hypothetical protein
+EHOFDCAI_01105	CDS	432				hypothetical protein
+EHOFDCAI_01106	CDS	99				hypothetical protein
+EHOFDCAI_01107	CDS	1125				hypothetical protein
+EHOFDCAI_01108	CDS	786				hypothetical protein
+EHOFDCAI_01109	CDS	201				hypothetical protein
+EHOFDCAI_01110	CDS	2436	divL	2.7.13.3		Sensor protein DivL
+EHOFDCAI_01111	CDS	342				hypothetical protein
+EHOFDCAI_01112	CDS	582				hypothetical protein
+EHOFDCAI_01113	CDS	549				hypothetical protein
+EHOFDCAI_01114	CDS	567				hypothetical protein
+EHOFDCAI_01115	CDS	369				hypothetical protein
+EHOFDCAI_01116	CDS	204				hypothetical protein
+EHOFDCAI_01117	CDS	897	htpX	3.4.24.-	COG0501	Protease HtpX 
+EHOFDCAI_01118	CDS	1281	rsmB_1	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+EHOFDCAI_01119	CDS	507				hypothetical protein
+EHOFDCAI_01120	CDS	669	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+EHOFDCAI_01121	CDS	1728	fzlC			FtsZ-localized protein C
+EHOFDCAI_01122	CDS	1881	pglF	4.2.1.135	COG1086	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+EHOFDCAI_01123	CDS	1617	purH		COG0138	Bifunctional purine biosynthesis protein PurH
+EHOFDCAI_01124	CDS	456		3.1.2.28		1,4-dihydroxy-2-naphthoyl-CoA hydrolase
+EHOFDCAI_01125	CDS	423				hypothetical protein
+EHOFDCAI_01126	CDS	288				hypothetical protein
+EHOFDCAI_01127	CDS	408				hypothetical protein
+EHOFDCAI_01128	CDS	741				hypothetical protein
+EHOFDCAI_01129	CDS	927	ilvE_2	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+EHOFDCAI_01130	CDS	1572		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase FadD13
+EHOFDCAI_01131	CDS	1311		2.5.1.-	COG2873	O-acetyl-L-homoserine sulfhydrylase
+EHOFDCAI_01132	CDS	948				hypothetical protein
+EHOFDCAI_01133	CDS	648				hypothetical protein
+EHOFDCAI_01134	CDS	2046	arnT	2.4.2.43		Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase
+EHOFDCAI_01135	CDS	1344	gltP_2		COG1301	Proton/glutamate-aspartate symporter
+EHOFDCAI_01136	CDS	894	oxyR_2			Hydrogen peroxide-inducible genes activator
+EHOFDCAI_01137	CDS	591				hypothetical protein
+EHOFDCAI_01138	CDS	1461	ffh		COG0541	Signal recognition particle protein
+EHOFDCAI_01139	CDS	315				hypothetical protein
+EHOFDCAI_01140	CDS	537				hypothetical protein
+EHOFDCAI_01141	CDS	498				hypothetical protein
+EHOFDCAI_01142	CDS	1422	ywaD	3.4.11.6	COG2234	Aminopeptidase YwaD
+EHOFDCAI_01143	CDS	591	azoR	1.7.1.17	COG1182	FMN-dependent NADH-azoreductase
+EHOFDCAI_01144	CDS	594				hypothetical protein
+EHOFDCAI_01145	CDS	540				hypothetical protein
+EHOFDCAI_01146	CDS	963	mdh	1.1.1.37	COG0039	Malate dehydrogenase
+EHOFDCAI_01147	CDS	486				hypothetical protein
+EHOFDCAI_01148	CDS	546				hypothetical protein
+EHOFDCAI_01149	CDS	177				hypothetical protein
+EHOFDCAI_01150	CDS	984	ppsC	2.3.1.41		Phthiocerol synthesis polyketide synthase type I PpsC
+EHOFDCAI_01151	CDS	705				hypothetical protein
+EHOFDCAI_01152	CDS	945	truB	5.4.99.25		tRNA pseudouridine synthase B
+EHOFDCAI_01153	CDS	1308	rkpK	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+EHOFDCAI_01154	CDS	651	tal	2.2.1.2	COG0176	Transaldolase
+EHOFDCAI_01155	CDS	1029	nrdB	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+EHOFDCAI_01156	CDS	618				hypothetical protein
+EHOFDCAI_01157	CDS	1029				hypothetical protein
+EHOFDCAI_01158	CDS	804				hypothetical protein
+EHOFDCAI_01159	CDS	498				hypothetical protein
+EHOFDCAI_01160	CDS	501				hypothetical protein
+EHOFDCAI_01161	CDS	1956	nrdZ	1.17.4.1	COG0209	Vitamin B12-dependent ribonucleoside-diphosphate reductase
+EHOFDCAI_01162	CDS	450				hypothetical protein
+EHOFDCAI_01163	CDS	1191	mshA_3	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+EHOFDCAI_01164	CDS	444				hypothetical protein
+EHOFDCAI_01165	CDS	1008	gapA	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase 1
+EHOFDCAI_01166	CDS	1185	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+EHOFDCAI_01167	CDS	894	fda	4.1.2.13	COG3588	Fructose-bisphosphate aldolase class 1
+EHOFDCAI_01168	CDS	666	thiE_1	2.5.1.3	COG0352	Thiamine-phosphate synthase
+EHOFDCAI_01169	CDS	306				hypothetical protein
+EHOFDCAI_01170	CDS	567	efp			Elongation factor P
+EHOFDCAI_01171	CDS	819	suhB	3.1.3.25	COG0483	Inositol-1-monophosphatase
+EHOFDCAI_01172	CDS	204				hypothetical protein
+EHOFDCAI_01173	CDS	753				hypothetical protein
+EHOFDCAI_01174	CDS	564				hypothetical protein
+EHOFDCAI_01175	CDS	621				hypothetical protein
+EHOFDCAI_01176	CDS	750				hypothetical protein
+EHOFDCAI_01177	CDS	876				hypothetical protein
+EHOFDCAI_01178	CDS	717	ftsE		COG2884	Cell division ATP-binding protein FtsE
+EHOFDCAI_01179	CDS	666				hypothetical protein
+EHOFDCAI_01180	CDS	528	hpt	2.4.2.8		Hypoxanthine-guanine phosphoribosyltransferase
+EHOFDCAI_01181	CDS	774				hypothetical protein
+EHOFDCAI_01182	CDS	501	rppH	3.6.1.-	COG0494	RNA pyrophosphohydrolase
+EHOFDCAI_01183	CDS	1257				hypothetical protein
+EHOFDCAI_01184	CDS	1329				hypothetical protein
+EHOFDCAI_01185	CDS	1212				hypothetical protein
+EHOFDCAI_01186	CDS	1032	mcl	4.1.3.24	COG2301	Malyl-CoA/beta-methylmalyl-CoA/citramalyl-CoA lyase
+EHOFDCAI_01187	CDS	498				hypothetical protein
+EHOFDCAI_01188	CDS	693				hypothetical protein
+EHOFDCAI_01189	CDS	897	xerD			Tyrosine recombinase XerD
+EHOFDCAI_01190	CDS	1503	alsT		COG1115	Amino-acid carrier protein AlsT
+EHOFDCAI_01191	CDS	582				hypothetical protein
+EHOFDCAI_01192	CDS	534				hypothetical protein
+EHOFDCAI_01193	CDS	732	rgtE	2.4.1.-	COG0463	Dodecaprenyl-phosphate galacturonate synthase
+EHOFDCAI_01194	CDS	2436	hrpB	3.6.4.13	COG1643	ATP-dependent RNA helicase HrpB
+EHOFDCAI_01195	CDS	597	rluE	5.4.99.20	COG1187	Ribosomal large subunit pseudouridine synthase E
+EHOFDCAI_01196	CDS	168				hypothetical protein
+EHOFDCAI_01197	CDS	1380	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+EHOFDCAI_01198	CDS	954	ybeZ		COG1702	PhoH-like protein
+EHOFDCAI_01199	CDS	474	ybeY	3.1.-.-		Endoribonuclease YbeY
+EHOFDCAI_01200	CDS	828	tlyC		COG1253	Hemolysin C
+EHOFDCAI_01201	CDS	1650	lnt	2.3.1.269	COG0815	Apolipoprotein N-acyltransferase
+EHOFDCAI_01202	CDS	423				hypothetical protein
+EHOFDCAI_01203	CDS	879	mmgB	1.1.1.157	COG1250	putative 3-hydroxybutyryl-CoA dehydrogenase
+EHOFDCAI_01204	CDS	1113		1.14.13.239		Carnitine monooxygenase oxygenase subunit
+EHOFDCAI_01205	CDS	483				hypothetical protein
+EHOFDCAI_01206	CDS	1533				hypothetical protein
+EHOFDCAI_01207	CDS	1806	lepA	3.6.5.-	COG0481	Elongation factor 4
+EHOFDCAI_01208	CDS	888				hypothetical protein
+EHOFDCAI_01209	CDS	1128				hypothetical protein
+EHOFDCAI_01210	CDS	786				hypothetical protein
+EHOFDCAI_01211	CDS	1002	rluC	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+EHOFDCAI_01212	CDS	384	crcB			Putative fluoride ion transporter CrcB
+EHOFDCAI_01213	CDS	465				hypothetical protein
+EHOFDCAI_01214	CDS	927	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+EHOFDCAI_01215	CDS	1218		1.5.1.43		Carboxynorspermidine synthase
+EHOFDCAI_01216	CDS	438	cadI		COG0346	Cadmium-induced protein CadI
+EHOFDCAI_01217	CDS	330				hypothetical protein
+EHOFDCAI_01218	CDS	1677		1.18.1.2		Ferredoxin--NADP reductase
+EHOFDCAI_01219	CDS	666				hypothetical protein
+EHOFDCAI_01220	CDS	909	menB_1	4.1.3.36		1,4-dihydroxy-2-naphthoyl-CoA synthase
+EHOFDCAI_01221	CDS	1143	nspC	4.1.1.96		Carboxynorspermidine/carboxyspermidine decarboxylase
+EHOFDCAI_01222	CDS	867				hypothetical protein
+EHOFDCAI_01223	CDS	390				hypothetical protein
+EHOFDCAI_01224	CDS	780	cpnA	1.1.1.163		Cyclopentanol dehydrogenase
+EHOFDCAI_01225	tRNA	76				tRNA-Thr(cgt)
+EHOFDCAI_01226	CDS	1851	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+EHOFDCAI_01227	CDS	1956				hypothetical protein
+EHOFDCAI_01228	CDS	162				hypothetical protein
+EHOFDCAI_01229	CDS	2595				hypothetical protein
+EHOFDCAI_01230	CDS	411				hypothetical protein
+EHOFDCAI_01231	CDS	624				hypothetical protein
+EHOFDCAI_01232	CDS	1059				hypothetical protein
+EHOFDCAI_01233	CDS	729	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+EHOFDCAI_01234	CDS	1305	mshA_4	2.4.1.250	COG0438	D-inositol 3-phosphate glycosyltransferase
+EHOFDCAI_01235	CDS	444	hldE	2.7.7.70		Bifunctional protein HldE
+EHOFDCAI_01236	CDS	726		1.1.1.325		Sepiapterin reductase
+EHOFDCAI_01237	CDS	399				hypothetical protein
+EHOFDCAI_01238	CDS	405				hypothetical protein
+EHOFDCAI_01239	CDS	321				hypothetical protein
+EHOFDCAI_01240	CDS	489				hypothetical protein
+EHOFDCAI_01241	CDS	672				hypothetical protein
+EHOFDCAI_01242	CDS	1545	tam	2.1.1.144		Trans-aconitate 2-methyltransferase
+EHOFDCAI_01243	tRNA	75				tRNA-Val(gac)
+EHOFDCAI_01244	CDS	360	cpdR			Response regulator receiver protein CpdR
+EHOFDCAI_01245	CDS	882				hypothetical protein
+EHOFDCAI_01246	CDS	399				hypothetical protein
+EHOFDCAI_01247	CDS	804	hisN	3.1.3.15	COG0483	Histidinol-phosphatase
+EHOFDCAI_01248	CDS	2826	glnD		COG2844	Bifunctional uridylyltransferase/uridylyl-removing enzyme
+EHOFDCAI_01249	CDS	1563	murJ		COG0728	Lipid II flippase MurJ
+EHOFDCAI_01250	CDS	1035	trpS	6.1.1.2		Tryptophan--tRNA ligase
+EHOFDCAI_01251	CDS	468				hypothetical protein
+EHOFDCAI_01252	CDS	309				hypothetical protein
+EHOFDCAI_01253	CDS	741				hypothetical protein
+EHOFDCAI_01254	CDS	852	uppP	3.6.1.27	COG1968	Undecaprenyl-diphosphatase
+EHOFDCAI_01255	CDS	1446	gltD	1.4.1.13		Glutamate synthase [NADPH] small chain
+EHOFDCAI_01256	CDS	444				hypothetical protein
+EHOFDCAI_01257	CDS	4527	gltB	1.4.1.13		Glutamate synthase [NADPH] large chain
+EHOFDCAI_01258	CDS	1167	dnaJ		COG0484	Chaperone protein DnaJ
+EHOFDCAI_01259	CDS	456				hypothetical protein
+EHOFDCAI_01260	CDS	2298	uvrD	3.6.4.12	COG0210	DNA helicase II
+EHOFDCAI_01261	CDS	1374	ubiB	2.7.-.-		protein kinase UbiB
+EHOFDCAI_01262	CDS	276	rpsO		COG0184	30S ribosomal protein S15
+EHOFDCAI_01263	CDS	2124	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+EHOFDCAI_01264	CDS	837				hypothetical protein
+EHOFDCAI_01265	CDS	405				hypothetical protein
+EHOFDCAI_01266	CDS	324				hypothetical protein
+EHOFDCAI_01267	CDS	621	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+EHOFDCAI_01268	CDS	1191		1.3.99.-		Putative acyl-CoA dehydrogenase FadE17
+EHOFDCAI_01269	CDS	972				hypothetical protein
+EHOFDCAI_01270	CDS	651				hypothetical protein
+EHOFDCAI_01271	CDS	318				hypothetical protein
+EHOFDCAI_01272	CDS	723	dapH	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+EHOFDCAI_01273	CDS	3264	carB_2	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain
+EHOFDCAI_01274	CDS	459	greA		COG0782	Transcription elongation factor GreA
+EHOFDCAI_01275	CDS	1083				hypothetical protein
+EHOFDCAI_01276	CDS	957	lpxC	3.5.1.108	COG0774	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+EHOFDCAI_01277	CDS	1332	ftsZ			Cell division protein FtsZ
+EHOFDCAI_01278	CDS	1296	ftsA		COG0849	Cell division protein FtsA
+EHOFDCAI_01279	CDS	822	ftsQ			Cell division protein FtsQ
+EHOFDCAI_01280	CDS	2043				hypothetical protein
+EHOFDCAI_01281	CDS	930	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+EHOFDCAI_01282	CDS	570				hypothetical protein
+EHOFDCAI_01283	CDS	1509	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+EHOFDCAI_01284	CDS	477				hypothetical protein
+EHOFDCAI_01285	CDS	1098	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+EHOFDCAI_01286	CDS	1137	ftsW	2.4.1.129		putative peptidoglycan glycosyltransferase FtsW
+EHOFDCAI_01287	CDS	1422	murD	6.3.2.9	COG0771	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+EHOFDCAI_01288	CDS	1194	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+EHOFDCAI_01289	CDS	438				hypothetical protein
+EHOFDCAI_01290	CDS	1443	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+EHOFDCAI_01291	CDS	1659	ftsI	3.4.16.4		putative peptidoglycan D,D-transpeptidase FtsI
+EHOFDCAI_01292	CDS	336	ftsL			Cell division protein FtsL
+EHOFDCAI_01293	CDS	993	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+EHOFDCAI_01294	CDS	495	mraZ			Transcriptional regulator MraZ
+EHOFDCAI_01295	CDS	1455	trkH_2		COG0168	Trk system potassium uptake protein TrkH
+EHOFDCAI_01296	CDS	1287	proA	1.2.1.41		Gamma-glutamyl phosphate reductase
+EHOFDCAI_01297	CDS	609	nadD	2.7.7.18		nicotinate-nucleotide adenylyltransferase
+EHOFDCAI_01298	CDS	492	ansA	3.5.1.1	COG0252	L-asparaginase 1
+EHOFDCAI_01299	CDS	240	rsfS			Ribosomal silencing factor RsfS
+EHOFDCAI_01300	CDS	465	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+EHOFDCAI_01301	CDS	858				hypothetical protein
+EHOFDCAI_01302	CDS	480				hypothetical protein
+EHOFDCAI_01303	CDS	261				hypothetical protein
+EHOFDCAI_01304	CDS	528	msrB_1	1.8.4.12		Peptide methionine sulfoxide reductase MsrB
+EHOFDCAI_01305	CDS	435				hypothetical protein
+EHOFDCAI_01306	CDS	444				hypothetical protein
+EHOFDCAI_01307	CDS	783	ybhL		COG0670	Inner membrane protein YbhL
+EHOFDCAI_01308	CDS	1056	tas		COG0667	Protein tas
+EHOFDCAI_01309	CDS	333				hypothetical protein
+EHOFDCAI_01310	CDS	546	thpR	3.1.4.58		RNA 2',3'-cyclic phosphodiesterase
+EHOFDCAI_01311	CDS	1263	egtB_3	1.14.99.50		Hercynine oxygenase
+EHOFDCAI_01312	CDS	954	egtD	2.1.1.44	COG4301	Histidine N-alpha-methyltransferase
+EHOFDCAI_01313	CDS	807	fabG_4	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+EHOFDCAI_01314	CDS	669				hypothetical protein
+EHOFDCAI_01315	CDS	528				hypothetical protein
+EHOFDCAI_01316	CDS	834	yadH		COG0842	Inner membrane transport permease YadH
+EHOFDCAI_01317	CDS	1803	uup		COG0488	ABC transporter ATP-binding protein uup
+EHOFDCAI_01318	CDS	1494				hypothetical protein
+EHOFDCAI_01319	CDS	1908	cysNC		COG0529	Bifunctional enzyme CysN/CysC
+EHOFDCAI_01320	CDS	903	cysD	2.7.7.4	COG0175	Sulfate adenylyltransferase subunit 2
+EHOFDCAI_01321	CDS	1029	yfmJ_2	1.-.-.-	COG2130	Putative NADP-dependent oxidoreductase YfmJ
+EHOFDCAI_01322	CDS	2040				hypothetical protein
+EHOFDCAI_01323	CDS	813	dpgD_1	4.2.1.17		Enoyl-CoA-hydratase
+EHOFDCAI_01324	CDS	1131				hypothetical protein
+EHOFDCAI_01325	CDS	321				hypothetical protein
+EHOFDCAI_01326	CDS	918	metAA	2.3.1.31	COG1897	Homoserine O-acetyltransferase
+EHOFDCAI_01327	CDS	546	bar	2.3.1.183	COG1247	Phosphinothricin N-acetyltransferase
+EHOFDCAI_01328	CDS	456				hypothetical protein
+EHOFDCAI_01329	CDS	1161	acdA_2	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+EHOFDCAI_01330	CDS	579				hypothetical protein
+EHOFDCAI_01331	CDS	1230		1.14.-.-	COG2124	Cytochrome P450 107B1
+EHOFDCAI_01332	CDS	1794	penE	1.14.13.170		Pentalenolactone D synthase
+EHOFDCAI_01333	CDS	819		4.2.1.150	COG1024	Crotonyl-CoA hydratase
+EHOFDCAI_01334	CDS	186				hypothetical protein
+EHOFDCAI_01335	CDS	507	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+EHOFDCAI_01336	CDS	624	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+EHOFDCAI_01337	CDS	1029	ruvB_2	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+EHOFDCAI_01338	CDS	948	iolS	1.1.1.-	COG0667	Aldo-keto reductase IolS
+EHOFDCAI_01339	CDS	1005	hcaB_2	1.3.1.87		3-phenylpropionate-dihydrodiol/cinnamic acid-dihydrodiol dehydrogenase
+EHOFDCAI_01340	CDS	1152	mnmC	2.1.1.61		tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC
+EHOFDCAI_01341	CDS	747	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+EHOFDCAI_01342	CDS	492				hypothetical protein
+EHOFDCAI_01343	CDS	954	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+EHOFDCAI_01344	CDS	531	def	3.5.1.88	COG0242	Peptide deformylase
+EHOFDCAI_01345	CDS	1308				hypothetical protein
+EHOFDCAI_01346	CDS	396				hypothetical protein
+EHOFDCAI_01347	CDS	1098	ychF		COG0012	Ribosome-binding ATPase YchF
+EHOFDCAI_01348	CDS	849				hypothetical protein
+EHOFDCAI_01349	CDS	594	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+EHOFDCAI_01350	CDS	663	rplY		COG1825	50S ribosomal protein L25
+EHOFDCAI_01351	CDS	381				hypothetical protein
+EHOFDCAI_01352	CDS	1410				hypothetical protein
+EHOFDCAI_01353	CDS	933	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+EHOFDCAI_01354	CDS	879	mtnP	2.4.2.28	COG0005	S-methyl-5'-thioadenosine phosphorylase
+EHOFDCAI_01355	CDS	462				hypothetical protein
+EHOFDCAI_01356	CDS	942	fbcH		COG1290	Cytochrome b/c1
+EHOFDCAI_01357	CDS	1443	petB			Cytochrome b6
+EHOFDCAI_01358	CDS	570	petA	7.1.1.8	COG0723	Ubiquinol-cytochrome c reductase iron-sulfur subunit
+EHOFDCAI_01359	CDS	879	hemF	1.3.3.3	COG0408	Oxygen-dependent coproporphyrinogen-III oxidase
+EHOFDCAI_01360	CDS	483	crtK-2		COG3476	Tryptophan-rich protein TspO
+EHOFDCAI_01361	CDS	1197	cca	2.7.7.72		CCA-adding enzyme
+EHOFDCAI_01362	CDS	408				hypothetical protein
+EHOFDCAI_01363	CDS	621	nudL	3.6.1.-		putative Nudix hydrolase NudL
+EHOFDCAI_01364	CDS	600				hypothetical protein
+EHOFDCAI_01365	CDS	990	ravA	3.6.3.-		ATPase RavA
+EHOFDCAI_01366	CDS	390				hypothetical protein
+EHOFDCAI_01367	CDS	864				hypothetical protein
+EHOFDCAI_01368	CDS	2793				hypothetical protein
+EHOFDCAI_01369	CDS	2037				hypothetical protein
+EHOFDCAI_01370	CDS	492				hypothetical protein
+EHOFDCAI_01371	CDS	951	dhaA	3.8.1.5		Haloalkane dehalogenase
+EHOFDCAI_01372	CDS	447				hypothetical protein
+EHOFDCAI_01373	CDS	735				hypothetical protein
+EHOFDCAI_01374	CDS	894	ydhF	1.-.-.-	COG4989	Oxidoreductase YdhF
+EHOFDCAI_01375	CDS	633				hypothetical protein
+EHOFDCAI_01376	CDS	777	mlaA		COG2853	Intermembrane phospholipid transport system lipoprotein MlaA
+EHOFDCAI_01377	CDS	978	COQ5_3	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+EHOFDCAI_01378	CDS	912	metF	1.5.1.20	COG0685	5,10-methylenetetrahydrofolate reductase
+EHOFDCAI_01379	CDS	1077	metH_1	2.1.1.13	COG0646	Methionine synthase
+EHOFDCAI_01380	CDS	441				hypothetical protein
+EHOFDCAI_01381	CDS	552				hypothetical protein
+EHOFDCAI_01382	CDS	354	ybaA		COG5507	putative protein YbaA
+EHOFDCAI_01383	CDS	816				hypothetical protein
+EHOFDCAI_01384	CDS	2634	metH_2	2.1.1.13	COG0646	Methionine synthase
+EHOFDCAI_01385	CDS	2202	katG	1.11.1.21	COG0376	Catalase-peroxidase
+EHOFDCAI_01386	CDS	1566				hypothetical protein
+EHOFDCAI_01387	CDS	237				hypothetical protein
+EHOFDCAI_01388	CDS	102				hypothetical protein
+EHOFDCAI_01389	CDS	750	mddA	2.1.1.334	COG2020	Methanethiol S-methyltransferase
+EHOFDCAI_01390	CDS	966				hypothetical protein
+EHOFDCAI_01391	CDS	918	bepA_1	3.4.-.-		Beta-barrel assembly-enhancing protease
+EHOFDCAI_01392	CDS	543				hypothetical protein
+EHOFDCAI_01393	CDS	687	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+EHOFDCAI_01394	CDS	186				hypothetical protein
+EHOFDCAI_01395	CDS	498				hypothetical protein
+EHOFDCAI_01396	CDS	1011				hypothetical protein
+EHOFDCAI_01397	CDS	1044	ctaA	1.3.-.-	COG1612	Heme A synthase
+EHOFDCAI_01398	CDS	216				hypothetical protein
+EHOFDCAI_01399	CDS	1311	rhlE_2	3.6.4.13	COG0513	ATP-dependent RNA helicase RhlE
+EHOFDCAI_01400	CDS	915	psd	4.1.1.65		Phosphatidylserine decarboxylase proenzyme
+EHOFDCAI_01401	CDS	1842	atm1		COG5265	ATM1-type heavy metal exporter
+EHOFDCAI_01402	CDS	2166	bfrD		COG4774	putative TonB-dependent receptor BfrD
+EHOFDCAI_01403	CDS	564		3.2.2.-	COG1611	Putative cytokinin riboside 5'-monophosphate phosphoribohydrolase
+EHOFDCAI_01404	CDS	726	yfcG_2	1.8.4.-	COG0625	Disulfide-bond oxidoreductase YfcG
+EHOFDCAI_01405	CDS	1128	estB	3.1.1.-	COG1680	Esterase EstB
+EHOFDCAI_01406	CDS	1338	gltX_1	6.1.1.17	COG0008	Glutamate--tRNA ligase
+EHOFDCAI_01407	CDS	897				hypothetical protein
+EHOFDCAI_01408	CDS	912	gloB_2	3.1.2.6		Hydroxyacylglutathione hydrolase
+EHOFDCAI_01409	CDS	933				hypothetical protein
+EHOFDCAI_01410	CDS	411	blh	3.-.-.-	COG0491	Beta-lactamase hydrolase-like protein
+EHOFDCAI_01411	CDS	972	oppB		COG0601	Oligopeptide transport system permease protein OppB
+EHOFDCAI_01412	CDS	903	oppC		COG1173	Oligopeptide transport system permease protein OppC
+EHOFDCAI_01413	CDS	1194	argD	2.6.1.11	COG4992	Acetylornithine/succinyldiaminopimelate aminotransferase
+EHOFDCAI_01414	CDS	936	hisG	2.4.2.17		ATP phosphoribosyltransferase
+EHOFDCAI_01415	CDS	1128	hisZ			ATP phosphoribosyltransferase regulatory subunit
+EHOFDCAI_01416	CDS	1587	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+EHOFDCAI_01417	CDS	1179				hypothetical protein
+EHOFDCAI_01418	CDS	696	baeR		COG0745	Transcriptional regulatory protein BaeR
+EHOFDCAI_01419	CDS	462				hypothetical protein
+EHOFDCAI_01420	CDS	279				hypothetical protein
+EHOFDCAI_01421	CDS	1569	ilvX	2.2.1.6	COG0028	Putative acetolactate synthase large subunit IlvX
+EHOFDCAI_01422	CDS	1866	menE_2	6.2.1.26		2-succinylbenzoate--CoA ligase
+EHOFDCAI_01423	CDS	783				hypothetical protein
+EHOFDCAI_01424	CDS	741				hypothetical protein
+EHOFDCAI_01425	CDS	885	ygfZ			tRNA-modifying protein YgfZ
+EHOFDCAI_01426	CDS	585	tag	3.2.2.20	COG2818	DNA-3-methyladenine glycosylase 1
+EHOFDCAI_01427	CDS	261				hypothetical protein
+EHOFDCAI_01428	CDS	177				hypothetical protein
+EHOFDCAI_01429	CDS	1122		2.3.1.207	COG0332	Beta-ketodecanoyl-[acyl-carrier-protein] synthase
+EHOFDCAI_01430	CDS	1194				hypothetical protein
+EHOFDCAI_01431	CDS	810				hypothetical protein
+EHOFDCAI_01432	CDS	936				hypothetical protein
+EHOFDCAI_01433	CDS	975			COG1073	putative protein
+EHOFDCAI_01434	CDS	954	rhaS			HTH-type transcriptional activator RhaS
+EHOFDCAI_01435	CDS	714				hypothetical protein
+EHOFDCAI_01436	CDS	699				hypothetical protein
+EHOFDCAI_01437	CDS	552				hypothetical protein
+EHOFDCAI_01438	CDS	258				hypothetical protein
+EHOFDCAI_01439	CDS	891				hypothetical protein
+EHOFDCAI_01440	CDS	1041	nlhH	3.1.1.1	COG0657	Carboxylesterase NlhH
+EHOFDCAI_01441	CDS	270				hypothetical protein
+EHOFDCAI_01442	CDS	639				hypothetical protein
+EHOFDCAI_01443	CDS	927				hypothetical protein
+EHOFDCAI_01444	CDS	354				hypothetical protein
+EHOFDCAI_01445	CDS	267	fliN		COG1886	Flagellar motor switch protein FliN
+EHOFDCAI_01446	CDS	1143				hypothetical protein
+EHOFDCAI_01447	CDS	1005				hypothetical protein
+EHOFDCAI_01448	CDS	837	ylxH		COG0455	Flagellum site-determining protein YlxH
+EHOFDCAI_01449	CDS	306				hypothetical protein
+EHOFDCAI_01450	CDS	690				IS110 family transposase ISRhru3
+EHOFDCAI_01451	CDS	420				hypothetical protein
+EHOFDCAI_01452	CDS	627				hypothetical protein
+EHOFDCAI_01453	CDS	966	cdhR		COG4977	HTH-type transcriptional regulator CdhR
+EHOFDCAI_01454	CDS	516				hypothetical protein
+EHOFDCAI_01455	CDS	444				hypothetical protein
+EHOFDCAI_01456	CDS	405				hypothetical protein
+EHOFDCAI_01457	CDS	966				hypothetical protein
+EHOFDCAI_01458	CDS	288				hypothetical protein
+EHOFDCAI_01459	CDS	876				hypothetical protein
+EHOFDCAI_01460	CDS	1182				hypothetical protein
+EHOFDCAI_01461	CDS	1062				hypothetical protein
+EHOFDCAI_01462	CDS	987	dusA	1.3.1.-	COG0042	tRNA-dihydrouridine(20/20a) synthase
+EHOFDCAI_01463	CDS	291				hypothetical protein
+EHOFDCAI_01464	CDS	1224		1.3.99.-		Putative acyl-CoA dehydrogenase FadE17
+EHOFDCAI_01465	CDS	1449	yicJ_1		COG2211	Inner membrane symporter YicJ
+EHOFDCAI_01466	CDS	1440	yicJ_2		COG2211	Inner membrane symporter YicJ
+EHOFDCAI_01467	CDS	1437				hypothetical protein
+EHOFDCAI_01468	CDS	1305	rarA		COG2256	Replication-associated recombination protein A
+EHOFDCAI_01469	CDS	1230				hypothetical protein
+EHOFDCAI_01470	CDS	1293				hypothetical protein
+EHOFDCAI_01471	CDS	1374				hypothetical protein
+EHOFDCAI_01472	CDS	705				hypothetical protein
+EHOFDCAI_01473	CDS	927	rihA	3.2.-.-	COG1957	Pyrimidine-specific ribonucleoside hydrolase RihA
+EHOFDCAI_01474	CDS	867	rbsK	2.7.1.15	COG0524	Ribokinase
+EHOFDCAI_01475	CDS	624				hypothetical protein
+EHOFDCAI_01476	CDS	942	vldW	1.14.11.52		Validamycin A dioxygenase
+EHOFDCAI_01477	CDS	813				hypothetical protein
+EHOFDCAI_01478	CDS	1089	COQ5_4	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+EHOFDCAI_01479	CDS	813				hypothetical protein
+EHOFDCAI_01480	CDS	309				hypothetical protein
+EHOFDCAI_01481	CDS	888	folD			Bifunctional protein FolD protein
+EHOFDCAI_01482	CDS	252				hypothetical protein
+EHOFDCAI_01483	CDS	810	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+EHOFDCAI_01484	CDS	597				hypothetical protein
+EHOFDCAI_01485	CDS	1644	betA_2	1.1.99.1	COG2303	Oxygen-dependent choline dehydrogenase
+EHOFDCAI_01486	CDS	537				hypothetical protein
+EHOFDCAI_01487	CDS	780	dpgD_2	4.2.1.17		Enoyl-CoA-hydratase
+EHOFDCAI_01488	CDS	366				hypothetical protein
+EHOFDCAI_01489	CDS	213				hypothetical protein
+EHOFDCAI_01490	CDS	2769	acnB	4.2.1.3	COG1049	Aconitate hydratase B
+EHOFDCAI_01491	CDS	1200		1.13.12.4	COG1304	Lactate 2-monooxygenase
+EHOFDCAI_01492	CDS	1068	pnoA	1.13.12.-		Nitronate monooxygenase
+EHOFDCAI_01493	CDS	810				hypothetical protein
+EHOFDCAI_01494	CDS	534	yrdA		COG0663	Protein YrdA
+EHOFDCAI_01495	CDS	771				hypothetical protein
+EHOFDCAI_01496	CDS	369				hypothetical protein
+EHOFDCAI_01497	CDS	1212			COG2081	putative protein
+EHOFDCAI_01498	CDS	4959	yfhM		COG2373	Alpha-2-macroglobulin
+EHOFDCAI_01499	CDS	2046	pbpC		COG4953	Penicillin-binding protein 1C
+EHOFDCAI_01500	CDS	1494	ethA_2	1.14.13.-	COG2072	FAD-containing monooxygenase EthA
+EHOFDCAI_01501	tRNA	77				tRNA-His(gtg)
+EHOFDCAI_01502	CDS	219	infA			Translation initiation factor IF-1
+EHOFDCAI_01503	CDS	423				hypothetical protein
+EHOFDCAI_01504	CDS	567	yhdE	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+EHOFDCAI_01505	CDS	867				hypothetical protein
+EHOFDCAI_01506	CDS	870				hypothetical protein
+EHOFDCAI_01507	CDS	699				hypothetical protein
+EHOFDCAI_01508	CDS	321				hypothetical protein
+EHOFDCAI_01509	CDS	288				hypothetical protein
+EHOFDCAI_01510	CDS	387	yecN		COG3788	Inner membrane protein YecN
+EHOFDCAI_01511	CDS	807				hypothetical protein
+EHOFDCAI_01512	CDS	960				hypothetical protein
+EHOFDCAI_01513	CDS	1200	fldA	2.8.3.17		Cinnamoyl-CoA:phenyllactate CoA-transferase
+EHOFDCAI_01514	CDS	1149				hypothetical protein
+EHOFDCAI_01515	CDS	690				hypothetical protein
+EHOFDCAI_01516	CDS	813				hypothetical protein
+EHOFDCAI_01517	CDS	801	paaF	4.2.1.17	COG1024	2,3-dehydroadipyl-CoA hydratase
+EHOFDCAI_01518	CDS	1272	hutI	3.5.2.7		Imidazolonepropionase
+EHOFDCAI_01519	CDS	1410	ade	3.5.4.2		Adenine deaminase
+EHOFDCAI_01520	CDS	909				hypothetical protein
+EHOFDCAI_01521	CDS	1998	parE	5.6.2.2	COG0187	DNA topoisomerase 4 subunit B
+EHOFDCAI_01522	CDS	1317	namA	1.6.99.1		NADPH dehydrogenase
+EHOFDCAI_01523	CDS	1137				hypothetical protein
+EHOFDCAI_01524	CDS	1641				hypothetical protein
+EHOFDCAI_01525	CDS	3066				hypothetical protein
+EHOFDCAI_01526	CDS	1020				hypothetical protein
+EHOFDCAI_01527	CDS	2724	pepN	3.4.11.2		Aminopeptidase N
+EHOFDCAI_01528	CDS	2550				hypothetical protein
+EHOFDCAI_01529	tRNA	77				tRNA-Asp(gtc)
+EHOFDCAI_01530	CDS	1401				hypothetical protein
+EHOFDCAI_01531	CDS	198				hypothetical protein
+EHOFDCAI_01532	CDS	315				hypothetical protein
+EHOFDCAI_01533	CDS	231				hypothetical protein
+EHOFDCAI_01534	CDS	1266				hypothetical protein
+EHOFDCAI_01535	CDS	996				hypothetical protein
+EHOFDCAI_01536	CDS	696				hypothetical protein
+EHOFDCAI_01537	CDS	1290				hypothetical protein
+EHOFDCAI_01538	CDS	717				hypothetical protein
+EHOFDCAI_01539	CDS	2451	virB4_1		COG3451	Type IV secretion system protein virB4
+EHOFDCAI_01540	CDS	201				hypothetical protein
+EHOFDCAI_01541	CDS	315				hypothetical protein
+EHOFDCAI_01542	CDS	999				hypothetical protein
+EHOFDCAI_01543	CDS	168				hypothetical protein
+EHOFDCAI_01544	CDS	840				hypothetical protein
+EHOFDCAI_01545	CDS	195				hypothetical protein
+EHOFDCAI_01546	CDS	168				hypothetical protein
+EHOFDCAI_01547	CDS	252				hypothetical protein
+EHOFDCAI_01548	CDS	324				hypothetical protein
+EHOFDCAI_01549	CDS	234				hypothetical protein
+EHOFDCAI_01550	CDS	534				hypothetical protein
+EHOFDCAI_01551	CDS	1944				hypothetical protein
+EHOFDCAI_01552	CDS	1941	traG_1			Conjugal transfer protein TraG
+EHOFDCAI_01553	CDS	405				hypothetical protein
+EHOFDCAI_01554	CDS	1779				hypothetical protein
+EHOFDCAI_01555	CDS	3405				hypothetical protein
+EHOFDCAI_01556	CDS	1266				hypothetical protein
+EHOFDCAI_01557	CDS	834				hypothetical protein
+EHOFDCAI_01558	CDS	276				IS3 family transposase ISGbe1
+EHOFDCAI_01559	CDS	828				IS3 family transposase ISPmar2
+EHOFDCAI_01560	CDS	219				hypothetical protein
+EHOFDCAI_01561	CDS	618				hypothetical protein
+EHOFDCAI_01562	tRNA	77				tRNA-Pro(tgg)
+EHOFDCAI_01563	CDS	444				hypothetical protein
+EHOFDCAI_01564	CDS	471				hypothetical protein
+EHOFDCAI_01565	CDS	516				hypothetical protein
+EHOFDCAI_01566	tRNA	75				tRNA-Glu(ttc)
+EHOFDCAI_01567	CDS	690				hypothetical protein
+EHOFDCAI_01568	CDS	1455	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+EHOFDCAI_01569	CDS	1308			COG1680	putative protein
+EHOFDCAI_01570	CDS	186	yacG			DNA gyrase inhibitor YacG
+EHOFDCAI_01571	CDS	1038	rne_2	3.1.26.12		Ribonuclease E
+EHOFDCAI_01572	CDS	489				hypothetical protein
+EHOFDCAI_01573	CDS	750				hypothetical protein
+EHOFDCAI_01574	CDS	489				hypothetical protein
+EHOFDCAI_01575	CDS	1170				hypothetical protein
+EHOFDCAI_01576	CDS	999				hypothetical protein
+EHOFDCAI_01577	CDS	621				hypothetical protein
+EHOFDCAI_01578	CDS	429				hypothetical protein
+EHOFDCAI_01579	CDS	426				hypothetical protein
+EHOFDCAI_01580	CDS	450	xcpT		COG2165	Type II secretion system protein G
+EHOFDCAI_01581	CDS	1221	epsF		COG1459	Type II secretion system protein F
+EHOFDCAI_01582	CDS	1491	epsE		COG2804	Type II secretion system protein E
+EHOFDCAI_01583	CDS	1845	gspD2			Secretin GspD 2
+EHOFDCAI_01584	CDS	894	epsC		COG3031	Type II secretion system protein C
+EHOFDCAI_01585	CDS	2625				hypothetical protein
+EHOFDCAI_01586	CDS	2784				hypothetical protein
+EHOFDCAI_01587	CDS	633				hypothetical protein
+EHOFDCAI_01588	CDS	708	rlmE	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+EHOFDCAI_01589	CDS	1110	ppx	3.6.1.11	COG0248	Exopolyphosphatase
+EHOFDCAI_01590	CDS	420	hspQ			Heat shock protein HspQ
+EHOFDCAI_01591	CDS	639	nagL	5.2.1.4		Maleylpyruvate isomerase
+EHOFDCAI_01592	CDS	867	phhA	1.14.16.1	COG3186	Phenylalanine-4-hydroxylase
+EHOFDCAI_01593	CDS	975	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+EHOFDCAI_01594	CDS	876				hypothetical protein
+EHOFDCAI_01595	CDS	498	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+EHOFDCAI_01596	CDS	2772	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+EHOFDCAI_01597	CDS	1026	nanM	5.1.3.24		N-acetylneuraminate epimerase
+EHOFDCAI_01598	CDS	708				hypothetical protein
+EHOFDCAI_01599	CDS	483	ssb			Single-stranded DNA-binding protein
+EHOFDCAI_01600	CDS	3012	uvrA		COG0178	UvrABC system protein A
+EHOFDCAI_01601	CDS	2043				hypothetical protein
+EHOFDCAI_01602	CDS	876	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+EHOFDCAI_01603	CDS	480	smpB			SsrA-binding protein
+EHOFDCAI_01604	CDS	990	thadh	4.3.1.16		L-threo-3-hydroxyaspartate ammonia-lyase
+EHOFDCAI_01605	CDS	867	gtaB	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+EHOFDCAI_01606	CDS	270				hypothetical protein
+EHOFDCAI_01607	CDS	771	gno_1	1.1.1.-		Gluconate 5-dehydrogenase
+EHOFDCAI_01608	CDS	903	fadH	1.3.1.34	COG1028	putative 2,4-dienoyl-CoA reductase
+EHOFDCAI_01609	CDS	348				hypothetical protein
+EHOFDCAI_01610	CDS	828	mscS		COG0668	Small-conductance mechanosensitive channel
+EHOFDCAI_01611	CDS	759				hypothetical protein
+EHOFDCAI_01612	CDS	1380	linC_2	1.14.14.84		Linalool 8-monooxygenase
+EHOFDCAI_01613	CDS	1281				hypothetical protein
+EHOFDCAI_01614	CDS	1428		1.1.2.-	COG0277	L-gulono-1,4-lactone dehydrogenase
+EHOFDCAI_01615	CDS	618				hypothetical protein
+EHOFDCAI_01616	CDS	1146				hypothetical protein
+EHOFDCAI_01617	CDS	1209	mntH		COG1914	Divalent metal cation transporter MntH
+EHOFDCAI_01618	CDS	747	pxpA	3.5.2.9	COG1540	5-oxoprolinase subunit A
+EHOFDCAI_01619	CDS	621				hypothetical protein
+EHOFDCAI_01620	CDS	936	pxpC	3.5.2.9	COG1984	5-oxoprolinase subunit C
+EHOFDCAI_01621	CDS	1419	lpd	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase
+EHOFDCAI_01622	CDS	609				hypothetical protein
+EHOFDCAI_01623	CDS	1317	pdhC	2.3.1.12		Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+EHOFDCAI_01624	CDS	1377	dxs_2	2.2.1.7		1-deoxy-D-xylulose-5-phosphate synthase
+EHOFDCAI_01625	CDS	1011	acoA	1.1.1.-	COG1071	Acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit alpha
+EHOFDCAI_01626	CDS	309				hypothetical protein
+EHOFDCAI_01627	CDS	1275	eno	4.2.1.11		Enolase
+EHOFDCAI_01628	CDS	1371	sctC_3			Type 3 secretion system secretin
+EHOFDCAI_01629	CDS	1194				hypothetical protein
+EHOFDCAI_01630	CDS	1431				hypothetical protein
+EHOFDCAI_01631	CDS	951				hypothetical protein
+EHOFDCAI_01632	CDS	936				hypothetical protein
+EHOFDCAI_01633	CDS	900				hypothetical protein
+EHOFDCAI_01634	CDS	183	rpmF		COG0333	50S ribosomal protein L32
+EHOFDCAI_01635	CDS	1635	pyrG	6.3.4.2	COG0504	CTP synthase
+EHOFDCAI_01636	CDS	462				hypothetical protein
+EHOFDCAI_01637	CDS	714	tpiA	5.3.1.1	COG0149	Triosephosphate isomerase
+EHOFDCAI_01638	CDS	1899	ppiD	5.2.1.8	COG0760	Peptidyl-prolyl cis-trans isomerase D
+EHOFDCAI_01639	CDS	1434	trpE	4.1.3.27	COG0147	Anthranilate synthase component 1
+EHOFDCAI_01640	CDS	582	trpG	4.1.3.27	COG0512	Anthranilate synthase component 2
+EHOFDCAI_01641	CDS	561				hypothetical protein
+EHOFDCAI_01642	CDS	1041	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+EHOFDCAI_01643	CDS	795	trpC	4.1.1.48		Indole-3-glycerol phosphate synthase
+EHOFDCAI_01644	CDS	531		2.3.1.-	COG1670	Acetyltransferase
+EHOFDCAI_01645	CDS	678	lexA	3.4.21.88	COG1974	LexA repressor
+EHOFDCAI_01646	CDS	2052				hypothetical protein
+EHOFDCAI_01647	CDS	1470	gltX_2	6.1.1.17	COG0008	Glutamate--tRNA ligase
+EHOFDCAI_01648	CDS	1302	aarA	2.3.3.16		Citrate synthase
+EHOFDCAI_01649	CDS	1158	lpxB	2.4.1.182	COG0763	Lipid-A-disaccharide synthase
+EHOFDCAI_01650	CDS	843	lpxI	3.6.1.54	COG3494	UDP-2,3-diacylglucosamine pyrophosphatase LpxI
+EHOFDCAI_01651	CDS	792	lpxA	2.3.1.129	COG1043	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+EHOFDCAI_01652	CDS	1005	lpxD	2.3.1.-	COG1044	UDP-3-O-acylglucosamine N-acyltransferase
+EHOFDCAI_01653	CDS	600				hypothetical protein
+EHOFDCAI_01654	CDS	2577	bamA		COG4775	Outer membrane protein assembly factor BamA
+EHOFDCAI_01655	CDS	1176	mmpA	3.4.24.-	COG0750	Metalloprotease MmpA
+EHOFDCAI_01656	CDS	1215	dxr	1.1.1.267		1-deoxy-D-xylulose 5-phosphate reductoisomerase
+EHOFDCAI_01657	CDS	819	cdsA	2.7.7.41	COG0575	Phosphatidate cytidylyltransferase
+EHOFDCAI_01658	CDS	765	uppS	2.5.1.31		Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+EHOFDCAI_01659	CDS	555	frr		COG0233	Ribosome-recycling factor
+EHOFDCAI_01660	CDS	741	pyrH	2.7.4.22	COG0528	Uridylate kinase
+EHOFDCAI_01661	CDS	900	tsf			Elongation factor Ts
+EHOFDCAI_01662	CDS	822	rpsB		COG0052	30S ribosomal protein S2
+EHOFDCAI_01663	CDS	3420	dnaE1	2.7.7.7		DNA polymerase III subunit alpha
+EHOFDCAI_01664	CDS	681	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+EHOFDCAI_01665	CDS	1272	lolE		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+EHOFDCAI_01666	CDS	1326	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+EHOFDCAI_01667	CDS	1071				hypothetical protein
+EHOFDCAI_01668	CDS	840				hypothetical protein
+EHOFDCAI_01669	CDS	435				hypothetical protein
+EHOFDCAI_01670	CDS	1995	ydaP		COG0028	Putative thiamine pyrophosphate-containing protein YdaP
+EHOFDCAI_01671	CDS	1617				hypothetical protein
+EHOFDCAI_01672	CDS	231				hypothetical protein
+EHOFDCAI_01673	CDS	150				hypothetical protein
+EHOFDCAI_01674	CDS	1047	msrQ			Protein-methionine-sulfoxide reductase heme-binding subunit MsrQ
+EHOFDCAI_01675	CDS	750				hypothetical protein
+EHOFDCAI_01676	CDS	774				hypothetical protein
+EHOFDCAI_01677	CDS	1584				hypothetical protein
+EHOFDCAI_01678	CDS	1563	guaA	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+EHOFDCAI_01679	CDS	663				hypothetical protein
+EHOFDCAI_01680	CDS	1308	rsmB_2	2.1.1.176		Ribosomal RNA small subunit methyltransferase B
+EHOFDCAI_01681	CDS	1104				hypothetical protein
+EHOFDCAI_01682	CDS	387	rutC	1.-.-.-		Putative aminoacrylate peracid reductase RutC
+EHOFDCAI_01683	CDS	411				hypothetical protein
+EHOFDCAI_01684	CDS	798		4.2.1.150	COG1024	Crotonyl-CoA hydratase
+EHOFDCAI_01685	CDS	570				hypothetical protein
+EHOFDCAI_01686	CDS	582				hypothetical protein
+EHOFDCAI_01687	CDS	1158	pigA	1.3.8.14		L-prolyl-[peptidyl-carrier protein] dehydrogenase
+EHOFDCAI_01688	CDS	633				hypothetical protein
+EHOFDCAI_01689	CDS	1197		1.3.99.-		Putative acyl-CoA dehydrogenase FadE17
+EHOFDCAI_01690	CDS	999	cobU	2.4.2.21		Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+EHOFDCAI_01691	CDS	207				hypothetical protein
+EHOFDCAI_01692	CDS	552				hypothetical protein
+EHOFDCAI_01693	CDS	825				hypothetical protein
+EHOFDCAI_01694	CDS	549				hypothetical protein
+EHOFDCAI_01695	CDS	201				hypothetical protein
+EHOFDCAI_01696	CDS	435	aroQ	4.2.1.10	COG0757	3-dehydroquinate dehydratase
+EHOFDCAI_01697	CDS	486	accB		COG0511	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+EHOFDCAI_01698	CDS	1341	accC	6.3.4.14	COG0439	Biotin carboxylase
+EHOFDCAI_01699	CDS	606	aat	2.3.2.6	COG2360	Leucyl/phenylalanyl-tRNA--protein transferase
+EHOFDCAI_01700	CDS	621				hypothetical protein
+EHOFDCAI_01701	CDS	498				hypothetical protein
+EHOFDCAI_01702	CDS	390				hypothetical protein
+EHOFDCAI_01703	CDS	2241				hypothetical protein
+EHOFDCAI_01704	CDS	738				hypothetical protein
+EHOFDCAI_01705	CDS	834	tatC		COG0805	Sec-independent protein translocase protein TatC
+EHOFDCAI_01706	CDS	414	tatB			Sec-independent protein translocase protein TatB
+EHOFDCAI_01707	CDS	219	tatA			Sec-independent protein translocase protein TatA
+EHOFDCAI_01708	CDS	780	scpB			Segregation and condensation protein B
+EHOFDCAI_01709	CDS	816	scpA			Segregation and condensation protein A
+EHOFDCAI_01710	CDS	1044	nagZ	3.2.1.52		Beta-hexosaminidase
+EHOFDCAI_01711	CDS	831				hypothetical protein
+EHOFDCAI_01712	CDS	1203				Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+EHOFDCAI_01713	CDS	258	erpA		COG0316	Iron-sulfur cluster insertion protein ErpA
+EHOFDCAI_01714	CDS	783				hypothetical protein
+EHOFDCAI_01715	CDS	1128				hypothetical protein
+EHOFDCAI_01716	CDS	474	ybbJ		COG1585	Inner membrane protein YbbJ
+EHOFDCAI_01717	CDS	960	qmcA		COG0330	Protein QmcA
+EHOFDCAI_01718	CDS	483		1.11.1.15		Peroxiredoxin
+EHOFDCAI_01719	CDS	558				hypothetical protein
+EHOFDCAI_01720	CDS	2079	dpp5_1	3.4.14.-	COG1506	Dipeptidyl-peptidase 5
+EHOFDCAI_01721	CDS	1200	mhbM	1.14.13.24	COG0654	3-hydroxybenzoate 6-hydroxylase
+EHOFDCAI_01722	CDS	495				hypothetical protein
+EHOFDCAI_01723	CDS	1626	aceA	4.1.3.1		Isocitrate lyase
+EHOFDCAI_01724	CDS	1659	aceB	2.3.3.9	COG2225	Malate synthase A
+EHOFDCAI_01725	CDS	1440	pccR		COG1396	Propionyl-CoA carboxylase regulator
+EHOFDCAI_01726	CDS	3087	lacZ	3.2.1.23		Beta-galactosidase
+EHOFDCAI_01727	CDS	957				hypothetical protein
+EHOFDCAI_01728	CDS	3276	dnaE2	2.7.7.7		Error-prone DNA polymerase
+EHOFDCAI_01729	CDS	1482	imuB			Protein ImuB
+EHOFDCAI_01730	CDS	630				hypothetical protein
+EHOFDCAI_01731	CDS	1686	lcfB_3	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+EHOFDCAI_01732	CDS	1173		1.3.99.-	COG1960	Acyl-CoA dehydrogenase fadE12
+EHOFDCAI_01733	CDS	1149	thiO	1.4.3.19	COG0665	Glycine oxidase
+EHOFDCAI_01734	CDS	270				hypothetical protein
+EHOFDCAI_01735	CDS	1065	idiA		COG1840	Iron deficiency-induced protein A
+EHOFDCAI_01736	CDS	1587				hypothetical protein
+EHOFDCAI_01737	CDS	1005	fbpC2	7.2.2.7	COG3842	Fe(3+) ions import ATP-binding protein FbpC 2
+EHOFDCAI_01738	CDS	1359	bepA_2	3.4.-.-	COG4783	Beta-barrel assembly-enhancing protease
+EHOFDCAI_01739	CDS	744				hypothetical protein
+EHOFDCAI_01740	CDS	774	thiG	2.8.1.10	COG2022	Thiazole synthase
+EHOFDCAI_01741	CDS	483	moaC	4.6.1.17	COG0315	Cyclic pyranopterin monophosphate synthase
+EHOFDCAI_01742	CDS	561	moaB		COG0521	Molybdenum cofactor biosynthesis protein B
+EHOFDCAI_01743	CDS	771				hypothetical protein
+EHOFDCAI_01744	CDS	1191	moeA	2.10.1.1	COG0303	Molybdopterin molybdenumtransferase
+EHOFDCAI_01745	CDS	888	mmsB	1.1.1.31	COG2084	putative 3-hydroxyisobutyrate dehydrogenase
+EHOFDCAI_01746	CDS	669		1.14.11.-	COG3128	PKHD-type hydroxylase
+EHOFDCAI_01747	CDS	801				hypothetical protein
+EHOFDCAI_01748	CDS	507	gntK	2.7.1.12	COG3265	Thermoresistant gluconokinase
+EHOFDCAI_01749	CDS	1080				hypothetical protein
+EHOFDCAI_01750	CDS	1395	garB	1.8.1.16		Glutathione amide reductase
+EHOFDCAI_01751	CDS	699	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+EHOFDCAI_01752	CDS	1359	glmU			Bifunctional protein GlmU
+EHOFDCAI_01753	CDS	690	gph_2	3.1.3.18	COG0546	Phosphoglycolate phosphatase
+EHOFDCAI_01754	CDS	225				hypothetical protein
+EHOFDCAI_01755	CDS	489	C1-hpah	1.5.1.36		p-hydroxyphenylacetate 3-hydroxylase, reductase component
+EHOFDCAI_01756	CDS	828				hypothetical protein
+EHOFDCAI_01757	CDS	714				hypothetical protein
+EHOFDCAI_01758	CDS	735				hypothetical protein
+EHOFDCAI_01759	CDS	1095	smtB	2.8.3.22	COG1804	Succinyl-CoA--L-malate CoA-transferase beta subunit
+EHOFDCAI_01760	CDS	1197				hypothetical protein
+EHOFDCAI_01761	CDS	3453	mfd	3.6.4.-	COG1197	Transcription-repair-coupling factor
+EHOFDCAI_01762	CDS	1452	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+EHOFDCAI_01763	CDS	1077	alr1	5.1.1.1	COG0787	Alanine racemase
+EHOFDCAI_01764	CDS	816	mlaE		COG0767	Intermembrane phospholipid transport system permease protein MlaE
+EHOFDCAI_01765	CDS	768	mkl		COG1127	putative ribonucleotide transport ATP-binding protein mkl
+EHOFDCAI_01766	CDS	618				hypothetical protein
+EHOFDCAI_01767	CDS	1044	ldh	1.4.1.9		Leucine dehydrogenase
+EHOFDCAI_01768	CDS	972		3.1.1.23	COG2267	Monoacylglycerol lipase
+EHOFDCAI_01769	CDS	591				hypothetical protein
+EHOFDCAI_01770	CDS	915				hypothetical protein
+EHOFDCAI_01771	CDS	1767				hypothetical protein
+EHOFDCAI_01772	CDS	786	rlmJ	2.1.1.266		Ribosomal RNA large subunit methyltransferase J
+EHOFDCAI_01773	CDS	534				hypothetical protein
+EHOFDCAI_01774	CDS	234				hypothetical protein
+EHOFDCAI_01775	CDS	1074				hypothetical protein
+EHOFDCAI_01776	CDS	1053				hypothetical protein
+EHOFDCAI_01777	CDS	1290			COG1228	putative protein
+EHOFDCAI_01778	CDS	834				hypothetical protein
+EHOFDCAI_01779	CDS	228				hypothetical protein
+EHOFDCAI_01780	CDS	930				hypothetical protein
+EHOFDCAI_01781	CDS	1089				hypothetical protein
+EHOFDCAI_01782	CDS	408				hypothetical protein
+EHOFDCAI_01783	CDS	1290	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+EHOFDCAI_01784	CDS	1680				hypothetical protein
+EHOFDCAI_01785	CDS	1545	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+EHOFDCAI_01786	CDS	1629		6.2.1.42		3-oxocholest-4-en-26-oate--CoA ligase
+EHOFDCAI_01787	CDS	2007	dapb3	3.4.14.-		Dipeptidyl aminopeptidase BIII
+EHOFDCAI_01788	CDS	2913	btuB_11			Vitamin B12 transporter BtuB
+EHOFDCAI_01789	CDS	1089	mdtE			Multidrug resistance protein MdtE
+EHOFDCAI_01790	CDS	3234	mexB_1		COG0841	Multidrug resistance protein MexB
+EHOFDCAI_01791	CDS	1917	fabY	2.3.1.180	COG0304	Beta-ketoacyl-[acyl-carrier-protein] synthase FabY
+EHOFDCAI_01792	CDS	1392	selA	2.9.1.1	COG1921	L-seryl-tRNA(Sec) selenium transferase
+EHOFDCAI_01793	CDS	1878	selB		COG3276	Selenocysteine-specific elongation factor
+EHOFDCAI_01794	tRNA	96				tRNA-SeC(tca)
+EHOFDCAI_01795	CDS	1587				hypothetical protein
+EHOFDCAI_01796	CDS	279				hypothetical protein
+EHOFDCAI_01797	CDS	219				hypothetical protein
+EHOFDCAI_01798	CDS	2166	selD	2.7.9.3		Selenide, water dikinase
+EHOFDCAI_01799	CDS	840	COQ5_5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+EHOFDCAI_01800	CDS	720				hypothetical protein
+EHOFDCAI_01801	CDS	747				hypothetical protein
+EHOFDCAI_01802	CDS	1155				hypothetical protein
+EHOFDCAI_01803	CDS	1233				hypothetical protein
+EHOFDCAI_01804	CDS	3273	tri1	3.4.21.-	COG0793	Tricorn protease 
+EHOFDCAI_01805	CDS	1107	flhA_2	1.1.1.284	COG1062	S-(hydroxymethyl)glutathione dehydrogenase
+EHOFDCAI_01806	CDS	1566	dac	3.4.16.4		D-alanyl-D-alanine carboxypeptidase
+EHOFDCAI_01807	CDS	213				hypothetical protein
+EHOFDCAI_01808	CDS	1479	yodF		COG0591	putative symporter YodF
+EHOFDCAI_01809	CDS	2052				hypothetical protein
+EHOFDCAI_01810	tRNA	75				tRNA-Phe(gaa)
+EHOFDCAI_01811	CDS	1245		4.1.2.27	COG0076	putative sphingosine-1-phosphate lyase
+EHOFDCAI_01812	CDS	330				hypothetical protein
+EHOFDCAI_01813	CDS	1266	radA	3.6.4.-	COG1066	DNA repair protein RadA
+EHOFDCAI_01814	CDS	549				hypothetical protein
+EHOFDCAI_01815	CDS	1440	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+EHOFDCAI_01816	CDS	705	yciK	1.-.-.-	COG1028	putative oxidoreductase YciK
+EHOFDCAI_01817	CDS	933	ppk2	2.7.4.1	COG2326	Polyphosphate:NDP phosphotransferase 2
+EHOFDCAI_01818	CDS	1524	der		COG1160	GTPase Der
+EHOFDCAI_01819	CDS	1347	bamB			Outer membrane protein assembly factor BamB
+EHOFDCAI_01820	CDS	792				hypothetical protein
+EHOFDCAI_01821	CDS	831	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+EHOFDCAI_01822	CDS	585				hypothetical protein
+EHOFDCAI_01823	CDS	498				hypothetical protein
+EHOFDCAI_01824	CDS	360	iscA		COG0316	Iron-binding protein IscA
+EHOFDCAI_01825	CDS	396				hypothetical protein
+EHOFDCAI_01826	CDS	1224	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+EHOFDCAI_01827	CDS	1248	sufD		COG0719	FeS cluster assembly protein SufD
+EHOFDCAI_01828	CDS	771	sufC		COG0396	putative ATP-dependent transporter SufC
+EHOFDCAI_01829	CDS	153				hypothetical protein
+EHOFDCAI_01830	CDS	1572	sufB		COG0719	FeS cluster assembly protein SufB
+EHOFDCAI_01831	CDS	792	frmB	3.1.2.12	COG0627	S-formylglutathione hydrolase FrmB
+EHOFDCAI_01832	CDS	378				hypothetical protein
+EHOFDCAI_01833	CDS	744	cypM_2	2.1.1.301		Cypemycin N-terminal methyltransferase
+EHOFDCAI_01834	CDS	741				hypothetical protein
+EHOFDCAI_01835	CDS	801			COG1305	putative protein
+EHOFDCAI_01836	CDS	942				hypothetical protein
+EHOFDCAI_01837	CDS	1431			COG2308	putative protein
+EHOFDCAI_01838	CDS	819		4.1.2.41		Hydroxycinnamoyl-CoA hydratase-lyase
+EHOFDCAI_01839	CDS	648	betI_1			HTH-type transcriptional regulator BetI
+EHOFDCAI_01840	CDS	3186	mexB_2		COG0841	Multidrug resistance protein MexB
+EHOFDCAI_01841	CDS	1251	mdtA_1			Multidrug resistance protein MdtA
+EHOFDCAI_01842	CDS	1587	sglT			Sodium/glucose cotransporter
+EHOFDCAI_01843	CDS	2118				hypothetical protein
+EHOFDCAI_01844	CDS	357				hypothetical protein
+EHOFDCAI_01845	CDS	1764				hypothetical protein
+EHOFDCAI_01846	CDS	1380	otsA	2.4.1.15	COG0380	Trehalose-6-phosphate synthase
+EHOFDCAI_01847	CDS	750	otsB	3.1.3.12	COG1877	Trehalose-6-phosphate phosphatase
+EHOFDCAI_01848	CDS	1770		3.2.1.28	COG3387	Trehalase
+EHOFDCAI_01849	CDS	1044				hypothetical protein
+EHOFDCAI_01850	CDS	2292	fyuA_2		COG1629	Pesticin receptor
+EHOFDCAI_01851	CDS	1293	sotB_1			sugar efflux transporter
+EHOFDCAI_01852	CDS	906	rutD	3.5.1.-		Putative aminoacrylate hydrolase RutD
+EHOFDCAI_01853	CDS	630	betI_2			HTH-type transcriptional regulator BetI
+EHOFDCAI_01854	CDS	882	menB_2	4.1.3.36		1,4-dihydroxy-2-naphthoyl-CoA synthase
+EHOFDCAI_01855	CDS	1161		1.14.13.239		Carnitine monooxygenase oxygenase subunit
+EHOFDCAI_01856	CDS	1029				hypothetical protein
+EHOFDCAI_01857	CDS	693				hypothetical protein
+EHOFDCAI_01858	CDS	1575	rebH	1.14.19.9		Flavin-dependent tryptophan halogenase RebH
+EHOFDCAI_01859	CDS	1509	prnA_2	1.14.19.9		Flavin-dependent tryptophan halogenase PrnA
+EHOFDCAI_01860	CDS	2772	btuB_12			Vitamin B12 transporter BtuB
+EHOFDCAI_01861	CDS	1020	degA		COG1609	HTH-type transcriptional regulator DegA
+EHOFDCAI_01862	CDS	1656	malL	3.2.1.10	COG0366	Oligo-1,6-glucosidase
+EHOFDCAI_01863	CDS	1914	amy	3.2.1.1		Alpha-amylase
+EHOFDCAI_01864	CDS	2070	susB	3.2.1.3		Glucan 1,4-alpha-glucosidase SusB
+EHOFDCAI_01865	CDS	960				hypothetical protein
+EHOFDCAI_01866	CDS	2394	cga	3.2.1.3		Glucoamylase
+EHOFDCAI_01867	CDS	1413	amyB	3.2.1.1		Alpha-amylase 2
+EHOFDCAI_01868	CDS	1578				hypothetical protein
+EHOFDCAI_01869	CDS	504				hypothetical protein
+EHOFDCAI_01870	CDS	246				hypothetical protein
+EHOFDCAI_01871	CDS	303				IS3 family transposase ISSst1
+EHOFDCAI_01872	CDS	465				hypothetical protein
+EHOFDCAI_01873	tRNA	74				tRNA-Pro(tgg)
+EHOFDCAI_01874	CDS	306				hypothetical protein
+EHOFDCAI_01875	CDS	1416				hypothetical protein
+EHOFDCAI_01876	CDS	1830				hypothetical protein
+EHOFDCAI_01877	tRNA	77				tRNA-Arg(tct)
+EHOFDCAI_01878	CDS	2064	dpp5_2	3.4.14.-	COG1506	Dipeptidyl-peptidase 5
+EHOFDCAI_01879	CDS	2802	polA_2	2.7.7.7	COG0258	DNA polymerase I
+EHOFDCAI_01880	CDS	1008				hypothetical protein
+EHOFDCAI_01881	CDS	951				hypothetical protein
+EHOFDCAI_01882	CDS	951				hypothetical protein
+EHOFDCAI_01883	CDS	1383	steT		COG0531	Serine/threonine exchanger SteT
+EHOFDCAI_01884	CDS	447				hypothetical protein
+EHOFDCAI_01885	CDS	1236				hypothetical protein
+EHOFDCAI_01886	CDS	876				hypothetical protein
+EHOFDCAI_01887	CDS	462				hypothetical protein
+EHOFDCAI_01888	CDS	615				hypothetical protein
+EHOFDCAI_01889	CDS	1437	regB	2.7.13.3		Sensor histidine kinase RegB
+EHOFDCAI_01890	CDS	573	regA		COG4567	Photosynthetic apparatus regulatory protein RegA
+EHOFDCAI_01891	CDS	393				hypothetical protein
+EHOFDCAI_01892	CDS	765				hypothetical protein
+EHOFDCAI_01893	CDS	642				hypothetical protein
+EHOFDCAI_01894	CDS	630				hypothetical protein
+EHOFDCAI_01895	CDS	426				hypothetical protein
+EHOFDCAI_01896	CDS	1248				hypothetical protein
+EHOFDCAI_01897	CDS	2340	btuB_13			Vitamin B12 transporter BtuB
+EHOFDCAI_01898	CDS	699				hypothetical protein
+EHOFDCAI_01899	CDS	504				hypothetical protein
+EHOFDCAI_01900	CDS	1389				hypothetical protein
+EHOFDCAI_01901	CDS	1266	bioA	2.6.1.62	COG0161	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+EHOFDCAI_01902	CDS	1128	bioF_2	2.3.1.47		8-amino-7-oxononanoate synthase
+EHOFDCAI_01903	CDS	663	bioD	6.3.3.3	COG0132	ATP-dependent dethiobiotin synthetase BioD
+EHOFDCAI_01904	CDS	453				hypothetical protein
+EHOFDCAI_01905	CDS	1323				hypothetical protein
+EHOFDCAI_01906	CDS	288				hypothetical protein
+EHOFDCAI_01907	CDS	1245				hypothetical protein
+EHOFDCAI_01908	CDS	1344				hypothetical protein
+EHOFDCAI_01909	CDS	306				hypothetical protein
+EHOFDCAI_01910	CDS	882				hypothetical protein
+EHOFDCAI_01911	CDS	591				hypothetical protein
+EHOFDCAI_01912	CDS	258	hin		COG1961	DNA-invertase hin
+EHOFDCAI_01913	CDS	405				hypothetical protein
+EHOFDCAI_01914	CDS	924				hypothetical protein
+EHOFDCAI_01915	CDS	141				hypothetical protein
+EHOFDCAI_01916	CDS	504				hypothetical protein
+EHOFDCAI_01917	CDS	303				hypothetical protein
+EHOFDCAI_01918	CDS	1644				hypothetical protein
+EHOFDCAI_01919	CDS	96				hypothetical protein
+EHOFDCAI_01920	CDS	417				hypothetical protein
+EHOFDCAI_01921	CDS	399				hypothetical protein
+EHOFDCAI_01922	tRNA	75				tRNA-Thr(ggt)
+EHOFDCAI_01923	CDS	135				hypothetical protein
+EHOFDCAI_01924	CDS	384				hypothetical protein
+EHOFDCAI_01925	CDS	1275	murA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+EHOFDCAI_01926	CDS	453				hypothetical protein
+EHOFDCAI_01927	CDS	1296	hisD	1.1.1.23		Histidinol dehydrogenase
+EHOFDCAI_01928	CDS	489				hypothetical protein
+EHOFDCAI_01929	CDS	1149	metC	4.4.1.13	COG0626	Cystathionine beta-lyase MetC
+EHOFDCAI_01930	CDS	846	sseA	2.8.1.2	COG2897	3-mercaptopyruvate sulfurtransferase
+EHOFDCAI_01931	CDS	1008	cbs	4.2.1.22	COG0031	Putative cystathionine beta-synthase
+EHOFDCAI_01932	CDS	522				hypothetical protein
+EHOFDCAI_01933	CDS	684				hypothetical protein
+EHOFDCAI_01934	CDS	1260	ufaA1	2.1.1.-	COG2230	Tuberculostearic acid methyltransferase UfaA1
+EHOFDCAI_01935	CDS	819				hypothetical protein
+EHOFDCAI_01936	CDS	1317				hypothetical protein
+EHOFDCAI_01937	CDS	1455	phrA	4.1.99.3	COG0415	Deoxyribodipyrimidine photo-lyase
+EHOFDCAI_01938	CDS	798				hypothetical protein
+EHOFDCAI_01939	CDS	732				hypothetical protein
+EHOFDCAI_01940	CDS	189				hypothetical protein
+EHOFDCAI_01941	CDS	945				hypothetical protein
+EHOFDCAI_01942	CDS	375				hypothetical protein
+EHOFDCAI_01943	CDS	996		2.7.1.-	COG3173	Putative aminoglycoside phosphotransferase
+EHOFDCAI_01944	CDS	768				hypothetical protein
+EHOFDCAI_01945	CDS	2070	recG	3.6.4.12	COG1200	ATP-dependent DNA helicase RecG
+EHOFDCAI_01946	CDS	276				hypothetical protein
+EHOFDCAI_01947	CDS	849	rdpA_2	1.14.11.44		(R)-phenoxypropionate/alpha-ketoglutarate-dioxygenase
+EHOFDCAI_01948	CDS	585	rplI		COG0359	50S ribosomal protein L9
+EHOFDCAI_01949	CDS	270	rpsR		COG0238	30S ribosomal protein S18
+EHOFDCAI_01950	CDS	339	rpsF		COG0360	30S ribosomal protein S6
+EHOFDCAI_01951	CDS	828			COG2513	putative protein
+EHOFDCAI_01952	CDS	954	fabD	2.3.1.39	COG0331	Malonyl CoA-acyl carrier protein transacylase
+EHOFDCAI_01953	CDS	738	fabG_5	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+EHOFDCAI_01954	CDS	237	acpP_2		COG0236	Acyl carrier protein
+EHOFDCAI_01955	CDS	1296	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+EHOFDCAI_01956	CDS	1026	mltG	4.2.2.-	COG1559	Endolytic murein transglycosylase
+EHOFDCAI_01957	CDS	882				hypothetical protein
+EHOFDCAI_01958	CDS	645	gmk	2.7.4.8	COG0194	Guanylate kinase
+EHOFDCAI_01959	CDS	864	yphB		COG2017	putative protein YphB
+EHOFDCAI_01960	CDS	855	rsmA	2.1.1.182		Ribosomal RNA small subunit methyltransferase A
+EHOFDCAI_01961	CDS	981	pdxA2	1.1.1.408	COG1995	D-threonate 4-phosphate dehydrogenase
+EHOFDCAI_01962	CDS	1251	surA	5.2.1.8		Chaperone SurA
+EHOFDCAI_01963	CDS	2208	lptD			LPS-assembly protein LptD
+EHOFDCAI_01964	CDS	1032				hypothetical protein
+EHOFDCAI_01965	CDS	597	plsY	2.3.1.275	COG0344	Glycerol-3-phosphate acyltransferase
+EHOFDCAI_01966	CDS	1200				hypothetical protein
+EHOFDCAI_01967	CDS	594				hypothetical protein
+EHOFDCAI_01968	CDS	507	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+EHOFDCAI_01969	CDS	288	gatC	6.3.5.-	COG0721	Glutamyl-tRNA(Gln) amidotransferase subunit C
+EHOFDCAI_01970	CDS	504				hypothetical protein
+EHOFDCAI_01971	CDS	1476	gatA_2	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+EHOFDCAI_01972	CDS	363				hypothetical protein
+EHOFDCAI_01973	CDS	1512	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+EHOFDCAI_01974	CDS	726	rpaR		COG2771	HTH-type quorum sensing-dependent transcriptional regulator RpaR
+EHOFDCAI_01975	CDS	438				hypothetical protein
+EHOFDCAI_01976	CDS	552				hypothetical protein
+EHOFDCAI_01977	CDS	1164				hypothetical protein
+EHOFDCAI_01978	CDS	738				hypothetical protein
+EHOFDCAI_01979	CDS	459				hypothetical protein
+EHOFDCAI_01980	CDS	1281	dinB	2.7.7.7	COG0389	DNA polymerase IV
+EHOFDCAI_01981	CDS	393	divK_2			Polar-differentiation response regulator DivK
+EHOFDCAI_01982	CDS	1365	pleD			Response regulator PleD
+EHOFDCAI_01983	CDS	168	rpmG		COG0267	50S ribosomal protein L33
+EHOFDCAI_01984	CDS	726				hypothetical protein
+EHOFDCAI_01985	CDS	2259	rnr	3.1.13.1	COG0557	Ribonuclease R
+EHOFDCAI_01986	CDS	471				hypothetical protein
+EHOFDCAI_01987	CDS	867				hypothetical protein
+EHOFDCAI_01988	CDS	576				hypothetical protein
+EHOFDCAI_01989	CDS	543				hypothetical protein
+EHOFDCAI_01990	CDS	1500	sctC_4			Type 3 secretion system secretin
+EHOFDCAI_01991	CDS	2553	topA	5.6.2.1	COG0550	DNA topoisomerase 1
+EHOFDCAI_01992	CDS	1119				hypothetical protein
+EHOFDCAI_01993	CDS	1101				hypothetical protein
+EHOFDCAI_01994	CDS	1467	pepA_2	3.4.11.1	COG0260	Cytosol aminopeptidase
+EHOFDCAI_01995	CDS	471				hypothetical protein
+EHOFDCAI_01996	CDS	675				hypothetical protein
+EHOFDCAI_01997	CDS	186				hypothetical protein
+EHOFDCAI_01998	CDS	423	ndk	2.7.4.6		Nucleoside diphosphate kinase
+EHOFDCAI_01999	CDS	606	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+EHOFDCAI_02000	CDS	1047	purM	6.3.3.1		Phosphoribosylformylglycinamidine cyclo-ligase
+EHOFDCAI_02001	CDS	1011				hypothetical protein
+EHOFDCAI_02002	CDS	669				hypothetical protein
+EHOFDCAI_02003	CDS	2172	ppk	2.7.4.1		Polyphosphate kinase
+EHOFDCAI_02004	CDS	1458	gppA	3.6.1.40		Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+EHOFDCAI_02005	CDS	1167	rnd_2	3.1.13.5	COG0349	Ribonuclease D
+EHOFDCAI_02006	CDS	1875				hypothetical protein
+EHOFDCAI_02007	CDS	1836	aspS	6.1.1.23	COG0173	Aspartate--tRNA(Asp/Asn) ligase
+EHOFDCAI_02008	CDS	1326	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+EHOFDCAI_02009	CDS	381				hypothetical protein
+EHOFDCAI_02010	CDS	762	surE	3.1.3.5	COG0496	5'-nucleotidase SurE
+EHOFDCAI_02011	CDS	654	pcm	2.1.1.77		Protein-L-isoaspartate O-methyltransferase
+EHOFDCAI_02012	CDS	387				hypothetical protein
+EHOFDCAI_02013	CDS	918		1.1.1.-	COG1028	Putative short-chain type dehydrogenase/reductase
+EHOFDCAI_02014	CDS	369				hypothetical protein
+EHOFDCAI_02015	CDS	1290	psuT		COG1972	Putative pseudouridine transporter
+EHOFDCAI_02016	CDS	2109	btuB_14			Vitamin B12 transporter BtuB
+EHOFDCAI_02017	CDS	609				hypothetical protein
+EHOFDCAI_02018	CDS	786	nnrD	4.2.1.136	COG0063	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+EHOFDCAI_02019	CDS	615				hypothetical protein
+EHOFDCAI_02020	CDS	1416	trmFO	2.1.1.74		Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO
+EHOFDCAI_02021	CDS	1356	pmbA	3.4.-.-	COG0312	Metalloprotease PmbA
+EHOFDCAI_02022	CDS	1116	cysQ_2	3.1.3.7		3'(2'),5'-bisphosphate nucleotidase CysQ
+EHOFDCAI_02023	CDS	1827	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+EHOFDCAI_02024	CDS	672				hypothetical protein
+EHOFDCAI_02025	CDS	390				hypothetical protein
+EHOFDCAI_02026	CDS	957				hypothetical protein
+EHOFDCAI_02027	CDS	942	ubiA	2.5.1.39	COG0382	4-hydroxybenzoate octaprenyltransferase
+EHOFDCAI_02028	CDS	750	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+EHOFDCAI_02029	CDS	1380	egtA	6.3.2.2		Glutamate--cysteine ligase EgtA
+EHOFDCAI_02030	CDS	138	tufB		COG0050	Elongation factor Tu 2
+EHOFDCAI_02031	CDS	1827	dtpA			Dipeptide and tripeptide permease A
+EHOFDCAI_02032	CDS	1404	tldD	3.4.-.-	COG0312	Metalloprotease TldD
+EHOFDCAI_02033	CDS	558				hypothetical protein
+EHOFDCAI_02034	CDS	951	ctaC	1.9.3.1	COG1622	Cytochrome c oxidase subunit 2
+EHOFDCAI_02035	CDS	1683	ctaD	1.9.3.1	COG0843	Cytochrome c oxidase subunit 1
+EHOFDCAI_02036	CDS	960	ctaB	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+EHOFDCAI_02037	CDS	270				hypothetical protein
+EHOFDCAI_02038	CDS	549	ctaG		COG3175	Cytochrome c oxidase assembly protein CtaG
+EHOFDCAI_02039	CDS	867	ctaE	1.9.3.1	COG1845	Cytochrome c oxidase subunit 3
+EHOFDCAI_02040	CDS	381				hypothetical protein
+EHOFDCAI_02041	CDS	690				hypothetical protein
+EHOFDCAI_02042	CDS	1389	thrC	4.2.3.1	COG0498	Threonine synthase
+EHOFDCAI_02043	CDS	1002				hypothetical protein
+EHOFDCAI_02044	CDS	1332		1.14.15.14	COG2124	Methyl-branched lipid omega-hydroxylase
+EHOFDCAI_02045	CDS	885				hypothetical protein
+EHOFDCAI_02046	CDS	417				hypothetical protein
+EHOFDCAI_02047	CDS	960	lpxL	2.3.1.241		Lipid A biosynthesis lauroyltransferase
+EHOFDCAI_02048	CDS	1002	lpxK	2.7.1.130	COG1663	Tetraacyldisaccharide 4'-kinase
+EHOFDCAI_02049	CDS	1281	waaA	2.4.99.12	COG1519	3-deoxy-D-manno-octulosonic acid transferase
+EHOFDCAI_02050	CDS	147				hypothetical protein
+EHOFDCAI_02051	CDS	378				hypothetical protein
+EHOFDCAI_02052	CDS	375				hypothetical protein
+EHOFDCAI_02053	CDS	1797	sppA	3.4.21.-	COG0616	Protease 4
+EHOFDCAI_02054	tRNA	75				tRNA-Gln(ttg)
+EHOFDCAI_02055	CDS	774				hypothetical protein
+EHOFDCAI_02056	CDS	1395	tolQ_1			Tol-Pal system protein TolQ
+EHOFDCAI_02057	CDS	513	tolQ_2			Tol-Pal system protein TolQ
+EHOFDCAI_02058	CDS	405				hypothetical protein
+EHOFDCAI_02059	CDS	411	tolR			Tol-Pal system protein TolR
+EHOFDCAI_02060	CDS	627				hypothetical protein
+EHOFDCAI_02061	CDS	663				hypothetical protein
+EHOFDCAI_02062	CDS	1380				hypothetical protein
+EHOFDCAI_02063	CDS	1257	dapE	3.5.1.18		Succinyl-diaminopimelate desuccinylase
+EHOFDCAI_02064	CDS	1023	astA	2.3.1.109	COG3138	Arginine N-succinyltransferase
+EHOFDCAI_02065	CDS	1455	astD	1.2.1.71	COG1012	N-succinylglutamate 5-semialdehyde dehydrogenase
+EHOFDCAI_02066	CDS	1329	astB	3.5.3.23	COG3724	N-succinylarginine dihydrolase
+EHOFDCAI_02067	CDS	1146	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+EHOFDCAI_02068	CDS	594				hypothetical protein
+EHOFDCAI_02069	tRNA	76				tRNA-Lys(ttt)
+EHOFDCAI_02070	CDS	1662				hypothetical protein
+EHOFDCAI_02071	CDS	876				hypothetical protein
+EHOFDCAI_02072	CDS	456				hypothetical protein
+EHOFDCAI_02073	CDS	1554	mobA_1	2.7.7.77		Molybdenum cofactor guanylyltransferase
+EHOFDCAI_02074	CDS	1032	moaA	4.1.99.22		GTP 3',8-cyclase
+EHOFDCAI_02075	CDS	249	moaD			Molybdopterin synthase sulfur carrier subunit
+EHOFDCAI_02076	CDS	483				hypothetical protein
+EHOFDCAI_02077	CDS	453	iorA_2	1.3.99.16		Isoquinoline 1-oxidoreductase subunit alpha
+EHOFDCAI_02078	CDS	2247		1.2.5.2		Membrane-bound aldehyde dehydrogenase [pyrroloquinoline-quinone]
+EHOFDCAI_02079	CDS	348				hypothetical protein
+EHOFDCAI_02080	CDS	1272	fccB	1.8.2.3	COG0446	Sulfide dehydrogenase [flavocytochrome c] flavoprotein chain
+EHOFDCAI_02081	CDS	462				hypothetical protein
+EHOFDCAI_02082	CDS	453				hypothetical protein
+EHOFDCAI_02083	CDS	321				hypothetical protein
+EHOFDCAI_02084	CDS	780	soxA	2.8.5.2		L-cysteine S-thiosulfotransferase subunit SoxA
+EHOFDCAI_02085	CDS	723				IS110 family transposase ISRhru3
+EHOFDCAI_02086	CDS	1134				hypothetical protein
+EHOFDCAI_02087	CDS	522				hypothetical protein
+EHOFDCAI_02088	CDS	1401	mcrA	1.5.3.-		Mitomycin radical oxidase
+EHOFDCAI_02089	CDS	729				hypothetical protein
+EHOFDCAI_02090	CDS	612				hypothetical protein
+EHOFDCAI_02091	CDS	705				hypothetical protein
+EHOFDCAI_02092	CDS	1218				hypothetical protein
+EHOFDCAI_02093	CDS	1167				hypothetical protein
+EHOFDCAI_02094	CDS	384			COG0346	Virulence protein
+EHOFDCAI_02095	CDS	621	yfcG_3	1.8.4.-	COG0625	Disulfide-bond oxidoreductase YfcG
+EHOFDCAI_02096	CDS	648				hypothetical protein
+EHOFDCAI_02097	CDS	903				hypothetical protein
+EHOFDCAI_02098	CDS	525				hypothetical protein
+EHOFDCAI_02099	CDS	438				hypothetical protein
+EHOFDCAI_02100	CDS	318				hypothetical protein
+EHOFDCAI_02101	CDS	984				IS1182 family transposase ISCfr1
+EHOFDCAI_02102	CDS	2412				hypothetical protein
+EHOFDCAI_02103	CDS	642	xerC_2			Tyrosine recombinase XerC
+EHOFDCAI_02104	CDS	2637	malT_3			HTH-type transcriptional regulator MalT
+EHOFDCAI_02105	CDS	630				hypothetical protein
+EHOFDCAI_02106	CDS	717				hypothetical protein
+EHOFDCAI_02107	CDS	468				hypothetical protein
+EHOFDCAI_02108	CDS	459				hypothetical protein
+EHOFDCAI_02109	CDS	639				hypothetical protein
+EHOFDCAI_02110	CDS	2658				hypothetical protein
+EHOFDCAI_02111	CDS	906				hypothetical protein
+EHOFDCAI_02112	CDS	381				hypothetical protein
+EHOFDCAI_02113	CDS	807				hypothetical protein
+EHOFDCAI_02114	CDS	315				hypothetical protein
+EHOFDCAI_02115	CDS	228				hypothetical protein
+EHOFDCAI_02116	CDS	1248				hypothetical protein
+EHOFDCAI_02117	CDS	1011				hypothetical protein
+EHOFDCAI_02118	CDS	684				hypothetical protein
+EHOFDCAI_02119	CDS	1317				hypothetical protein
+EHOFDCAI_02120	CDS	723				hypothetical protein
+EHOFDCAI_02121	CDS	2439	virB4_2		COG3451	Type IV secretion system protein virB4
+EHOFDCAI_02122	CDS	273				hypothetical protein
+EHOFDCAI_02123	CDS	312				hypothetical protein
+EHOFDCAI_02124	CDS	1008			COG0630	Type IV secretion system protein VirB11
+EHOFDCAI_02125	CDS	495				hypothetical protein
+EHOFDCAI_02126	CDS	1971	traG_2			Conjugal transfer protein TraG
+EHOFDCAI_02127	CDS	1695				hypothetical protein
+EHOFDCAI_02128	CDS	507				hypothetical protein
+EHOFDCAI_02129	CDS	360				hypothetical protein
+EHOFDCAI_02130	CDS	213				hypothetical protein
+EHOFDCAI_02131	CDS	321				hypothetical protein
+EHOFDCAI_02132	CDS	2016	noc			Nucleoid occlusion protein
+EHOFDCAI_02133	CDS	549				hypothetical protein
+EHOFDCAI_02134	CDS	474				hypothetical protein
+EHOFDCAI_02135	CDS	1095				hypothetical protein
+EHOFDCAI_02136	CDS	348				hypothetical protein
+EHOFDCAI_02137	CDS	579				hypothetical protein
+EHOFDCAI_02138	CDS	675				hypothetical protein
+EHOFDCAI_02139	CDS	864				hypothetical protein
+EHOFDCAI_02140	CDS	756				hypothetical protein
+EHOFDCAI_02141	CDS	1008				hypothetical protein
+EHOFDCAI_02142	CDS	264				hypothetical protein
+EHOFDCAI_02143	CDS	1782	actP		COG4147	Cation/acetate symporter ActP
+EHOFDCAI_02144	CDS	561				hypothetical protein
+EHOFDCAI_02145	CDS	696				hypothetical protein
+EHOFDCAI_02146	CDS	738				hypothetical protein
+EHOFDCAI_02147	CDS	1920				hypothetical protein
+EHOFDCAI_02148	CDS	417				hypothetical protein
+EHOFDCAI_02149	CDS	1170	mmgC_3	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+EHOFDCAI_02150	CDS	1149	lldD	1.1.-.-	COG1304	Putative L-lactate dehydrogenase
+EHOFDCAI_02151	CDS	687	walR		COG0745	Transcriptional regulatory protein WalR
+EHOFDCAI_02152	CDS	513				hypothetical protein
+EHOFDCAI_02153	CDS	201				hypothetical protein
+EHOFDCAI_02154	CDS	1404				putative protein
+EHOFDCAI_02155	CDS	585				hypothetical protein
+EHOFDCAI_02156	CDS	660			COG0325	Pyridoxal phosphate homeostasis protein
+EHOFDCAI_02157	CDS	612	thiE_2	2.5.1.3		Thiamine-phosphate synthase
+EHOFDCAI_02158	CDS	267				hypothetical protein
+EHOFDCAI_02159	CDS	1347	glmM	5.4.2.10	COG1109	Phosphoglucosamine mutase
+EHOFDCAI_02160	CDS	537				hypothetical protein
+EHOFDCAI_02161	CDS	1836	nodM	2.6.1.16		Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+EHOFDCAI_02162	CDS	117				hypothetical protein
+EHOFDCAI_02163	CDS	561				hypothetical protein
+EHOFDCAI_02164	CDS	1005	gpsA	1.1.1.94	COG0240	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+EHOFDCAI_02165	CDS	300	yciI		COG2350	Protein YciI
+EHOFDCAI_02166	CDS	471				hypothetical protein
+EHOFDCAI_02167	CDS	999				hypothetical protein
+EHOFDCAI_02168	tRNA	77				tRNA-Arg(ccg)
+EHOFDCAI_02169	CDS	390				hypothetical protein
+EHOFDCAI_02170	CDS	1431				hypothetical protein
+EHOFDCAI_02171	CDS	714				hypothetical protein
+EHOFDCAI_02172	CDS	495			COG1733	putative HTH-type transcriptional regulator
+EHOFDCAI_02173	CDS	2283		4.2.1.112		Acetylene hydratase
+EHOFDCAI_02174	CDS	237				hypothetical protein
+EHOFDCAI_02175	CDS	597	mobA_2	2.7.7.77		Molybdenum cofactor guanylyltransferase
+EHOFDCAI_02176	CDS	273				hypothetical protein
+EHOFDCAI_02177	CDS	663				hypothetical protein
+EHOFDCAI_02178	CDS	1377	cusC		COG1538	Cation efflux system protein CusC
+EHOFDCAI_02179	CDS	3069	czcA_1			Cobalt-zinc-cadmium resistance protein CzcA
+EHOFDCAI_02180	CDS	1083	srpA			Solvent efflux pump periplasmic linker SrpA
+EHOFDCAI_02181	CDS	450				hypothetical protein
+EHOFDCAI_02182	CDS	840			COG5285	putative protein
+EHOFDCAI_02183	CDS	624				hypothetical protein
+EHOFDCAI_02184	CDS	696	betI_3			HTH-type transcriptional regulator BetI
+EHOFDCAI_02185	CDS	1791				hypothetical protein
+EHOFDCAI_02186	CDS	1623		2.1.3.1	COG4799	Methylmalonyl-CoA carboxyltransferase 12S subunit
+EHOFDCAI_02187	CDS	822	fadB	4.2.1.17	COG1024	putative enoyl-CoA hydratase
+EHOFDCAI_02188	CDS	1989	accA1_1		COG4770	Acetyl-/propionyl-coenzyme A carboxylase alpha chain
+EHOFDCAI_02189	CDS	1149		1.13.12.-	COG2070	Putative monooxygenase
+EHOFDCAI_02190	CDS	795				putative protein
+EHOFDCAI_02191	CDS	771	caiD_3	4.2.1.149		Carnitinyl-CoA dehydratase
+EHOFDCAI_02192	CDS	3303	hcf136			Ycf48-like protein
+EHOFDCAI_02193	CDS	726				hypothetical protein
+EHOFDCAI_02194	CDS	837	menH_1	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+EHOFDCAI_02195	CDS	180				hypothetical protein
+EHOFDCAI_02196	CDS	804	nit1	3.5.1.128		Deaminated glutathione amidase
+EHOFDCAI_02197	CDS	624	betI_4			HTH-type transcriptional regulator BetI
+EHOFDCAI_02198	CDS	849	azoB_2	1.7.-.-		NAD(P)H azoreductase
+EHOFDCAI_02199	tRNA	85				tRNA-Leu(gag)
+EHOFDCAI_02200	CDS	840				hypothetical protein
+EHOFDCAI_02201	CDS	519				hypothetical protein
+EHOFDCAI_02202	CDS	1998	accA1_2		COG4770	Acetyl-/propionyl-coenzyme A carboxylase alpha chain
+EHOFDCAI_02203	CDS	948				hypothetical protein
+EHOFDCAI_02204	CDS	420				hypothetical protein
+EHOFDCAI_02205	CDS	822	map	3.4.11.18	COG0024	Methionine aminopeptidase
+EHOFDCAI_02206	CDS	690				hypothetical protein
+EHOFDCAI_02207	CDS	1479	sotB_2			sugar efflux transporter
+EHOFDCAI_02208	CDS	1515	nanT_2			Sialic acid transporter NanT
+EHOFDCAI_02209	CDS	966	thrB	2.7.1.39	COG2334	Homoserine kinase
+EHOFDCAI_02210	CDS	771				hypothetical protein
+EHOFDCAI_02211	CDS	1548		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase FadD13
+EHOFDCAI_02212	CDS	456		4.2.1.17	COG2030	putative enoyl-CoA hydratase 1
+EHOFDCAI_02213	CDS	429	msrB_2	1.8.4.12	COG0229	Peptide methionine sulfoxide reductase MsrB
+EHOFDCAI_02214	CDS	2244	dapb1	3.4.14.-		Dipeptidyl aminopeptidase BI
+EHOFDCAI_02215	CDS	1605				hypothetical protein
+EHOFDCAI_02216	CDS	585				hypothetical protein
+EHOFDCAI_02217	CDS	648				hypothetical protein
+EHOFDCAI_02218	CDS	1209	fadA_2	2.3.1.16	COG0183	3-ketoacyl-CoA thiolase
+EHOFDCAI_02219	CDS	684				hypothetical protein
+EHOFDCAI_02220	CDS	1716				hypothetical protein
+EHOFDCAI_02221	CDS	2220	btuB_15			Vitamin B12 transporter BtuB
+EHOFDCAI_02222	CDS	3135	czcA_2			Cobalt-zinc-cadmium resistance protein CzcA
+EHOFDCAI_02223	CDS	1188	mdtA_2			Multidrug resistance protein MdtA
+EHOFDCAI_02224	CDS	654				hypothetical protein
+EHOFDCAI_02225	CDS	639				hypothetical protein
+EHOFDCAI_02226	CDS	1110				hypothetical protein
+EHOFDCAI_02227	CDS	1770	dmdC_2	1.3.8.-	COG1960	3-methylmercaptopropionyl-CoA dehydrogenase
+EHOFDCAI_02228	CDS	621	yceI_1		COG2353	Protein YceI
+EHOFDCAI_02229	CDS	705	yceI_2			Protein YceI
+EHOFDCAI_02230	CDS	1215	yceI_3			Protein YceI
+EHOFDCAI_02231	CDS	939	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+EHOFDCAI_02232	CDS	1410		1.-.-.-	COG0277	putative FAD-linked oxidoreductase
+EHOFDCAI_02233	CDS	690	yedK	3.4.-.-	COG2135	SOS response-associated protein YedK
+EHOFDCAI_02234	CDS	1173	wbpE	2.6.1.98	COG0399	UDP-2-acetamido-2-deoxy-3-oxo-D-glucuronate aminotransferase
+EHOFDCAI_02235	CDS	918	iolX	1.1.1.370	COG0673	scyllo-inositol 2-dehydrogenase (NAD(+))
+EHOFDCAI_02236	CDS	1026	curA_2	1.3.1.-	COG2130	NADPH-dependent curcumin reductase
+EHOFDCAI_02237	CDS	588				hypothetical protein
+EHOFDCAI_02238	CDS	915				hypothetical protein
+EHOFDCAI_02239	CDS	267	hupA		COG0776	DNA-binding protein HU 1
+EHOFDCAI_02240	CDS	1419	norM		COG0534	Multidrug resistance protein NorM
+EHOFDCAI_02241	CDS	1380	aroH	2.5.1.54	COG3200	Phospho-2-dehydro-3-deoxyheptonate aldolase
+EHOFDCAI_02242	CDS	1308				hypothetical protein
+EHOFDCAI_02243	CDS	309				hypothetical protein
+EHOFDCAI_02244	CDS	1590			COG1292	putative glycine betaine transporter
+EHOFDCAI_02245	CDS	1416		3.4.24.-	COG0612	putative zinc protease
+EHOFDCAI_02246	CDS	1374		3.4.24.-	COG0612	putative zinc protease
+EHOFDCAI_02247	CDS	474				hypothetical protein
+EHOFDCAI_02248	CDS	555	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+EHOFDCAI_02249	CDS	2946	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+EHOFDCAI_02250	CDS	918	ribF		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+EHOFDCAI_02251	CDS	432	phaJ	4.2.1.119	COG2030	(R)-specific enoyl-CoA hydratase
+EHOFDCAI_02252	CDS	858	yutF	3.1.3.-	COG0647	Acid sugar phosphatase
+EHOFDCAI_02253	CDS	1233				hypothetical protein
+EHOFDCAI_02254	CDS	468				hypothetical protein
+EHOFDCAI_02255	CDS	1158				Putative NAD(P)H nitroreductase
+EHOFDCAI_02256	CDS	729				hypothetical protein
+EHOFDCAI_02257	CDS	855				hypothetical protein
+EHOFDCAI_02258	CDS	1665				hypothetical protein
+EHOFDCAI_02259	CDS	618				hypothetical protein
+EHOFDCAI_02260	CDS	963	pip	3.4.11.5		Proline iminopeptidase
+EHOFDCAI_02261	CDS	876				hypothetical protein
+EHOFDCAI_02262	CDS	1329				hypothetical protein
+EHOFDCAI_02263	CDS	1164	mrdB	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+EHOFDCAI_02264	CDS	1923	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+EHOFDCAI_02265	CDS	552				hypothetical protein
+EHOFDCAI_02266	CDS	861				hypothetical protein
+EHOFDCAI_02267	CDS	1005	mreB			Cell shape-determining protein MreB
+EHOFDCAI_02268	CDS	1533	leuA	2.3.3.13	COG0119	2-isopropylmalate synthase
+EHOFDCAI_02269	CDS	717				hypothetical protein
+EHOFDCAI_02270	CDS	405				hypothetical protein
+EHOFDCAI_02271	CDS	534				hypothetical protein
+EHOFDCAI_02272	CDS	339				hypothetical protein
+EHOFDCAI_02273	CDS	972				hypothetical protein
+EHOFDCAI_02274	CDS	669				hypothetical protein
+EHOFDCAI_02275	CDS	1998	yjcS	3.1.6.-	COG2015	Putative alkyl/aryl-sulfatase YjcS
+EHOFDCAI_02276	CDS	168				hypothetical protein
+EHOFDCAI_02277	CDS	219				hypothetical protein
+EHOFDCAI_02278	CDS	423				hypothetical protein
+EHOFDCAI_02279	CDS	708				hypothetical protein
+EHOFDCAI_02280	CDS	1587	lysS	6.1.1.6	COG1384	Lysine--tRNA ligase
+EHOFDCAI_02281	CDS	753				hypothetical protein
+EHOFDCAI_02282	CDS	1173	mshA_5	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+EHOFDCAI_02283	CDS	423	infC		COG0290	Translation initiation factor IF-3
+EHOFDCAI_02284	CDS	207	rpmI		COG0291	50S ribosomal protein L35
+EHOFDCAI_02285	CDS	363	rplT		COG0292	50S ribosomal protein L20
+EHOFDCAI_02286	CDS	1074	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+EHOFDCAI_02287	CDS	618				hypothetical protein
+EHOFDCAI_02288	CDS	2394	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+EHOFDCAI_02289	CDS	909				hypothetical protein
+EHOFDCAI_02290	CDS	1794				hypothetical protein
+EHOFDCAI_02291	CDS	1164	ampC	3.5.2.6	COG1680	Beta-lactamase
+EHOFDCAI_02292	CDS	975				hypothetical protein
+EHOFDCAI_02293	CDS	408				hypothetical protein
+EHOFDCAI_02294	CDS	396				hypothetical protein
+EHOFDCAI_02295	CDS	246	clpS		COG2127	ATP-dependent Clp protease adapter protein ClpS
+EHOFDCAI_02296	CDS	2319	clpA		COG0542	ATP-dependent Clp protease ATP-binding subunit ClpA
+EHOFDCAI_02297	CDS	459				hypothetical protein
+EHOFDCAI_02298	CDS	1860	kefC_2		COG0475	Glutathione-regulated potassium-efflux system protein KefC
+EHOFDCAI_02299	CDS	1722				hypothetical protein
+EHOFDCAI_02300	CDS	1566	egtB_4	1.14.99.50		Hercynine oxygenase
+EHOFDCAI_02301	CDS	1164				hypothetical protein
+EHOFDCAI_02302	CDS	999				hypothetical protein
+EHOFDCAI_02303	CDS	1626	dmdB	6.2.1.44	COG0318	3-methylmercaptopropionyl-CoA ligase
+EHOFDCAI_02304	CDS	714				hypothetical protein
+EHOFDCAI_02305	tRNA	77				tRNA-Met(cat)
+EHOFDCAI_02306	CDS	201				hypothetical protein
+EHOFDCAI_02307	CDS	666				hypothetical protein
+EHOFDCAI_02308	CDS	687				hypothetical protein
+EHOFDCAI_02309	CDS	465	rplM		COG0102	50S ribosomal protein L13
+EHOFDCAI_02310	CDS	489	rpsI		COG0103	30S ribosomal protein S9
+EHOFDCAI_02311	CDS	1038	argC	1.2.1.38	COG0002	N-acetyl-gamma-glutamyl-phosphate reductase
+EHOFDCAI_02312	CDS	441				hypothetical protein
+EHOFDCAI_02313	CDS	549				hypothetical protein
+EHOFDCAI_02314	CDS	405				hypothetical protein
+EHOFDCAI_02315	CDS	387				hypothetical protein
+EHOFDCAI_02316	CDS	372				hypothetical protein
+EHOFDCAI_02317	CDS	180				hypothetical protein
+EHOFDCAI_02318	CDS	441				hypothetical protein
+EHOFDCAI_02319	CDS	1113				hypothetical protein
+EHOFDCAI_02320	CDS	606				hypothetical protein
+EHOFDCAI_02321	CDS	198				hypothetical protein
+EHOFDCAI_02322	CDS	687				hypothetical protein
+EHOFDCAI_02323	CDS	849				hypothetical protein
+EHOFDCAI_02324	CDS	1680		1.5.5.1	COG0644	Electron transfer flavoprotein-ubiquinone oxidoreductase
+EHOFDCAI_02325	CDS	588				hypothetical protein
+EHOFDCAI_02326	CDS	1059	wecA	2.7.8.35	COG0472	Decaprenyl-phosphate N-acetylglucosaminephosphotransferase
+EHOFDCAI_02327	CDS	891	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+EHOFDCAI_02328	CDS	1743				hypothetical protein
+EHOFDCAI_02329	CDS	1020	ispB	2.5.1.90	COG0142	Octaprenyl diphosphate synthase
+EHOFDCAI_02330	CDS	210				hypothetical protein
+EHOFDCAI_02331	CDS	738	yfiC	2.1.1.223		tRNA1(Val) (adenine(37)-N6)-methyltransferase
+EHOFDCAI_02332	CDS	903	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+EHOFDCAI_02333	CDS	438				hypothetical protein
+EHOFDCAI_02334	CDS	366				hypothetical protein
+EHOFDCAI_02335	CDS	240				hypothetical protein
+EHOFDCAI_02336	CDS	2070	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+EHOFDCAI_02337	CDS	168				hypothetical protein
+EHOFDCAI_02338	CDS	2682	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+EHOFDCAI_02339	CDS	1053				hypothetical protein
+EHOFDCAI_02340	CDS	810	hcaB_3	1.3.1.87		3-phenylpropionate-dihydrodiol/cinnamic acid-dihydrodiol dehydrogenase
+EHOFDCAI_02341	CDS	858	nadC	2.4.2.19	COG0157	Nicotinate-nucleotide pyrophosphorylase [carboxylating]
+EHOFDCAI_02342	CDS	1566	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+EHOFDCAI_02343	CDS	429				hypothetical protein
+EHOFDCAI_02344	CDS	453				hypothetical protein
+EHOFDCAI_02345	CDS	1149	nadA	2.5.1.72		Quinolinate synthase A
+EHOFDCAI_02346	CDS	336				hypothetical protein
+EHOFDCAI_02347	CDS	1752				hypothetical protein
+EHOFDCAI_02348	CDS	801				hypothetical protein
+EHOFDCAI_02349	CDS	2262	dsbD	1.8.1.8		Thiol:disulfide interchange protein DsbD
+EHOFDCAI_02350	CDS	648				hypothetical protein
+EHOFDCAI_02351	CDS	1611	betA_3	1.2.1.8		Oxygen-dependent choline dehydrogenase
+EHOFDCAI_02352	CDS	939				hypothetical protein
+EHOFDCAI_02353	CDS	957		1.8.3.7	COG1262	Formylglycine-generating enzyme
+EHOFDCAI_02354	CDS	1515		3.1.6.1	COG3119	Arylsulfatase
+EHOFDCAI_02355	CDS	360				hypothetical protein
+EHOFDCAI_02356	CDS	864	rhaR			HTH-type transcriptional activator RhaR
+EHOFDCAI_02357	CDS	1149	yjiB	1.14.-.-	COG2124	Putative cytochrome P450 YjiB
+EHOFDCAI_02358	CDS	549				hypothetical protein
+EHOFDCAI_02359	CDS	927				hypothetical protein
+EHOFDCAI_02360	CDS	588	betI_5			HTH-type transcriptional regulator BetI
+EHOFDCAI_02361	CDS	1140	yeaW	1.14.13.239	COG4638	Carnitine monooxygenase oxygenase subunit
+EHOFDCAI_02362	CDS	2040	gcd	1.1.5.2	COG4993	Quinoprotein glucose dehydrogenase
+EHOFDCAI_02363	CDS	636				hypothetical protein
+EHOFDCAI_02364	CDS	345	yqjZ		COG2329	putative protein YqjZ
+EHOFDCAI_02365	CDS	507				hypothetical protein
+EHOFDCAI_02366	CDS	1818				hypothetical protein
+EHOFDCAI_02367	CDS	1782				hypothetical protein
+EHOFDCAI_02368	CDS	102				hypothetical protein
+EHOFDCAI_02369	CDS	705	baiA	1.1.1.392		3-alpha-hydroxycholanate dehydrogenase (NADP(+))
+EHOFDCAI_02370	CDS	504			COG1733	putative HTH-type transcriptional regulator
+EHOFDCAI_02371	CDS	792	dpgD_3	4.2.1.17		Enoyl-CoA-hydratase
+EHOFDCAI_02372	CDS	483				hypothetical protein
+EHOFDCAI_02373	CDS	921				hypothetical protein
+EHOFDCAI_02374	CDS	759	gno_2	1.1.1.-		Gluconate 5-dehydrogenase
+EHOFDCAI_02375	CDS	1182				hypothetical protein
+EHOFDCAI_02376	CDS	1230	rutF	1.5.1.42		FMN reductase (NADH) RutF
+EHOFDCAI_02377	CDS	621	betI_6			HTH-type transcriptional regulator BetI
+EHOFDCAI_02378	CDS	1032				hypothetical protein
+EHOFDCAI_02379	CDS	426				hypothetical protein
+EHOFDCAI_02380	CDS	636	gstB_3	2.5.1.18	COG0625	Glutathione S-transferase GST-6.0
+EHOFDCAI_02381	CDS	1440				hypothetical protein
+EHOFDCAI_02382	CDS	1515	yagG_2		COG2211	Putative glycoside/cation symporter YagG
+EHOFDCAI_02383	CDS	996	yfmJ_3	1.-.-.-	COG2130	Putative NADP-dependent oxidoreductase YfmJ
+EHOFDCAI_02384	CDS	2298	btuB_16			Vitamin B12 transporter BtuB
+EHOFDCAI_02385	CDS	966	yajO	1.1.-.-	COG0667	1-deoxyxylulose-5-phosphate synthase YajO
+EHOFDCAI_02386	CDS	963				hypothetical protein
+EHOFDCAI_02387	CDS	1542		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase FadD13
+EHOFDCAI_02388	CDS	774	lvr	1.1.1.-		Levodione reductase
+EHOFDCAI_02389	CDS	924	dhmA_2	3.8.1.5		Haloalkane dehalogenase
+EHOFDCAI_02390	CDS	660				hypothetical protein
+EHOFDCAI_02391	CDS	960				hypothetical protein
+EHOFDCAI_02392	CDS	684				hypothetical protein
+EHOFDCAI_02393	CDS	369				hypothetical protein
+EHOFDCAI_02394	CDS	3648				hypothetical protein
+EHOFDCAI_02395	CDS	810				hypothetical protein
+EHOFDCAI_02396	CDS	687				hypothetical protein
+EHOFDCAI_02397	CDS	219				hypothetical protein
+EHOFDCAI_02398	CDS	2166	fyuA_3		COG1629	Pesticin receptor
+EHOFDCAI_02399	CDS	339				hypothetical protein
+EHOFDCAI_02400	CDS	480				hypothetical protein
+EHOFDCAI_02401	CDS	1623				hypothetical protein
+EHOFDCAI_02402	CDS	597				hypothetical protein
+EHOFDCAI_02403	CDS	1362	puo	1.4.3.10		Putrescine oxidase
+EHOFDCAI_02404	CDS	1212		1.6.3.5		Renalase
+EHOFDCAI_02405	CDS	702	ctrA			Cell cycle response regulator CtrA
+EHOFDCAI_02406	CDS	1005		1.1.1.1		Alcohol dehydrogenase
+EHOFDCAI_02407	CDS	1023	yfmJ_4	1.-.-.-	COG2130	Putative NADP-dependent oxidoreductase YfmJ
+EHOFDCAI_02408	CDS	1851				hypothetical protein
+EHOFDCAI_02409	CDS	594	comR			HTH-type transcriptional repressor ComR
+EHOFDCAI_02410	CDS	510	rclC		COG3059	Inner membrane protein RclC
+EHOFDCAI_02411	CDS	273	grxC		COG0695	Glutaredoxin 3
+EHOFDCAI_02412	CDS	360				hypothetical protein
+EHOFDCAI_02413	CDS	2637				hypothetical protein
+EHOFDCAI_02414	CDS	144				hypothetical protein
+EHOFDCAI_02415	CDS	621				hypothetical protein
+EHOFDCAI_02416	CDS	936				hypothetical protein
+EHOFDCAI_02417	CDS	1242	kynU	3.7.1.3		Kynureninase
+EHOFDCAI_02418	CDS	966				hypothetical protein
+EHOFDCAI_02419	CDS	666				hypothetical protein
+EHOFDCAI_02420	CDS	1128	carC_2	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+EHOFDCAI_02421	CDS	822	ptlF_1	1.1.1.340		1-deoxy-11-beta-hydroxypentalenate dehydrogenase
+EHOFDCAI_02422	CDS	834	ptlF_2	1.1.1.340		1-deoxy-11-beta-hydroxypentalenate dehydrogenase
+EHOFDCAI_02423	CDS	675	ompW		COG3047	Outer membrane protein W
+EHOFDCAI_02424	CDS	489	zur		COG0735	Zinc uptake regulation protein
+EHOFDCAI_02425	CDS	924				hypothetical protein
+EHOFDCAI_02426	CDS	852	hcaB_4	1.3.1.87		3-phenylpropionate-dihydrodiol/cinnamic acid-dihydrodiol dehydrogenase
+EHOFDCAI_02427	CDS	1026				hypothetical protein
+EHOFDCAI_02428	CDS	261				hypothetical protein
+EHOFDCAI_02429	CDS	957	menH_2	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+EHOFDCAI_02430	CDS	747				hypothetical protein
+EHOFDCAI_02431	CDS	852	crt_2	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+EHOFDCAI_02432	CDS	336				hypothetical protein
+EHOFDCAI_02433	CDS	426				hypothetical protein
+EHOFDCAI_02434	CDS	1806	argS	6.1.1.19		Arginine--tRNA ligase
+EHOFDCAI_02435	CDS	561				hypothetical protein
+EHOFDCAI_02436	CDS	942	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+EHOFDCAI_02437	CDS	756				hypothetical protein
+EHOFDCAI_02438	CDS	1302	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+EHOFDCAI_02439	CDS	474				hypothetical protein
+EHOFDCAI_02440	CDS	1914	pbpF		COG0744	Penicillin-binding protein 1F
+EHOFDCAI_02441	CDS	867				hypothetical protein
+EHOFDCAI_02442	CDS	1284	tetA_3			Tetracycline resistance protein, class C
+EHOFDCAI_02443	CDS	276				hypothetical protein
+EHOFDCAI_02444	CDS	528	gmhB	3.1.3.83		D-glycero-alpha-D-manno-heptose-1,7-bisphosphate 7-phosphatase
+EHOFDCAI_02445	CDS	702	ygeA	5.1.1.13		L-aspartate/glutamate-specific racemase
+EHOFDCAI_02446	CDS	702				hypothetical protein
+EHOFDCAI_02447	CDS	438				hypothetical protein
+EHOFDCAI_02448	CDS	522				hypothetical protein
+EHOFDCAI_02449	CDS	825				hypothetical protein
+EHOFDCAI_02450	CDS	630	COQ5_6	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+EHOFDCAI_02451	CDS	786				hypothetical protein
+EHOFDCAI_02452	CDS	1017		3.5.4.2	COG1816	Adenine deaminase
+EHOFDCAI_02453	CDS	450				hypothetical protein
+EHOFDCAI_02454	CDS	2073	dpp5_3	3.4.14.-	COG1506	Dipeptidyl-peptidase 5
+EHOFDCAI_02455	CDS	1827	typA		COG1217	GTP-binding protein TypA/BipA
+EHOFDCAI_02456	CDS	1452				hypothetical protein
+EHOFDCAI_02457	CDS	297	sdpR		COG0640	Transcriptional repressor SdpR
+EHOFDCAI_02458	CDS	471				hypothetical protein
+EHOFDCAI_02459	CDS	576				hypothetical protein
+EHOFDCAI_02460	CDS	1767				hypothetical protein
+EHOFDCAI_02461	CDS	2085				hypothetical protein
+EHOFDCAI_02462	CDS	771				hypothetical protein
+EHOFDCAI_02463	CDS	858	bglA	3.2.1.73		Beta-glucanase
+EHOFDCAI_02464	CDS	1245	argG	6.3.4.5	COG0137	Argininosuccinate synthase
+EHOFDCAI_02465	CDS	966				hypothetical protein
+EHOFDCAI_02466	CDS	369				hypothetical protein
+EHOFDCAI_02467	CDS	927				hypothetical protein
+EHOFDCAI_02468	CDS	279				hypothetical protein

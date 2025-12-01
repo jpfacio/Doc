@@ -1,0 +1,316 @@
+[07:27:51] This is prokka 1.14.6
+[07:27:51] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[07:27:51] Homepage is https://github.com/tseemann/prokka
+[07:27:51] Local time is Mon Dec  1 07:27:51 2025
+[07:27:51] You are joao_facio
+[07:27:51] Operating system is linux
+[07:27:51] You have BioPerl 1.7.8
+[07:27:51] System has 12 cores.
+[07:27:51] Will use maximum of 4 cores.
+[07:27:51] Annotating as >>> Archaea <<<
+[07:27:51] Generating locus_tag from '/tmp/tmp6gns85ah/GOMC.bin.4175.fa' contents.
+[07:27:51] Setting --locustag KEABONLH from MD5 4eab8751263a06960967a5b9d783e13a
+[07:27:51] Creating new output folder: ../../Data/Chen_Analysis/Prokka/Archaea/GOMC.bin.4175
+[07:27:51] Running: mkdir -p \.\.\/\.\.\/Data\/Chen_Analysis\/Prokka\/Archaea\/GOMC\.bin\.4175
+[07:27:51] Using filename prefix: GOMC.bin.4175.XXX
+[07:27:51] Setting HMMER_NCPU=1
+[07:27:51] Writing log to: ../../Data/Chen_Analysis/Prokka/Archaea/GOMC.bin.4175/GOMC.bin.4175.log
+[07:27:51] Command: /home/joao_facio/miniconda3/envs/prokka/bin/prokka --outdir ../../Data/Chen_Analysis/Prokka/Archaea/GOMC.bin.4175 --prefix GOMC.bin.4175 --kingdom Archaea --genus WALU01 --strain GOMC.bin.4175 --cpus 4 --force /tmp/tmp6gns85ah/GOMC.bin.4175.fa
+[07:27:51] Appending to PATH: /home/joao_facio/miniconda3/envs/prokka/bin
+[07:27:51] Looking for 'aragorn' - found /home/joao_facio/miniconda3/envs/prokka/bin/aragorn
+[07:27:51] Determined aragorn version is 001002 from 'ARAGORN v1.2.41 Dean Laslett'
+[07:27:51] Looking for 'barrnap' - found /home/joao_facio/miniconda3/envs/prokka/bin/barrnap
+[07:27:51] Determined barrnap version is 000009 from 'barrnap 0.9'
+[07:27:51] Looking for 'blastp' - found /home/joao_facio/miniconda3/envs/prokka/bin/blastp
+[07:27:51] Determined blastp version is 002016 from 'blastp: 2.16.0+'
+[07:27:51] Looking for 'cmpress' - found /home/joao_facio/miniconda3/envs/prokka/bin/cmpress
+[07:27:51] Determined cmpress version is 001001 from '# INFERNAL 1.1.5 (Sep 2023)'
+[07:27:51] Looking for 'cmscan' - found /home/joao_facio/miniconda3/envs/prokka/bin/cmscan
+[07:27:51] Determined cmscan version is 001001 from '# INFERNAL 1.1.5 (Sep 2023)'
+[07:27:51] Looking for 'egrep' - found /usr/bin/egrep
+[07:27:51] Looking for 'find' - found /usr/bin/find
+[07:27:51] Looking for 'grep' - found /usr/bin/grep
+[07:27:51] Looking for 'hmmpress' - found /home/joao_facio/miniconda3/envs/prokka/bin/hmmpress
+[07:27:51] Determined hmmpress version is 003004 from '# HMMER 3.4 (Aug 2023); http://hmmer.org/'
+[07:27:51] Looking for 'hmmscan' - found /home/joao_facio/miniconda3/envs/prokka/bin/hmmscan
+[07:27:51] Determined hmmscan version is 003004 from '# HMMER 3.4 (Aug 2023); http://hmmer.org/'
+[07:27:51] Looking for 'java' - found /home/joao_facio/miniconda3/envs/prokka/bin/java
+[07:27:51] Looking for 'makeblastdb' - found /home/joao_facio/miniconda3/envs/prokka/bin/makeblastdb
+[07:27:51] Determined makeblastdb version is 002016 from 'makeblastdb: 2.16.0+'
+[07:27:51] Looking for 'minced' - found /home/joao_facio/miniconda3/envs/prokka/bin/minced
+[07:27:51] Determined minced version is 004002 from 'minced 0.4.2'
+[07:27:51] Looking for 'parallel' - found /home/joao_facio/miniconda3/envs/prokka/bin/parallel
+[07:27:51] Determined parallel version is 20251122 from 'GNU parallel 20251122'
+[07:27:51] Looking for 'prodigal' - found /home/joao_facio/miniconda3/envs/prokka/bin/prodigal
+[07:27:51] Determined prodigal version is 002006 from 'Prodigal V2.6.3: February, 2016'
+[07:27:51] Looking for 'prokka-genbank_to_fasta_db' - found /home/joao_facio/miniconda3/envs/prokka/bin/prokka-genbank_to_fasta_db
+[07:27:51] Looking for 'sed' - found /usr/bin/sed
+[07:27:51] Looking for 'tbl2asn' - found /home/joao_facio/miniconda3/envs/prokka/bin/tbl2asn
+[07:27:51] Determined tbl2asn version is 025007 from 'tbl2asn 25.7   arguments:'
+[07:27:51] Using genetic code table 11.
+[07:27:51] Loading and checking input file: /tmp/tmp6gns85ah/GOMC.bin.4175.fa
+[07:27:51] Wrote 147 contigs totalling 1588905 bp.
+[07:27:51] Predicting tRNAs and tmRNAs
+[07:27:51] Running: aragorn -l -gc11  -w \.\.\/\.\.\/Data\/Chen_Analysis\/Prokka\/Archaea\/GOMC\.bin\.4175\/GOMC\.bin\.4175\.fna
+[07:27:51] 1 tRNA-Arg c[1,75] 36 (tct)
+[07:27:51] 1 tRNA-Arg [2835,2911] 37 (gcg)
+[07:27:51] 1 tRNA-Val [37688,37763] 34 (gac)
+[07:27:51] 1 tRNA-Pro c[9464,9537] 35 (tgg)
+[07:27:51] 2 tRNA-Leu c[32934,33021] 37 (taa)
+[07:27:51] 1 tRNA-Leu [56,145] 37 (cag)
+[07:27:51] 2 tRNA-Gln [190,265] 35 (ttg)
+[07:27:51] 3 tRNA-Ala [6347,6422] 34 (tgc)
+[07:27:51] 4 tRNA-His c[6529,6604] 35 (gtg)
+[07:27:51] 1 tRNA-Val c[3470,3543] 34 (cac)
+[07:27:51] 1 tRNA-Phe c[3,75] 33 (gaa)
+[07:27:51] 2 tRNA-Ala c[83,158] 34 (ggc)
+[07:27:51] 3 tRNA-Arg c[8361,8438] 36 (ccg)
+[07:27:51] 4 tRNA-Ile c[10208,10283] 36 (gat)
+[07:27:51] 5 tRNA-Ala c[10285,10359] 35 (cgc)
+[07:27:51] 6 tRNA-Cys c[12939,13011] 34 (gca)
+[07:27:51] 7 tRNA-Arg [13094,13171] 36 (cct)
+[07:27:51] 8 tRNA-Gly [13175,13251] 36 (ccc)
+[07:27:51] 9 tRNA-Leu c[13370,13459] 37 (tag)
+[07:27:51] 10 tRNA-Ser [30742,30829] 37 (tga)
+[07:27:51] 1 tRNA-Glu [4272,4346] 37 (ctc)
+[07:27:51] 1 tRNA-Ser c[4053,4140] 34 (cga)
+[07:27:51] 1 tRNA-Leu [7612,7698] 37 (caa)
+[07:27:51] 2 tRNA-Thr c[15669,15746] 36 (ggt)
+[07:27:51] 1 tRNA-Thr [1555,1630] 36 (cgt)
+[07:27:51] 2 tRNA-Pro c[1694,1769] 36 (cgg)
+[07:27:51] 3 tRNA-Thr [13925,14000] 35 (tgt)
+[07:27:51] 1 tRNA-Pro [11465,11538] 35 (ggg)
+[07:27:51] 1 tRNA-Ser c[3417,3504] 35 (gga)
+[07:27:51] 1 tRNA-Gly [3027,3101] 36 (gcc)
+[07:27:51] 1 tRNA-Gly [17473,17549] 36 (tcc)
+[07:27:51] 1 tRNA-Arg c[37338,37412] 36 (tcg)
+[07:27:51] 1 tRNA-Val [2,75] 34 (tac)
+[07:27:51] 1 tRNA-Asn c[4356,4432] 35 (gtt)
+[07:27:51] 1 tRNA-Asp [2179,2255] 36 (gtc)
+[07:27:51] Found 35 tRNAs
+[07:27:51] Predicting Ribosomal RNAs
+[07:27:51] Running Barrnap with 4 threads
+[07:27:52] 1 SRR8542060_k53_281635_1 21046 5S ribosomal RNA
+[07:27:52] Found 1 rRNAs
+[07:27:52] Skipping ncRNA search, enable with --rfam if desired.
+[07:27:52] Total of 36 tRNA + rRNA features
+[07:27:52] Searching for CRISPR repeats
+[07:27:52] Found 0 CRISPRs
+[07:27:52] Predicting coding sequences
+[07:27:52] Contigs total 1588905 bp, so using single mode
+[07:27:52] Running: prodigal -i \.\.\/\.\.\/Data\/Chen_Analysis\/Prokka\/Archaea\/GOMC\.bin\.4175\/GOMC\.bin\.4175\.fna -c -m -g 11 -p single -f sco -q
+[07:27:54] Excluding CDS which overlaps existing RNA (tRNA) at SRR8542060_k53_56333_1:2826..3899 on + strand
+[07:27:54] Excluding CDS which overlaps existing RNA (tRNA) at SRR8542060_k53_130269_1:2793..3470 on + strand
+[07:27:54] Excluding CDS which overlaps existing RNA (tRNA) at SRR8542060_k53_146544_1:11710..12939 on + strand
+[07:27:54] Excluding CDS which overlaps existing RNA (tRNA) at SRR8542060_k53_146544_1:12946..13491 on + strand
+[07:27:54] Excluding CDS which overlaps existing RNA (tRNA) at SRR8542060_k53_146544_1:30829..32070 on - strand
+[07:27:54] Found 1684 CDS
+[07:27:54] Connecting features back to sequences
+[07:27:54] Not using genus-specific database. Try --usegenus to enable it.
+[07:27:54] Annotating CDS, please be patient.
+[07:27:54] Will use 4 CPUs for similarity searching.
+[07:27:55] There are still 1684 unannotated CDS left (started with 1684)
+[07:27:55] Will use blast to search against /home/joao_facio/miniconda3/envs/prokka/db/kingdom/Archaea/sprot with 4 CPUs
+[07:27:55] Running: cat \.\.\/\.\.\/Data\/Chen_Analysis\/Prokka\/Archaea\/GOMC\.bin\.4175\/GOMC\.bin\.4175\.sprot\.tmp\.3115541\.faa | parallel --gnu --plain -j 4 --block 59631 --recstart '>' --pipe blastp -query - -db /home/joao_facio/miniconda3/envs/prokka/db/kingdom/Archaea/sprot -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \.\.\/\.\.\/Data\/Chen_Analysis\/Prokka\/Archaea\/GOMC\.bin\.4175\/GOMC\.bin\.4175\.sprot\.tmp\.3115541\.blast 2> /dev/null
+[07:27:57] Modify product: Probable aspartokinase => putative aspartokinase
+[07:27:57] Modify product: Uncharacterized HTH-type transcriptional regulator PH0140 => putative HTH-type transcriptional regulator
+[07:27:57] Modify product: Uncharacterized ABC transporter ATP-binding protein MJ0796 => putative ABC transporter ATP-binding protein
+[07:27:57] Modify product: Probable branched-chain amino acid transport ATP-binding protein LivG => putative branched-chain amino acid transport ATP-binding protein LivG
+[07:27:57] Modify product: Uncharacterized HTH-type transcriptional regulator PH1519 => putative HTH-type transcriptional regulator
+[07:27:57] Modify product: Uncharacterized metallohydrolase MMP1398 => putative metallohydrolase
+[07:27:57] Modify product: Probable branched-chain amino acid transport ATP-binding protein LivG => putative branched-chain amino acid transport ATP-binding protein LivG
+[07:27:57] Modify product: Probable branched-chain amino acid transport ATP-binding protein LivG => putative branched-chain amino acid transport ATP-binding protein LivG
+[07:27:57] Modify product: Probable ribosome biogenesis protein SSO0551 => putative ribosome biogenesis protein
+[07:27:57] Modify product: Deglycase PH1704 => Deglycase
+[07:27:57] Modify product: Probable RNA 2'-phosphotransferase => putative RNA 2'-phosphotransferase
+[07:27:57] Modify product: Probable branched-chain amino acid transport ATP-binding protein LivG => putative branched-chain amino acid transport ATP-binding protein LivG
+[07:27:57] Modify product: Probable branched-chain amino acid transport ATP-binding protein LivG => putative branched-chain amino acid transport ATP-binding protein LivG
+[07:27:57] Modify product: Uncharacterized protein MJ0100 => putative protein
+[07:27:57] Modify product: Probable branched-chain amino acid transport ATP-binding protein LivG => putative branched-chain amino acid transport ATP-binding protein LivG
+[07:27:57] Modify product: Probable branched-chain amino acid transport ATP-binding protein LivG => putative branched-chain amino acid transport ATP-binding protein LivG
+[07:27:57] Modify product: Uncharacterized metallohydrolase MMP1398 => putative metallohydrolase
+[07:27:57] Modify product: Membrane-bound protease PH1510 => Membrane-bound protease
+[07:27:57] Modify product: Stomatin homolog PH1511 => Stomatin
+[07:27:57] Modify product: Probable tRNA pseudouridine synthase D => putative tRNA pseudouridine synthase D
+[07:27:57] Modify product: Probable translation initiation factor IF-2 => putative translation initiation factor IF-2
+[07:27:57] Modify product: Probable branched-chain amino acid transport ATP-binding protein LivG => putative branched-chain amino acid transport ATP-binding protein LivG
+[07:27:57] Modify product: Probable branched-chain amino acid transport ATP-binding protein LivG => putative branched-chain amino acid transport ATP-binding protein LivG
+[07:27:57] Modify product: Protein Ta0487 => Protein
+[07:27:57] Modify product: UPF0273 protein PH0284 => hypothetical protein
+[07:27:57] Modify product: Putative FKBP-type peptidyl-prolyl cis-trans isomerase MJ0825 => Putative FKBP-type peptidyl-prolyl cis-trans isomerase
+[07:27:57] Modify product: Probable ribosomal RNA small subunit methyltransferase A => putative ribosomal RNA small subunit methyltransferase A
+[07:27:57] Modify product: Uncharacterized protein MJ1225 => putative protein
+[07:27:57] Modify product: Uncharacterized protein MJ1225 => putative protein
+[07:27:57] Modify product: Probable 6-oxopurine nucleoside phosphorylase => putative 6-oxopurine nucleoside phosphorylase
+[07:27:57] Modify product: Uncharacterized NOP5 family protein MJ0694 => putative NOP5 family protein
+[07:27:57] Modify product: UPF0045 protein MJ1052 => hypothetical protein
+[07:27:57] Modify product: UPF0273 protein PH0284 => hypothetical protein
+[07:27:57] Modify product: Probable branched-chain amino acid transport ATP-binding protein LivG => putative branched-chain amino acid transport ATP-binding protein LivG
+[07:27:57] Modify product: Probable branched-chain amino acid transport ATP-binding protein LivG => putative branched-chain amino acid transport ATP-binding protein LivG
+[07:27:57] Modify product: Probable deoxyhypusine synthase => putative deoxyhypusine synthase
+[07:27:57] Modify product: ADP-ribose glycohydrolase AF_1521 => ADP-ribose glycohydrolase
+[07:27:57] Modify product: Uncharacterized HTH-type transcriptional regulator PH1519 => putative HTH-type transcriptional regulator
+[07:27:57] Modify product: Uncharacterized ABC transporter ATP-binding protein MJ0796 => putative ABC transporter ATP-binding protein
+[07:27:57] Modify product: S-adenosyl-L-methionine-binding protein AF_0241 => S-adenosyl-L-methionine-binding protein
+[07:27:57] Modify product: Probable branched-chain amino acid transport ATP-binding protein LivG => putative branched-chain amino acid transport ATP-binding protein LivG
+[07:27:57] Modify product: Probable cyclic pyranopterin monophosphate synthase => putative cyclic pyranopterin monophosphate synthase
+[07:27:57] Modify product: Phosphodiesterase MJ0936 => Phosphodiesterase
+[07:27:57] Modify product: UPF0215 protein AF_1433 => hypothetical protein
+[07:27:57] Modify product: GPN-loop GTPase PAB0955 => GPN-loop GTPase
+[07:27:57] Modify product: UPF0147 protein Ta0600 => hypothetical protein
+[07:27:57] Modify product: ATP-dependent DNA helicase Ta0057 => ATP-dependent DNA helicase
+[07:27:57] Modify product: UPF0201 protein SSO1042 => hypothetical protein
+[07:27:57] Modify product: Probable aminomethyltransferase => putative aminomethyltransferase
+[07:27:57] Modify product: Protein pelota homolog => Protein pelota 
+[07:27:57] Modify product: Probable aspartokinase => putative aspartokinase
+[07:27:57] Modify product: Probable branched-chain amino acid transport ATP-binding protein LivG => putative branched-chain amino acid transport ATP-binding protein LivG
+[07:27:57] Modify product: Probable branched-chain amino acid transport ATP-binding protein LivG => putative branched-chain amino acid transport ATP-binding protein LivG
+[07:27:57] Modify product: Ribosome maturation protein SDO1 homolog => Ribosome maturation protein SDO1 
+[07:27:57] Modify product: Chlorinase MJ1651 => Chlorinase
+[07:27:57] Modify product: Uncharacterized protein AF_1796 => putative protein
+[07:27:57] Modify product: Uncharacterized metallohydrolase MMP1398 => putative metallohydrolase
+[07:27:57] Modify product: Uncharacterized protein MJ0609 => putative protein
+[07:27:57] Modify product: Probable tRNA pseudouridine synthase B => putative tRNA pseudouridine synthase B
+[07:27:57] Modify product: Uncharacterized protein MJ0480 => putative protein
+[07:27:57] Modify product: Putative sulfur carrier protein Ta1170/Ta1414 => Putative sulfur carrier protein/Ta1414
+[07:27:57] Modify product: Protein translation factor SUI1 homolog => Protein translation factor SUI1 
+[07:27:57] Modify product: ATP-dependent DNA helicase Ta0057 => ATP-dependent DNA helicase
+[07:27:57] Modify product: Uncharacterized KH and PIN-domain containing protein MJ1533 => putative KH and PIN-domain containing protein
+[07:27:57] Modify product: Protein PH0010 => Protein
+[07:27:57] Modify product: Damage-control phosphatase AF_1104 => Damage-control phosphatase
+[07:27:57] Modify product: Probable branched-chain amino acid transport ATP-binding protein LivG => putative branched-chain amino acid transport ATP-binding protein LivG
+[07:27:58] Cleaned 67 /product names
+[07:27:58] Deleting unwanted file: ../../Data/Chen_Analysis/Prokka/Archaea/GOMC.bin.4175/GOMC.bin.4175.sprot.tmp.3115541.faa
+[07:27:58] Deleting unwanted file: ../../Data/Chen_Analysis/Prokka/Archaea/GOMC.bin.4175/GOMC.bin.4175.sprot.tmp.3115541.blast
+[07:27:58] There are still 1195 unannotated CDS left (started with 1684)
+[07:27:58] Will use hmmer3 to search against /home/joao_facio/miniconda3/envs/prokka/db/hmm/HAMAP.hmm with 4 CPUs
+[07:27:58] Running: cat \.\.\/\.\.\/Data\/Chen_Analysis\/Prokka\/Archaea\/GOMC\.bin\.4175\/GOMC\.bin\.4175\.HAMAP\.hmm\.tmp\.3115541\.faa | parallel --gnu --plain -j 4 --block 40605 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-09 --cpu 1 /home/joao_facio/miniconda3/envs/prokka/db/hmm/HAMAP.hmm /dev/stdin > \.\.\/\.\.\/Data\/Chen_Analysis\/Prokka\/Archaea\/GOMC\.bin\.4175\/GOMC\.bin\.4175\.HAMAP\.hmm\.tmp\.3115541\.hmmer3 2> /dev/null
+[07:28:06] Modify product: Uncharacterized MFS-type transporter YfcJ => putative MFS-type transporter YfcJ
+[07:28:06] Modify product: Uncharacterized MFS-type transporter YfcJ => putative MFS-type transporter YfcJ
+[07:28:06] Modify product: Uncharacterized Nudix hydrolase NudL => putative Nudix hydrolase NudL
+[07:28:06] Cleaned 3 /product names
+[07:28:06] Deleting unwanted file: ../../Data/Chen_Analysis/Prokka/Archaea/GOMC.bin.4175/GOMC.bin.4175.HAMAP.hmm.tmp.3115541.faa
+[07:28:06] Deleting unwanted file: ../../Data/Chen_Analysis/Prokka/Archaea/GOMC.bin.4175/GOMC.bin.4175.HAMAP.hmm.tmp.3115541.hmmer3
+[07:28:06] Labelling remaining 978 proteins as 'hypothetical protein'
+[07:28:06] Possible /pseudo 'putative branched-chain amino acid transport ATP-binding protein LivG' at SRR8542060_k53_35670_1 position 2487
+[07:28:06] Possible /pseudo '7,8-dihydropterin-6-methyl-4-(beta-D-ribofuranosyl)-aminobenzene-5'-phosphate synthase' at SRR8542060_k53_41845_1 position 3662
+[07:28:06] Possible /pseudo 'putative branched-chain amino acid transport ATP-binding protein LivG' at SRR8542060_k53_79946_1 position 2424
+[07:28:06] Possible /pseudo 'putative branched-chain amino acid transport ATP-binding protein LivG' at SRR8542060_k53_82704_1 position 26036
+[07:28:06] Possible /pseudo 'putative branched-chain amino acid transport ATP-binding protein LivG' at SRR8542060_k53_110719_1 position 1009
+[07:28:06] Possible /pseudo 'Vitamin B12 import ATP-binding protein BtuD' at SRR8542060_k53_137384_1 position 10591
+[07:28:06] Possible /pseudo 'Vitamin B12 import ATP-binding protein BtuD' at SRR8542060_k53_137384_1 position 18747
+[07:28:06] Possible /pseudo 'putative protein' at SRR8542060_k53_146544_1 position 22735
+[07:28:06] Possible /pseudo 'putative branched-chain amino acid transport ATP-binding protein LivG' at SRR8542060_k53_160537_1 position 29045
+[07:28:06] Possible /pseudo 'putative branched-chain amino acid transport ATP-binding protein LivG' at SRR8542060_k53_386833_1 position 6542
+[07:28:06] Possible /pseudo 'PqqA peptide cyclase' at SRR8542060_k53_420518_1 position 4371
+[07:28:06] Possible /pseudo 'Putative arsenical pump-driving ATPase' at SRR8542060_k53_439315_1 position 10635
+[07:28:06] Possible /pseudo 'Vitamin B12 import ATP-binding protein BtuD' at SRR8542060_k53_680428_1 position 1275
+[07:28:06] Possible /pseudo 'Iron-sulfur cluster carrier protein' at SRR8542060_k53_784790_1 position 16298
+[07:28:06] Found 414 unique /gene codes.
+[07:28:06] Fixed 2 duplicate /gene - obg_1 obg_2
+[07:28:06] Fixed 3 duplicate /gene - rnj_1 rnj_2 rnj_3
+[07:28:06] Fixed 2 duplicate /gene - leuC_1 leuC_2
+[07:28:06] Fixed 2 duplicate /gene - asnS_1 asnS_2
+[07:28:06] Fixed 2 duplicate /gene - psmB_1 psmB_2
+[07:28:06] Fixed 2 duplicate /gene - lpdA_1 lpdA_2
+[07:28:06] Fixed 2 duplicate /gene - argH_1 argH_2
+[07:28:06] Fixed 2 duplicate /gene - trpS_1 trpS_2
+[07:28:06] Fixed 2 duplicate /gene - dld_1 dld_2
+[07:28:06] Fixed 4 duplicate /gene - thiL_1 thiL_2 thiL_3 thiL_4
+[07:28:06] Fixed 3 duplicate /gene - hldD_1 hldD_2 hldD_3
+[07:28:06] Fixed 2 duplicate /gene - fni_1 fni_2
+[07:28:06] Fixed 3 duplicate /gene - glcV_1 glcV_2 glcV_3
+[07:28:06] Fixed 2 duplicate /gene - porG_1 porG_2
+[07:28:06] Fixed 2 duplicate /gene - lutA_1 lutA_2
+[07:28:06] Fixed 2 duplicate /gene - clcB_1 clcB_2
+[07:28:06] Fixed 2 duplicate /gene - cpdA_1 cpdA_2
+[07:28:06] Fixed 2 duplicate /gene - vat_1 vat_2
+[07:28:06] Fixed 2 duplicate /gene - iscS2_1 iscS2_2
+[07:28:06] Fixed 4 duplicate /gene - moaA_1 moaA_2 moaA_3 moaA_4
+[07:28:06] Fixed 2 duplicate /gene - tuf_1 tuf_2
+[07:28:06] Fixed 3 duplicate /gene - metG_1 metG_2 metG_3
+[07:28:06] Fixed 2 duplicate /gene - dapA_1 dapA_2
+[07:28:06] Fixed 2 duplicate /gene - leuB_1 leuB_2
+[07:28:06] Fixed 2 duplicate /gene - frvX_1 frvX_2
+[07:28:06] Fixed 3 duplicate /gene - IMPDH_1 IMPDH_2 IMPDH_3
+[07:28:06] Fixed 3 duplicate /gene - fixA_1 fixA_2 fixA_3
+[07:28:06] Fixed 2 duplicate /gene - htpX_1 htpX_2
+[07:28:06] Fixed 2 duplicate /gene - yfcJ_1 yfcJ_2
+[07:28:06] Fixed 2 duplicate /gene - arnC_1 arnC_2
+[07:28:06] Fixed 2 duplicate /gene - thrC_1 thrC_2
+[07:28:06] Fixed 2 duplicate /gene - speH_1 speH_2
+[07:28:06] Fixed 2 duplicate /gene - sucD_1 sucD_2
+[07:28:06] Fixed 2 duplicate /gene - lig_1 lig_2
+[07:28:06] Fixed 2 duplicate /gene - porB_1 porB_2
+[07:28:06] Fixed 2 duplicate /gene - nadE_1 nadE_2
+[07:28:06] Fixed 2 duplicate /gene - miaB_1 miaB_2
+[07:28:06] Fixed 4 duplicate /gene - pqqE_1 pqqE_2 pqqE_3 pqqE_4
+[07:28:06] Fixed 2 duplicate /gene - leuD_1 leuD_2
+[07:28:06] Fixed 3 duplicate /gene - acdAI_1 acdAI_2 acdAI_3
+[07:28:06] Fixed 3 duplicate /gene - metXA_1 metXA_2 metXA_3
+[07:28:06] Fixed 2 duplicate /gene - glmS_1 glmS_2
+[07:28:06] Fixed 3 duplicate /gene - fixB_1 fixB_2 fixB_3
+[07:28:06] Fixed 2 duplicate /gene - radA_1 radA_2
+[07:28:06] Fixed 5 duplicate /gene - COQ5_1 COQ5_2 COQ5_3 COQ5_4 COQ5_5
+[07:28:06] Fixed 2 duplicate /gene - copB_1 copB_2
+[07:28:06] Fixed 2 duplicate /gene - alaXM_1 alaXM_2
+[07:28:06] Fixed 2 duplicate /gene - porA_1 porA_2
+[07:28:06] Fixed 2 duplicate /gene - hisD_1 hisD_2
+[07:28:06] Fixed 2 duplicate /gene - egsA_1 egsA_2
+[07:28:06] Fixed 5 duplicate /gene - malK_1 malK_2 malK_3 malK_4 malK_5
+[07:28:06] Fixed 6 duplicate /gene - vapC_1 vapC_2 vapC_3 vapC_4 vapC_5 vapC_6
+[07:28:06] Fixed 2 duplicate /gene - rgy_1 rgy_2
+[07:28:06] Fixed 2 duplicate /gene - ttuA_1 ttuA_2
+[07:28:06] Fixed 2 duplicate /gene - mntR_1 mntR_2
+[07:28:06] Fixed 2 duplicate /gene - herA_1 herA_2
+[07:28:06] Fixed 2 duplicate /gene - nikR_1 nikR_2
+[07:28:06] Fixed 2 duplicate /gene - ala_1 ala_2
+[07:28:06] Fixed 3 duplicate /gene - aor_1 aor_2 aor_3
+[07:28:06] Fixed 3 duplicate /gene - ndhI_1 ndhI_2 ndhI_3
+[07:28:06] Fixed 2 duplicate /gene - mdtG_1 mdtG_2
+[07:28:06] Fixed 2 duplicate /gene - thsA_1 thsA_2
+[07:28:06] Fixed 2 duplicate /gene - aspC_1 aspC_2
+[07:28:06] Fixed 4 duplicate /gene - gph_1 gph_2 gph_3 gph_4
+[07:28:06] Fixed 3 duplicate /gene - mshA_1 mshA_2 mshA_3
+[07:28:06] Fixed 18 duplicate /gene - btuD_1 btuD_2 btuD_3 btuD_4 btuD_5 btuD_6 btuD_7 btuD_8 btuD_9 btuD_10 btuD_11 btuD_12 btuD_13 btuD_14 btuD_15 btuD_16 btuD_17 btuD_18
+[07:28:06] Fixed 2 duplicate /gene - rnhB_1 rnhB_2
+[07:28:06] Fixed 4 duplicate /gene - rhaD_1 rhaD_2 rhaD_3 rhaD_4
+[07:28:06] Fixed 5 duplicate /gene - lysJ_1 lysJ_2 lysJ_3 lysJ_4 lysJ_5
+[07:28:06] Fixed 2 duplicate /gene - srmB_1 srmB_2
+[07:28:06] Fixed 15 duplicate /gene - livG_1 livG_2 livG_3 livG_4 livG_5 livG_6 livG_7 livG_8 livG_9 livG_10 livG_11 livG_12 livG_13 livG_14 livG_15
+[07:28:06] Fixed 2 duplicate /gene - smc_1 smc_2
+[07:28:06] Fixed 2 duplicate /gene - ileS_1 ileS_2
+[07:28:06] Fixed 73 colliding /gene names.
+[07:28:06] Adding /locus_tag identifiers
+[07:28:06] Assigned 1720 locus_tags to CDS and RNA features.
+[07:28:06] Writing outputs to ../../Data/Chen_Analysis/Prokka/Archaea/GOMC.bin.4175/
+[07:28:07] Generating annotation statistics file
+[07:28:07] Generating Genbank and Sequin files
+[07:28:07] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka' -Z \.\.\/\.\.\/Data\/Chen_Analysis\/Prokka\/Archaea\/GOMC\.bin\.4175\/GOMC\.bin\.4175\.err -i \.\.\/\.\.\/Data\/Chen_Analysis\/Prokka\/Archaea\/GOMC\.bin\.4175\/GOMC\.bin\.4175\.fsa 2> /dev/null
+[07:28:08] Deleting unwanted file: ../../Data/Chen_Analysis/Prokka/Archaea/GOMC.bin.4175/errorsummary.val
+[07:28:08] Deleting unwanted file: ../../Data/Chen_Analysis/Prokka/Archaea/GOMC.bin.4175/GOMC.bin.4175.dr
+[07:28:08] Deleting unwanted file: ../../Data/Chen_Analysis/Prokka/Archaea/GOMC.bin.4175/GOMC.bin.4175.fixedproducts
+[07:28:08] Deleting unwanted file: ../../Data/Chen_Analysis/Prokka/Archaea/GOMC.bin.4175/GOMC.bin.4175.ecn
+[07:28:08] Deleting unwanted file: ../../Data/Chen_Analysis/Prokka/Archaea/GOMC.bin.4175/GOMC.bin.4175.val
+[07:28:08] Repairing broken .GBK output that tbl2asn produces...
+[07:28:08] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < \.\.\/\.\.\/Data\/Chen_Analysis\/Prokka\/Archaea\/GOMC\.bin\.4175\/GOMC\.bin\.4175\.gbf > \.\.\/\.\.\/Data\/Chen_Analysis\/Prokka\/Archaea\/GOMC\.bin\.4175\/GOMC\.bin\.4175\.gbk
+[07:28:08] Deleting unwanted file: ../../Data/Chen_Analysis/Prokka/Archaea/GOMC.bin.4175/GOMC.bin.4175.gbf
+[07:28:08] Output files:
+[07:28:08] ../../Data/Chen_Analysis/Prokka/Archaea/GOMC.bin.4175/GOMC.bin.4175.gbk
+[07:28:08] ../../Data/Chen_Analysis/Prokka/Archaea/GOMC.bin.4175/GOMC.bin.4175.gff
+[07:28:08] ../../Data/Chen_Analysis/Prokka/Archaea/GOMC.bin.4175/GOMC.bin.4175.faa
+[07:28:08] ../../Data/Chen_Analysis/Prokka/Archaea/GOMC.bin.4175/GOMC.bin.4175.txt
+[07:28:08] ../../Data/Chen_Analysis/Prokka/Archaea/GOMC.bin.4175/GOMC.bin.4175.err
+[07:28:08] ../../Data/Chen_Analysis/Prokka/Archaea/GOMC.bin.4175/GOMC.bin.4175.ffn
+[07:28:08] ../../Data/Chen_Analysis/Prokka/Archaea/GOMC.bin.4175/GOMC.bin.4175.tbl
+[07:28:08] ../../Data/Chen_Analysis/Prokka/Archaea/GOMC.bin.4175/GOMC.bin.4175.fna
+[07:28:08] ../../Data/Chen_Analysis/Prokka/Archaea/GOMC.bin.4175/GOMC.bin.4175.fsa
+[07:28:08] ../../Data/Chen_Analysis/Prokka/Archaea/GOMC.bin.4175/GOMC.bin.4175.tsv
+[07:28:08] ../../Data/Chen_Analysis/Prokka/Archaea/GOMC.bin.4175/GOMC.bin.4175.sqn
+[07:28:08] ../../Data/Chen_Analysis/Prokka/Archaea/GOMC.bin.4175/GOMC.bin.4175.log
+[07:28:08] Annotation finished successfully.
+[07:28:08] Walltime used: 0.28 minutes
+[07:28:08] If you use this result please cite the Prokka paper:
+[07:28:08] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[07:28:08] Type 'prokka --citation' for more details.
+[07:28:08] Share and enjoy!

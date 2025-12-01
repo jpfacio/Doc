@@ -1,0 +1,2917 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+FDFBIKBB_00001	CDS	1053	vdcA_1	2.7.7.65		Diguanylate cyclase VdcA
+FDFBIKBB_00002	CDS	465				hypothetical protein
+FDFBIKBB_00003	CDS	396				hypothetical protein
+FDFBIKBB_00004	CDS	462	rimI	2.3.1.266	COG0456	[Ribosomal protein S18]-alanine N-acetyltransferase
+FDFBIKBB_00005	CDS	1590	prfC		COG4108	Peptide chain release factor RF3
+FDFBIKBB_00006	CDS	345				hypothetical protein
+FDFBIKBB_00007	CDS	594				hypothetical protein
+FDFBIKBB_00008	CDS	108				hypothetical protein
+FDFBIKBB_00009	CDS	387				hypothetical protein
+FDFBIKBB_00010	CDS	405				hypothetical protein
+FDFBIKBB_00011	CDS	765	phnP	3.1.4.55	COG1235	Phosphoribosyl 1,2-cyclic phosphate phosphodiesterase
+FDFBIKBB_00012	CDS	732	phnF		COG2188	putative transcriptional regulator PhnF
+FDFBIKBB_00013	CDS	507				hypothetical protein
+FDFBIKBB_00014	CDS	822	phnC	7.3.2.1	COG3638	Phosphate-import ATP-binding protein PhnC
+FDFBIKBB_00015	CDS	990				hypothetical protein
+FDFBIKBB_00016	CDS	786	phnE		COG3639	Phosphate-import permease protein PhnE
+FDFBIKBB_00017	CDS	312	phnG	2.7.8.37	COG3624	Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnG
+FDFBIKBB_00018	CDS	630	phnH	2.7.8.37	COG3625	Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnH
+FDFBIKBB_00019	CDS	1158	phnI	2.7.8.37	COG3626	Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnI
+FDFBIKBB_00020	CDS	867	phnJ	4.7.1.1	COG3627	Alpha-D-ribose 1-methylphosphonate 5-phosphate C-P lyase
+FDFBIKBB_00021	CDS	792	phnK		COG4107	Putative phosphonates utilization ATP-binding protein PhnK
+FDFBIKBB_00022	CDS	801	phnL	2.7.8.37	COG4778	Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnL
+FDFBIKBB_00023	CDS	1392		1.14.13.-		Putative epoxidase LasC
+FDFBIKBB_00024	CDS	708				hypothetical protein
+FDFBIKBB_00025	CDS	891				hypothetical protein
+FDFBIKBB_00026	CDS	1161	sufS_1	2.8.1.7	COG0520	Cysteine desulfurase SufS
+FDFBIKBB_00027	CDS	459	sixA	3.1.3.-	COG2062	Phosphohistidine phosphatase SixA
+FDFBIKBB_00028	CDS	297				hypothetical protein
+FDFBIKBB_00029	CDS	1029	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+FDFBIKBB_00030	CDS	513				hypothetical protein
+FDFBIKBB_00031	CDS	1173	rssB_1			Regulator of RpoS
+FDFBIKBB_00032	CDS	1452				hypothetical protein
+FDFBIKBB_00033	CDS	615				hypothetical protein
+FDFBIKBB_00034	CDS	393				hypothetical protein
+FDFBIKBB_00035	CDS	810				hypothetical protein
+FDFBIKBB_00036	CDS	2097	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+FDFBIKBB_00037	CDS	1356	atoC_1		COG2204	Regulatory protein AtoC
+FDFBIKBB_00038	CDS	2634	bepA_1	3.4.-.-		Beta-barrel assembly-enhancing protease
+FDFBIKBB_00039	CDS	594	cysC	2.7.1.25	COG0529	putative adenylyl-sulfate kinase
+FDFBIKBB_00040	CDS	1323	rkpK	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+FDFBIKBB_00041	CDS	675				hypothetical protein
+FDFBIKBB_00042	CDS	5853				hypothetical protein
+FDFBIKBB_00043	CDS	2127	cmdD			Chondramide synthase cmdD
+FDFBIKBB_00044	CDS	759	menA	2.5.1.74		1,4-dihydroxy-2-naphthoate octaprenyltransferase
+FDFBIKBB_00045	CDS	420				hypothetical protein
+FDFBIKBB_00046	CDS	1839	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+FDFBIKBB_00047	CDS	1308				hypothetical protein
+FDFBIKBB_00048	CDS	1323				hypothetical protein
+FDFBIKBB_00049	CDS	1131				hypothetical protein
+FDFBIKBB_00050	CDS	1113		1.-.-.-		NADH oxidase
+FDFBIKBB_00051	CDS	564				hypothetical protein
+FDFBIKBB_00052	CDS	735	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+FDFBIKBB_00053	CDS	873	metF	1.5.1.20	COG0685	5,10-methylenetetrahydrofolate reductase
+FDFBIKBB_00054	CDS	1380	ahcY	3.3.1.1	COG0499	Adenosylhomocysteinase
+FDFBIKBB_00055	CDS	1212	metK	2.5.1.6	COG0192	S-adenosylmethionine synthase
+FDFBIKBB_00056	CDS	1023	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+FDFBIKBB_00057	CDS	333				hypothetical protein
+FDFBIKBB_00058	CDS	720				hypothetical protein
+FDFBIKBB_00059	CDS	972	fcl	1.1.1.271	COG0451	GDP-L-fucose synthase
+FDFBIKBB_00060	CDS	711	gmd	4.2.1.47	COG1089	GDP-mannose 4,6-dehydratase
+FDFBIKBB_00061	CDS	240	cmk	2.7.4.25	COG0283	Cytidylate kinase
+FDFBIKBB_00062	CDS	1677	rpsA		COG0539	30S ribosomal protein S1
+FDFBIKBB_00063	CDS	297	ihfB		COG0776	Integration host factor subunit beta
+FDFBIKBB_00064	CDS	306				hypothetical protein
+FDFBIKBB_00065	CDS	1191	lapB_1		COG2956	Lipopolysaccharide assembly protein B
+FDFBIKBB_00066	CDS	717	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+FDFBIKBB_00067	CDS	1125				hypothetical protein
+FDFBIKBB_00068	CDS	465	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+FDFBIKBB_00069	CDS	1182	phaA	2.3.1.9	COG0183	Acetyl-CoA acetyltransferase
+FDFBIKBB_00070	CDS	795	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+FDFBIKBB_00071	CDS	1236	cca		COG0617	Multifunctional CCA protein
+FDFBIKBB_00072	CDS	510				hypothetical protein
+FDFBIKBB_00073	CDS	1767				hypothetical protein
+FDFBIKBB_00074	CDS	408				hypothetical protein
+FDFBIKBB_00075	CDS	1347				hypothetical protein
+FDFBIKBB_00076	CDS	1797				hypothetical protein
+FDFBIKBB_00077	CDS	459				hypothetical protein
+FDFBIKBB_00078	CDS	3126	cusA		COG3696	Cation efflux system protein CusA
+FDFBIKBB_00079	CDS	450	pulG			Type II secretion system protein G
+FDFBIKBB_00080	CDS	888	ftsY		COG0552	Signal recognition particle receptor FtsY
+FDFBIKBB_00081	CDS	681	ftsE		COG2884	Cell division ATP-binding protein FtsE
+FDFBIKBB_00082	CDS	987	ftsX		COG2177	Cell division protein FtsX
+FDFBIKBB_00083	CDS	855	rpoH		COG0568	RNA polymerase sigma factor RpoH
+FDFBIKBB_00084	CDS	894	glxR	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase
+FDFBIKBB_00085	CDS	777	hyi	5.3.1.22	COG3622	Hydroxypyruvate isomerase
+FDFBIKBB_00086	CDS	816	djlA_1		COG1076	Co-chaperone protein DjlA
+FDFBIKBB_00087	CDS	684	cusR_1		COG0745	Transcriptional regulatory protein CusR
+FDFBIKBB_00088	CDS	1359	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+FDFBIKBB_00089	CDS	306				hypothetical protein
+FDFBIKBB_00090	CDS	498	greB		COG0782	Transcription elongation factor GreB
+FDFBIKBB_00091	CDS	426				hypothetical protein
+FDFBIKBB_00092	CDS	1233	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+FDFBIKBB_00093	CDS	1101	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+FDFBIKBB_00094	CDS	729				hypothetical protein
+FDFBIKBB_00095	CDS	1059	rfaC	2.-.-.-	COG0859	Lipopolysaccharide heptosyltransferase 1
+FDFBIKBB_00096	CDS	1467	hldE		COG2870	Bifunctional protein HldE
+FDFBIKBB_00097	CDS	906	rcsC_1	2.7.13.3		Sensor histidine kinase RcsC
+FDFBIKBB_00098	CDS	1092				hypothetical protein
+FDFBIKBB_00099	CDS	1137				hypothetical protein
+FDFBIKBB_00100	CDS	1116				putative HTH-type transcriptional regulator
+FDFBIKBB_00101	CDS	1035	cobT	2.4.2.21		Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+FDFBIKBB_00102	CDS	1515		1.14.13.-	COG2072	putative monooxygenase
+FDFBIKBB_00103	CDS	1098				hypothetical protein
+FDFBIKBB_00104	CDS	1656		1.5.5.1	COG0644	Electron transfer flavoprotein-ubiquinone oxidoreductase
+FDFBIKBB_00105	CDS	750	etfB			Electron transfer flavoprotein subunit beta
+FDFBIKBB_00106	CDS	930	etfA		COG2025	Electron transfer flavoprotein subunit alpha
+FDFBIKBB_00107	CDS	1287	amtB			Ammonia channel
+FDFBIKBB_00108	CDS	339	glnB		COG0347	Nitrogen regulatory protein P-II
+FDFBIKBB_00109	CDS	1137	hcaT			putative 3-phenylpropionic acid transporter
+FDFBIKBB_00110	CDS	1899				hypothetical protein
+FDFBIKBB_00111	CDS	1365				putative protein
+FDFBIKBB_00112	CDS	897	yihG	2.3.-.-	COG0204	putative acyltransferase YihG
+FDFBIKBB_00113	CDS	411				hypothetical protein
+FDFBIKBB_00114	CDS	2469				hypothetical protein
+FDFBIKBB_00115	CDS	405				hypothetical protein
+FDFBIKBB_00116	CDS	1230	fmdA	3.5.1.49		Formamidase
+FDFBIKBB_00117	CDS	690	livF_1		COG0410	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+FDFBIKBB_00118	CDS	747	lptB_1	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+FDFBIKBB_00119	CDS	1146				hypothetical protein
+FDFBIKBB_00120	CDS	924	livH		COG0559	High-affinity branched-chain amino acid transport system permease protein LivH
+FDFBIKBB_00121	CDS	1272	amiC_1			Aliphatic amidase expression-regulating protein
+FDFBIKBB_00122	CDS	1242	intS		COG0582	Prophage integrase IntS
+FDFBIKBB_00123	CDS	270				hypothetical protein
+FDFBIKBB_00124	CDS	510				hypothetical protein
+FDFBIKBB_00125	CDS	765				hypothetical protein
+FDFBIKBB_00126	CDS	1146	bepF			Efflux pump periplasmic linker BepF
+FDFBIKBB_00127	CDS	765	truC	5.4.99.26	COG0564	tRNA pseudouridine synthase C
+FDFBIKBB_00128	CDS	1278	bioA	2.6.1.62	COG0161	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+FDFBIKBB_00129	CDS	471				hypothetical protein
+FDFBIKBB_00130	CDS	2094	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+FDFBIKBB_00131	CDS	270	rpsO		COG0184	30S ribosomal protein S15
+FDFBIKBB_00132	CDS	981	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+FDFBIKBB_00133	CDS	402	rbfA		COG0858	Ribosome-binding factor A
+FDFBIKBB_00134	CDS	2511	infB		COG0532	Translation initiation factor IF-2
+FDFBIKBB_00135	CDS	1497	nusA		COG0195	Transcription termination/antitermination protein NusA
+FDFBIKBB_00136	CDS	522	rimP		COG0779	Ribosome maturation factor RimP
+FDFBIKBB_00137	tRNA	86				tRNA-Leu(gag)
+FDFBIKBB_00138	CDS	465				hypothetical protein
+FDFBIKBB_00139	CDS	717	tpiA	5.3.1.1	COG0149	Triosephosphate isomerase
+FDFBIKBB_00140	CDS	1341	glmM_1	5.4.2.10	COG1109	Phosphoglucosamine mutase
+FDFBIKBB_00141	CDS	834	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+FDFBIKBB_00142	CDS	1947	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+FDFBIKBB_00143	CDS	618	rlmE	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+FDFBIKBB_00144	CDS	306			COG1534	RNA-binding protein
+FDFBIKBB_00145	CDS	477	greA		COG0782	Transcription elongation factor GreA
+FDFBIKBB_00146	CDS	3207	carB_1	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain
+FDFBIKBB_00147	CDS	1134	carA	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain
+FDFBIKBB_00148	CDS	789	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+FDFBIKBB_00149	CDS	1134	dnaJ		COG0484	Chaperone protein DnaJ
+FDFBIKBB_00150	CDS	1926	dnaK		COG0443	Chaperone protein DnaK
+FDFBIKBB_00151	CDS	600	grpE			Protein GrpE
+FDFBIKBB_00152	CDS	1668	recN		COG0497	DNA repair protein RecN
+FDFBIKBB_00153	CDS	408	fur		COG0735	Ferric uptake regulation protein
+FDFBIKBB_00154	CDS	363	bamE			Outer membrane protein assembly factor BamE
+FDFBIKBB_00155	CDS	285				hypothetical protein
+FDFBIKBB_00156	CDS	435	pasT		COG2867	Persistence and stress-resistance toxin PasT
+FDFBIKBB_00157	CDS	480	smpB		COG0691	SsrA-binding protein
+FDFBIKBB_00158	tmRNA	386	ssrA			transfer-messenger RNA, SsrA
+FDFBIKBB_00159	CDS	819	fadH_1	1.3.1.34	COG1028	putative 2,4-dienoyl-CoA reductase
+FDFBIKBB_00160	CDS	621	cysH	1.8.4.8	COG0175	Phosphoadenosine phosphosulfate reductase
+FDFBIKBB_00161	CDS	696	hyuA	5.1.99.5	COG4126	Hydantoin racemase
+FDFBIKBB_00162	CDS	819				hypothetical protein
+FDFBIKBB_00163	CDS	846	potH		COG1176	Putrescine transport system permease protein PotH
+FDFBIKBB_00164	CDS	1386				hypothetical protein
+FDFBIKBB_00165	CDS	1005	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+FDFBIKBB_00166	CDS	906				hypothetical protein
+FDFBIKBB_00167	CDS	903	ttcA	2.8.1.-	COG0037	tRNA-cytidine(32) 2-sulfurtransferase
+FDFBIKBB_00168	CDS	189				hypothetical protein
+FDFBIKBB_00169	CDS	582				hypothetical protein
+FDFBIKBB_00170	CDS	552	secB			Protein-export protein SecB
+FDFBIKBB_00171	CDS	255	grxC		COG0695	Glutaredoxin 3
+FDFBIKBB_00172	CDS	417	yibN		COG0607	putative protein YibN
+FDFBIKBB_00173	CDS	1536	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+FDFBIKBB_00174	CDS	1149	envC		COG4942	Murein hydrolase activator EnvC
+FDFBIKBB_00175	CDS	1356				hypothetical protein
+FDFBIKBB_00176	CDS	870			COG2861	putative protein
+FDFBIKBB_00177	CDS	843				hypothetical protein
+FDFBIKBB_00178	CDS	333				hypothetical protein
+FDFBIKBB_00179	CDS	588				hypothetical protein
+FDFBIKBB_00180	CDS	489				hypothetical protein
+FDFBIKBB_00181	CDS	393				hypothetical protein
+FDFBIKBB_00182	CDS	414				hypothetical protein
+FDFBIKBB_00183	CDS	288				hypothetical protein
+FDFBIKBB_00184	CDS	507			COG1733	putative HTH-type transcriptional regulator
+FDFBIKBB_00185	CDS	93				hypothetical protein
+FDFBIKBB_00186	CDS	123				hypothetical protein
+FDFBIKBB_00187	CDS	1428	gabD	1.2.1.79	COG1012	Succinate-semialdehyde dehydrogenase [NADP(+)] GabD
+FDFBIKBB_00188	CDS	171	nadC	2.4.2.19	COG0157	Nicotinate-nucleotide pyrophosphorylase [carboxylating]
+FDFBIKBB_00189	CDS	2724				hypothetical protein
+FDFBIKBB_00190	CDS	768	soj_1	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+FDFBIKBB_00191	CDS	720	hda		COG0593	DnaA regulatory inactivator Hda
+FDFBIKBB_00192	CDS	564	pgsA_1	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+FDFBIKBB_00193	CDS	1320				hypothetical protein
+FDFBIKBB_00194	CDS	1062	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+FDFBIKBB_00195	CDS	690	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+FDFBIKBB_00196	CDS	1416	menF	5.4.4.2		Isochorismate synthase MenF
+FDFBIKBB_00197	CDS	708	scpB			Segregation and condensation protein B
+FDFBIKBB_00198	CDS	801	scpA		COG1354	Segregation and condensation protein A
+FDFBIKBB_00199	CDS	1218				hypothetical protein
+FDFBIKBB_00200	CDS	1362	garB	1.8.1.16		Glutathione amide reductase
+FDFBIKBB_00201	CDS	648				hypothetical protein
+FDFBIKBB_00202	CDS	516	epsM		COG3149	Type II secretion system protein M
+FDFBIKBB_00203	CDS	1311	xcpY		COG3297	Type II secretion system protein L
+FDFBIKBB_00204	CDS	1023	xcpX		COG3156	Type II secretion system protein K
+FDFBIKBB_00205	CDS	771	xcpW		COG4795	Type II secretion system protein J
+FDFBIKBB_00206	CDS	378	xcpV		COG2165	Type II secretion system protein I
+FDFBIKBB_00207	CDS	570				hypothetical protein
+FDFBIKBB_00208	CDS	438	xcpT		COG2165	Type II secretion system protein G
+FDFBIKBB_00209	CDS	666	epsF_1		COG1459	Type II secretion system protein F
+FDFBIKBB_00210	CDS	399	ectC	4.2.1.108		L-ectoine synthase
+FDFBIKBB_00211	CDS	444				hypothetical protein
+FDFBIKBB_00212	CDS	1308	ectB	2.6.1.76	COG0160	Diaminobutyrate--2-oxoglutarate transaminase
+FDFBIKBB_00213	CDS	447	ectA	2.3.1.178		L-2,4-diaminobutyric acid acetyltransferase
+FDFBIKBB_00214	CDS	2922	glnE		COG1391	Bifunctional glutamine synthetase adenylyltransferase/adenylyl-removing enzyme
+FDFBIKBB_00215	CDS	921	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+FDFBIKBB_00216	CDS	1014	rfaF	2.-.-.-	COG0859	ADP-heptose--LPS heptosyltransferase 2
+FDFBIKBB_00217	CDS	588	gmhA_1	5.3.1.28	COG0279	Phosphoheptose isomerase
+FDFBIKBB_00218	CDS	582	gmhB	3.1.3.83		D-glycero-alpha-D-manno-heptose-1,7-bisphosphate 7-phosphatase
+FDFBIKBB_00219	CDS	669				hypothetical protein
+FDFBIKBB_00220	CDS	1047				hypothetical protein
+FDFBIKBB_00221	CDS	903	lpxL	2.3.1.241	COG1560	Lipid A biosynthesis lauroyltransferase
+FDFBIKBB_00222	CDS	768				hypothetical protein
+FDFBIKBB_00223	CDS	624	kdkA	2.7.1.166	COG0515	3-deoxy-D-manno-octulosonic acid kinase
+FDFBIKBB_00224	CDS	1119	cotSA	2.4.-.-	COG0438	Spore coat protein SA
+FDFBIKBB_00225	CDS	945				hypothetical protein
+FDFBIKBB_00226	CDS	1284	waaA	2.4.99.12	COG1519	3-deoxy-D-manno-octulosonic acid transferase
+FDFBIKBB_00227	CDS	1329	tolC		COG1538	Outer membrane protein TolC
+FDFBIKBB_00228	CDS	630	nudF	3.6.1.13		ADP-ribose pyrophosphatase
+FDFBIKBB_00229	CDS	459				hypothetical protein
+FDFBIKBB_00230	CDS	792	cpdA	3.1.4.53	COG1409	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+FDFBIKBB_00231	CDS	585				hypothetical protein
+FDFBIKBB_00232	CDS	1080	gcvT	2.1.2.10	COG0404	Aminomethyltransferase
+FDFBIKBB_00233	CDS	396	gcvH		COG0509	Glycine cleavage system H protein
+FDFBIKBB_00234	CDS	1383	gcvPA	1.4.4.2	COG0403	putative glycine dehydrogenase (decarboxylating) subunit 1
+FDFBIKBB_00235	CDS	1464	gcvPB	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 2
+FDFBIKBB_00236	CDS	873				hypothetical protein
+FDFBIKBB_00237	CDS	1194	rlmI	2.1.1.191	COG1092	Ribosomal RNA large subunit methyltransferase I
+FDFBIKBB_00238	CDS	921				hypothetical protein
+FDFBIKBB_00239	CDS	657		3.1.3.-	COG0560	putative phosphatase
+FDFBIKBB_00240	CDS	480	rppH	3.6.1.-	COG0494	RNA pyrophosphohydrolase
+FDFBIKBB_00241	CDS	2304	ptsP_1	2.7.3.9	COG3605	Phosphoenolpyruvate-dependent phosphotransferase system
+FDFBIKBB_00242	CDS	1272				hypothetical protein
+FDFBIKBB_00243	CDS	345				hypothetical protein
+FDFBIKBB_00244	CDS	1332	hslU		COG1220	ATP-dependent protease ATPase subunit HslU
+FDFBIKBB_00245	CDS	528	hslV	3.4.25.2	COG5405	ATP-dependent protease subunit HslV
+FDFBIKBB_00246	CDS	639	ftsN_1			Cell division protein FtsN
+FDFBIKBB_00247	CDS	1758	argS	6.1.1.19		Arginine--tRNA ligase
+FDFBIKBB_00248	CDS	2199	priA	3.6.4.-	COG1198	Primosomal protein N'
+FDFBIKBB_00249	CDS	213	rpmE		COG0254	50S ribosomal protein L31
+FDFBIKBB_00250	CDS	1266	maeB	1.1.1.40	COG0281	NADP-dependent malic enzyme
+FDFBIKBB_00251	CDS	2463	mrcA		COG5009	Penicillin-binding protein 1A
+FDFBIKBB_00252	CDS	1143	ftsA_1			Cell division protein FtsA
+FDFBIKBB_00253	CDS	570				hypothetical protein
+FDFBIKBB_00254	CDS	468				hypothetical protein
+FDFBIKBB_00255	CDS	1002	cheB_1	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+FDFBIKBB_00256	CDS	5250	rcsC_2	2.7.13.3		Sensor histidine kinase RcsC
+FDFBIKBB_00257	CDS	573				hypothetical protein
+FDFBIKBB_00258	CDS	435	dksA		COG1734	RNA polymerase-binding transcription factor DksA
+FDFBIKBB_00259	CDS	867	gluQ	6.1.1.-	COG0008	Glutamyl-Q tRNA(Asp) synthetase
+FDFBIKBB_00260	CDS	1371	zraR		COG2204	Transcriptional regulatory protein ZraR
+FDFBIKBB_00261	CDS	153				hypothetical protein
+FDFBIKBB_00262	CDS	1311	pcnB	2.7.7.19	COG0617	Poly(A) polymerase I
+FDFBIKBB_00263	CDS	489	folK	2.7.6.3	COG0801	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+FDFBIKBB_00264	CDS	798	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+FDFBIKBB_00265	CDS	852	panC	6.3.2.1	COG0414	Pantothenate synthetase
+FDFBIKBB_00266	CDS	1629	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+FDFBIKBB_00267	CDS	489	sulD		COG0801	Bifunctional folate synthesis protein
+FDFBIKBB_00268	CDS	375	folB	4.1.2.25	COG1539	Dihydroneopterin aldolase
+FDFBIKBB_00269	CDS	1056	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+FDFBIKBB_00270	CDS	1518	ppx	3.6.1.11	COG0248	Exopolyphosphatase
+FDFBIKBB_00271	CDS	327	trxA			Thioredoxin
+FDFBIKBB_00272	CDS	630	mobA	2.7.7.77	COG0746	Molybdenum cofactor guanylyltransferase
+FDFBIKBB_00273	CDS	162				hypothetical protein
+FDFBIKBB_00274	CDS	774	glnQ			Glutamine transport ATP-binding protein GlnQ
+FDFBIKBB_00275	CDS	1113	yhdY		COG0765	Inner membrane amino-acid ABC transporter permease protein YhdY
+FDFBIKBB_00276	CDS	1197				hypothetical protein
+FDFBIKBB_00277	CDS	1014	yhdW			Putative amino-acid ABC transporter-binding protein YhdW
+FDFBIKBB_00278	CDS	780	ybfF	3.1.-.-	COG0596	Esterase YbfF
+FDFBIKBB_00279	CDS	1113	virS_1			HTH-type transcriptional regulator VirS
+FDFBIKBB_00280	CDS	3114	mexB		COG0841	Multidrug resistance protein MexB
+FDFBIKBB_00281	CDS	1152	srpA			Solvent efflux pump periplasmic linker SrpA
+FDFBIKBB_00282	CDS	2424	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+FDFBIKBB_00283	CDS	1140	recF		COG1195	DNA replication and repair protein RecF
+FDFBIKBB_00284	CDS	1272			COG0661	putative protein
+FDFBIKBB_00285	CDS	1104	dnaN		COG0592	Beta sliding clamp
+FDFBIKBB_00286	CDS	1437	dnaA		COG0593	Chromosomal replication initiator protein DnaA
+FDFBIKBB_00287	CDS	1089	flgJ	3.2.1.-	COG1705	Peptidoglycan hydrolase FlgJ
+FDFBIKBB_00288	CDS	1110	flgI			Flagellar P-ring protein
+FDFBIKBB_00289	CDS	693	flgH			Flagellar L-ring protein
+FDFBIKBB_00290	CDS	786	flgG		COG4786	Flagellar basal-body rod protein FlgG
+FDFBIKBB_00291	CDS	738	flgF		COG4787	Flagellar basal-body rod protein FlgF
+FDFBIKBB_00292	CDS	1947				hypothetical protein
+FDFBIKBB_00293	CDS	681	flgD		COG1843	Basal-body rod modification protein FlgD
+FDFBIKBB_00294	CDS	441	flgC		COG1558	Flagellar basal-body rod protein FlgC
+FDFBIKBB_00295	CDS	393	flgB		COG1815	Flagellar basal body rod protein FlgB
+FDFBIKBB_00296	CDS	558	ydjA	1.-.-.-	COG0778	Putative NAD(P)H nitroreductase YdjA
+FDFBIKBB_00297	CDS	1383				hypothetical protein
+FDFBIKBB_00298	CDS	837	queF	1.7.1.13	COG0780	NADPH-dependent 7-cyano-7-deazaguanine reductase
+FDFBIKBB_00299	CDS	792	yadH		COG0842	Inner membrane transport permease YadH
+FDFBIKBB_00300	CDS	930	yadG		COG1131	putative ABC transporter ATP-binding protein YadG
+FDFBIKBB_00301	CDS	1326		3.1.4.-	COG2206	Cyclic di-GMP phosphodiesterase
+FDFBIKBB_00302	CDS	651				hypothetical protein
+FDFBIKBB_00303	CDS	1020	futA1			Iron uptake protein A1
+FDFBIKBB_00304	CDS	1665				hypothetical protein
+FDFBIKBB_00305	CDS	1674		6.2.1.3	COG1022	Long-chain-fatty-acid--CoA ligase FadD15
+FDFBIKBB_00306	CDS	420				hypothetical protein
+FDFBIKBB_00307	CDS	1740	pknD	2.7.11.1		Serine/threonine-protein kinase PknD
+FDFBIKBB_00308	CDS	849	prpC	3.1.3.16	COG0631	Protein phosphatase PrpC
+FDFBIKBB_00309	CDS	939				hypothetical protein
+FDFBIKBB_00310	CDS	747				hypothetical protein
+FDFBIKBB_00311	CDS	843				hypothetical protein
+FDFBIKBB_00312	CDS	618				hypothetical protein
+FDFBIKBB_00313	CDS	1575				hypothetical protein
+FDFBIKBB_00314	tRNA	84				tRNA-Tyr(gta)
+FDFBIKBB_00315	tRNA	76				tRNA-Thr(tgt)
+FDFBIKBB_00316	CDS	630				hypothetical protein
+FDFBIKBB_00317	CDS	747	coaX	2.7.1.33	COG1521	Type III pantothenate kinase
+FDFBIKBB_00318	CDS	972	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+FDFBIKBB_00319	CDS	2517				hypothetical protein
+FDFBIKBB_00320	CDS	528				hypothetical protein
+FDFBIKBB_00321	CDS	1053				hypothetical protein
+FDFBIKBB_00322	CDS	1038				hypothetical protein
+FDFBIKBB_00323	CDS	1983				hypothetical protein
+FDFBIKBB_00324	CDS	1668	rssB_2			Regulator of RpoS
+FDFBIKBB_00325	CDS	438	aroQ1	4.2.1.10	COG0757	3-dehydroquinate dehydratase 1
+FDFBIKBB_00326	CDS	450	accB		COG0511	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+FDFBIKBB_00327	CDS	1353	accC	6.3.4.14	COG0439	Biotin carboxylase
+FDFBIKBB_00328	CDS	897	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+FDFBIKBB_00329	CDS	1170				hypothetical protein
+FDFBIKBB_00330	CDS	1008	dusB	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+FDFBIKBB_00331	CDS	291	fis			DNA-binding protein Fis
+FDFBIKBB_00332	CDS	1578	purH		COG0138	Bifunctional purine biosynthesis protein PurH
+FDFBIKBB_00333	CDS	411	fadM	3.1.2.-	COG0824	Long-chain acyl-CoA thioesterase FadM
+FDFBIKBB_00334	CDS	1290	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+FDFBIKBB_00335	CDS	798	suhB_1	3.1.3.25	COG0483	Inositol-1-monophosphatase
+FDFBIKBB_00336	CDS	597	slmA		COG1309	Nucleoid occlusion factor SlmA
+FDFBIKBB_00337	CDS	792	thiG	2.8.1.10	COG2022	Thiazole synthase
+FDFBIKBB_00338	CDS	234				hypothetical protein
+FDFBIKBB_00339	CDS	1407				hypothetical protein
+FDFBIKBB_00340	CDS	198				hypothetical protein
+FDFBIKBB_00341	CDS	141				hypothetical protein
+FDFBIKBB_00342	CDS	462	resA_1			Thiol-disulfide oxidoreductase ResA
+FDFBIKBB_00343	CDS	3474	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+FDFBIKBB_00344	CDS	951	accA	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+FDFBIKBB_00345	CDS	1419	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+FDFBIKBB_00346	CDS	432	rpsF		COG0360	30S ribosomal protein S6
+FDFBIKBB_00347	CDS	231	rpsR		COG0238	30S ribosomal protein S18
+FDFBIKBB_00348	CDS	864				hypothetical protein
+FDFBIKBB_00349	CDS	447	rplI		COG0359	50S ribosomal protein L9
+FDFBIKBB_00350	CDS	1377	dnaB	3.6.4.12	COG0305	Replicative DNA helicase
+FDFBIKBB_00351	CDS	1092	alr	5.1.1.1		Alanine racemase
+FDFBIKBB_00352	CDS	582	thpR	3.1.4.58	COG1514	RNA 2',3'-cyclic phosphodiesterase
+FDFBIKBB_00353	CDS	936	lpxP_1	2.3.1.242	COG1560	Lipid A biosynthesis palmitoleoyltransferase
+FDFBIKBB_00354	CDS	894				hypothetical protein
+FDFBIKBB_00355	CDS	1179	nhaB		COG3067	Na(+)/H(+) antiporter NhaB
+FDFBIKBB_00356	CDS	450	ccoN1_1	1.9.3.1	COG3278	Cbb3-type cytochrome c oxidase subunit CcoN1
+FDFBIKBB_00357	CDS	606				hypothetical protein
+FDFBIKBB_00358	CDS	186				hypothetical protein
+FDFBIKBB_00359	CDS	894	ccoP2_1		COG2010	Cbb3-type cytochrome c oxidase subunit CcoP2
+FDFBIKBB_00360	CDS	1455				hypothetical protein
+FDFBIKBB_00361	CDS	507				hypothetical protein
+FDFBIKBB_00362	CDS	2439	copA	7.2.2.8		putative copper-importing P-type ATPase A
+FDFBIKBB_00363	CDS	189				hypothetical protein
+FDFBIKBB_00364	CDS	690				hypothetical protein
+FDFBIKBB_00365	CDS	762		1.-.-.-		putative oxidoreductase
+FDFBIKBB_00366	CDS	924				hypothetical protein
+FDFBIKBB_00367	CDS	540				hypothetical protein
+FDFBIKBB_00368	CDS	3420				hypothetical protein
+FDFBIKBB_00369	CDS	2769				hypothetical protein
+FDFBIKBB_00370	CDS	570				hypothetical protein
+FDFBIKBB_00371	CDS	1239				hypothetical protein
+FDFBIKBB_00372	CDS	1896	dsbD	1.8.1.8	COG4232	Thiol:disulfide interchange protein DsbD
+FDFBIKBB_00373	CDS	555	epmC	1.14.-.-	COG3101	Elongation factor P hydroxylase
+FDFBIKBB_00374	CDS	1395	rhlB	3.6.4.13	COG0513	ATP-dependent RNA helicase RhlB
+FDFBIKBB_00375	CDS	1131	pdxB	1.1.1.290	COG0111	Erythronate-4-phosphate dehydrogenase
+FDFBIKBB_00376	CDS	663				hypothetical protein
+FDFBIKBB_00377	CDS	1188				hypothetical protein
+FDFBIKBB_00378	CDS	438				hypothetical protein
+FDFBIKBB_00379	CDS	1239	alaA	2.6.1.2	COG0436	Glutamate-pyruvate aminotransferase AlaA
+FDFBIKBB_00380	CDS	1056				hypothetical protein
+FDFBIKBB_00381	CDS	597	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+FDFBIKBB_00382	CDS	1191				hypothetical protein
+FDFBIKBB_00383	CDS	141				hypothetical protein
+FDFBIKBB_00384	CDS	2001	apc3	6.4.1.8	COG0145	Acetophenone carboxylase gamma subunit
+FDFBIKBB_00385	CDS	810	mutM	3.2.2.23	COG0266	Formamidopyrimidine-DNA glycosylase
+FDFBIKBB_00386	CDS	336				hypothetical protein
+FDFBIKBB_00387	CDS	819	cysQ	3.1.3.7	COG1218	3'(2'),5'-bisphosphate nucleotidase CysQ
+FDFBIKBB_00388	CDS	654	yrfG	3.1.3.5	COG1011	GMP/IMP nucleotidase YrfG
+FDFBIKBB_00389	CDS	414	hslR		COG1188	Heat shock protein 15
+FDFBIKBB_00390	CDS	879	hslO		COG1281	33 kDa chaperonin
+FDFBIKBB_00391	CDS	1536	pckA	4.1.1.49	COG1866	Phosphoenolpyruvate carboxykinase (ATP)
+FDFBIKBB_00392	CDS	828				hypothetical protein
+FDFBIKBB_00393	CDS	2070				hypothetical protein
+FDFBIKBB_00394	CDS	1062				hypothetical protein
+FDFBIKBB_00395	CDS	276	hupB_1		COG0776	DNA-binding protein HU-beta
+FDFBIKBB_00396	CDS	1287	pyrC'		COG0044	Dihydroorotase-like protein
+FDFBIKBB_00397	CDS	990	pyrB	2.1.3.2		Aspartate carbamoyltransferase
+FDFBIKBB_00398	CDS	507	pyrR			Bifunctional protein pyrR
+FDFBIKBB_00399	CDS	432	yqgF	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+FDFBIKBB_00400	CDS	576				hypothetical protein
+FDFBIKBB_00401	CDS	867				hypothetical protein
+FDFBIKBB_00402	CDS	957	gshB	6.3.2.3	COG0189	Glutathione synthetase
+FDFBIKBB_00403	CDS	387	phoP		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+FDFBIKBB_00404	CDS	363	pleD			Response regulator PleD
+FDFBIKBB_00405	CDS	549				hypothetical protein
+FDFBIKBB_00406	CDS	2052				hypothetical protein
+FDFBIKBB_00407	CDS	849	cheR1	2.1.1.80		Chemotaxis protein methyltransferase 1
+FDFBIKBB_00408	CDS	402				hypothetical protein
+FDFBIKBB_00409	CDS	1026				hypothetical protein
+FDFBIKBB_00410	CDS	1668	pccB_1	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+FDFBIKBB_00411	CDS	378				hypothetical protein
+FDFBIKBB_00412	CDS	165				hypothetical protein
+FDFBIKBB_00413	CDS	825	ftsQ			Cell division protein FtsQ
+FDFBIKBB_00414	CDS	972	ddl_1	6.3.2.4		D-alanine--D-alanine ligase
+FDFBIKBB_00415	CDS	1461	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+FDFBIKBB_00416	CDS	1083	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+FDFBIKBB_00417	CDS	1182	ftsW	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+FDFBIKBB_00418	CDS	1344	murD	6.3.2.9	COG0771	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+FDFBIKBB_00419	CDS	1083	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+FDFBIKBB_00420	CDS	303	ureA	3.5.1.5		Urease subunit gamma
+FDFBIKBB_00421	CDS	924	ureD		COG0829	Urease accessory protein UreD
+FDFBIKBB_00422	CDS	696	livF_2		COG0410	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+FDFBIKBB_00423	CDS	837	lptB_2	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+FDFBIKBB_00424	CDS	1092				hypothetical protein
+FDFBIKBB_00425	CDS	495				hypothetical protein
+FDFBIKBB_00426	CDS	243	oadG	7.2.4.2		oxaloacetate decarboxylase gamma chain
+FDFBIKBB_00427	CDS	1785	oadA_1	7.2.4.2	COG0511	Oxaloacetate decarboxylase alpha chain
+FDFBIKBB_00428	CDS	1338	oadB	7.2.4.2	COG1883	Oxaloacetate decarboxylase beta chain
+FDFBIKBB_00429	CDS	1038	tas		COG0667	Protein tas
+FDFBIKBB_00430	CDS	1128	phaC	2.3.1.-	COG3243	Poly(3-hydroxyalkanoate) polymerase subunit PhaC
+FDFBIKBB_00431	CDS	453	slyD_1	5.2.1.8	COG1047	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+FDFBIKBB_00432	CDS	747	rstA		COG0745	Transcriptional regulatory protein RstA
+FDFBIKBB_00433	CDS	1548	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+FDFBIKBB_00434	CDS	180				hypothetical protein
+FDFBIKBB_00435	CDS	969				hypothetical protein
+FDFBIKBB_00436	CDS	1038	cheB_2	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+FDFBIKBB_00437	CDS	516				hypothetical protein
+FDFBIKBB_00438	CDS	246				hypothetical protein
+FDFBIKBB_00439	CDS	504	sulA			Cell division inhibitor SulA
+FDFBIKBB_00440	CDS	612	lexA	3.4.21.88	COG1974	LexA repressor
+FDFBIKBB_00441	CDS	447				hypothetical protein
+FDFBIKBB_00442	CDS	579	gacA			Response regulator GacA
+FDFBIKBB_00443	CDS	1884	uvrC		COG0322	UvrABC system protein C
+FDFBIKBB_00444	CDS	564	pgsA_2	2.7.8.5	COG0558	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+FDFBIKBB_00445	CDS	2361	bepA_2	3.4.-.-		Beta-barrel assembly-enhancing protease
+FDFBIKBB_00446	CDS	1620	wecA_1	2.7.8.33		Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase
+FDFBIKBB_00447	CDS	1605				hypothetical protein
+FDFBIKBB_00448	CDS	1392				hypothetical protein
+FDFBIKBB_00449	CDS	1134				hypothetical protein
+FDFBIKBB_00450	CDS	1161	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+FDFBIKBB_00451	CDS	795	tagA	2.4.1.187	COG1922	N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase
+FDFBIKBB_00452	CDS	1665				hypothetical protein
+FDFBIKBB_00453	CDS	1101	potA_1	7.6.2.11		Spermidine/putrescine import ATP-binding protein PotA
+FDFBIKBB_00454	CDS	1062	spuE		COG0687	Spermidine-binding periplasmic protein SpuE
+FDFBIKBB_00455	CDS	909				hypothetical protein
+FDFBIKBB_00456	CDS	2472	rcsC_3	2.7.13.3		Sensor histidine kinase RcsC
+FDFBIKBB_00457	CDS	906	dmlR_1			HTH-type transcriptional regulator DmlR
+FDFBIKBB_00458	CDS	1041	kynB_1	3.5.1.9		Kynurenine formamidase
+FDFBIKBB_00459	CDS	633	yfkO	1.-.-.-	COG0778	Putative NAD(P)H nitroreductase YfkO
+FDFBIKBB_00460	CDS	2703	ctpF	3.6.3.-	COG0474	putative cation-transporting ATPase F
+FDFBIKBB_00461	CDS	1092		6.3.4.12		Glutamate--methylamine ligase
+FDFBIKBB_00462	CDS	474				Putative nickel-responsive regulator
+FDFBIKBB_00463	CDS	726				hypothetical protein
+FDFBIKBB_00464	CDS	639				hypothetical protein
+FDFBIKBB_00465	CDS	3594	carB_2			Carbamoyl-phosphate synthase large chain
+FDFBIKBB_00466	CDS	1803	atzF	3.5.1.54		Allophanate hydrolase
+FDFBIKBB_00467	CDS	1059	yeiR	3.6.-.-	COG0523	Zinc-binding GTPase YeiR
+FDFBIKBB_00468	CDS	1014	bshA	2.4.1.-	COG0438	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+FDFBIKBB_00469	CDS	1158	tuaC	2.4.-.-	COG0438	Putative teichuronic acid biosynthesis glycosyltransferase TuaC
+FDFBIKBB_00470	CDS	990	oleD_1	1.1.1.412	COG0451	2-alkyl-3-oxoalkanoate reductase
+FDFBIKBB_00471	CDS	369	ggt	3.4.19.13	COG0405	Glutathione hydrolase proenzyme
+FDFBIKBB_00472	CDS	1251				hypothetical protein
+FDFBIKBB_00473	CDS	690				hypothetical protein
+FDFBIKBB_00474	CDS	1983	ubiB_1	2.7.-.-		protein kinase UbiB
+FDFBIKBB_00475	CDS	1179	magA		COG0475	Iron transporter MagA
+FDFBIKBB_00476	CDS	381				hypothetical protein
+FDFBIKBB_00477	CDS	894				hypothetical protein
+FDFBIKBB_00478	CDS	1056	sohB	3.4.21.-	COG0616	putative protease SohB
+FDFBIKBB_00479	CDS	315				hypothetical protein
+FDFBIKBB_00480	CDS	633				hypothetical protein
+FDFBIKBB_00481	CDS	954				hypothetical protein
+FDFBIKBB_00482	CDS	2382				hypothetical protein
+FDFBIKBB_00483	CDS	987	xerC_1			Tyrosine recombinase XerC
+FDFBIKBB_00484	CDS	588				hypothetical protein
+FDFBIKBB_00485	CDS	1044	rnfD	7.-.-.-	COG4658	Ion-translocating oxidoreductase complex subunit D
+FDFBIKBB_00486	CDS	708	rsxG	7.-.-.-	COG4659	Ion-translocating oxidoreductase complex subunit G
+FDFBIKBB_00487	CDS	714	rnfE	7.-.-.-	COG4660	Ion-translocating oxidoreductase complex subunit E
+FDFBIKBB_00488	CDS	204				hypothetical protein
+FDFBIKBB_00489	CDS	876				hypothetical protein
+FDFBIKBB_00490	CDS	2112	ppk	2.7.4.1		Polyphosphate kinase
+FDFBIKBB_00491	CDS	999	hemB	4.2.1.24	COG0113	Delta-aminolevulinic acid dehydratase
+FDFBIKBB_00492	CDS	2136	sthA_1	1.6.1.1		Soluble pyridine nucleotide transhydrogenase
+FDFBIKBB_00493	CDS	705				hypothetical protein
+FDFBIKBB_00494	CDS	612				hypothetical protein
+FDFBIKBB_00495	CDS	1716				hypothetical protein
+FDFBIKBB_00496	CDS	813				hypothetical protein
+FDFBIKBB_00497	CDS	876	dapF	5.1.1.7	COG0253	Diaminopimelate epimerase
+FDFBIKBB_00498	CDS	1251	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+FDFBIKBB_00499	CDS	135				hypothetical protein
+FDFBIKBB_00500	CDS	2874				hypothetical protein
+FDFBIKBB_00501	CDS	1401	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+FDFBIKBB_00502	CDS	1068				hypothetical protein
+FDFBIKBB_00503	CDS	747	btsR		COG3279	Transcriptional regulatory protein BtsR
+FDFBIKBB_00504	CDS	327				hypothetical protein
+FDFBIKBB_00505	CDS	966	hemC	2.5.1.61	COG0181	Porphobilinogen deaminase
+FDFBIKBB_00506	CDS	771	hemD	4.2.1.75	COG1587	Uroporphyrinogen-III synthase
+FDFBIKBB_00507	CDS	1152	ufaA1	2.1.1.-	COG2230	Tuberculostearic acid methyltransferase UfaA1
+FDFBIKBB_00508	CDS	549				hypothetical protein
+FDFBIKBB_00509	CDS	762				hypothetical protein
+FDFBIKBB_00510	CDS	375				hypothetical protein
+FDFBIKBB_00511	CDS	981				hypothetical protein
+FDFBIKBB_00512	CDS	906	yofA		COG0583	HTH-type transcriptional regulator YofA
+FDFBIKBB_00513	CDS	246				hypothetical protein
+FDFBIKBB_00514	CDS	3207	swrC		COG0841	Swarming motility protein SwrC
+FDFBIKBB_00515	CDS	1098				hypothetical protein
+FDFBIKBB_00516	CDS	489	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+FDFBIKBB_00517	CDS	1128	purK	6.3.4.18	COG0026	N5-carboxyaminoimidazole ribonucleotide synthase
+FDFBIKBB_00518	CDS	582	sodB	1.15.1.1	COG0605	Superoxide dismutase [Fe]
+FDFBIKBB_00519	CDS	1962	xcpQ		COG1450	Secretin XcpQ
+FDFBIKBB_00520	CDS	873	epsC		COG3031	Type II secretion system protein C
+FDFBIKBB_00521	CDS	762				hypothetical protein
+FDFBIKBB_00522	CDS	1011	groL		COG0459	60 kDa chaperonin
+FDFBIKBB_00523	CDS	654				hypothetical protein
+FDFBIKBB_00524	CDS	1401				hypothetical protein
+FDFBIKBB_00525	CDS	204				hypothetical protein
+FDFBIKBB_00526	CDS	1251				hypothetical protein
+FDFBIKBB_00527	CDS	435	ohrR			Organic hydroperoxide resistance transcriptional regulator
+FDFBIKBB_00528	CDS	426	ohrB		COG1764	Organic hydroperoxide resistance protein OhrB
+FDFBIKBB_00529	CDS	1461				hypothetical protein
+FDFBIKBB_00530	CDS	1422	norR_1			Anaerobic nitric oxide reductase transcription regulator NorR
+FDFBIKBB_00531	CDS	1218	srmB	3.6.4.13	COG0513	ATP-dependent RNA helicase SrmB
+FDFBIKBB_00532	CDS	417	arfB	3.1.1.29	COG1186	Peptidyl-tRNA hydrolase ArfB
+FDFBIKBB_00533	CDS	657				hypothetical protein
+FDFBIKBB_00534	CDS	348				hypothetical protein
+FDFBIKBB_00535	CDS	408				hypothetical protein
+FDFBIKBB_00536	CDS	1752				hypothetical protein
+FDFBIKBB_00537	CDS	1638	bamA_1			Outer membrane protein assembly factor BamA
+FDFBIKBB_00538	CDS	849	eutC	4.3.1.7	COG4302	Ethanolamine ammonia-lyase light chain
+FDFBIKBB_00539	CDS	1401	eutB	4.3.1.7	COG4303	Ethanolamine ammonia-lyase heavy chain
+FDFBIKBB_00540	CDS	819				hypothetical protein
+FDFBIKBB_00541	CDS	2625				hypothetical protein
+FDFBIKBB_00542	CDS	1974				hypothetical protein
+FDFBIKBB_00543	CDS	330				hypothetical protein
+FDFBIKBB_00544	CDS	1017				hypothetical protein
+FDFBIKBB_00545	CDS	984				hypothetical protein
+FDFBIKBB_00546	CDS	1416				hypothetical protein
+FDFBIKBB_00547	CDS	597	lon_1	3.4.21.53		Lon protease
+FDFBIKBB_00548	CDS	1845	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+FDFBIKBB_00549	CDS	3258	rcsC_4	2.7.13.3		Sensor histidine kinase RcsC
+FDFBIKBB_00550	CDS	1008	lip-1	3.1.1.3		Lipase 1
+FDFBIKBB_00551	CDS	1140	yliI	1.1.5.-	COG2133	Aldose sugar dehydrogenase YliI
+FDFBIKBB_00552	CDS	510				IS1595 family transposase ISSsu9
+FDFBIKBB_00553	CDS	840	thyA	2.1.1.45	COG0207	Thymidylate synthase
+FDFBIKBB_00554	CDS	312				hypothetical protein
+FDFBIKBB_00555	CDS	1368	mdtA_1			Multidrug resistance protein MdtA
+FDFBIKBB_00556	CDS	3108	mdtB			Multidrug resistance protein MdtB
+FDFBIKBB_00557	CDS	825	phrB_1	4.1.99.3	COG0415	Deoxyribodipyrimidine photo-lyase
+FDFBIKBB_00558	CDS	993				hypothetical protein
+FDFBIKBB_00559	CDS	465				hypothetical protein
+FDFBIKBB_00560	CDS	789				hypothetical protein
+FDFBIKBB_00561	CDS	1269				hypothetical protein
+FDFBIKBB_00562	CDS	852				hypothetical protein
+FDFBIKBB_00563	CDS	693	srrB	2.7.13.3		Sensor protein SrrB
+FDFBIKBB_00564	CDS	1665				hypothetical protein
+FDFBIKBB_00565	CDS	432				hypothetical protein
+FDFBIKBB_00566	CDS	372	leuB	1.1.1.85	COG0473	3-isopropylmalate dehydrogenase
+FDFBIKBB_00567	CDS	642				hypothetical protein
+FDFBIKBB_00568	CDS	717	yeeN		COG0217	putative transcriptional regulatory protein YeeN
+FDFBIKBB_00569	CDS	1467				hypothetical protein
+FDFBIKBB_00570	CDS	1488	gdhB	1.4.1.2	COG2902	NAD-specific glutamate dehydrogenase
+FDFBIKBB_00571	CDS	1119				putative HTH-type transcriptional regulator
+FDFBIKBB_00572	CDS	3150				hypothetical protein
+FDFBIKBB_00573	CDS	396				hypothetical protein
+FDFBIKBB_00574	CDS	1140	tgt	2.4.2.29	COG0343	Queuine tRNA-ribosyltransferase
+FDFBIKBB_00575	CDS	1053	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+FDFBIKBB_00576	CDS	1104	aroC	4.2.3.5		Chorismate synthase
+FDFBIKBB_00577	CDS	891	prmB	2.1.1.298	COG2890	50S ribosomal protein L3 glutamine methyltransferase
+FDFBIKBB_00578	CDS	843				hypothetical protein
+FDFBIKBB_00579	CDS	861	menH_1	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+FDFBIKBB_00580	CDS	774	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+FDFBIKBB_00581	CDS	390				hypothetical protein
+FDFBIKBB_00582	CDS	1023	holB	2.7.7.7	COG0470	DNA polymerase III subunit delta'
+FDFBIKBB_00583	CDS	1965	tgpA	2.3.2.13	COG1305	Protein-glutamine gamma-glutamyltransferase
+FDFBIKBB_00584	CDS	1005				hypothetical protein
+FDFBIKBB_00585	CDS	642				hypothetical protein
+FDFBIKBB_00586	tRNA	76				tRNA-Glu(ttc)
+FDFBIKBB_00587	CDS	705	aat	2.3.2.6	COG2360	Leucyl/phenylalanyl-tRNA--protein transferase
+FDFBIKBB_00588	CDS	951	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+FDFBIKBB_00589	CDS	915				hypothetical protein
+FDFBIKBB_00590	CDS	894		3.5.1.77		N-carbamoyl-D-amino acid hydrolase
+FDFBIKBB_00591	CDS	1038	aguA	3.5.3.12	COG2957	Agmatine deiminase
+FDFBIKBB_00592	CDS	315				hypothetical protein
+FDFBIKBB_00593	CDS	1242	lolE		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+FDFBIKBB_00594	CDS	1020				hypothetical protein
+FDFBIKBB_00595	CDS	330	ybaB		COG0718	Nucleoid-associated protein YbaB
+FDFBIKBB_00596	CDS	600	recR		COG0353	Recombination protein RecR
+FDFBIKBB_00597	CDS	1122	rnd	3.1.13.5	COG0349	Ribonuclease D
+FDFBIKBB_00598	CDS	327	ycgL			Protein YcgL
+FDFBIKBB_00599	CDS	399				hypothetical protein
+FDFBIKBB_00600	CDS	345				hypothetical protein
+FDFBIKBB_00601	CDS	228				hypothetical protein
+FDFBIKBB_00602	CDS	210				hypothetical protein
+FDFBIKBB_00603	CDS	1512	fumB	4.2.1.2	COG1838	Fumarate hydratase class I, anaerobic
+FDFBIKBB_00604	CDS	2928				hypothetical protein
+FDFBIKBB_00605	tRNA	87				tRNA-Leu(caa)
+FDFBIKBB_00606	CDS	342				hypothetical protein
+FDFBIKBB_00607	CDS	1257	proA	1.2.1.41		Gamma-glutamyl phosphate reductase
+FDFBIKBB_00608	CDS	912	cysD	2.7.7.4	COG0175	Sulfate adenylyltransferase subunit 2
+FDFBIKBB_00609	CDS	1635	cysN	2.7.7.4		Sulfate adenylyltransferase subunit 1
+FDFBIKBB_00610	CDS	1029	yejK			Nucleoid-associated protein YejK
+FDFBIKBB_00611	CDS	309				hypothetical protein
+FDFBIKBB_00612	CDS	423				hypothetical protein
+FDFBIKBB_00613	CDS	675				hypothetical protein
+FDFBIKBB_00614	CDS	1338	norM		COG0534	Multidrug resistance protein NorM
+FDFBIKBB_00615	CDS	690	trmH	2.1.1.34	COG0566	tRNA (guanosine(18)-2'-O)-methyltransferase
+FDFBIKBB_00616	CDS	405	yecN		COG3788	Inner membrane protein YecN
+FDFBIKBB_00617	CDS	366				hypothetical protein
+FDFBIKBB_00618	CDS	1353	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+FDFBIKBB_00619	CDS	1005	ybeZ		COG1702	PhoH-like protein
+FDFBIKBB_00620	CDS	468	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+FDFBIKBB_00621	CDS	840	corC		COG4535	Magnesium and cobalt efflux protein CorC
+FDFBIKBB_00622	CDS	1545	lnt	2.3.1.269	COG0815	Apolipoprotein N-acyltransferase
+FDFBIKBB_00623	CDS	297				hypothetical protein
+FDFBIKBB_00624	CDS	2586	leuS	6.1.1.4	COG0495	Leucine--tRNA ligase
+FDFBIKBB_00625	CDS	495	lptE			LPS-assembly lipoprotein LptE
+FDFBIKBB_00626	CDS	2121	btuD_3	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+FDFBIKBB_00627	CDS	1293	prsE			Type I secretion system membrane fusion protein PrsE
+FDFBIKBB_00628	CDS	1299	bepC			Outer membrane efflux protein BepC
+FDFBIKBB_00629	CDS	336				hypothetical protein
+FDFBIKBB_00630	CDS	1764				hypothetical protein
+FDFBIKBB_00631	CDS	1407	glnA	6.3.1.2	COG0174	Glutamine synthetase
+FDFBIKBB_00632	CDS	1812	typA		COG1217	GTP-binding protein TypA/BipA
+FDFBIKBB_00633	CDS	357				hypothetical protein
+FDFBIKBB_00634	CDS	1038				putative HTH-type transcriptional regulator
+FDFBIKBB_00635	CDS	870	mhpC	3.7.1.14	COG0596	2-hydroxy-6-oxononadienedioate/2-hydroxy-6-oxononatrienedioate hydrolase
+FDFBIKBB_00636	CDS	1884				hypothetical protein
+FDFBIKBB_00637	CDS	885	mmsB	1.1.1.31	COG2084	3-hydroxyisobutyrate dehydrogenase
+FDFBIKBB_00638	CDS	1149	fadJ	5.1.2.3		Fatty acid oxidation complex subunit alpha
+FDFBIKBB_00639	CDS	792	paaF	4.2.1.17	COG1024	2,3-dehydroadipyl-CoA hydratase
+FDFBIKBB_00640	CDS	1167	acdA	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+FDFBIKBB_00641	CDS	1488	mmsA	1.2.1.27	COG1012	Methylmalonate-semialdehyde dehydrogenase [acylating]
+FDFBIKBB_00642	CDS	903	rhaR			HTH-type transcriptional activator RhaR
+FDFBIKBB_00643	CDS	2127	dinG_1	3.6.4.12	COG1199	ATP-dependent DNA helicase DinG
+FDFBIKBB_00644	CDS	2709	malT		COG2909	HTH-type transcriptional regulator MalT
+FDFBIKBB_00645	CDS	798				hypothetical protein
+FDFBIKBB_00646	CDS	987				hypothetical protein
+FDFBIKBB_00647	CDS	561				hypothetical protein
+FDFBIKBB_00648	CDS	300				hypothetical protein
+FDFBIKBB_00649	CDS	414				hypothetical protein
+FDFBIKBB_00650	CDS	696				hypothetical protein
+FDFBIKBB_00651	CDS	390				hypothetical protein
+FDFBIKBB_00652	CDS	1254	cheB_3	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+FDFBIKBB_00653	CDS	855	purU	3.5.1.10	COG0788	Formyltetrahydrofolate deformylase
+FDFBIKBB_00654	CDS	294		4.2.1.96		Putative pterin-4-alpha-carbinolamine dehydratase
+FDFBIKBB_00655	CDS	1005		4.1.3.1	COG2224	Isocitrate lyase
+FDFBIKBB_00656	CDS	564				hypothetical protein
+FDFBIKBB_00657	CDS	645				hypothetical protein
+FDFBIKBB_00658	CDS	1803	dmdC_1	1.3.8.-	COG1960	3-methylmercaptopropionyl-CoA dehydrogenase
+FDFBIKBB_00659	CDS	1326	alkJ	1.1.99.-		Alcohol dehydrogenase [acceptor]
+FDFBIKBB_00660	CDS	885				hypothetical protein
+FDFBIKBB_00661	CDS	867	sadH_1	1.-.-.-		Putative oxidoreductase SadH
+FDFBIKBB_00662	CDS	1527	mymA	1.14.13.-	COG2072	Putative FAD-containing monooxygenase MymA
+FDFBIKBB_00663	CDS	597				hypothetical protein
+FDFBIKBB_00664	CDS	3081	aupB			Alkane uptake protein B
+FDFBIKBB_00665	CDS	1362	aupA			Alkane uptake protein A
+FDFBIKBB_00666	CDS	594				hypothetical protein
+FDFBIKBB_00667	CDS	966				Tn3 family transposase TnXax1
+FDFBIKBB_00668	CDS	1146	mrdB	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+FDFBIKBB_00669	CDS	1926	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+FDFBIKBB_00670	CDS	471	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+FDFBIKBB_00671	CDS	360	rsfS			Ribosomal silencing factor RsfS
+FDFBIKBB_00672	CDS	396	nadD	2.7.7.18	COG1057	putative nicotinate-nucleotide adenylyltransferase
+FDFBIKBB_00673	CDS	1476	gap2	1.2.1.-		Glyceraldehyde-3-phosphate dehydrogenase-like protein
+FDFBIKBB_00674	CDS	1344	nqrA	7.2.1.1	COG1726	Na(+)-translocating NADH-quinone reductase subunit A
+FDFBIKBB_00675	CDS	1191	nqrB	7.2.1.1	COG1805	Na(+)-translocating NADH-quinone reductase subunit B
+FDFBIKBB_00676	CDS	807	nqrC	7.2.1.1	COG2869	Na(+)-translocating NADH-quinone reductase subunit C
+FDFBIKBB_00677	CDS	666	nqrD	7.2.1.1	COG1347	Na(+)-translocating NADH-quinone reductase subunit D
+FDFBIKBB_00678	CDS	612	nqrE	7.2.1.1	COG2209	Na(+)-translocating NADH-quinone reductase subunit E
+FDFBIKBB_00679	CDS	1227	nqrF	7.2.1.1	COG2871	Na(+)-translocating NADH-quinone reductase subunit F
+FDFBIKBB_00680	CDS	1014	apbE_1	2.7.1.180	COG1477	FAD:protein FMN transferase
+FDFBIKBB_00681	CDS	234				hypothetical protein
+FDFBIKBB_00682	CDS	1392	sthA_2	1.6.1.1	COG1249	Soluble pyridine nucleotide transhydrogenase
+FDFBIKBB_00683	CDS	420				hypothetical protein
+FDFBIKBB_00684	CDS	456				hypothetical protein
+FDFBIKBB_00685	CDS	849	azoB	1.7.-.-		NAD(P)H azoreductase
+FDFBIKBB_00686	CDS	1131				hypothetical protein
+FDFBIKBB_00687	CDS	828	hcaB_1	1.3.1.87		3-phenylpropionate-dihydrodiol/cinnamic acid-dihydrodiol dehydrogenase
+FDFBIKBB_00688	CDS	1059	oleD_2	1.1.1.412	COG0451	2-alkyl-3-oxoalkanoate reductase
+FDFBIKBB_00689	CDS	1155	hflK		COG0330	Modulator of FtsH protease HflK
+FDFBIKBB_00690	CDS	882	hflC		COG0330	Modulator of FtsH protease HflC
+FDFBIKBB_00691	CDS	774	soj_2	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+FDFBIKBB_00692	CDS	186				hypothetical protein
+FDFBIKBB_00693	CDS	1185	hisZ		COG3705	ATP phosphoribosyltransferase regulatory subunit
+FDFBIKBB_00694	CDS	1293	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+FDFBIKBB_00695	CDS	1599	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+FDFBIKBB_00696	CDS	564				hypothetical protein
+FDFBIKBB_00697	CDS	345				hypothetical protein
+FDFBIKBB_00698	CDS	996				hypothetical protein
+FDFBIKBB_00699	CDS	1164				hypothetical protein
+FDFBIKBB_00700	CDS	216	rpsU		COG0828	30S ribosomal protein S21
+FDFBIKBB_00701	CDS	456	yqeY		COG1610	putative protein YqeY
+FDFBIKBB_00702	CDS	720				hypothetical protein
+FDFBIKBB_00703	CDS	1740	dnaG	2.7.7.-		DNA primase
+FDFBIKBB_00704	CDS	126				hypothetical protein
+FDFBIKBB_00705	CDS	1851	rpoD		COG0568	RNA polymerase sigma factor RpoD
+FDFBIKBB_00706	tRNA	77				tRNA-Met(cat)
+FDFBIKBB_00707	CDS	2259	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+FDFBIKBB_00708	CDS	1098	pheA			Bifunctional chorismate mutase/prephenate dehydratase
+FDFBIKBB_00709	CDS	1122	hisC_1	2.6.1.9		Histidinol-phosphate aminotransferase
+FDFBIKBB_00710	CDS	2214	aroA	2.5.1.19		3-phosphoshikimate 1-carboxyvinyltransferase
+FDFBIKBB_00711	CDS	2163		2.8.3.-		butyrate:acetyl-CoA coenzyme A-transferase
+FDFBIKBB_00712	CDS	3411	recC	3.1.11.5	COG1330	RecBCD enzyme subunit RecC
+FDFBIKBB_00713	CDS	513	proV		COG4175	Glycine betaine/proline betaine transport system ATP-binding protein ProV
+FDFBIKBB_00714	CDS	1143	ousW		COG4176	Glycine betaine/choline transport system permease protein OusW
+FDFBIKBB_00715	CDS	987	ousX		COG2113	Glycine betaine-binding periplasmic protein OusX
+FDFBIKBB_00716	CDS	759				hypothetical protein
+FDFBIKBB_00717	CDS	786				hypothetical protein
+FDFBIKBB_00718	CDS	228				hypothetical protein
+FDFBIKBB_00719	tRNA	77				tRNA-Met(cat)
+FDFBIKBB_00720	CDS	1095	ychF		COG0012	Ribosome-binding ATPase YchF
+FDFBIKBB_00721	CDS	591	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+FDFBIKBB_00722	CDS	633	rplY			50S ribosomal protein L25
+FDFBIKBB_00723	CDS	945	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+FDFBIKBB_00724	tRNA	75				tRNA-Gln(ttg)
+FDFBIKBB_00725	CDS	888	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+FDFBIKBB_00726	CDS	651	lolB		COG3017	Outer-membrane lipoprotein LolB
+FDFBIKBB_00727	CDS	1878	bepA_3	3.4.-.-		Beta-barrel assembly-enhancing protease
+FDFBIKBB_00728	CDS	1269	hemA	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+FDFBIKBB_00729	CDS	1086	prfA		COG0216	Peptide chain release factor RF1
+FDFBIKBB_00730	CDS	831	prmC_1	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+FDFBIKBB_00731	CDS	765	moeB	2.7.7.80	COG0476	Molybdopterin-synthase adenylyltransferase
+FDFBIKBB_00732	CDS	792				hypothetical protein
+FDFBIKBB_00733	CDS	1398				hypothetical protein
+FDFBIKBB_00734	CDS	489				hypothetical protein
+FDFBIKBB_00735	CDS	828				hypothetical protein
+FDFBIKBB_00736	CDS	249	minE		COG0851	Cell division topological specificity factor
+FDFBIKBB_00737	CDS	819	minD		COG2894	Septum site-determining protein MinD
+FDFBIKBB_00738	CDS	882	minC		COG0850	Septum site-determining protein MinC
+FDFBIKBB_00739	CDS	2286	parC	5.6.2.2	COG0188	DNA topoisomerase 4 subunit A
+FDFBIKBB_00740	CDS	591	rnfB	7.-.-.-	COG2878	Ion-translocating oxidoreductase complex subunit B
+FDFBIKBB_00741	CDS	582	rnfA	7.-.-.-		Ion-translocating oxidoreductase complex subunit A
+FDFBIKBB_00742	CDS	2052	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+FDFBIKBB_00743	CDS	1098	apbC		COG0489	Iron-sulfur cluster carrier protein
+FDFBIKBB_00744	CDS	2064				hypothetical protein
+FDFBIKBB_00745	CDS	609	dcd	3.5.4.13		dCTP deaminase
+FDFBIKBB_00746	CDS	657				hypothetical protein
+FDFBIKBB_00747	CDS	609			COG3068	putative protein
+FDFBIKBB_00748	CDS	912				hypothetical protein
+FDFBIKBB_00749	CDS	336				hypothetical protein
+FDFBIKBB_00750	CDS	1221	nhaA_1		COG3004	Na(+)/H(+) antiporter NhaA
+FDFBIKBB_00751	CDS	966				hypothetical protein
+FDFBIKBB_00752	CDS	2073	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+FDFBIKBB_00753	CDS	963	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+FDFBIKBB_00754	CDS	441				hypothetical protein
+FDFBIKBB_00755	CDS	573				hypothetical protein
+FDFBIKBB_00756	CDS	1449	trkH		COG0168	Trk system potassium uptake protein TrkH
+FDFBIKBB_00757	CDS	1374	trkA		COG0569	Trk system potassium uptake protein TrkA
+FDFBIKBB_00758	CDS	1299	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+FDFBIKBB_00759	CDS	930	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+FDFBIKBB_00760	CDS	507	def	3.5.1.88	COG0242	Peptide deformylase
+FDFBIKBB_00761	CDS	1032				hypothetical protein
+FDFBIKBB_00762	CDS	1131				hypothetical protein
+FDFBIKBB_00763	CDS	567	tsaC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+FDFBIKBB_00764	CDS	909	hemF	1.3.3.3	COG0408	Oxygen-dependent coproporphyrinogen-III oxidase
+FDFBIKBB_00765	CDS	819	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+FDFBIKBB_00766	CDS	768	pomA_1		COG1291	Chemotaxis protein PomA
+FDFBIKBB_00767	CDS	840	motB_1		COG1360	Motility protein B
+FDFBIKBB_00768	CDS	294				hypothetical protein
+FDFBIKBB_00769	CDS	561	yrdA_1		COG0663	Protein YrdA
+FDFBIKBB_00770	CDS	2040	prlC	3.4.24.70	COG0339	Oligopeptidase A
+FDFBIKBB_00771	CDS	249				hypothetical protein
+FDFBIKBB_00772	CDS	441				hypothetical protein
+FDFBIKBB_00773	CDS	636				hypothetical protein
+FDFBIKBB_00774	CDS	2172				hypothetical protein
+FDFBIKBB_00775	CDS	1542				hypothetical protein
+FDFBIKBB_00776	CDS	306				STAS-domain containing protein
+FDFBIKBB_00777	CDS	1050	cheB_4	3.1.1.61	COG2201	Protein-glutamate methylesterase/protein-glutamine glutaminase
+FDFBIKBB_00778	CDS	645	cheD	3.5.1.44		Chemoreceptor glutamine deamidase CheD
+FDFBIKBB_00779	CDS	528	cheR	2.1.1.80		Chemotaxis protein methyltransferase
+FDFBIKBB_00780	CDS	1281				hypothetical protein
+FDFBIKBB_00781	CDS	540	ccmH		COG3088	Cytochrome c-type biogenesis protein CcmH
+FDFBIKBB_00782	CDS	540	dsbE		COG0526	Thiol:disulfide interchange protein DsbE
+FDFBIKBB_00783	CDS	798				hypothetical protein
+FDFBIKBB_00784	CDS	801				hypothetical protein
+FDFBIKBB_00785	CDS	693	modB		COG4149	Molybdenum transport system permease protein ModB
+FDFBIKBB_00786	CDS	1080	potA_2	7.6.2.11	COG3842	Spermidine/putrescine import ATP-binding protein PotA
+FDFBIKBB_00787	CDS	9141				hypothetical protein
+FDFBIKBB_00788	CDS	723				hypothetical protein
+FDFBIKBB_00789	CDS	426	trxC	1.8.1.8	COG0526	Thioredoxin 2
+FDFBIKBB_00790	CDS	558	mneA			Putative manganese exporter
+FDFBIKBB_00791	CDS	774				hypothetical protein
+FDFBIKBB_00792	CDS	1158	tdh	1.1.1.103		L-threonine 3-dehydrogenase
+FDFBIKBB_00793	CDS	1842	vgb	4.2.99.-		Virginiamycin B lyase
+FDFBIKBB_00794	CDS	999	virS_2			HTH-type transcriptional regulator VirS
+FDFBIKBB_00795	CDS	1800	oadA_2	7.2.4.2	COG0511	Oxaloacetate decarboxylase alpha chain
+FDFBIKBB_00796	CDS	1416	cfiB	6.4.1.7	COG0439	2-oxoglutarate carboxylase small subunit
+FDFBIKBB_00797	CDS	969	cmpR_1			HTH-type transcriptional activator CmpR
+FDFBIKBB_00798	CDS	1098	potA_3	7.6.2.11	COG3842	Spermidine/putrescine import ATP-binding protein PotA
+FDFBIKBB_00799	CDS	855	potB		COG1176	Spermidine/putrescine transport system permease protein PotB
+FDFBIKBB_00800	CDS	789	ydcV_1			Inner membrane ABC transporter permease protein YdcV
+FDFBIKBB_00801	CDS	1032	potD		COG0687	Spermidine/putrescine-binding periplasmic protein
+FDFBIKBB_00802	CDS	681	nanR			HTH-type transcriptional repressor NanR
+FDFBIKBB_00803	CDS	342	upp	2.4.2.9		Uracil phosphoribosyltransferase
+FDFBIKBB_00804	CDS	360				hypothetical protein
+FDFBIKBB_00805	CDS	648	rutR		COG1309	HTH-type transcriptional regulator RutR
+FDFBIKBB_00806	CDS	1347	xanP		COG2233	Xanthine permease XanP
+FDFBIKBB_00807	CDS	765				hypothetical protein
+FDFBIKBB_00808	CDS	1107				Purine-binding protein
+FDFBIKBB_00809	CDS	927				hypothetical protein
+FDFBIKBB_00810	CDS	1083				hypothetical protein
+FDFBIKBB_00811	CDS	1524	mglA	7.5.2.11	COG1129	Galactose/methyl galactoside import ATP-binding protein MglA
+FDFBIKBB_00812	CDS	1467				hypothetical protein
+FDFBIKBB_00813	CDS	2412	pucD	1.17.1.4	COG1529	putative xanthine dehydrogenase subunit D
+FDFBIKBB_00814	CDS	927				hypothetical protein
+FDFBIKBB_00815	CDS	1164	alc	3.5.3.4		allantoicase
+FDFBIKBB_00816	CDS	924				hypothetical protein
+FDFBIKBB_00817	CDS	417	rcp1			Response regulator rcp1
+FDFBIKBB_00818	CDS	2667	sasA_4	2.7.-.-		Adaptive-response sensory-kinase SasA
+FDFBIKBB_00819	CDS	441				hypothetical protein
+FDFBIKBB_00820	CDS	393	nhaA_2		COG3004	Na(+)/H(+) antiporter NhaA
+FDFBIKBB_00821	CDS	972				hypothetical protein
+FDFBIKBB_00822	CDS	678		3.1.1.2		Arylesterase
+FDFBIKBB_00823	CDS	780	lolD_1	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+FDFBIKBB_00824	CDS	2511				hypothetical protein
+FDFBIKBB_00825	CDS	687	crp		COG0664	CRP-like cAMP-activated global transcriptional regulator
+FDFBIKBB_00826	CDS	531				hypothetical protein
+FDFBIKBB_00827	CDS	651				hypothetical protein
+FDFBIKBB_00828	CDS	999				hypothetical protein
+FDFBIKBB_00829	CDS	636	ccmA	7.6.2.5	COG4133	Cytochrome c biogenesis ATP-binding export protein CcmA
+FDFBIKBB_00830	CDS	699	ccmB		COG2386	Heme exporter protein B
+FDFBIKBB_00831	CDS	750	ccmC		COG0755	Heme exporter protein C
+FDFBIKBB_00832	CDS	273				hypothetical protein
+FDFBIKBB_00833	CDS	486	ccmE		COG2332	Cytochrome c-type biogenesis protein CcmE
+FDFBIKBB_00834	CDS	2325	actP_1	7.2.2.9		Copper-transporting P-type ATPase
+FDFBIKBB_00835	CDS	684	cusR_2		COG0745	Transcriptional regulatory protein CusR
+FDFBIKBB_00836	CDS	1407	cusS	2.7.13.3	COG0642	Sensor histidine kinase CusS
+FDFBIKBB_00837	CDS	645	cusR_3		COG0745	Transcriptional regulatory protein CusR
+FDFBIKBB_00838	CDS	318				hypothetical protein
+FDFBIKBB_00839	CDS	171				hypothetical protein
+FDFBIKBB_00840	CDS	1617	pccB_2	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+FDFBIKBB_00841	CDS	873	fadH_2	1.3.1.34	COG1028	putative 2,4-dienoyl-CoA reductase
+FDFBIKBB_00842	CDS	1797				hypothetical protein
+FDFBIKBB_00843	CDS	636	kstR2			HTH-type transcriptional repressor KstR2
+FDFBIKBB_00844	CDS	303				hypothetical protein
+FDFBIKBB_00845	CDS	672				hypothetical protein
+FDFBIKBB_00846	CDS	2751				hypothetical protein
+FDFBIKBB_00847	CDS	1893	parE	5.6.2.2	COG0187	DNA topoisomerase 4 subunit B
+FDFBIKBB_00848	CDS	576				hypothetical protein
+FDFBIKBB_00849	CDS	357				hypothetical protein
+FDFBIKBB_00850	CDS	585	rcsC_5	2.7.13.3		Sensor histidine kinase RcsC
+FDFBIKBB_00851	CDS	1248	rssB_3			Regulator of RpoS
+FDFBIKBB_00852	CDS	4578	rcsC_6	2.7.13.3		Sensor histidine kinase RcsC
+FDFBIKBB_00853	CDS	870	yeiG	3.1.2.12	COG0627	S-formylglutathione hydrolase YeiG
+FDFBIKBB_00854	CDS	1134	frmA	1.1.1.284	COG1062	S-(hydroxymethyl)glutathione dehydrogenase
+FDFBIKBB_00855	CDS	201				hypothetical protein
+FDFBIKBB_00856	CDS	1866				hypothetical protein
+FDFBIKBB_00857	CDS	1575				hypothetical protein
+FDFBIKBB_00858	CDS	483				hypothetical protein
+FDFBIKBB_00859	CDS	1038	rcsC_7	2.7.13.3		Sensor histidine kinase RcsC
+FDFBIKBB_00860	CDS	1578	xylB	2.7.1.17	COG1070	Xylulose kinase
+FDFBIKBB_00861	CDS	1668	glpD	1.1.5.3		Aerobic glycerol-3-phosphate dehydrogenase
+FDFBIKBB_00862	CDS	1617				hypothetical protein
+FDFBIKBB_00863	CDS	1035				hypothetical protein
+FDFBIKBB_00864	CDS	1050				hypothetical protein
+FDFBIKBB_00865	CDS	1188	mdtA_2			Multidrug resistance protein MdtA
+FDFBIKBB_00866	CDS	438				hypothetical protein
+FDFBIKBB_00867	CDS	1851				hypothetical protein
+FDFBIKBB_00868	CDS	984	nagAa	1.18.1.7		Naphthalene 1,2-dioxygenase/salicylate 5-hydroxylase systems, ferredoxin--NAD(P)(+), reductase component
+FDFBIKBB_00869	CDS	354	glbN			Group 1 truncated hemoglobin GlbN
+FDFBIKBB_00870	CDS	327				hypothetical protein
+FDFBIKBB_00871	CDS	603				hypothetical protein
+FDFBIKBB_00872	CDS	1314				hypothetical protein
+FDFBIKBB_00873	CDS	1998	norW	1.18.1.-		Nitric oxide reductase FlRd-NAD(+) reductase
+FDFBIKBB_00874	CDS	753				hypothetical protein
+FDFBIKBB_00875	CDS	105				hypothetical protein
+FDFBIKBB_00876	CDS	1344	rarA		COG2256	Replication-associated recombination protein A
+FDFBIKBB_00877	CDS	186				hypothetical protein
+FDFBIKBB_00878	CDS	285				hypothetical protein
+FDFBIKBB_00879	CDS	228	tusA_1		COG0425	Sulfur carrier protein TusA
+FDFBIKBB_00880	CDS	606				hypothetical protein
+FDFBIKBB_00881	CDS	612				hypothetical protein
+FDFBIKBB_00882	CDS	1035				hypothetical protein
+FDFBIKBB_00883	CDS	1746	recJ	3.1.-.-	COG0608	Single-stranded-DNA-specific exonuclease RecJ
+FDFBIKBB_00884	CDS	651	thrC	4.2.3.1	COG0498	Threonine synthase
+FDFBIKBB_00885	CDS	381	comEC		COG0658	ComE operon protein 3
+FDFBIKBB_00886	CDS	645	tolQ_1		COG0811	Tol-Pal system protein TolQ
+FDFBIKBB_00887	CDS	423	exbD		COG0848	Biopolymer transport protein ExbD
+FDFBIKBB_00888	CDS	1809	msbA	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+FDFBIKBB_00889	CDS	1041	lpxK	2.7.1.130	COG1663	Tetraacyldisaccharide 4'-kinase
+FDFBIKBB_00890	CDS	189				hypothetical protein
+FDFBIKBB_00891	CDS	762	kdsB	2.7.7.38	COG1212	3-deoxy-manno-octulosonate cytidylyltransferase
+FDFBIKBB_00892	CDS	474		3.1.3.48		Putative low molecular weight protein-tyrosine-phosphatase
+FDFBIKBB_00893	CDS	921				hypothetical protein
+FDFBIKBB_00894	CDS	777				hypothetical protein
+FDFBIKBB_00895	CDS	633	estB	3.1.1.3		Extracellular esterase EstB
+FDFBIKBB_00896	CDS	375				hypothetical protein
+FDFBIKBB_00897	CDS	675				hypothetical protein
+FDFBIKBB_00898	CDS	1035	acr3		COG0798	Arsenical-resistance protein Acr3
+FDFBIKBB_00899	CDS	2229				hypothetical protein
+FDFBIKBB_00900	CDS	120				hypothetical protein
+FDFBIKBB_00901	CDS	1422	acnB	4.2.1.3	COG1049	Aconitate hydratase B
+FDFBIKBB_00902	CDS	780				hypothetical protein
+FDFBIKBB_00903	CDS	306				hypothetical protein
+FDFBIKBB_00904	CDS	1068				hypothetical protein
+FDFBIKBB_00905	CDS	429	hmrR			HTH-type transcriptional regulator HmrR
+FDFBIKBB_00906	CDS	1164				hypothetical protein
+FDFBIKBB_00907	CDS	633	tmk	2.7.4.9	COG0125	Thymidylate kinase
+FDFBIKBB_00908	CDS	1011	mltG	4.2.2.-	COG1559	Endolytic murein transglycosylase
+FDFBIKBB_00909	CDS	849				hypothetical protein
+FDFBIKBB_00910	CDS	1245	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+FDFBIKBB_00911	CDS	234	acpP			Acyl carrier protein
+FDFBIKBB_00912	CDS	747	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+FDFBIKBB_00913	CDS	942	fabD	2.3.1.39	COG0331	Malonyl CoA-acyl carrier protein transacylase
+FDFBIKBB_00914	CDS	1011	plsX	2.3.1.274	COG0416	Phosphate acyltransferase
+FDFBIKBB_00915	CDS	180	rpmF		COG0333	50S ribosomal protein L32
+FDFBIKBB_00916	CDS	534	yceD		COG1399	Large ribosomal RNA subunit accumulation protein YceD
+FDFBIKBB_00917	CDS	576	yceF	3.6.1.-	COG0424	7-methyl-GTP pyrophosphatase
+FDFBIKBB_00918	CDS	717				hypothetical protein
+FDFBIKBB_00919	CDS	966				hypothetical protein
+FDFBIKBB_00920	CDS	642	gph_1	3.1.3.18	COG0546	Phosphoglycolate phosphatase
+FDFBIKBB_00921	CDS	984	rluC	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+FDFBIKBB_00922	CDS	2913	rne	3.1.26.12		Ribonuclease E
+FDFBIKBB_00923	CDS	543				hypothetical protein
+FDFBIKBB_00924	CDS	1656	rcsC_8	2.7.13.3		Sensor histidine kinase RcsC
+FDFBIKBB_00925	CDS	867	yciV	3.1.13.-	COG0613	5'-3' exoribonuclease
+FDFBIKBB_00926	CDS	738				hypothetical protein
+FDFBIKBB_00927	CDS	300	yciI		COG2350	Protein YciI
+FDFBIKBB_00928	CDS	696				hypothetical protein
+FDFBIKBB_00929	CDS	312				hypothetical protein
+FDFBIKBB_00930	CDS	486		4.1.3.17	COG0684	Putative 4-hydroxy-4-methyl-2-oxoglutarate aldolase
+FDFBIKBB_00931	CDS	2361	ppsA	2.7.9.2		Phosphoenolpyruvate synthase
+FDFBIKBB_00932	CDS	819	ppsR	2.7.11.33	COG1806	Phosphoenolpyruvate synthase regulatory protein
+FDFBIKBB_00933	CDS	1743				hypothetical protein
+FDFBIKBB_00934	CDS	324	bolA		COG0271	DNA-binding transcriptional regulator BolA
+FDFBIKBB_00935	CDS	624	yciO		COG0009	putative protein YciO
+FDFBIKBB_00936	CDS	633				hypothetical protein
+FDFBIKBB_00937	CDS	219				hypothetical protein
+FDFBIKBB_00938	CDS	987	apbE_2	2.7.1.180	COG1477	FAD:protein FMN transferase
+FDFBIKBB_00939	CDS	828	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+FDFBIKBB_00940	CDS	759	znuC	7.2.2.-	COG1121	Zinc import ATP-binding protein ZnuC
+FDFBIKBB_00941	CDS	297	adhB_1	1.1.5.5		Alcohol dehydrogenase (quinone), cytochrome c subunit
+FDFBIKBB_00942	CDS	1605	ctaD	1.9.3.1	COG0843	Cytochrome c oxidase subunit 1
+FDFBIKBB_00943	CDS	597	ctaG		COG3175	Cytochrome c oxidase assembly protein CtaG
+FDFBIKBB_00944	CDS	891	ctaE	1.9.3.1	COG1845	Cytochrome c oxidase subunit 3
+FDFBIKBB_00945	CDS	216				hypothetical protein
+FDFBIKBB_00946	CDS	792				hypothetical protein
+FDFBIKBB_00947	CDS	594				hypothetical protein
+FDFBIKBB_00948	CDS	1098	ctaA	1.3.-.-		Heme A synthase
+FDFBIKBB_00949	CDS	933	ctaB	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+FDFBIKBB_00950	CDS	336				hypothetical protein
+FDFBIKBB_00951	CDS	222				hypothetical protein
+FDFBIKBB_00952	CDS	1275				hypothetical protein
+FDFBIKBB_00953	CDS	489				hypothetical protein
+FDFBIKBB_00954	CDS	927				hypothetical protein
+FDFBIKBB_00955	CDS	1023	fliG		COG1536	Flagellar motor switch protein FliG
+FDFBIKBB_00956	CDS	1701	fliF		COG1766	Flagellar M-ring protein
+FDFBIKBB_00957	CDS	375	fliE			Flagellar hook-basal body complex protein FliE
+FDFBIKBB_00958	CDS	1404	atoC_2		COG2204	Regulatory protein AtoC
+FDFBIKBB_00959	CDS	1362	sasA_5	2.7.-.-		Adaptive-response sensory-kinase SasA
+FDFBIKBB_00960	CDS	1431	norR_2			Anaerobic nitric oxide reductase transcription regulator NorR
+FDFBIKBB_00961	CDS	306				hypothetical protein
+FDFBIKBB_00962	CDS	576	yceI		COG2353	Protein YceI
+FDFBIKBB_00963	CDS	552	yceJ		COG3038	Cytochrome b561 
+FDFBIKBB_00964	CDS	1434	dinG_2	3.1.-.-		3'-5' exonuclease DinG
+FDFBIKBB_00965	CDS	1125	ald	1.4.1.1	COG0686	Alanine dehydrogenase
+FDFBIKBB_00966	CDS	156				hypothetical protein
+FDFBIKBB_00967	CDS	1116		1.-.-.-	COG1018	NADPH oxidoreductase
+FDFBIKBB_00968	CDS	1089	desA3_1	1.14.19.-	COG3239	NADPH-dependent stearoyl-CoA 9-desaturase
+FDFBIKBB_00969	CDS	831				hypothetical protein
+FDFBIKBB_00970	CDS	1218				hypothetical protein
+FDFBIKBB_00971	CDS	1008	lptG		COG0795	Lipopolysaccharide export system permease protein LptG
+FDFBIKBB_00972	CDS	1110	lptF		COG0795	Lipopolysaccharide export system permease protein LptF
+FDFBIKBB_00973	CDS	1470	pepA_1	3.4.11.1	COG0260	Cytosol aminopeptidase
+FDFBIKBB_00974	CDS	456				hypothetical protein
+FDFBIKBB_00975	CDS	2856	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+FDFBIKBB_00976	CDS	933	panE	1.1.1.169	COG1893	2-dehydropantoate 2-reductase
+FDFBIKBB_00977	CDS	939	mak	2.7.1.4	COG1940	Fructokinase
+FDFBIKBB_00978	CDS	687				hypothetical protein
+FDFBIKBB_00979	CDS	324				hypothetical protein
+FDFBIKBB_00980	CDS	1446	mqo1	1.1.5.4		putative malate:quinone oxidoreductase 1
+FDFBIKBB_00981	CDS	687				hypothetical protein
+FDFBIKBB_00982	CDS	1185	mshA_3	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+FDFBIKBB_00983	CDS	1221				hypothetical protein
+FDFBIKBB_00984	CDS	849				hypothetical protein
+FDFBIKBB_00985	CDS	903				hypothetical protein
+FDFBIKBB_00986	CDS	153				hypothetical protein
+FDFBIKBB_00987	CDS	1062	epsF_2		COG1459	Type II secretion system protein F
+FDFBIKBB_00988	CDS	867	outO			Type 4 prepilin-like proteins leader peptide-processing enzyme
+FDFBIKBB_00989	CDS	675	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+FDFBIKBB_00990	CDS	237	yacG			DNA gyrase inhibitor YacG
+FDFBIKBB_00991	CDS	441				hypothetical protein
+FDFBIKBB_00992	CDS	711	trmO	2.1.1.-	COG1720	tRNA (adenine(37)-N6)-methyltransferase
+FDFBIKBB_00993	CDS	318				hypothetical protein
+FDFBIKBB_00994	CDS	624	rluE	5.4.99.20	COG1187	Ribosomal large subunit pseudouridine synthase E
+FDFBIKBB_00995	CDS	462	nudJ	3.6.1.-	COG0494	Phosphatase NudJ
+FDFBIKBB_00996	CDS	1113	mnmA	2.8.1.13	COG0482	tRNA-specific 2-thiouridylase MnmA
+FDFBIKBB_00997	CDS	687	hflD		COG2915	High frequency lysogenization protein HflD
+FDFBIKBB_00998	CDS	1386	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+FDFBIKBB_00999	CDS	231				hypothetical protein
+FDFBIKBB_01000	CDS	1011			COG1840	putative binding protein component of ABC iron transporter
+FDFBIKBB_01001	CDS	687		1.14.11.-	COG3128	PKHD-type hydroxylase
+FDFBIKBB_01002	CDS	1104	hmo	1.1.3.46		4-hydroxymandelate oxidase
+FDFBIKBB_01003	CDS	2379	bfrD		COG4774	putative TonB-dependent receptor BfrD
+FDFBIKBB_01004	CDS	927				hypothetical protein
+FDFBIKBB_01005	CDS	396				hypothetical protein
+FDFBIKBB_01006	CDS	312				hypothetical protein
+FDFBIKBB_01007	CDS	963				hypothetical protein
+FDFBIKBB_01008	CDS	459				hypothetical protein
+FDFBIKBB_01009	CDS	1014				hypothetical protein
+FDFBIKBB_01010	CDS	822				hypothetical protein
+FDFBIKBB_01011	CDS	423				hypothetical protein
+FDFBIKBB_01012	CDS	1641				hypothetical protein
+FDFBIKBB_01013	CDS	306				hypothetical protein
+FDFBIKBB_01014	CDS	1131	oprF		COG2885	Outer membrane porin F
+FDFBIKBB_01015	CDS	822	mscS_1		COG0668	Small-conductance mechanosensitive channel
+FDFBIKBB_01016	CDS	291				hypothetical protein
+FDFBIKBB_01017	CDS	822				hypothetical protein
+FDFBIKBB_01018	CDS	576	sigG		COG1595	ECF RNA polymerase sigma factor SigG
+FDFBIKBB_01019	CDS	861	mscS_2		COG0668	Small-conductance mechanosensitive channel
+FDFBIKBB_01020	CDS	579				hypothetical protein
+FDFBIKBB_01021	CDS	2121	hmp	1.14.12.17		Flavohemoprotein
+FDFBIKBB_01022	CDS	927				hypothetical protein
+FDFBIKBB_01023	CDS	663	pcm	2.1.1.77	COG2518	Protein-L-isoaspartate O-methyltransferase
+FDFBIKBB_01024	CDS	762	surE	3.1.3.5	COG0496	5'-nucleotidase SurE
+FDFBIKBB_01025	CDS	921	truD	5.4.99.27	COG0585	tRNA pseudouridine synthase D
+FDFBIKBB_01026	CDS	1212	ispDF	4.6.1.12		Bifunctional enzyme IspD/IspF
+FDFBIKBB_01027	CDS	255	ftsB		COG2919	Cell division protein FtsB
+FDFBIKBB_01028	CDS	1293	eno	4.2.1.11		Enolase
+FDFBIKBB_01029	CDS	852	kdsA	2.5.1.55	COG2877	2-dehydro-3-deoxyphosphooctonate aldolase
+FDFBIKBB_01030	CDS	1626	pyrG_1	6.3.4.2	COG0504	CTP synthase
+FDFBIKBB_01031	CDS	402	sspB		COG2969	Stringent starvation protein B
+FDFBIKBB_01032	CDS	630	sspA_1		COG0625	Stringent starvation protein A
+FDFBIKBB_01033	CDS	759	petC		COG2857	Ammonia monooxygenase gamma subunit
+FDFBIKBB_01034	CDS	1215	petB		COG1290	Cytochrome b
+FDFBIKBB_01035	CDS	594	petA	7.1.1.8	COG0723	Ubiquinol-cytochrome c reductase iron-sulfur subunit
+FDFBIKBB_01036	CDS	393	rpsI		COG0103	30S ribosomal protein S9
+FDFBIKBB_01037	CDS	429	rplM		COG0102	50S ribosomal protein L13
+FDFBIKBB_01038	CDS	480				hypothetical protein
+FDFBIKBB_01039	CDS	540				hypothetical protein
+FDFBIKBB_01040	CDS	936	rclR		COG2207	RCS-specific HTH-type transcriptional activator RclR
+FDFBIKBB_01041	CDS	948	dauP	3.1.1.-		Rhodomycin D methylesterase DauP
+FDFBIKBB_01042	CDS	1092				hypothetical protein
+FDFBIKBB_01043	CDS	1308				hypothetical protein
+FDFBIKBB_01044	CDS	1545				hypothetical protein
+FDFBIKBB_01045	CDS	1200	argD	2.6.1.11	COG4992	Acetylornithine aminotransferase
+FDFBIKBB_01046	CDS	909	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase, anabolic
+FDFBIKBB_01047	CDS	1083	potA_4	7.6.2.11		Spermidine/putrescine import ATP-binding protein PotA
+FDFBIKBB_01048	CDS	1485	glpK	2.7.1.30		Glycerol kinase
+FDFBIKBB_01049	CDS	147				hypothetical protein
+FDFBIKBB_01050	CDS	123				hypothetical protein
+FDFBIKBB_01051	CDS	801	ycbX		COG0633	putative protein YcbX
+FDFBIKBB_01052	CDS	579				hypothetical protein
+FDFBIKBB_01053	CDS	1971	uup		COG0488	ABC transporter ATP-binding protein uup
+FDFBIKBB_01054	CDS	492				hypothetical protein
+FDFBIKBB_01055	CDS	804				hypothetical protein
+FDFBIKBB_01056	CDS	534				hypothetical protein
+FDFBIKBB_01057	CDS	1413				hypothetical protein
+FDFBIKBB_01058	CDS	402				hypothetical protein
+FDFBIKBB_01059	CDS	600	lpoB			Penicillin-binding protein activator LpoB
+FDFBIKBB_01060	CDS	1254				hypothetical protein
+FDFBIKBB_01061	CDS	1680	panP	4.1.1.11	COG0076	Aspartate 1-decarboxylase
+FDFBIKBB_01062	CDS	267				hypothetical protein
+FDFBIKBB_01063	CDS	2664				hypothetical protein
+FDFBIKBB_01064	CDS	855	tesB	3.1.2.-	COG1946	Acyl-CoA thioesterase 2
+FDFBIKBB_01065	CDS	1155	rubB	1.18.1.1	COG1251	Rubredoxin-NAD(+) reductase
+FDFBIKBB_01066	CDS	165	rubA1		COG1773	Rubredoxin-1
+FDFBIKBB_01067	CDS	459	ubiC	4.1.3.40		Chorismate pyruvate-lyase
+FDFBIKBB_01068	CDS	876	ubiA	2.5.1.39	COG0382	4-hydroxybenzoate octaprenyltransferase
+FDFBIKBB_01069	CDS	696	phoB		COG0745	Phosphate regulon transcriptional regulatory protein PhoB
+FDFBIKBB_01070	CDS	1311	phoR	2.7.13.3		Phosphate regulon sensor protein PhoR
+FDFBIKBB_01071	CDS	762	cysZ		COG2981	Sulfate transporter CysZ
+FDFBIKBB_01072	CDS	636	rluA	5.4.99.28	COG0564	Dual-specificity RNA pseudouridine synthase RluA
+FDFBIKBB_01073	CDS	399				hypothetical protein
+FDFBIKBB_01074	CDS	663	prmC_2	2.1.1.297		Release factor glutamine methyltransferase
+FDFBIKBB_01075	CDS	834	mscS_3		COG0668	Small-conductance mechanosensitive channel
+FDFBIKBB_01076	CDS	513				hypothetical protein
+FDFBIKBB_01077	CDS	1374	degQ	3.4.21.107	COG0265	Periplasmic pH-dependent serine endoprotease DegQ
+FDFBIKBB_01078	CDS	1263	ubiF	1.14.99.60	COG0654	3-demethoxyubiquinol 3-hydroxylase
+FDFBIKBB_01079	CDS	363		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+FDFBIKBB_01080	CDS	1149				Gluconeogenesis factor
+FDFBIKBB_01081	CDS	636				hypothetical protein
+FDFBIKBB_01082	CDS	1317	cmoM	2.1.1.-		tRNA 5-carboxymethoxyuridine methyltransferase
+FDFBIKBB_01083	CDS	612	tam	2.1.1.144		Trans-aconitate 2-methyltransferase
+FDFBIKBB_01084	CDS	729	phoU		COG0704	Phosphate-specific transport system accessory protein PhoU 
+FDFBIKBB_01085	CDS	897	pstB3	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+FDFBIKBB_01086	CDS	1665				hypothetical protein
+FDFBIKBB_01087	CDS	2271				hypothetical protein
+FDFBIKBB_01088	CDS	969	pstS		COG0226	Phosphate-binding protein PstS
+FDFBIKBB_01089	CDS	423		3.1.2.-	COG1607	putative acyl-CoA thioester hydrolase
+FDFBIKBB_01090	CDS	957	rep_1	3.6.4.12		ATP-dependent DNA helicase Rep
+FDFBIKBB_01091	CDS	630	rssB_4			Regulator of RpoS
+FDFBIKBB_01092	CDS	114				hypothetical protein
+FDFBIKBB_01093	CDS	882	zraS	2.7.13.3		Sensor protein ZraS
+FDFBIKBB_01094	CDS	657				hypothetical protein
+FDFBIKBB_01095	CDS	432				hypothetical protein
+FDFBIKBB_01096	CDS	399				hypothetical protein
+FDFBIKBB_01097	CDS	1119				hypothetical protein
+FDFBIKBB_01098	CDS	1023	rsmC	2.1.1.172	COG2813	Ribosomal RNA small subunit methyltransferase C
+FDFBIKBB_01099	CDS	642	msrA	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA
+FDFBIKBB_01100	CDS	1293	amiC_2			Aliphatic amidase expression-regulating protein
+FDFBIKBB_01101	CDS	879				hypothetical protein
+FDFBIKBB_01102	CDS	1923	btuB_1			Vitamin B12 transporter BtuB
+FDFBIKBB_01103	CDS	303				hypothetical protein
+FDFBIKBB_01104	CDS	831	rhaS			HTH-type transcriptional activator RhaS
+FDFBIKBB_01105	CDS	213				hypothetical protein
+FDFBIKBB_01106	CDS	312			COG0327	GTP cyclohydrolase 1 type 2 
+FDFBIKBB_01107	CDS	615				hypothetical protein
+FDFBIKBB_01108	CDS	612	nudL	3.6.1.-		putative Nudix hydrolase NudL
+FDFBIKBB_01109	CDS	525	yrdA_2		COG0663	Protein YrdA
+FDFBIKBB_01110	CDS	201				hypothetical protein
+FDFBIKBB_01111	CDS	1185	purT	2.1.2.-	COG0027	Formate-dependent phosphoribosylglycinamide formyltransferase
+FDFBIKBB_01112	CDS	510				hypothetical protein
+FDFBIKBB_01113	CDS	711	cobB	2.3.1.286	COG0846	NAD-dependent protein deacylase
+FDFBIKBB_01114	CDS	975				hypothetical protein
+FDFBIKBB_01115	CDS	309				hypothetical protein
+FDFBIKBB_01116	CDS	915	pcpR			PCP degradation transcriptional activation protein
+FDFBIKBB_01117	CDS	792	ompW		COG3047	Outer membrane protein W
+FDFBIKBB_01118	CDS	1440	ccoN1_2	1.9.3.1	COG3278	Cbb3-type cytochrome c oxidase subunit CcoN1
+FDFBIKBB_01119	CDS	609				hypothetical protein
+FDFBIKBB_01120	CDS	165				hypothetical protein
+FDFBIKBB_01121	CDS	900	ccoP2_2		COG2010	Cbb3-type cytochrome c oxidase subunit CcoP2
+FDFBIKBB_01122	CDS	336				hypothetical protein
+FDFBIKBB_01123	CDS	1413				hypothetical protein
+FDFBIKBB_01124	CDS	195				hypothetical protein
+FDFBIKBB_01125	CDS	1392	rlhA		COG0826	23S rRNA 5-hydroxycytidine synthase
+FDFBIKBB_01126	CDS	822	hcaB_2	1.3.1.87		3-phenylpropionate-dihydrodiol/cinnamic acid-dihydrodiol dehydrogenase
+FDFBIKBB_01127	CDS	915		3.8.1.3	COG0596	Fluoroacetate dehalogenase
+FDFBIKBB_01128	CDS	615	argO		COG1279	Arginine exporter protein ArgO
+FDFBIKBB_01129	CDS	618	rhtB_1		COG1280	Homoserine/homoserine lactone efflux protein
+FDFBIKBB_01130	CDS	228				hypothetical protein
+FDFBIKBB_01131	CDS	1431	norG		COG1167	HTH-type transcriptional regulator NorG
+FDFBIKBB_01132	CDS	1098				Purine-binding protein
+FDFBIKBB_01133	CDS	960	vldW	1.14.11.52		Validamycin A dioxygenase
+FDFBIKBB_01134	CDS	1011		3.5.4.2	COG1816	Adenine deaminase
+FDFBIKBB_01135	CDS	1638	mcpP		COG0840	Methyl-accepting chemotaxis protein McpP
+FDFBIKBB_01136	CDS	432				hypothetical protein
+FDFBIKBB_01137	CDS	108				hypothetical protein
+FDFBIKBB_01138	CDS	1155				hypothetical protein
+FDFBIKBB_01139	CDS	867				hypothetical protein
+FDFBIKBB_01140	CDS	570	syd			Protein Syd
+FDFBIKBB_01141	CDS	204				hypothetical protein
+FDFBIKBB_01142	CDS	1272	ffh		COG0541	Signal recognition particle protein
+FDFBIKBB_01143	CDS	249	rpsP		COG0228	30S ribosomal protein S16
+FDFBIKBB_01144	CDS	528	rimM		COG0806	Ribosome maturation factor RimM
+FDFBIKBB_01145	CDS	753	trmD	2.1.1.228	COG0336	tRNA (guanine-N(1)-)-methyltransferase
+FDFBIKBB_01146	CDS	357	rplS		COG0335	50S ribosomal protein L19
+FDFBIKBB_01147	CDS	723	dsbC		COG1651	Thiol:disulfide interchange protein DsbC
+FDFBIKBB_01148	CDS	486				hypothetical protein
+FDFBIKBB_01149	CDS	309				hypothetical protein
+FDFBIKBB_01150	CDS	1305	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+FDFBIKBB_01151	CDS	2286	pepN	3.4.11.2	COG0308	Aminopeptidase N
+FDFBIKBB_01152	CDS	1383				putative protein
+FDFBIKBB_01153	CDS	270	ptsH		COG1925	Phosphocarrier protein HPr
+FDFBIKBB_01154	CDS	864	rapZ		COG1660	RNase adapter protein RapZ
+FDFBIKBB_01155	CDS	462	ptsN		COG1762	Nitrogen regulatory protein
+FDFBIKBB_01156	CDS	300	hpf		COG1544	Ribosome hibernation promoting factor
+FDFBIKBB_01157	CDS	1536	rpoN		COG1508	RNA polymerase sigma-54 factor
+FDFBIKBB_01158	CDS	585	lptB_3	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+FDFBIKBB_01159	CDS	3495				hypothetical protein
+FDFBIKBB_01160	CDS	867				hypothetical protein
+FDFBIKBB_01161	CDS	1023				hypothetical protein
+FDFBIKBB_01162	CDS	1425				hypothetical protein
+FDFBIKBB_01163	CDS	777				hypothetical protein
+FDFBIKBB_01164	CDS	1236			COG2081	putative protein
+FDFBIKBB_01165	CDS	786	lepB	3.4.21.89	COG0681	Signal peptidase I
+FDFBIKBB_01166	CDS	1800	lepA	3.6.5.-	COG0481	Elongation factor 4
+FDFBIKBB_01167	CDS	1362	ubiB_2	2.7.-.-		protein kinase UbiB
+FDFBIKBB_01168	CDS	999	lipA	2.8.1.8	COG0320	Lipoyl synthase
+FDFBIKBB_01169	CDS	684	lipB	2.3.1.181	COG0321	Octanoyltransferase
+FDFBIKBB_01170	CDS	291				hypothetical protein
+FDFBIKBB_01171	CDS	1173	dacC	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacC
+FDFBIKBB_01172	CDS	468	bfr_1	1.16.3.1		Bacterioferritin
+FDFBIKBB_01173	CDS	474	bfr_2	1.16.3.1	COG2193	Bacterioferritin
+FDFBIKBB_01174	CDS	213				hypothetical protein
+FDFBIKBB_01175	CDS	870	ada		COG0350	Bifunctional transcriptional activator/DNA repair enzyme Ada
+FDFBIKBB_01176	CDS	456				hypothetical protein
+FDFBIKBB_01177	CDS	1722	ilvI	2.2.1.6	COG0028	Acetolactate synthase isozyme 3 large subunit
+FDFBIKBB_01178	CDS	492	ilvH	2.2.1.6	COG0440	Acetolactate synthase isozyme 3 small subunit
+FDFBIKBB_01179	CDS	1017	ilvC	1.1.1.86	COG0059	Ketol-acid reductoisomerase (NADP(+))
+FDFBIKBB_01180	CDS	795				hypothetical protein
+FDFBIKBB_01181	CDS	972	msrP	1.8.5.-	COG2041	Protein-methionine-sulfoxide reductase catalytic subunit MsrP
+FDFBIKBB_01182	CDS	591	msrQ		COG2717	Protein-methionine-sulfoxide reductase heme-binding subunit MsrQ
+FDFBIKBB_01183	CDS	798				hypothetical protein
+FDFBIKBB_01184	CDS	1263				hypothetical protein
+FDFBIKBB_01185	CDS	2181				hypothetical protein
+FDFBIKBB_01186	CDS	771				hypothetical protein
+FDFBIKBB_01187	CDS	1446	sbcB	3.1.11.1	COG2925	Exodeoxyribonuclease I
+FDFBIKBB_01188	CDS	915				hypothetical protein
+FDFBIKBB_01189	CDS	318	grxD		COG0278	Glutaredoxin 4
+FDFBIKBB_01190	CDS	1170				hypothetical protein
+FDFBIKBB_01191	CDS	867				hypothetical protein
+FDFBIKBB_01192	CDS	735		3.1.-.-	COG1236	Ribonuclease
+FDFBIKBB_01193	CDS	612	ureG			Urease accessory protein UreG
+FDFBIKBB_01194	CDS	702	ureF		COG0830	Urease accessory protein UreF
+FDFBIKBB_01195	CDS	456	ureE			Urease accessory protein UreE
+FDFBIKBB_01196	CDS	1707	ureC1	3.5.1.5		Urease subunit alpha 1
+FDFBIKBB_01197	CDS	150				hypothetical protein
+FDFBIKBB_01198	CDS	702	hisQ		COG4215	Histidine transport system permease protein HisQ
+FDFBIKBB_01199	CDS	729	hisM		COG4160	Histidine transport system permease protein HisM
+FDFBIKBB_01200	CDS	537				hypothetical protein
+FDFBIKBB_01201	CDS	1980				hypothetical protein
+FDFBIKBB_01202	CDS	933	mntA		COG0803	Manganese-binding lipoprotein MntA
+FDFBIKBB_01203	CDS	993				hypothetical protein
+FDFBIKBB_01204	CDS	921	dmlR_2			HTH-type transcriptional regulator DmlR
+FDFBIKBB_01205	CDS	666				hypothetical protein
+FDFBIKBB_01206	CDS	1665				hypothetical protein
+FDFBIKBB_01207	CDS	1068				putative HTH-type transcriptional regulator
+FDFBIKBB_01208	CDS	384	yjbR		COG2315	putative protein YjbR
+FDFBIKBB_01209	CDS	96				hypothetical protein
+FDFBIKBB_01210	CDS	1203	bcr			Bicyclomycin resistance protein
+FDFBIKBB_01211	CDS	651				hypothetical protein
+FDFBIKBB_01212	CDS	1164				hypothetical protein
+FDFBIKBB_01213	CDS	723				hypothetical protein
+FDFBIKBB_01214	CDS	588				hypothetical protein
+FDFBIKBB_01215	CDS	561				hypothetical protein
+FDFBIKBB_01216	CDS	573	tpm	2.1.1.67		Thiopurine S-methyltransferase
+FDFBIKBB_01217	CDS	789	fabI	1.3.1.9	COG0623	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+FDFBIKBB_01218	CDS	720	yejF		COG4172	putative ABC transporter ATP-binding protein YejF
+FDFBIKBB_01219	CDS	891				hypothetical protein
+FDFBIKBB_01220	CDS	621				hypothetical protein
+FDFBIKBB_01221	CDS	747				hypothetical protein
+FDFBIKBB_01222	CDS	2739				hypothetical protein
+FDFBIKBB_01223	CDS	609	rhtB_2		COG1280	Homoserine/homoserine lactone efflux protein
+FDFBIKBB_01224	CDS	768				hypothetical protein
+FDFBIKBB_01225	CDS	1269	adhB_2	1.1.1.1		Alcohol dehydrogenase 2
+FDFBIKBB_01226	CDS	888	btuF		COG0614	Vitamin B12-binding protein
+FDFBIKBB_01227	CDS	1050	hisC_2	2.6.1.9		Histidinol-phosphate aminotransferase
+FDFBIKBB_01228	CDS	1044	hmuU_1		COG0609	Hemin transport system permease protein HmuU
+FDFBIKBB_01229	CDS	792	fecE		COG1120	Fe(3+) dicitrate transport ATP-binding protein FecE
+FDFBIKBB_01230	CDS	963	cobD		COG1270	Cobalamin biosynthesis protein CobD
+FDFBIKBB_01231	CDS	546	cobP	2.7.1.156		Bifunctional adenosylcobalamin biosynthesis protein CobP
+FDFBIKBB_01232	CDS	1488	cobQ			Cobyric acid synthase
+FDFBIKBB_01233	CDS	255	btuB_2			Vitamin B12 transporter BtuB
+FDFBIKBB_01234	CDS	2013	uvrB		COG0556	UvrABC system protein B
+FDFBIKBB_01235	CDS	1035	pyrD	1.3.5.2	COG0167	Dihydroorotate dehydrogenase (quinone)
+FDFBIKBB_01236	CDS	210	rmf_1			Ribosome modulation factor
+FDFBIKBB_01237	tRNA	98				tRNA-Ile(tat)
+FDFBIKBB_01238	CDS	663				hypothetical protein
+FDFBIKBB_01239	CDS	228				hypothetical protein
+FDFBIKBB_01240	CDS	336				hypothetical protein
+FDFBIKBB_01241	CDS	138				hypothetical protein
+FDFBIKBB_01242	CDS	816	crt_1	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+FDFBIKBB_01243	CDS	1986	accA1		COG4770	Acetyl-/propionyl-coenzyme A carboxylase alpha chain
+FDFBIKBB_01244	CDS	831	hcaB_3	1.3.1.87		3-phenylpropionate-dihydrodiol/cinnamic acid-dihydrodiol dehydrogenase
+FDFBIKBB_01245	CDS	1725		6.2.1.3	COG1022	Long-chain-fatty-acid--CoA ligase FadD15
+FDFBIKBB_01246	CDS	1086				hypothetical protein
+FDFBIKBB_01247	CDS	180				hypothetical protein
+FDFBIKBB_01248	CDS	315				hypothetical protein
+FDFBIKBB_01249	CDS	1455	gatA_1	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+FDFBIKBB_01250	CDS	1797				hypothetical protein
+FDFBIKBB_01251	CDS	507				hypothetical protein
+FDFBIKBB_01252	CDS	2451				hypothetical protein
+FDFBIKBB_01253	CDS	102				hypothetical protein
+FDFBIKBB_01254	CDS	834	xerC_2			Tyrosine recombinase XerC
+FDFBIKBB_01255	CDS	861	arsC	1.20.4.4		Arsenate reductase
+FDFBIKBB_01256	CDS	1011	gap3	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase 3
+FDFBIKBB_01257	CDS	1224				hypothetical protein
+FDFBIKBB_01258	CDS	747				hypothetical protein
+FDFBIKBB_01259	CDS	1494	lcfB	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+FDFBIKBB_01260	CDS	678				hypothetical protein
+FDFBIKBB_01261	CDS	147				hypothetical protein
+FDFBIKBB_01262	CDS	846	rhdA	2.8.1.1	COG2897	Thiosulfate sulfurtransferase
+FDFBIKBB_01263	CDS	861	psd_1	4.1.1.65	COG0688	Phosphatidylserine decarboxylase proenzyme
+FDFBIKBB_01264	CDS	957	epmA	6.3.1.-	COG2269	Elongation factor P--(R)-beta-lysine ligase
+FDFBIKBB_01265	CDS	570	efp		COG0231	Elongation factor P
+FDFBIKBB_01266	CDS	1044	epmB	5.4.3.-	COG1509	L-lysine 2,3-aminomutase
+FDFBIKBB_01267	CDS	1800	fimW			Cyclic-di-GMP receptor FimW
+FDFBIKBB_01268	CDS	2103				hypothetical protein
+FDFBIKBB_01269	CDS	555				hypothetical protein
+FDFBIKBB_01270	CDS	666	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+FDFBIKBB_01271	CDS	495				hypothetical protein
+FDFBIKBB_01272	CDS	456				hypothetical protein
+FDFBIKBB_01273	CDS	1626				hypothetical protein
+FDFBIKBB_01274	CDS	561				hypothetical protein
+FDFBIKBB_01275	CDS	261				hypothetical protein
+FDFBIKBB_01276	CDS	2217				hypothetical protein
+FDFBIKBB_01277	CDS	837				hypothetical protein
+FDFBIKBB_01278	CDS	1251	mshA_4	2.4.1.250	COG0438	D-inositol 3-phosphate glycosyltransferase
+FDFBIKBB_01279	CDS	696	czcR			Transcriptional activator protein CzcR
+FDFBIKBB_01280	CDS	1290				hypothetical protein
+FDFBIKBB_01281	CDS	192				hypothetical protein
+FDFBIKBB_01282	CDS	579				hypothetical protein
+FDFBIKBB_01283	CDS	219				hypothetical protein
+FDFBIKBB_01284	CDS	1848				hypothetical protein
+FDFBIKBB_01285	CDS	720	polC_1	2.7.7.7		DNA polymerase III PolC-type
+FDFBIKBB_01286	CDS	1572			COG1292	Glycine betaine transporter 1
+FDFBIKBB_01287	CDS	957				hypothetical protein
+FDFBIKBB_01288	CDS	1119				hypothetical protein
+FDFBIKBB_01289	CDS	1026	nagZ	3.2.1.52	COG1472	Beta-hexosaminidase
+FDFBIKBB_01290	CDS	510				hypothetical protein
+FDFBIKBB_01291	CDS	696				hypothetical protein
+FDFBIKBB_01292	CDS	951				hypothetical protein
+FDFBIKBB_01293	CDS	621	ribC	2.5.1.9	COG0307	Riboflavin synthase
+FDFBIKBB_01294	CDS	1032				hypothetical protein
+FDFBIKBB_01295	CDS	444				hypothetical protein
+FDFBIKBB_01296	CDS	441				hypothetical protein
+FDFBIKBB_01297	CDS	2313	hemL_1	5.4.3.8		Glutamate-1-semialdehyde 2,1-aminomutase
+FDFBIKBB_01298	CDS	168				hypothetical protein
+FDFBIKBB_01299	CDS	498				hypothetical protein
+FDFBIKBB_01300	CDS	426				hypothetical protein
+FDFBIKBB_01301	CDS	177				hypothetical protein
+FDFBIKBB_01302	CDS	1203		3.1.4.-	COG2206	Cyclic di-GMP phosphodiesterase
+FDFBIKBB_01303	CDS	249				hypothetical protein
+FDFBIKBB_01304	CDS	1125				hypothetical protein
+FDFBIKBB_01305	CDS	1101	irpA		COG3489	Iron-regulated protein A
+FDFBIKBB_01306	CDS	1461				hypothetical protein
+FDFBIKBB_01307	CDS	1290				hypothetical protein
+FDFBIKBB_01308	CDS	1158	mauG	1.-.-.-		Methylamine utilization protein MauG
+FDFBIKBB_01309	CDS	1113	queG	1.17.99.6		Epoxyqueuosine reductase
+FDFBIKBB_01310	CDS	531	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+FDFBIKBB_01311	CDS	1338	amiC_3	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase AmiC
+FDFBIKBB_01312	CDS	1899	mutL			DNA mismatch repair protein MutL
+FDFBIKBB_01313	CDS	972	miaA_1	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+FDFBIKBB_01314	CDS	246	hfq		COG1923	RNA-binding protein Hfq
+FDFBIKBB_01315	CDS	1293	hflX		COG2262	GTPase HflX
+FDFBIKBB_01316	CDS	897				hypothetical protein
+FDFBIKBB_01317	tRNA	91				tRNA-Ser(tga)
+FDFBIKBB_01318	CDS	528				hypothetical protein
+FDFBIKBB_01319	CDS	921				hypothetical protein
+FDFBIKBB_01320	CDS	906	dmlR_3			HTH-type transcriptional regulator DmlR
+FDFBIKBB_01321	CDS	1752	rcsC_9	2.7.13.3		Sensor histidine kinase RcsC
+FDFBIKBB_01322	CDS	1035	virS_3			HTH-type transcriptional regulator VirS
+FDFBIKBB_01323	CDS	2082	fadH_3	1.3.1.34	COG0446	2,4-dienoyl-CoA reductase
+FDFBIKBB_01324	CDS	1311				hypothetical protein
+FDFBIKBB_01325	CDS	933	dcyD	4.4.1.15	COG2515	D-cysteine desulfhydrase
+FDFBIKBB_01326	CDS	891				hypothetical protein
+FDFBIKBB_01327	CDS	888	nadK	2.7.1.23	COG0061	NAD kinase
+FDFBIKBB_01328	CDS	948	apaH_1	3.6.1.41		Bis(5'-nucleosyl)-tetraphosphatase, symmetrical
+FDFBIKBB_01329	CDS	900	glpG	3.4.21.105		Rhomboid protease GlpG
+FDFBIKBB_01330	CDS	258				hypothetical protein
+FDFBIKBB_01331	CDS	825				hypothetical protein
+FDFBIKBB_01332	CDS	528	fusA			Elongation factor G 1
+FDFBIKBB_01333	CDS	927				hypothetical protein
+FDFBIKBB_01334	CDS	927	lpxP_2	2.3.1.242	COG1560	Lipid A biosynthesis palmitoleoyltransferase
+FDFBIKBB_01335	CDS	396				hypothetical protein
+FDFBIKBB_01336	CDS	2616	rnr_1	3.1.13.1	COG0557	Ribonuclease R
+FDFBIKBB_01337	CDS	744	rlmB	2.1.1.185	COG0566	23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+FDFBIKBB_01338	CDS	393				hypothetical protein
+FDFBIKBB_01339	CDS	432				hypothetical protein
+FDFBIKBB_01340	CDS	537				hypothetical protein
+FDFBIKBB_01341	CDS	282	ppiC	5.2.1.8	COG0760	Peptidyl-prolyl cis-trans isomerase C
+FDFBIKBB_01342	CDS	432				hypothetical protein
+FDFBIKBB_01343	CDS	2304				hypothetical protein
+FDFBIKBB_01344	CDS	1674				hypothetical protein
+FDFBIKBB_01345	CDS	546				hypothetical protein
+FDFBIKBB_01346	CDS	2196				hypothetical protein
+FDFBIKBB_01347	CDS	318				hypothetical protein
+FDFBIKBB_01348	CDS	219				hypothetical protein
+FDFBIKBB_01349	CDS	609				hypothetical protein
+FDFBIKBB_01350	CDS	1722	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+FDFBIKBB_01351	CDS	423				hypothetical protein
+FDFBIKBB_01352	CDS	927				hypothetical protein
+FDFBIKBB_01353	CDS	933	ask	2.7.2.4	COG0527	Aspartate kinase Ask_Ect
+FDFBIKBB_01354	CDS	699				hypothetical protein
+FDFBIKBB_01355	CDS	774	fpr	1.18.1.2	COG1018	Ferredoxin--NADP reductase
+FDFBIKBB_01356	CDS	888	cysL		COG0583	HTH-type transcriptional regulator CysL
+FDFBIKBB_01357	CDS	876				hypothetical protein
+FDFBIKBB_01358	CDS	1692				hypothetical protein
+FDFBIKBB_01359	CDS	2049				hypothetical protein
+FDFBIKBB_01360	CDS	294				hypothetical protein
+FDFBIKBB_01361	CDS	288				hypothetical protein
+FDFBIKBB_01362	CDS	510				hypothetical protein
+FDFBIKBB_01363	CDS	870	ygfZ		COG0354	tRNA-modifying protein YgfZ
+FDFBIKBB_01364	CDS	831				hypothetical protein
+FDFBIKBB_01365	CDS	687	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+FDFBIKBB_01366	CDS	1569	lysU	6.1.1.6	COG1190	Lysine--tRNA ligase, heat inducible
+FDFBIKBB_01367	CDS	978	prfB		COG1186	Peptide chain release factor RF2
+FDFBIKBB_01368	CDS	816		3.1.1.23	COG2267	Monoacylglycerol lipase
+FDFBIKBB_01369	CDS	1026				hypothetical protein
+FDFBIKBB_01370	CDS	927	fieF		COG0053	Ferrous-iron efflux pump FieF
+FDFBIKBB_01371	CDS	492				hypothetical protein
+FDFBIKBB_01372	CDS	1569	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+FDFBIKBB_01373	CDS	465	recX		COG2137	Regulatory protein RecX
+FDFBIKBB_01374	CDS	1212				hypothetical protein
+FDFBIKBB_01375	CDS	888				hypothetical protein
+FDFBIKBB_01376	CDS	1002				putative HTH-type transcriptional regulator
+FDFBIKBB_01377	CDS	939	argC	1.2.1.38	COG0002	N-acetyl-gamma-glutamyl-phosphate reductase
+FDFBIKBB_01378	CDS	1281	avtA	2.6.1.66	COG3977	Valine--pyruvate aminotransferase
+FDFBIKBB_01379	CDS	720				hypothetical protein
+FDFBIKBB_01380	CDS	777			COG2968	26 kDa periplasmic immunogenic protein
+FDFBIKBB_01381	CDS	564	mtnD_1	1.13.11.54		Acireductone dioxygenase
+FDFBIKBB_01382	CDS	978	pucA	1.17.1.4	COG1975	putative xanthine dehydrogenase subunit A
+FDFBIKBB_01383	CDS	2259	iorB_1	1.3.99.16		Isoquinoline 1-oxidoreductase subunit beta
+FDFBIKBB_01384	CDS	507	iorA	1.3.99.16		Isoquinoline 1-oxidoreductase subunit alpha
+FDFBIKBB_01385	CDS	567	smrA	3.1.-.-	COG2840	putative DNA endonuclease SmrA
+FDFBIKBB_01386	CDS	972	pgrR			HTH-type transcriptional regulator PgrR
+FDFBIKBB_01387	CDS	1041				hypothetical protein
+FDFBIKBB_01388	CDS	897	miaA_2	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+FDFBIKBB_01389	CDS	2550	nasD	1.7.1.4	COG1251	Nitrite reductase [NAD(P)H]
+FDFBIKBB_01390	CDS	330	nirD	1.7.1.15	COG2146	Nitrite reductase (NADH) small subunit
+FDFBIKBB_01391	CDS	381				hypothetical protein
+FDFBIKBB_01392	CDS	1395	tdcG	4.3.1.17	COG1760	L-serine dehydratase TdcG
+FDFBIKBB_01393	CDS	2178	acyII	3.5.1.11		Penicillin acylase 2 proenzyme
+FDFBIKBB_01394	CDS	1071				hypothetical protein
+FDFBIKBB_01395	CDS	705				hypothetical protein
+FDFBIKBB_01396	CDS	861				hypothetical protein
+FDFBIKBB_01397	CDS	357				hypothetical protein
+FDFBIKBB_01398	CDS	2421	rcsC_10	2.7.13.3		Sensor histidine kinase RcsC
+FDFBIKBB_01399	CDS	1242	lgrD			Linear gramicidin synthase subunit D
+FDFBIKBB_01400	CDS	735				hypothetical protein
+FDFBIKBB_01401	CDS	855				hypothetical protein
+FDFBIKBB_01402	CDS	1095				hypothetical protein
+FDFBIKBB_01403	CDS	840				hypothetical protein
+FDFBIKBB_01404	CDS	783				hypothetical protein
+FDFBIKBB_01405	CDS	2136	iorB_2	1.3.99.16		Isoquinoline 1-oxidoreductase subunit beta
+FDFBIKBB_01406	CDS	792	caiD_1	4.2.1.149	COG1024	Carnitinyl-CoA dehydratase
+FDFBIKBB_01407	CDS	255				hypothetical protein
+FDFBIKBB_01408	CDS	2079				hypothetical protein
+FDFBIKBB_01409	CDS	516				hypothetical protein
+FDFBIKBB_01410	CDS	366	cheY_1		COG0784	Chemotaxis protein CheY
+FDFBIKBB_01411	CDS	1014				hypothetical protein
+FDFBIKBB_01412	CDS	570				hypothetical protein
+FDFBIKBB_01413	CDS	765				hypothetical protein
+FDFBIKBB_01414	CDS	3156				hypothetical protein
+FDFBIKBB_01415	CDS	1332	mepA_1		COG0534	Multidrug export protein MepA
+FDFBIKBB_01416	CDS	1695		6.2.1.3	COG1022	Long-chain-fatty-acid--CoA ligase FadD15
+FDFBIKBB_01417	CDS	1071				putative HTH-type transcriptional regulator
+FDFBIKBB_01418	CDS	1392	pepA_2	3.4.11.10		cytosol aminopeptidase
+FDFBIKBB_01419	CDS	306	glpE_1	2.8.1.1	COG0607	Thiosulfate sulfurtransferase GlpE
+FDFBIKBB_01420	CDS	537				hypothetical protein
+FDFBIKBB_01421	CDS	849				hypothetical protein
+FDFBIKBB_01422	CDS	495				hypothetical protein
+FDFBIKBB_01423	CDS	558				hypothetical protein
+FDFBIKBB_01424	CDS	960	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+FDFBIKBB_01425	CDS	432	fkpB	5.2.1.8	COG1047	FKBP-type 16 kDa peptidyl-prolyl cis-trans isomerase
+FDFBIKBB_01426	CDS	507	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+FDFBIKBB_01427	CDS	2544	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+FDFBIKBB_01428	tRNA	90				tRNA-Ser(gct)
+FDFBIKBB_01429	CDS	192	csrA		COG1551	Translational regulator CsrA
+FDFBIKBB_01430	CDS	1221	lysC	2.7.2.4	COG0527	Aspartokinase
+FDFBIKBB_01431	CDS	2595	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+FDFBIKBB_01432	CDS	525				hypothetical protein
+FDFBIKBB_01433	CDS	924				hypothetical protein
+FDFBIKBB_01434	CDS	699	fetB		COG0390	putative iron export permease protein FetB
+FDFBIKBB_01435	CDS	3777	narG	1.7.5.1	COG5013	Respiratory nitrate reductase 1 alpha chain
+FDFBIKBB_01436	CDS	453	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+FDFBIKBB_01437	CDS	612				hypothetical protein
+FDFBIKBB_01438	CDS	831	apaH_2	3.6.1.41	COG0639	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical
+FDFBIKBB_01439	CDS	405				hypothetical protein
+FDFBIKBB_01440	CDS	213				hypothetical protein
+FDFBIKBB_01441	CDS	396	dgcE	2.7.7.65	COG2202	putative diguanylate cyclase DgcE
+FDFBIKBB_01442	CDS	936				hypothetical protein
+FDFBIKBB_01443	CDS	1578	sasA_6	2.7.-.-		Adaptive-response sensory-kinase SasA
+FDFBIKBB_01444	CDS	573				hypothetical protein
+FDFBIKBB_01445	CDS	444				hypothetical protein
+FDFBIKBB_01446	CDS	204	tatA_1		COG1826	Sec-independent protein translocase protein TatA
+FDFBIKBB_01447	CDS	1923				hypothetical protein
+FDFBIKBB_01448	CDS	1920	mnmG		COG0445	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+FDFBIKBB_01449	CDS	651	rsmG	2.1.1.170	COG0357	Ribosomal RNA small subunit methyltransferase G
+FDFBIKBB_01450	CDS	792	soj_3	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+FDFBIKBB_01451	CDS	870	parB		COG1475	putative chromosome-partitioning protein ParB
+FDFBIKBB_01452	CDS	261				hypothetical protein
+FDFBIKBB_01453	CDS	879	atpB		COG0356	ATP synthase subunit a
+FDFBIKBB_01454	CDS	240	atpE		COG0636	ATP synthase subunit c
+FDFBIKBB_01455	CDS	735				hypothetical protein
+FDFBIKBB_01456	CDS	1089	lifO		COG5380	Lipase chaperone
+FDFBIKBB_01457	CDS	1131				hypothetical protein
+FDFBIKBB_01458	CDS	1557			COG2308	putative protein
+FDFBIKBB_01459	CDS	2565				hypothetical protein
+FDFBIKBB_01460	CDS	327				hypothetical protein
+FDFBIKBB_01461	CDS	996				hypothetical protein
+FDFBIKBB_01462	CDS	390				hypothetical protein
+FDFBIKBB_01463	CDS	624				hypothetical protein
+FDFBIKBB_01464	CDS	771	rbn	3.1.26.11		Ribonuclease BN
+FDFBIKBB_01465	CDS	1875				hypothetical protein
+FDFBIKBB_01466	CDS	735				hypothetical protein
+FDFBIKBB_01467	CDS	255			COG2200	putative signaling protein
+FDFBIKBB_01468	CDS	1695				hypothetical protein
+FDFBIKBB_01469	CDS	426				hypothetical protein
+FDFBIKBB_01470	CDS	1623	dmdB	6.2.1.44	COG0318	3-methylmercaptopropionyl-CoA ligase
+FDFBIKBB_01471	CDS	843	yghU	1.8.4.-	COG0625	Disulfide-bond oxidoreductase YghU
+FDFBIKBB_01472	CDS	954	trmA	2.1.1.-	COG2265	tRNA/tmRNA (uracil-C(5))-methyltransferase
+FDFBIKBB_01473	CDS	705				hypothetical protein
+FDFBIKBB_01474	CDS	471				hypothetical protein
+FDFBIKBB_01475	CDS	1032				hypothetical protein
+FDFBIKBB_01476	CDS	1611	bepE			Efflux pump membrane transporter BepE
+FDFBIKBB_01477	CDS	735				hypothetical protein
+FDFBIKBB_01478	CDS	1071				hypothetical protein
+FDFBIKBB_01479	CDS	525	cysE_1	2.3.1.30	COG1045	Serine acetyltransferase
+FDFBIKBB_01480	CDS	1170				hypothetical protein
+FDFBIKBB_01481	CDS	1188	icaA	2.4.1.-	COG1215	Poly-beta-1,6-N-acetyl-D-glucosamine synthase
+FDFBIKBB_01482	CDS	1200	mshA_5	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+FDFBIKBB_01483	CDS	111				hypothetical protein
+FDFBIKBB_01484	CDS	768	crnA	3.5.2.10		Creatinine amidohydrolase
+FDFBIKBB_01485	CDS	915	nrtD_1	7.3.2.4	COG1116	Nitrate import ATP-binding protein NrtD
+FDFBIKBB_01486	CDS	966				hypothetical protein
+FDFBIKBB_01487	CDS	975				hypothetical protein
+FDFBIKBB_01488	CDS	2181	katG	1.11.1.21	COG0376	Catalase-peroxidase
+FDFBIKBB_01489	CDS	498				hypothetical protein
+FDFBIKBB_01490	CDS	1653				hypothetical protein
+FDFBIKBB_01491	CDS	630				hypothetical protein
+FDFBIKBB_01492	CDS	450				hypothetical protein
+FDFBIKBB_01493	CDS	873	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+FDFBIKBB_01494	CDS	1170	sucC	6.2.1.5	COG0045	Succinate--CoA ligase [ADP-forming] subunit beta
+FDFBIKBB_01495	CDS	1443	lpdG	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase
+FDFBIKBB_01496	CDS	1239	sucB	2.3.1.61	COG0508	Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex
+FDFBIKBB_01497	CDS	2850	sucA	1.2.4.2	COG0567	2-oxoglutarate dehydrogenase E1 component
+FDFBIKBB_01498	CDS	705	sdhB	1.3.5.1	COG0479	Succinate dehydrogenase iron-sulfur subunit
+FDFBIKBB_01499	CDS	1773	sdhA	1.3.5.1	COG1053	Succinate dehydrogenase flavoprotein subunit
+FDFBIKBB_01500	CDS	348	sdhD		COG2142	Succinate dehydrogenase hydrophobic membrane anchor subunit
+FDFBIKBB_01501	CDS	267	sdhC		COG2009	Succinate dehydrogenase cytochrome b556 subunit
+FDFBIKBB_01502	CDS	195				hypothetical protein
+FDFBIKBB_01503	CDS	183				hypothetical protein
+FDFBIKBB_01504	CDS	276				hypothetical protein
+FDFBIKBB_01505	CDS	1008				hypothetical protein
+FDFBIKBB_01506	CDS	1470				hypothetical protein
+FDFBIKBB_01507	CDS	1326	guaD	3.5.4.3	COG0402	Guanine deaminase
+FDFBIKBB_01508	CDS	534	allA	4.3.2.3	COG3194	Ureidoglycolate lyase
+FDFBIKBB_01509	CDS	342	hiuH	3.5.2.17	COG2351	5-hydroxyisourate hydrolase
+FDFBIKBB_01510	CDS	1065	neuB	2.5.1.101	COG2089	N,N'-diacetyllegionaminic acid synthase
+FDFBIKBB_01511	CDS	636	hisH_1	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+FDFBIKBB_01512	CDS	768	hisF_1	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+FDFBIKBB_01513	CDS	1290				hypothetical protein
+FDFBIKBB_01514	CDS	705	neuA	2.7.7.82	COG1083	CMP-N,N'-diacetyllegionaminic acid synthase
+FDFBIKBB_01515	CDS	1056	pseI	2.5.1.97	COG2089	Pseudaminic acid synthase
+FDFBIKBB_01516	CDS	1359	gph_2	3.1.3.18		Phosphoglycolate phosphatase
+FDFBIKBB_01517	CDS	822				hypothetical protein
+FDFBIKBB_01518	CDS	1446				hypothetical protein
+FDFBIKBB_01519	CDS	1002	pseB	4.2.1.115	COG1086	UDP-N-acetylglucosamine 4,6-dehydratase (inverting)
+FDFBIKBB_01520	CDS	522				hypothetical protein
+FDFBIKBB_01521	CDS	630				hypothetical protein
+FDFBIKBB_01522	CDS	450	elaA		COG2153	Protein ElaA
+FDFBIKBB_01523	CDS	819			COG0204	putative protein
+FDFBIKBB_01524	CDS	984			COG0451	putative protein
+FDFBIKBB_01525	CDS	411				hypothetical protein
+FDFBIKBB_01526	CDS	858				hypothetical protein
+FDFBIKBB_01527	CDS	708	dgcT	2.7.7.65		putative diguanylate cyclase DgcT
+FDFBIKBB_01528	CDS	645				hypothetical protein
+FDFBIKBB_01529	CDS	948				hypothetical protein
+FDFBIKBB_01530	CDS	831				hypothetical protein
+FDFBIKBB_01531	CDS	1380				hypothetical protein
+FDFBIKBB_01532	CDS	480				hypothetical protein
+FDFBIKBB_01533	CDS	483				hypothetical protein
+FDFBIKBB_01534	CDS	519				hypothetical protein
+FDFBIKBB_01535	CDS	126				hypothetical protein
+FDFBIKBB_01536	CDS	1176	yfdE	2.8.3.19	COG1804	Acetyl-CoA:oxalate CoA-transferase
+FDFBIKBB_01537	CDS	1140	bcd	1.3.8.1	COG1960	Acyl-CoA dehydrogenase, short-chain specific
+FDFBIKBB_01538	CDS	1224	gpgS	2.4.1.266	COG0463	Glucosyl-3-phosphoglycerate synthase
+FDFBIKBB_01539	CDS	858	gpgP	3.1.3.70	COG3769	Glucosyl-3-phosphoglycerate/mannosyl-3-phosphoglycerate phosphatase
+FDFBIKBB_01540	CDS	939	udk	2.7.1.48		Uridine kinase
+FDFBIKBB_01541	CDS	1830	ycf3_1			Photosystem I assembly protein Ycf3
+FDFBIKBB_01542	CDS	966				hypothetical protein
+FDFBIKBB_01543	CDS	504				hypothetical protein
+FDFBIKBB_01544	CDS	591	tolQ_2			Tol-Pal system protein TolQ
+FDFBIKBB_01545	CDS	324				hypothetical protein
+FDFBIKBB_01546	CDS	600	cpoB_1			Cell division coordinator CpoB
+FDFBIKBB_01547	CDS	399	rodZ		COG1426	Cytoskeleton protein RodZ
+FDFBIKBB_01548	CDS	1116	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+FDFBIKBB_01549	CDS	1278	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+FDFBIKBB_01550	tRNA	77				tRNA-Arg(tct)
+FDFBIKBB_01551	tRNA	76				tRNA-His(gtg)
+FDFBIKBB_01552	tRNA	85				tRNA-Leu(tag)
+FDFBIKBB_01553	CDS	1314	tig	5.2.1.8	COG0544	Trigger factor
+FDFBIKBB_01554	CDS	642	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+FDFBIKBB_01555	CDS	1284	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+FDFBIKBB_01556	CDS	2412	lon_2	3.4.21.53	COG0466	Lon protease
+FDFBIKBB_01557	CDS	273	hupB_2		COG0776	DNA-binding protein HU-beta
+FDFBIKBB_01558	CDS	1878	ppiD	5.2.1.8	COG0760	Peptidyl-prolyl cis-trans isomerase D
+FDFBIKBB_01559	CDS	822				hypothetical protein
+FDFBIKBB_01560	CDS	1005				hypothetical protein
+FDFBIKBB_01561	CDS	1662				hypothetical protein
+FDFBIKBB_01562	tRNA	76				tRNA-Ala(ggc)
+FDFBIKBB_01563	CDS	1500	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+FDFBIKBB_01564	CDS	645	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+FDFBIKBB_01565	CDS	354	yfgD		COG1393	putative protein YfgD
+FDFBIKBB_01566	CDS	597		1.6.5.2	COG0655	NAD(P)H dehydrogenase (quinone)
+FDFBIKBB_01567	CDS	372				hypothetical protein
+FDFBIKBB_01568	CDS	1770	epsE_1		COG2804	Type II secretion system protein E
+FDFBIKBB_01569	CDS	1797				hypothetical protein
+FDFBIKBB_01570	CDS	1188	pucG	2.6.1.112	COG0075	(S)-ureidoglycine--glyoxylate transaminase
+FDFBIKBB_01571	CDS	483				hypothetical protein
+FDFBIKBB_01572	CDS	216				hypothetical protein
+FDFBIKBB_01573	CDS	1233	nhaD		COG1055	Na(+)/H(+) antiporter NhaD
+FDFBIKBB_01574	CDS	1995	htpX_1	3.4.24.-		Protease HtpX
+FDFBIKBB_01575	CDS	597	lemA		COG1704	Protein LemA
+FDFBIKBB_01576	CDS	1128	serC	2.6.1.52	COG1932	Phosphoserine aminotransferase
+FDFBIKBB_01577	CDS	471	dps2	1.16.-.-	COG0783	DNA protection during starvation protein 2
+FDFBIKBB_01578	CDS	594	azoR	1.7.1.17	COG1182	FMN-dependent NADH-azoreductase
+FDFBIKBB_01579	CDS	1299	icd	1.1.1.42	COG2838	Isocitrate dehydrogenase [NADP]
+FDFBIKBB_01580	CDS	636				hypothetical protein
+FDFBIKBB_01581	CDS	1344	rnj	3.1.-.-	COG0595	Ribonuclease J
+FDFBIKBB_01582	CDS	501				hypothetical protein
+FDFBIKBB_01583	CDS	996	fliM		COG1868	Flagellar motor switch protein FliM
+FDFBIKBB_01584	CDS	513	fliN		COG1886	Flagellar motor switch protein FliN
+FDFBIKBB_01585	CDS	600				hypothetical protein
+FDFBIKBB_01586	CDS	744	fliP		COG1338	Flagellar biosynthetic protein FliP
+FDFBIKBB_01587	CDS	270	fliQ		COG1987	Flagellar biosynthetic protein FliQ
+FDFBIKBB_01588	CDS	789	fliR		COG1684	Flagellar biosynthetic protein FliR
+FDFBIKBB_01589	CDS	1137	flhB		COG1377	Flagellar biosynthetic protein FlhB
+FDFBIKBB_01590	CDS	2160	flhA		COG1298	Flagellar biosynthesis protein FlhA
+FDFBIKBB_01591	CDS	1308	srp54			Signal recognition particle 54 kDa protein
+FDFBIKBB_01592	CDS	813	ylxH		COG0455	Flagellum site-determining protein YlxH
+FDFBIKBB_01593	CDS	708	fliA		COG1191	RNA polymerase sigma factor FliA
+FDFBIKBB_01594	CDS	387	cheY_2		COG0784	Chemotaxis protein CheY
+FDFBIKBB_01595	CDS	783				hypothetical protein
+FDFBIKBB_01596	CDS	2253				hypothetical protein
+FDFBIKBB_01597	CDS	1200	cheB1	3.1.1.61	COG2201	Protein-glutamate methylesterase/protein-glutamine glutaminase 1
+FDFBIKBB_01598	CDS	741	pomA_2		COG1291	Chemotaxis protein PomA
+FDFBIKBB_01599	CDS	786	motB_2		COG1360	Motility protein B
+FDFBIKBB_01600	CDS	1518	epsE_2		COG2804	Type II secretion system protein E
+FDFBIKBB_01601	CDS	2022				hypothetical protein
+FDFBIKBB_01602	CDS	648				hypothetical protein
+FDFBIKBB_01603	CDS	594				hypothetical protein
+FDFBIKBB_01604	CDS	921	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+FDFBIKBB_01605	CDS	627	trpF	5.3.1.24	COG0135	N-(5'-phosphoribosyl)anthranilate isomerase
+FDFBIKBB_01606	CDS	1221	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+FDFBIKBB_01607	CDS	810	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+FDFBIKBB_01608	CDS	933	accD	2.1.3.15	COG0777	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+FDFBIKBB_01609	CDS	1257	folC	6.3.2.12	COG0285	Dihydrofolate synthase/folylpolyglutamate synthase
+FDFBIKBB_01610	CDS	639	ftsN_2			Cell division protein FtsN
+FDFBIKBB_01611	CDS	489	cvpA		COG1286	Colicin V production protein
+FDFBIKBB_01612	CDS	1518	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+FDFBIKBB_01613	CDS	1233	metZ	2.5.1.-	COG0626	O-succinylhomoserine sulfhydrylase
+FDFBIKBB_01614	CDS	2559				hypothetical protein
+FDFBIKBB_01615	CDS	333				hypothetical protein
+FDFBIKBB_01616	CDS	525				hypothetical protein
+FDFBIKBB_01617	CDS	228				hypothetical protein
+FDFBIKBB_01618	CDS	288	parE1		COG3668	Toxin ParE1
+FDFBIKBB_01619	CDS	357	lolD_2	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+FDFBIKBB_01620	CDS	558				hypothetical protein
+FDFBIKBB_01621	CDS	288				hypothetical protein
+FDFBIKBB_01622	CDS	213				hypothetical protein
+FDFBIKBB_01623	CDS	633	betI			HTH-type transcriptional regulator BetI
+FDFBIKBB_01624	CDS	1686	aidB	1.3.99.-	COG1960	Putative acyl-CoA dehydrogenase AidB
+FDFBIKBB_01625	CDS	498				hypothetical protein
+FDFBIKBB_01626	CDS	273				hypothetical protein
+FDFBIKBB_01627	CDS	1563			COG0645	putative protein
+FDFBIKBB_01628	CDS	2295	mrcB		COG0744	Penicillin-binding protein 1B
+FDFBIKBB_01629	CDS	402				hypothetical protein
+FDFBIKBB_01630	CDS	540	yaeQ		COG4681	putative protein YaeQ
+FDFBIKBB_01631	CDS	318				hypothetical protein
+FDFBIKBB_01632	CDS	612	yigZ		COG1739	IMPACT family member YigZ
+FDFBIKBB_01633	CDS	1380	wax-dgaT	2.3.1.20		O-acyltransferase WSD
+FDFBIKBB_01634	CDS	675	fklB_1	5.2.1.8	COG0545	FKBP-type 22 kDa peptidyl-prolyl cis-trans isomerase
+FDFBIKBB_01635	CDS	1470	selO	2.7.7.-	COG0397	Protein adenylyltransferase SelO
+FDFBIKBB_01636	CDS	1242				hypothetical protein
+FDFBIKBB_01637	CDS	165				hypothetical protein
+FDFBIKBB_01638	CDS	2391	napA	1.9.6.1		Periplasmic nitrate reductase
+FDFBIKBB_01639	CDS	222				hypothetical protein
+FDFBIKBB_01640	CDS	1629				hypothetical protein
+FDFBIKBB_01641	CDS	369				hypothetical protein
+FDFBIKBB_01642	CDS	687				hypothetical protein
+FDFBIKBB_01643	CDS	525				hypothetical protein
+FDFBIKBB_01644	CDS	2781	rapA	3.6.4.-	COG0553	RNA polymerase-associated protein RapA
+FDFBIKBB_01645	CDS	447	msrB	1.8.4.12	COG0229	Peptide methionine sulfoxide reductase MsrB
+FDFBIKBB_01646	CDS	744				hypothetical protein
+FDFBIKBB_01647	CDS	1419	dbpA	3.6.4.13	COG0513	ATP-dependent RNA helicase DbpA
+FDFBIKBB_01648	CDS	657	liaR_1		COG2197	Transcriptional regulatory protein LiaR
+FDFBIKBB_01649	CDS	1896				hypothetical protein
+FDFBIKBB_01650	CDS	1026	hypE	4.2.1.-		Carbamoyl dehydratase HypE
+FDFBIKBB_01651	CDS	1128	hypD		COG0409	Hydrogenase maturation factor HypD
+FDFBIKBB_01652	CDS	219				hypothetical protein
+FDFBIKBB_01653	CDS	2454	hypF	6.2.-.-	COG0068	Carbamoyltransferase HypF
+FDFBIKBB_01654	CDS	750	hypB		COG0378	Hydrogenase maturation factor HypB
+FDFBIKBB_01655	CDS	966	pfeA		COG4771	Ferric enterobactin receptor
+FDFBIKBB_01656	CDS	1176				hypothetical protein
+FDFBIKBB_01657	CDS	1062	hemS		COG3720	Hemin transport protein HemS
+FDFBIKBB_01658	CDS	882	hmuT		COG4558	Hemin-binding periplasmic protein HmuT
+FDFBIKBB_01659	CDS	1062	hmuU_2		COG0609	Hemin transport system permease protein HmuU
+FDFBIKBB_01660	CDS	225				hypothetical protein
+FDFBIKBB_01661	CDS	1173				hypothetical protein
+FDFBIKBB_01662	CDS	2595	rcsC_11	2.7.13.3		Sensor histidine kinase RcsC
+FDFBIKBB_01663	CDS	1947	rcsC_12	2.7.13.3		Sensor histidine kinase RcsC
+FDFBIKBB_01664	CDS	207				hypothetical protein
+FDFBIKBB_01665	CDS	285				hypothetical protein
+FDFBIKBB_01666	CDS	942	mtrA			HTH-type transcriptional regulator MtrA
+FDFBIKBB_01667	CDS	555	cas9	3.1.-.-		CRISPR-associated endonuclease Cas9
+FDFBIKBB_01668	CDS	1974	btuB_3			Vitamin B12 transporter BtuB
+FDFBIKBB_01669	CDS	1215		5.1.1.1		Alanine racemase
+FDFBIKBB_01670	CDS	1182				hypothetical protein
+FDFBIKBB_01671	CDS	720				hypothetical protein
+FDFBIKBB_01672	CDS	1236	argA	2.3.1.1	COG0548	Amino-acid acetyltransferase
+FDFBIKBB_01673	CDS	1176	argE	3.5.1.16	COG0624	Acetylornithine deacetylase
+FDFBIKBB_01674	CDS	1248				hypothetical protein
+FDFBIKBB_01675	CDS	1056	vdcA_2	2.7.7.65		Diguanylate cyclase VdcA
+FDFBIKBB_01676	CDS	876	bbsG	1.3.8.3		(R)-benzylsuccinyl-CoA dehydrogenase
+FDFBIKBB_01677	CDS	1038		2.7.1.-	COG3173	Putative aminoglycoside phosphotransferase
+FDFBIKBB_01678	CDS	993	adhT	1.1.1.1		Alcohol dehydrogenase
+FDFBIKBB_01679	CDS	765	fabG_3	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+FDFBIKBB_01680	CDS	780	lvr	1.1.1.-		Levodione reductase
+FDFBIKBB_01681	CDS	1227		1.3.1.-	COG3268	Putative trans-acting enoyl reductase
+FDFBIKBB_01682	CDS	1221	cdgJ	3.1.4.52	COG3434	Cyclic di-GMP phosphodiesterase CdgJ
+FDFBIKBB_01683	CDS	1620	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+FDFBIKBB_01684	CDS	786				hypothetical protein
+FDFBIKBB_01685	CDS	603	mucA		COG3073	Sigma factor AlgU negative regulatory protein
+FDFBIKBB_01686	CDS	1014	mucB		COG3026	Sigma factor AlgU regulatory protein MucB
+FDFBIKBB_01687	CDS	483	rseC		COG3086	Protein RseC
+FDFBIKBB_01688	CDS	1419				hypothetical protein
+FDFBIKBB_01689	CDS	852		2.7.1.-		putative ketoamine kinase
+FDFBIKBB_01690	CDS	1143	lhgD	1.1.5.-	COG0579	L-2-hydroxyglutarate dehydrogenase
+FDFBIKBB_01691	CDS	771				hypothetical protein
+FDFBIKBB_01692	CDS	1065	bioB	2.8.1.6	COG0502	Biotin synthase
+FDFBIKBB_01693	CDS	1197	bioF	2.3.1.47		8-amino-7-oxononanoate synthase
+FDFBIKBB_01694	CDS	756	bioH	3.1.1.85	COG0596	Pimeloyl-[acyl-carrier protein] methyl ester esterase
+FDFBIKBB_01695	CDS	786	bioC	2.1.1.197		Malonyl-[acyl-carrier protein] O-methyltransferase
+FDFBIKBB_01696	CDS	681	bioD1	6.3.3.3	COG0132	ATP-dependent dethiobiotin synthetase BioD 1
+FDFBIKBB_01697	CDS	246				hypothetical protein
+FDFBIKBB_01698	CDS	732				hypothetical protein
+FDFBIKBB_01699	CDS	1794	dmdC_2	1.3.8.-	COG1960	3-methylmercaptopropionyl-CoA dehydrogenase
+FDFBIKBB_01700	CDS	1785	dmdC_3	1.3.8.-	COG1960	3-methylmercaptopropionyl-CoA dehydrogenase
+FDFBIKBB_01701	CDS	789	bepA_4	3.4.-.-	COG4783	Beta-barrel assembly-enhancing protease
+FDFBIKBB_01702	CDS	333				hypothetical protein
+FDFBIKBB_01703	tRNA	76				tRNA-Phe(gaa)
+FDFBIKBB_01704	CDS	276			COG2924	putative Fe(2+)-trafficking protein
+FDFBIKBB_01705	CDS	1101	mutY	3.2.2.31	COG1194	Adenine DNA glycosylase
+FDFBIKBB_01706	CDS	462				hypothetical protein
+FDFBIKBB_01707	CDS	594	hisB		COG0131	Histidine biosynthesis bifunctional protein HisB
+FDFBIKBB_01708	CDS	642	hisH_2	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+FDFBIKBB_01709	CDS	741	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+FDFBIKBB_01710	CDS	774	hisF_2	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+FDFBIKBB_01711	CDS	597				hypothetical protein
+FDFBIKBB_01712	CDS	1905				hypothetical protein
+FDFBIKBB_01713	CDS	834				hypothetical protein
+FDFBIKBB_01714	CDS	1641	bicA		COG0659	Bicarbonate transporter BicA
+FDFBIKBB_01715	CDS	2163				hypothetical protein
+FDFBIKBB_01716	CDS	906				hypothetical protein
+FDFBIKBB_01717	CDS	963	argK	3.6.5.-	COG1703	GTPase ArgK
+FDFBIKBB_01718	CDS	2133	mcm	5.4.99.2	COG1884	Methylmalonyl-CoA mutase
+FDFBIKBB_01719	CDS	408	epi	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+FDFBIKBB_01720	CDS	357				hypothetical protein
+FDFBIKBB_01721	CDS	780	map	3.4.11.18	COG0024	Methionine aminopeptidase
+FDFBIKBB_01722	CDS	2676	glnD		COG2844	Bifunctional uridylyltransferase/uridylyl-removing enzyme
+FDFBIKBB_01723	CDS	1200	dapL	2.6.1.83	COG0436	LL-diaminopimelate aminotransferase
+FDFBIKBB_01724	CDS	354	yffB		COG1393	Protein YffB
+FDFBIKBB_01725	CDS	1023	dapD	2.3.1.117	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+FDFBIKBB_01726	CDS	1152	dapE	3.5.1.18	COG0624	Succinyl-diaminopimelate desuccinylase
+FDFBIKBB_01727	CDS	846	rlmA	2.1.1.187	COG0500	23S rRNA (guanine(745)-N(1))-methyltransferase
+FDFBIKBB_01728	CDS	270				hypothetical protein
+FDFBIKBB_01729	CDS	411				hypothetical protein
+FDFBIKBB_01730	CDS	5427				hypothetical protein
+FDFBIKBB_01731	CDS	723				hypothetical protein
+FDFBIKBB_01732	CDS	1917	htpG		COG0326	Chaperone protein HtpG
+FDFBIKBB_01733	CDS	1131				hypothetical protein
+FDFBIKBB_01734	CDS	918	cysK	2.5.1.47		Cysteine synthase
+FDFBIKBB_01735	CDS	372				hypothetical protein
+FDFBIKBB_01736	CDS	897				hypothetical protein
+FDFBIKBB_01737	CDS	1206				hypothetical protein
+FDFBIKBB_01738	CDS	144				hypothetical protein
+FDFBIKBB_01739	CDS	711	pdxJ	2.6.99.2		Pyridoxine 5'-phosphate synthase
+FDFBIKBB_01740	CDS	381	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+FDFBIKBB_01741	CDS	582				hypothetical protein
+FDFBIKBB_01742	CDS	846				hypothetical protein
+FDFBIKBB_01743	CDS	2352	rcsC_13	2.7.13.3		Sensor histidine kinase RcsC
+FDFBIKBB_01744	CDS	228				hypothetical protein
+FDFBIKBB_01745	CDS	990				hypothetical protein
+FDFBIKBB_01746	CDS	780				hypothetical protein
+FDFBIKBB_01747	CDS	213				hypothetical protein
+FDFBIKBB_01748	CDS	2001	acsA_1	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+FDFBIKBB_01749	CDS	900	liuE	4.1.3.26	COG0119	3-hydroxy-3-isohexenylglutaryl-CoA/hydroxy-methylglutaryl-CoA lyase
+FDFBIKBB_01750	CDS	786	echA8	4.2.1.17	COG1024	putative enoyl-CoA hydratase echA8
+FDFBIKBB_01751	CDS	702		2.1.3.1	COG4799	Methylmalonyl-CoA carboxyltransferase 12S subunit
+FDFBIKBB_01752	CDS	960				hypothetical protein
+FDFBIKBB_01753	CDS	2361	xpkA	4.1.2.9		Xylulose-5-phosphate phosphoketolase
+FDFBIKBB_01754	CDS	1086				hypothetical protein
+FDFBIKBB_01755	CDS	789	yddE	5.1.-.-	COG0384	putative isomerase YddE
+FDFBIKBB_01756	CDS	1701	hemL_2	5.4.3.8		Glutamate-1-semialdehyde 2,1-aminomutase
+FDFBIKBB_01757	CDS	957	yqjG_1	1.8.5.7	COG0435	Glutathionyl-hydroquinone reductase YqjG
+FDFBIKBB_01758	CDS	492				hypothetical protein
+FDFBIKBB_01759	CDS	924	dmlR_4			HTH-type transcriptional regulator DmlR
+FDFBIKBB_01760	CDS	714				hypothetical protein
+FDFBIKBB_01761	CDS	702	ygeA	5.1.1.13		L-aspartate/glutamate-specific racemase
+FDFBIKBB_01762	CDS	1005				hypothetical protein
+FDFBIKBB_01763	CDS	609				hypothetical protein
+FDFBIKBB_01764	CDS	2226	ptsP_2	2.7.3.9	COG3605	Phosphoenolpyruvate-dependent phosphotransferase system
+FDFBIKBB_01765	CDS	465				hypothetical protein
+FDFBIKBB_01766	CDS	1035				hypothetical protein
+FDFBIKBB_01767	CDS	906	rimK	6.3.2.-	COG0189	Ribosomal protein S6--L-glutamate ligase
+FDFBIKBB_01768	CDS	1335	mgtE		COG2239	Magnesium transporter MgtE
+FDFBIKBB_01769	CDS	660				hypothetical protein
+FDFBIKBB_01770	CDS	879	hdfR_1			HTH-type transcriptional regulator HdfR
+FDFBIKBB_01771	CDS	969	corA		COG0598	Cobalt/magnesium transport protein CorA
+FDFBIKBB_01772	CDS	2208		1.-.-.-	COG0243	putative oxidoreductase
+FDFBIKBB_01773	CDS	249				hypothetical protein
+FDFBIKBB_01774	CDS	237				hypothetical protein
+FDFBIKBB_01775	CDS	366				hypothetical protein
+FDFBIKBB_01776	CDS	552				hypothetical protein
+FDFBIKBB_01777	CDS	705				hypothetical protein
+FDFBIKBB_01778	CDS	210	cspV		COG1278	Cold shock protein CspV
+FDFBIKBB_01779	CDS	567				hypothetical protein
+FDFBIKBB_01780	CDS	861	mscK		COG3264	Mechanosensitive channel MscK
+FDFBIKBB_01781	CDS	423				hypothetical protein
+FDFBIKBB_01782	CDS	336				hypothetical protein
+FDFBIKBB_01783	CDS	1314				hypothetical protein
+FDFBIKBB_01784	CDS	513				hypothetical protein
+FDFBIKBB_01785	CDS	483				hypothetical protein
+FDFBIKBB_01786	CDS	864		4.2.1.150	COG1024	Crotonyl-CoA hydratase
+FDFBIKBB_01787	CDS	456				hypothetical protein
+FDFBIKBB_01788	CDS	891	dmlR_5			HTH-type transcriptional regulator DmlR
+FDFBIKBB_01789	CDS	630	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+FDFBIKBB_01790	CDS	615	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+FDFBIKBB_01791	CDS	1185	lpxB	2.4.1.182	COG0763	Lipid-A-disaccharide synthase
+FDFBIKBB_01792	CDS	774	lpxA	2.3.1.129		Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+FDFBIKBB_01793	CDS	438	fabZ	4.2.1.59	COG0764	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+FDFBIKBB_01794	CDS	1047	lpxD	2.3.1.-	COG1044	UDP-3-O-acylglucosamine N-acyltransferase
+FDFBIKBB_01795	CDS	504				hypothetical protein
+FDFBIKBB_01796	CDS	2331	bamA_2		COG4775	Outer membrane protein assembly factor BamA
+FDFBIKBB_01797	CDS	1380	rseP	3.4.24.-	COG0750	Regulator of sigma-E protease RseP
+FDFBIKBB_01798	CDS	1191	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+FDFBIKBB_01799	CDS	837	cdsA	2.7.7.41	COG0575	Phosphatidate cytidylyltransferase
+FDFBIKBB_01800	CDS	747	ispU	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+FDFBIKBB_01801	CDS	558	frr		COG0233	Ribosome-recycling factor
+FDFBIKBB_01802	CDS	423	pyrH	2.7.4.22	COG0528	Uridylate kinase
+FDFBIKBB_01803	CDS	723	anoR			Transcriptional activator protein AnoR
+FDFBIKBB_01804	CDS	426				hypothetical protein
+FDFBIKBB_01805	CDS	567	anoI	2.3.1.184		Acyl-homoserine-lactone synthase
+FDFBIKBB_01806	CDS	1662	sir	1.8.7.1	COG0155	Sulfite reductase [ferredoxin]
+FDFBIKBB_01807	CDS	489				hypothetical protein
+FDFBIKBB_01808	CDS	1593				hypothetical protein
+FDFBIKBB_01809	CDS	1248	ampG		COG0477	Anhydromuropeptide permease
+FDFBIKBB_01810	CDS	1173				hypothetical protein
+FDFBIKBB_01811	CDS	996				hypothetical protein
+FDFBIKBB_01812	CDS	1428				hypothetical protein
+FDFBIKBB_01813	CDS	855				hypothetical protein
+FDFBIKBB_01814	CDS	636				hypothetical protein
+FDFBIKBB_01815	CDS	2388	lon_3	3.4.21.53		Lon protease
+FDFBIKBB_01816	CDS	297				hypothetical protein
+FDFBIKBB_01817	CDS	393				hypothetical protein
+FDFBIKBB_01818	CDS	198	ftsA_2			Cell division protein FtsA
+FDFBIKBB_01819	CDS	1167	ftsZ		COG0206	Cell division protein FtsZ
+FDFBIKBB_01820	CDS	912	lpxC	3.5.1.108	COG0774	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+FDFBIKBB_01821	CDS	471				hypothetical protein
+FDFBIKBB_01822	CDS	942				hypothetical protein
+FDFBIKBB_01823	CDS	186				hypothetical protein
+FDFBIKBB_01824	CDS	540				hypothetical protein
+FDFBIKBB_01825	CDS	660	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+FDFBIKBB_01826	CDS	486				hypothetical protein
+FDFBIKBB_01827	CDS	726	pal_1			Peptidoglycan-associated lipoprotein
+FDFBIKBB_01828	CDS	186				hypothetical protein
+FDFBIKBB_01829	CDS	1113				hypothetical protein
+FDFBIKBB_01830	CDS	984				hypothetical protein
+FDFBIKBB_01831	CDS	1602				hypothetical protein
+FDFBIKBB_01832	CDS	978				hypothetical protein
+FDFBIKBB_01833	CDS	657				hypothetical protein
+FDFBIKBB_01834	CDS	492	zur		COG0735	Zinc uptake regulation protein
+FDFBIKBB_01835	CDS	663				hypothetical protein
+FDFBIKBB_01836	CDS	1209	yciC		COG0523	Putative metal chaperone YciC
+FDFBIKBB_01837	CDS	450	znuA		COG4531	High-affinity zinc uptake system protein ZnuA
+FDFBIKBB_01838	CDS	1566				hypothetical protein
+FDFBIKBB_01839	CDS	738				hypothetical protein
+FDFBIKBB_01840	CDS	651				hypothetical protein
+FDFBIKBB_01841	CDS	522	resA_2			Thiol-disulfide oxidoreductase ResA
+FDFBIKBB_01842	CDS	252				hypothetical protein
+FDFBIKBB_01843	CDS	1173				hypothetical protein
+FDFBIKBB_01844	CDS	549				hypothetical protein
+FDFBIKBB_01845	CDS	1185	mepA_2			Multidrug export protein MepA
+FDFBIKBB_01846	CDS	351	yciH		COG0023	putative protein YciH
+FDFBIKBB_01847	CDS	687	yohK		COG1346	Inner membrane protein YohK
+FDFBIKBB_01848	CDS	435	cidA			Holin-like protein CidA
+FDFBIKBB_01849	CDS	972				hypothetical protein
+FDFBIKBB_01850	CDS	501				hypothetical protein
+FDFBIKBB_01851	CDS	546				hypothetical protein
+FDFBIKBB_01852	CDS	705	tolQ_3			Tol-Pal system protein TolQ
+FDFBIKBB_01853	CDS	285				hypothetical protein
+FDFBIKBB_01854	CDS	618	ycf3_2			Photosystem I assembly protein Ycf3
+FDFBIKBB_01855	CDS	2844	cpoB_2			Cell division coordinator CpoB
+FDFBIKBB_01856	CDS	447				hypothetical protein
+FDFBIKBB_01857	CDS	1320	cry1		COG0415	Cryptochrome DASH
+FDFBIKBB_01858	CDS	1542	cry2		COG0415	Cryptochrome-like protein cry2
+FDFBIKBB_01859	CDS	1575	phrB_2	4.1.99.13	COG3046	(6-4) photolyase
+FDFBIKBB_01860	CDS	606	gph_3	3.1.3.18		Phosphoglycolate phosphatase
+FDFBIKBB_01861	CDS	2073	rcsC_14	2.7.13.3		Sensor histidine kinase RcsC
+FDFBIKBB_01862	CDS	477				hypothetical protein
+FDFBIKBB_01863	CDS	969	yqjG_2	1.8.5.7	COG0435	Glutathionyl-hydroquinone reductase YqjG
+FDFBIKBB_01864	CDS	894	yhaJ			HTH-type transcriptional regulator YhaJ
+FDFBIKBB_01865	CDS	699	yhhW	1.13.11.24	COG1741	Quercetin 2,3-dioxygenase
+FDFBIKBB_01866	CDS	732				hypothetical protein
+FDFBIKBB_01867	CDS	1017				hypothetical protein
+FDFBIKBB_01868	CDS	438				hypothetical protein
+FDFBIKBB_01869	CDS	1200	sasA_7	2.7.-.-		Adaptive-response sensory-kinase SasA
+FDFBIKBB_01870	CDS	1218				hypothetical protein
+FDFBIKBB_01871	CDS	891				hypothetical protein
+FDFBIKBB_01872	CDS	1014				hypothetical protein
+FDFBIKBB_01873	CDS	1029				hypothetical protein
+FDFBIKBB_01874	CDS	390				hypothetical protein
+FDFBIKBB_01875	CDS	1266	pfp	2.7.1.90	COG0205	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+FDFBIKBB_01876	CDS	633	gstB	2.5.1.18	COG0625	Glutathione S-transferase GST-6.0
+FDFBIKBB_01877	CDS	1041	clpB		COG0542	Chaperone protein ClpB
+FDFBIKBB_01878	CDS	1047		3.5.1.4		Aliphatic amidase
+FDFBIKBB_01879	CDS	858				hypothetical protein
+FDFBIKBB_01880	CDS	2802				hypothetical protein
+FDFBIKBB_01881	CDS	846	mscS_4		COG0668	Small-conductance mechanosensitive channel
+FDFBIKBB_01882	CDS	1098				hypothetical protein
+FDFBIKBB_01883	CDS	783	caiD_2	4.2.1.149		Carnitinyl-CoA dehydratase
+FDFBIKBB_01884	CDS	1002	cdhR		COG4977	HTH-type transcriptional regulator CdhR
+FDFBIKBB_01885	CDS	1398				hypothetical protein
+FDFBIKBB_01886	CDS	483				hypothetical protein
+FDFBIKBB_01887	CDS	1035	nitA	3.5.5.7		Aliphatic nitrilase
+FDFBIKBB_01888	CDS	1131				hypothetical protein
+FDFBIKBB_01889	CDS	618				hypothetical protein
+FDFBIKBB_01890	CDS	993	thiL_1	2.7.4.16		Thiamine-monophosphate kinase
+FDFBIKBB_01891	CDS	279				hypothetical protein
+FDFBIKBB_01892	CDS	1251				hypothetical protein
+FDFBIKBB_01893	CDS	645				hypothetical protein
+FDFBIKBB_01894	CDS	882			COG1305	putative protein
+FDFBIKBB_01895	CDS	2556			COG2307	putative protein
+FDFBIKBB_01896	CDS	3396				hypothetical protein
+FDFBIKBB_01897	CDS	252				hypothetical protein
+FDFBIKBB_01898	CDS	318				hypothetical protein
+FDFBIKBB_01899	CDS	1380	ppnN	3.2.2.-	COG1611	Pyrimidine/purine nucleotide 5'-monophosphate nucleosidase
+FDFBIKBB_01900	CDS	1455	thiI	2.8.1.4	COG0301	tRNA sulfurtransferase
+FDFBIKBB_01901	CDS	783				hypothetical protein
+FDFBIKBB_01902	CDS	621				hypothetical protein
+FDFBIKBB_01903	CDS	258				hypothetical protein
+FDFBIKBB_01904	CDS	843				hypothetical protein
+FDFBIKBB_01905	CDS	786				hypothetical protein
+FDFBIKBB_01906	CDS	462				hypothetical protein
+FDFBIKBB_01907	CDS	642	pdxH	1.4.3.5	COG0259	Pyridoxine/pyridoxamine 5'-phosphate oxidase
+FDFBIKBB_01908	CDS	747				hypothetical protein
+FDFBIKBB_01909	CDS	2169	uvrD	3.6.4.12	COG0210	DNA helicase II
+FDFBIKBB_01910	CDS	2778				hypothetical protein
+FDFBIKBB_01911	CDS	1134	pilT_1		COG2805	Twitching mobility protein
+FDFBIKBB_01912	CDS	1035	pilT_2		COG2805	Twitching mobility protein
+FDFBIKBB_01913	CDS	711	yggS		COG0325	Pyridoxal phosphate homeostasis protein
+FDFBIKBB_01914	CDS	843	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+FDFBIKBB_01915	CDS	1365	pncC	3.5.1.42	COG1058	Nicotinamide-nucleotide amidohydrolase PncC
+FDFBIKBB_01916	CDS	570	yeiP		COG0231	Elongation factor P-like protein
+FDFBIKBB_01917	CDS	282	ppnP	2.4.2.1	COG3123	Pyrimidine/purine nucleoside phosphorylase
+FDFBIKBB_01918	CDS	606	pspB	3.1.3.3	COG0406	Putative phosphoserine phosphatase 2
+FDFBIKBB_01919	CDS	1410	hemN	1.3.98.3	COG0635	Oxygen-independent coproporphyrinogen III oxidase
+FDFBIKBB_01920	CDS	729	anr			Transcriptional activator protein Anr
+FDFBIKBB_01921	CDS	516	resA_3			Thiol-disulfide oxidoreductase ResA
+FDFBIKBB_01922	CDS	1005				putative HTH-type transcriptional regulator
+FDFBIKBB_01923	CDS	936	lip1	3.1.1.3		Lipase 1
+FDFBIKBB_01924	CDS	1908	speA	4.1.1.19		Biosynthetic arginine decarboxylase
+FDFBIKBB_01925	CDS	852	speE_1	2.5.1.16	COG0421	Polyamine aminopropyltransferase
+FDFBIKBB_01926	CDS	1269	nrgA			Ammonium transporter
+FDFBIKBB_01927	CDS	339	glnK		COG0347	Nitrogen regulatory protein P-II 2
+FDFBIKBB_01928	CDS	261	ubiK		COG2960	Ubiquinone biosynthesis accessory factor UbiK
+FDFBIKBB_01929	CDS	1503	comM		COG0606	Competence protein ComM
+FDFBIKBB_01930	CDS	567	rlmG	2.1.1.174	COG2813	Ribosomal RNA large subunit methyltransferase G
+FDFBIKBB_01931	CDS	1143	mdtA_3			Multidrug resistance protein MdtA
+FDFBIKBB_01932	CDS	3108	czcA_1			Cobalt-zinc-cadmium resistance protein CzcA
+FDFBIKBB_01933	CDS	1485				hypothetical protein
+FDFBIKBB_01934	CDS	807				hypothetical protein
+FDFBIKBB_01935	CDS	1125				hypothetical protein
+FDFBIKBB_01936	CDS	1008	ddl_2	6.3.2.4		D-alanine--D-alanine ligase
+FDFBIKBB_01937	CDS	1134				hypothetical protein
+FDFBIKBB_01938	CDS	633				hypothetical protein
+FDFBIKBB_01939	CDS	1203				hypothetical protein
+FDFBIKBB_01940	CDS	942	cheV		COG0784	Chemotaxis protein CheV
+FDFBIKBB_01941	CDS	765	cheR2	2.1.1.80		Chemotaxis protein methyltransferase Cher2
+FDFBIKBB_01942	tRNA	88				tRNA-Ser(gga)
+FDFBIKBB_01943	CDS	264				hypothetical protein
+FDFBIKBB_01944	CDS	1782	aspS	6.1.1.23	COG0173	Aspartate--tRNA(Asp/Asn) ligase
+FDFBIKBB_01945	CDS	750	pmpR		COG0217	Transcriptional regulatory protein PmpR
+FDFBIKBB_01946	CDS	516	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+FDFBIKBB_01947	CDS	597	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+FDFBIKBB_01948	CDS	1032	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+FDFBIKBB_01949	CDS	1236				hypothetical protein
+FDFBIKBB_01950	CDS	2178	glcB	2.3.3.9	COG2225	Malate synthase G
+FDFBIKBB_01951	CDS	783				hypothetical protein
+FDFBIKBB_01952	CDS	483	gpx1	1.11.1.22		Hydroperoxy fatty acid reductase gpx1
+FDFBIKBB_01953	CDS	1218				hypothetical protein
+FDFBIKBB_01954	CDS	1743				hypothetical protein
+FDFBIKBB_01955	CDS	1539	rng	3.1.26.-	COG1530	Ribonuclease G
+FDFBIKBB_01956	CDS	612	yhdE	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+FDFBIKBB_01957	CDS	405	mreD		COG2891	Rod shape-determining protein MreD
+FDFBIKBB_01958	CDS	2115	prc	3.4.21.102	COG0793	Tail-specific protease
+FDFBIKBB_01959	CDS	285				hypothetical protein
+FDFBIKBB_01960	CDS	1785				hypothetical protein
+FDFBIKBB_01961	CDS	1830	plsB	2.3.1.15	COG2937	Glycerol-3-phosphate acyltransferase
+FDFBIKBB_01962	CDS	900				hypothetical protein
+FDFBIKBB_01963	CDS	390	pdeB_1	3.1.4.52		Cyclic di-GMP phosphodiesterase PdeB
+FDFBIKBB_01964	CDS	831	dinB	2.7.7.7	COG0389	DNA polymerase IV
+FDFBIKBB_01965	CDS	585				hypothetical protein
+FDFBIKBB_01966	CDS	585				hypothetical protein
+FDFBIKBB_01967	CDS	810				hypothetical protein
+FDFBIKBB_01968	CDS	981	srkA	2.7.11.1	COG2334	Stress response kinase A
+FDFBIKBB_01969	CDS	384				hypothetical protein
+FDFBIKBB_01970	CDS	738	cmoA	2.1.3.-	COG0500	Carboxy-S-adenosyl-L-methionine synthase
+FDFBIKBB_01971	CDS	984	cmoB	2.5.1.-	COG0500	tRNA U34 carboxymethyltransferase
+FDFBIKBB_01972	CDS	1248	rpoS_1			RNA polymerase sigma factor RpoS
+FDFBIKBB_01973	CDS	552	btuE	1.11.1.15		Thioredoxin/glutathione peroxidase BtuE
+FDFBIKBB_01974	CDS	411	folX_1	5.1.99.7	COG1539	Dihydroneopterin triphosphate 2'-epimerase
+FDFBIKBB_01975	CDS	654	folE_1	3.5.4.16	COG0302	GTP cyclohydrolase 1
+FDFBIKBB_01976	CDS	711	folM	1.5.1.50	COG1028	Dihydromonapterin reductase
+FDFBIKBB_01977	CDS	768				hypothetical protein
+FDFBIKBB_01978	CDS	1770	dmdC_4	1.3.8.-	COG1960	3-methylmercaptopropionyl-CoA dehydrogenase
+FDFBIKBB_01979	CDS	510				hypothetical protein
+FDFBIKBB_01980	CDS	351				hypothetical protein
+FDFBIKBB_01981	CDS	1005	egtD	2.1.1.44	COG4301	Histidine N-alpha-methyltransferase
+FDFBIKBB_01982	CDS	1056	egtB	1.14.99.50		Hercynine oxygenase
+FDFBIKBB_01983	CDS	711	dnaQ	2.7.7.7	COG0847	DNA polymerase III subunit epsilon
+FDFBIKBB_01984	CDS	432	rnhA	3.1.26.4	COG0328	Ribonuclease HI
+FDFBIKBB_01985	CDS	816				hypothetical protein
+FDFBIKBB_01986	CDS	801	gloB	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloB
+FDFBIKBB_01987	CDS	1740				hypothetical protein
+FDFBIKBB_01988	CDS	1455				hypothetical protein
+FDFBIKBB_01989	CDS	1626				hypothetical protein
+FDFBIKBB_01990	CDS	402				hypothetical protein
+FDFBIKBB_01991	CDS	2592	mutS		COG0249	DNA mismatch repair protein MutS
+FDFBIKBB_01992	CDS	324	fdxA		COG1146	Ferredoxin-1
+FDFBIKBB_01993	CDS	600	sprT			Protein SprT
+FDFBIKBB_01994	CDS	759	yfcA		COG0730	putative membrane transporter protein YfcA
+FDFBIKBB_01995	CDS	402				hypothetical protein
+FDFBIKBB_01996	CDS	1065	cbbA	4.1.2.13		Fructose-bisphosphate aldolase
+FDFBIKBB_01997	CDS	1164	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+FDFBIKBB_01998	CDS	1047	epd	1.2.1.72	COG0057	D-erythrose-4-phosphate dehydrogenase
+FDFBIKBB_01999	CDS	1995	tktA	2.2.1.1	COG0021	Transketolase 1
+FDFBIKBB_02000	CDS	1503				hypothetical protein
+FDFBIKBB_02001	CDS	582				hypothetical protein
+FDFBIKBB_02002	CDS	483				hypothetical protein
+FDFBIKBB_02003	CDS	327				hypothetical protein
+FDFBIKBB_02004	CDS	948	ppk2	2.7.4.1	COG2326	Polyphosphate:NDP phosphotransferase 2
+FDFBIKBB_02005	CDS	1131				hypothetical protein
+FDFBIKBB_02006	CDS	960				hypothetical protein
+FDFBIKBB_02007	CDS	978			COG1721	putative protein
+FDFBIKBB_02008	CDS	468				hypothetical protein
+FDFBIKBB_02009	CDS	1083				hypothetical protein
+FDFBIKBB_02010	CDS	231	bluB	1.13.11.79	COG0778	5,6-dimethylbenzimidazole synthase
+FDFBIKBB_02011	CDS	2019	rep_2	3.6.4.12	COG0210	ATP-dependent DNA helicase Rep
+FDFBIKBB_02012	CDS	2298	yhgF		COG2183	Protein YhgF
+FDFBIKBB_02013	CDS	1581	gshA	6.3.2.2	COG2918	Glutamate--cysteine ligase
+FDFBIKBB_02014	CDS	201	rmf_2			Ribosome modulation factor
+FDFBIKBB_02015	CDS	420				hypothetical protein
+FDFBIKBB_02016	CDS	501	dsbB			Disulfide bond formation protein B
+FDFBIKBB_02017	CDS	474	rsd		COG3160	Regulator of sigma D
+FDFBIKBB_02018	CDS	951				hypothetical protein
+FDFBIKBB_02019	CDS	321				hypothetical protein
+FDFBIKBB_02020	CDS	414				hypothetical protein
+FDFBIKBB_02021	CDS	489				hypothetical protein
+FDFBIKBB_02022	CDS	1413				hypothetical protein
+FDFBIKBB_02023	CDS	1053				hypothetical protein
+FDFBIKBB_02024	CDS	489	nudC	3.6.1.22		NADH pyrophosphatase
+FDFBIKBB_02025	CDS	1284	dctM		COG1593	C4-dicarboxylate TRAP transporter large permease protein DctM
+FDFBIKBB_02026	CDS	558				hypothetical protein
+FDFBIKBB_02027	CDS	1104			COG4663	Monocarboxylate 2-oxoacid-binding periplasmic protein
+FDFBIKBB_02028	CDS	1257				hypothetical protein
+FDFBIKBB_02029	CDS	357				hypothetical protein
+FDFBIKBB_02030	CDS	825	trpC	4.1.1.48		Indole-3-glycerol phosphate synthase
+FDFBIKBB_02031	CDS	1053	trpD_1	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+FDFBIKBB_02032	CDS	579	trpG	4.1.3.27	COG0512	Anthranilate synthase component 2
+FDFBIKBB_02033	CDS	1506	trpE	4.1.3.27	COG0147	Anthranilate synthase component 1
+FDFBIKBB_02034	CDS	687	gph_4	3.1.3.18	COG0546	Phosphoglycolate phosphatase
+FDFBIKBB_02035	CDS	675	rpe	5.1.3.1	COG0036	Ribulose-phosphate 3-epimerase
+FDFBIKBB_02036	CDS	1110				hypothetical protein
+FDFBIKBB_02037	CDS	1398				hypothetical protein
+FDFBIKBB_02038	CDS	705				hypothetical protein
+FDFBIKBB_02039	CDS	660	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+FDFBIKBB_02040	CDS	774	exoA_1	3.1.11.2	COG0708	Exodeoxyribonuclease
+FDFBIKBB_02041	CDS	720	rph	2.7.7.56	COG0689	Ribonuclease PH
+FDFBIKBB_02042	CDS	867				hypothetical protein
+FDFBIKBB_02043	CDS	627	gmk	2.7.4.8	COG0194	Guanylate kinase
+FDFBIKBB_02044	CDS	213	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+FDFBIKBB_02045	CDS	2127	spoT	3.1.7.2	COG0317	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase
+FDFBIKBB_02046	CDS	387	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+FDFBIKBB_02047	CDS	858				hypothetical protein
+FDFBIKBB_02048	CDS	93				hypothetical protein
+FDFBIKBB_02049	CDS	2070	recG	3.6.4.12	COG1200	ATP-dependent DNA helicase RecG
+FDFBIKBB_02050	CDS	1416				hypothetical protein
+FDFBIKBB_02051	CDS	804	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+FDFBIKBB_02052	CDS	990	pdxA	1.1.1.262	COG1995	4-hydroxythreonine-4-phosphate dehydrogenase
+FDFBIKBB_02053	CDS	1320	surA	5.2.1.8	COG0760	Chaperone SurA
+FDFBIKBB_02054	CDS	2322	lptD		COG1452	LPS-assembly protein LptD
+FDFBIKBB_02055	CDS	1023	amgK	2.7.1.221	COG3178	N-acetylmuramate/N-acetylglucosamine kinase
+FDFBIKBB_02056	CDS	708	murU	2.7.7.99	COG1208	N-acetylmuramate alpha-1-phosphate uridylyltransferase
+FDFBIKBB_02057	CDS	819	pomA_3		COG1291	Chemotaxis protein PomA
+FDFBIKBB_02058	CDS	771	motB_3		COG1360	Motility protein B
+FDFBIKBB_02059	CDS	351				hypothetical protein
+FDFBIKBB_02060	CDS	273				hypothetical protein
+FDFBIKBB_02061	CDS	2727	polA	2.7.7.7	COG0258	DNA polymerase I
+FDFBIKBB_02062	CDS	756				hypothetical protein
+FDFBIKBB_02063	CDS	264				hypothetical protein
+FDFBIKBB_02064	CDS	678				hypothetical protein
+FDFBIKBB_02065	CDS	1467	sasA_8	2.7.-.-		Adaptive-response sensory-kinase SasA
+FDFBIKBB_02066	CDS	873	rssB_5			Regulator of RpoS
+FDFBIKBB_02067	CDS	738				hypothetical protein
+FDFBIKBB_02068	CDS	705				hypothetical protein
+FDFBIKBB_02069	CDS	3204	dnaE2	2.7.7.7		Error-prone DNA polymerase
+FDFBIKBB_02070	CDS	1440	imuB			Protein ImuB
+FDFBIKBB_02071	CDS	729				hypothetical protein
+FDFBIKBB_02072	CDS	1056	yhhT		COG0628	Putative transport protein YhhT
+FDFBIKBB_02073	CDS	132				hypothetical protein
+FDFBIKBB_02074	CDS	561				hypothetical protein
+FDFBIKBB_02075	CDS	252	fdx		COG1145	Ferredoxin
+FDFBIKBB_02076	CDS	486	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+FDFBIKBB_02077	CDS	891	suhB_2	3.1.3.25	COG0483	Inositol-1-monophosphatase
+FDFBIKBB_02078	CDS	984				hypothetical protein
+FDFBIKBB_02079	CDS	1581		1.1.-.-	COG2303	putative GMC-type oxidoreductase
+FDFBIKBB_02080	CDS	633				hypothetical protein
+FDFBIKBB_02081	CDS	1446	calB	1.2.1.68		Coniferyl aldehyde dehydrogenase
+FDFBIKBB_02082	CDS	678				hypothetical protein
+FDFBIKBB_02083	CDS	642	engB		COG0218	putative GTP-binding protein EngB
+FDFBIKBB_02084	CDS	612	cc4		COG2863	Cytochrome c4
+FDFBIKBB_02085	CDS	672	dsbA		COG0526	Thiol:disulfide interchange protein DsbA
+FDFBIKBB_02086	CDS	861				hypothetical protein
+FDFBIKBB_02087	CDS	156	rpmG		COG0267	50S ribosomal protein L33
+FDFBIKBB_02088	CDS	237	rpmB		COG0227	50S ribosomal protein L28
+FDFBIKBB_02089	CDS	675				hypothetical protein
+FDFBIKBB_02090	CDS	573	acnR		COG1309	HTH-type transcriptional repressor AcnR
+FDFBIKBB_02091	CDS	441				hypothetical protein
+FDFBIKBB_02092	CDS	312				hypothetical protein
+FDFBIKBB_02093	CDS	891	rarD		COG2962	Protein RarD
+FDFBIKBB_02094	CDS	213				hypothetical protein
+FDFBIKBB_02095	CDS	885	mcpH			Methyl-accepting chemotaxis protein McpH
+FDFBIKBB_02096	CDS	693				hypothetical protein
+FDFBIKBB_02097	CDS	870	tolQ_4			Tol-Pal system protein TolQ
+FDFBIKBB_02098	CDS	582				hypothetical protein
+FDFBIKBB_02099	CDS	555				hypothetical protein
+FDFBIKBB_02100	CDS	1095				hypothetical protein
+FDFBIKBB_02101	CDS	510				hypothetical protein
+FDFBIKBB_02102	CDS	396	speH	4.1.1.50	COG1586	S-adenosylmethionine decarboxylase proenzyme
+FDFBIKBB_02103	CDS	714	speE_2	2.5.1.16		Polyamine aminopropyltransferase
+FDFBIKBB_02104	CDS	2637	glmM_2			Phosphoglucosamine mutase
+FDFBIKBB_02105	CDS	462	dut	3.6.1.23	COG0756	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+FDFBIKBB_02106	CDS	1233	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+FDFBIKBB_02107	CDS	210	cspD		COG1278	Cold shock-like protein CspD
+FDFBIKBB_02108	CDS	636	nth	4.2.99.18	COG0177	Endonuclease III
+FDFBIKBB_02109	CDS	684	polC_2	2.7.7.7		DNA polymerase III PolC-type
+FDFBIKBB_02110	CDS	1830	IMPDH	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+FDFBIKBB_02111	CDS	495				hypothetical protein
+FDFBIKBB_02112	CDS	1731	actP_2		COG4147	Cation/acetate symporter ActP
+FDFBIKBB_02113	CDS	264				hypothetical protein
+FDFBIKBB_02114	CDS	639				hypothetical protein
+FDFBIKBB_02115	CDS	1581	guaA	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+FDFBIKBB_02116	CDS	1470	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+FDFBIKBB_02117	CDS	1347	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+FDFBIKBB_02118	CDS	417	yjbI		COG2346	Group 2 truncated hemoglobin YjbI
+FDFBIKBB_02119	CDS	519				hypothetical protein
+FDFBIKBB_02120	CDS	531	blc		COG3040	Outer membrane lipoprotein Blc
+FDFBIKBB_02121	CDS	489	djlA_2			Co-chaperone protein DjlA
+FDFBIKBB_02122	CDS	876	mcl1	4.1.3.24	COG2301	L-malyl-CoA/beta-methylmalyl-CoA lyase
+FDFBIKBB_02123	CDS	861	meh	4.2.1.153	COG3777	Mesaconyl-C(4)-CoA hydratase
+FDFBIKBB_02124	CDS	1206	mct	5.4.1.3	COG1804	2-methylfumaryl-CoA isomerase
+FDFBIKBB_02125	CDS	1017	ppsC_1	2.3.1.41		Phthiocerol synthesis polyketide synthase type I PpsC
+FDFBIKBB_02126	CDS	1125				hypothetical protein
+FDFBIKBB_02127	CDS	1686	mcd	1.3.8.12	COG1960	(2S)-methylsuccinyl-CoA dehydrogenase
+FDFBIKBB_02128	CDS	2028	ecm	5.4.99.63	COG1884	Ethylmalonyl-CoA mutase
+FDFBIKBB_02129	CDS	1047	icmF	5.4.99.13		Fused isobutyryl-CoA mutase
+FDFBIKBB_02130	CDS	1242	ccr	1.3.1.85	COG0604	Crotonyl-CoA carboxylase/reductase
+FDFBIKBB_02131	CDS	624	secA		COG0653	Protein translocase subunit SecA
+FDFBIKBB_02132	CDS	1230	argJ		COG1364	Arginine biosynthesis bifunctional protein ArgJ
+FDFBIKBB_02133	CDS	1062	thiE_1	2.5.1.3		Thiamine-phosphate synthase
+FDFBIKBB_02134	CDS	483	moaC	4.6.1.17	COG0315	Cyclic pyranopterin monophosphate synthase
+FDFBIKBB_02135	CDS	1026	moaA_1	4.1.99.22		GTP 3',8-cyclase
+FDFBIKBB_02136	CDS	1524				hypothetical protein
+FDFBIKBB_02137	CDS	627	ribA	3.5.4.25	COG0807	GTP cyclohydrolase-2
+FDFBIKBB_02138	CDS	1275	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+FDFBIKBB_02139	CDS	825	algA		COG0662	Alginate biosynthesis protein AlgA
+FDFBIKBB_02140	CDS	483				hypothetical protein
+FDFBIKBB_02141	CDS	723	ugpQ	3.1.4.46	COG0584	Glycerophosphodiester phosphodiesterase, cytoplasmic
+FDFBIKBB_02142	CDS	447				hypothetical protein
+FDFBIKBB_02143	CDS	954	talB	2.2.1.2	COG0176	Transaldolase B
+FDFBIKBB_02144	CDS	936	dusA	1.3.1.-	COG0042	tRNA-dihydrouridine(20/20a) synthase
+FDFBIKBB_02145	CDS	2691	rcsC_15	2.7.13.3		Sensor histidine kinase RcsC
+FDFBIKBB_02146	CDS	1299				hypothetical protein
+FDFBIKBB_02147	CDS	324				hypothetical protein
+FDFBIKBB_02148	CDS	1242				hypothetical protein
+FDFBIKBB_02149	CDS	1038				hypothetical protein
+FDFBIKBB_02150	CDS	1281	mshA_6	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+FDFBIKBB_02151	CDS	468				hypothetical protein
+FDFBIKBB_02152	CDS	1638	bepA_5	3.4.-.-		Beta-barrel assembly-enhancing protease
+FDFBIKBB_02153	CDS	672				hypothetical protein
+FDFBIKBB_02154	CDS	342				hypothetical protein
+FDFBIKBB_02155	CDS	948	ptrA	3.4.24.55	COG1025	Protease 3
+FDFBIKBB_02156	CDS	852	acuC			Acetoin utilization protein AcuC
+FDFBIKBB_02157	CDS	1953	acsA_2	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+FDFBIKBB_02158	CDS	1590				Iron-sulfur cluster carrier protein
+FDFBIKBB_02159	CDS	612				hypothetical protein
+FDFBIKBB_02160	CDS	642				hypothetical protein
+FDFBIKBB_02161	CDS	1602				hypothetical protein
+FDFBIKBB_02162	CDS	1587				hypothetical protein
+FDFBIKBB_02163	CDS	948	apbE_3	2.7.1.180	COG1477	FAD:protein FMN transferase
+FDFBIKBB_02164	CDS	1383				hypothetical protein
+FDFBIKBB_02165	CDS	228				hypothetical protein
+FDFBIKBB_02166	CDS	498	resA_4		COG0526	Thiol-disulfide oxidoreductase ResA
+FDFBIKBB_02167	CDS	657	qseB			Transcriptional regulatory protein QseB
+FDFBIKBB_02168	CDS	1398	qseC	2.7.13.3		Sensor protein QseC
+FDFBIKBB_02169	CDS	768				hypothetical protein
+FDFBIKBB_02170	CDS	651	ubiX	2.5.1.129	COG0163	Flavin prenyltransferase UbiX
+FDFBIKBB_02171	CDS	423	mpl	6.3.2.45	COG0773	UDP-N-acetylmuramate--L-alanyl-gamma-D-glutamyl-meso-2,6-diaminoheptandioate ligase
+FDFBIKBB_02172	CDS	1161			COG0683	Leu/Ile/Val-binding protein 
+FDFBIKBB_02173	tRNA	77				tRNA-Arg(cct)
+FDFBIKBB_02174	CDS	1206	alkB1	1.14.15.3		Alkane 1-monooxygenase 1
+FDFBIKBB_02175	CDS	1053				putative HTH-type transcriptional regulator
+FDFBIKBB_02176	CDS	984	moaA_2			GTP 3',8-cyclase
+FDFBIKBB_02177	CDS	720				hypothetical protein
+FDFBIKBB_02178	CDS	201				hypothetical protein
+FDFBIKBB_02179	CDS	264				hypothetical protein
+FDFBIKBB_02180	CDS	249				hypothetical protein
+FDFBIKBB_02181	CDS	393	gloA	4.4.1.5	COG0346	Lactoylglutathione lyase
+FDFBIKBB_02182	CDS	1623				hypothetical protein
+FDFBIKBB_02183	CDS	798	rsmJ	2.1.1.242		Ribosomal RNA small subunit methyltransferase J
+FDFBIKBB_02184	CDS	321				hypothetical protein
+FDFBIKBB_02185	CDS	798	uppP	3.6.1.27	COG1968	Undecaprenyl-diphosphatase
+FDFBIKBB_02186	CDS	255				hypothetical protein
+FDFBIKBB_02187	CDS	243				hypothetical protein
+FDFBIKBB_02188	CDS	615				hypothetical protein
+FDFBIKBB_02189	CDS	948	hldD	5.1.3.20	COG0451	ADP-L-glycero-D-manno-heptose-6-epimerase
+FDFBIKBB_02190	CDS	936				hypothetical protein
+FDFBIKBB_02191	CDS	1269	namA_1	1.6.99.1		NADPH dehydrogenase
+FDFBIKBB_02192	CDS	891				hypothetical protein
+FDFBIKBB_02193	CDS	1302				hypothetical protein
+FDFBIKBB_02194	CDS	426				hypothetical protein
+FDFBIKBB_02195	CDS	987	galE	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+FDFBIKBB_02196	CDS	636	tadA	3.5.4.33		tRNA-specific adenosine deaminase
+FDFBIKBB_02197	CDS	333				hypothetical protein
+FDFBIKBB_02198	CDS	855	folD		COG0190	Bifunctional protein FolD protein
+FDFBIKBB_02199	CDS	1386	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+FDFBIKBB_02200	CDS	1698	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+FDFBIKBB_02201	CDS	1296	yfeW	3.4.16.4		Putative D-alanyl-D-alanine carboxypeptidase
+FDFBIKBB_02202	CDS	498		5.2.1.8		Peptidyl-prolyl cis-trans isomerase cyp18
+FDFBIKBB_02203	CDS	729	lpxH	3.6.1.54	COG2908	UDP-2,3-diacylglucosamine hydrolase
+FDFBIKBB_02204	CDS	555				hypothetical protein
+FDFBIKBB_02205	CDS	900				hypothetical protein
+FDFBIKBB_02206	CDS	558	folE_2	3.5.4.16	COG0302	GTP cyclohydrolase 1
+FDFBIKBB_02207	CDS	1917	rnr_2	3.1.13.1	COG0557	Ribonuclease R
+FDFBIKBB_02208	CDS	654				hypothetical protein
+FDFBIKBB_02209	CDS	798				hypothetical protein
+FDFBIKBB_02210	CDS	726	ybiX	1.14.11.-		PKHD-type hydroxylase YbiX
+FDFBIKBB_02211	CDS	618				hypothetical protein
+FDFBIKBB_02212	CDS	603	yohC			Inner membrane protein YohC
+FDFBIKBB_02213	CDS	108				hypothetical protein
+FDFBIKBB_02214	CDS	753	scaC	7.2.2.5	COG1121	Manganese import ATP-binding protein ScaC
+FDFBIKBB_02215	CDS	873	mntB			Manganese transport system membrane protein MntB
+FDFBIKBB_02216	CDS	402	hisI	3.5.4.19		Phosphoribosyl-AMP cyclohydrolase
+FDFBIKBB_02217	CDS	693	mip	5.2.1.8	COG0545	Outer membrane protein MIP
+FDFBIKBB_02218	CDS	495	slyD_2	5.2.1.8	COG1047	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+FDFBIKBB_02219	CDS	1044				hypothetical protein
+FDFBIKBB_02220	CDS	291	ybaN		COG2832	Inner membrane protein YbaN
+FDFBIKBB_02221	CDS	927	rbgA		COG1161	Ribosome biogenesis GTPase A
+FDFBIKBB_02222	CDS	789				hypothetical protein
+FDFBIKBB_02223	CDS	1107				hypothetical protein
+FDFBIKBB_02224	CDS	147				hypothetical protein
+FDFBIKBB_02225	CDS	603	yfbR	3.1.3.89	COG1896	5'-deoxynucleotidase YfbR
+FDFBIKBB_02226	CDS	1941				hypothetical protein
+FDFBIKBB_02227	CDS	1149	metXS	2.3.1.46	COG2021	Homoserine O-succinyltransferase
+FDFBIKBB_02228	CDS	597	metXA		COG0500	Bifunctional methionine biosynthesis protein MetXA/MetW
+FDFBIKBB_02229	CDS	465				hypothetical protein
+FDFBIKBB_02230	CDS	600	rdgB	3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+FDFBIKBB_02231	CDS	1137	hemW		COG0635	Heme chaperone HemW
+FDFBIKBB_02232	CDS	384				hypothetical protein
+FDFBIKBB_02233	CDS	1287	hemL_3	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+FDFBIKBB_02234	CDS	630	thiE_2	2.5.1.3	COG0352	Thiamine-phosphate synthase
+FDFBIKBB_02235	CDS	423				hypothetical protein
+FDFBIKBB_02236	CDS	1782	clcB			Voltage-gated ClC-type chloride channel ClcB
+FDFBIKBB_02237	CDS	732				hypothetical protein
+FDFBIKBB_02238	CDS	468				hypothetical protein
+FDFBIKBB_02239	CDS	354	erpA		COG0316	Iron-sulfur cluster insertion protein ErpA
+FDFBIKBB_02240	CDS	375	crcB			Putative fluoride ion transporter CrcB
+FDFBIKBB_02241	CDS	483				hypothetical protein
+FDFBIKBB_02242	CDS	1437	der		COG1160	GTPase Der
+FDFBIKBB_02243	CDS	1176	bamB		COG1520	Outer membrane protein assembly factor BamB
+FDFBIKBB_02244	CDS	843				IS481 family transposase ISChy3
+FDFBIKBB_02245	CDS	822				hypothetical protein
+FDFBIKBB_02246	CDS	1755				hypothetical protein
+FDFBIKBB_02247	CDS	1191				hypothetical protein
+FDFBIKBB_02248	CDS	588				hypothetical protein
+FDFBIKBB_02249	CDS	555				hypothetical protein
+FDFBIKBB_02250	CDS	531				hypothetical protein
+FDFBIKBB_02251	CDS	621				hypothetical protein
+FDFBIKBB_02252	CDS	624				hypothetical protein
+FDFBIKBB_02253	CDS	1812				hypothetical protein
+FDFBIKBB_02254	CDS	1209	fadA_1	2.3.1.-	COG0183	Putative acyltransferase
+FDFBIKBB_02255	CDS	228				hypothetical protein
+FDFBIKBB_02256	CDS	1320				hypothetical protein
+FDFBIKBB_02257	CDS	1047				putative HTH-type transcriptional regulator
+FDFBIKBB_02258	CDS	444	czcA_2			Cobalt-zinc-cadmium resistance protein CzcA
+FDFBIKBB_02259	CDS	633	mtnA	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+FDFBIKBB_02260	CDS	552				hypothetical protein
+FDFBIKBB_02261	CDS	969				hypothetical protein
+FDFBIKBB_02262	CDS	906	ispA	2.5.1.10	COG0142	Farnesyl diphosphate synthase
+FDFBIKBB_02263	CDS	249	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+FDFBIKBB_02264	CDS	99				hypothetical protein
+FDFBIKBB_02265	CDS	759	pomA_4		COG1291	Chemotaxis protein PomA
+FDFBIKBB_02266	CDS	996	motB_4		COG1360	Motility protein B
+FDFBIKBB_02267	CDS	594				hypothetical protein
+FDFBIKBB_02268	CDS	762				hypothetical protein
+FDFBIKBB_02269	CDS	786				hypothetical protein
+FDFBIKBB_02270	CDS	1011		1.6.3.5	COG3380	Renalase
+FDFBIKBB_02271	CDS	588	rpoE		COG1595	ECF RNA polymerase sigma factor RpoE
+FDFBIKBB_02272	CDS	642	chrR		COG3806	Anti-sigma-E factor ChrR
+FDFBIKBB_02273	CDS	1194				hypothetical protein
+FDFBIKBB_02274	CDS	846	nrtD_2	7.3.2.4	COG1116	Nitrate import ATP-binding protein NrtD
+FDFBIKBB_02275	CDS	999	cmpB		COG0600	Bicarbonate transport system permease protein CmpB
+FDFBIKBB_02276	CDS	831	nrtA		COG0715	Nitrate/nitrite binding protein NrtA
+FDFBIKBB_02277	CDS	780	yahB			putative HTH-type transcriptional regulator YahB
+FDFBIKBB_02278	CDS	453				hypothetical protein
+FDFBIKBB_02279	CDS	480				hypothetical protein
+FDFBIKBB_02280	CDS	477	lrp		COG1522	Leucine-responsive regulatory protein
+FDFBIKBB_02281	CDS	1686	leuA	2.3.3.13	COG0119	2-isopropylmalate synthase
+FDFBIKBB_02282	CDS	105				hypothetical protein
+FDFBIKBB_02283	CDS	657				hypothetical protein
+FDFBIKBB_02284	CDS	723			COG1136	putative ABC transporter ATP-binding protein
+FDFBIKBB_02285	CDS	1266				hypothetical protein
+FDFBIKBB_02286	CDS	501				hypothetical protein
+FDFBIKBB_02287	CDS	2592	hrpB	3.6.4.13	COG1643	ATP-dependent RNA helicase HrpB
+FDFBIKBB_02288	CDS	459				hypothetical protein
+FDFBIKBB_02289	CDS	867				hypothetical protein
+FDFBIKBB_02290	CDS	2319				hypothetical protein
+FDFBIKBB_02291	CDS	681				hypothetical protein
+FDFBIKBB_02292	CDS	966	thrB	2.7.1.39	COG2334	Homoserine kinase
+FDFBIKBB_02293	CDS	1263		3.1.4.-	COG2206	Cyclic di-GMP phosphodiesterase
+FDFBIKBB_02294	CDS	1449	sufB		COG0719	FeS cluster assembly protein SufB
+FDFBIKBB_02295	CDS	759	sufC		COG0396	putative ATP-dependent transporter SufC
+FDFBIKBB_02296	CDS	1266	sufD		COG0719	FeS cluster assembly protein SufD
+FDFBIKBB_02297	CDS	1218	sufS_2	2.8.1.7	COG0520	Cysteine desulfurase
+FDFBIKBB_02298	CDS	363	sufA		COG0316	Protein SufA
+FDFBIKBB_02299	CDS	543				hypothetical protein
+FDFBIKBB_02300	CDS	453	sufE		COG2166	Cysteine desulfuration protein SufE
+FDFBIKBB_02301	CDS	1155	ywiE	2.7.8.-	COG1502	putative cardiolipin synthase YwiE
+FDFBIKBB_02302	CDS	1224				hypothetical protein
+FDFBIKBB_02303	CDS	687				hypothetical protein
+FDFBIKBB_02304	CDS	375	ychQ		COG3094	Protein YchQ
+FDFBIKBB_02305	CDS	1206	smtA	2.8.3.22	COG1804	Succinyl-CoA--L-malate CoA-transferase alpha subunit
+FDFBIKBB_02306	CDS	660	kynB_2	3.5.1.9	COG1878	Kynurenine formamidase
+FDFBIKBB_02307	CDS	1233	namA_2	1.6.99.1		NADPH dehydrogenase
+FDFBIKBB_02308	CDS	402	cueR		COG0789	HTH-type transcriptional regulator CueR
+FDFBIKBB_02309	CDS	1218	argG	6.3.4.5	COG0137	Argininosuccinate synthase
+FDFBIKBB_02310	CDS	909	pal_2			Peptidoglycan-associated lipoprotein
+FDFBIKBB_02311	CDS	663	rnt	3.1.13.-	COG0847	Ribonuclease T
+FDFBIKBB_02312	CDS	1800				hypothetical protein
+FDFBIKBB_02313	CDS	1989	hcaB_4	1.3.1.87		3-phenylpropionate-dihydrodiol/cinnamic acid-dihydrodiol dehydrogenase
+FDFBIKBB_02314	CDS	1206	fliI	7.1.2.2	COG1157	Flagellum-specific ATP synthase
+FDFBIKBB_02315	CDS	438				hypothetical protein
+FDFBIKBB_02316	CDS	267				hypothetical protein
+FDFBIKBB_02317	CDS	363	cheY_3		COG0784	Chemotaxis protein CheY 
+FDFBIKBB_02318	CDS	2091	cheA	2.7.13.3	COG0643	Chemotaxis protein CheA
+FDFBIKBB_02319	CDS	519	cheW_1		COG0835	Chemotaxis protein CheW
+FDFBIKBB_02320	CDS	630				hypothetical protein
+FDFBIKBB_02321	CDS	1134	rcsC_16	2.7.13.3		Sensor histidine kinase RcsC
+FDFBIKBB_02322	CDS	2001	rcsC_17	2.7.13.3		Sensor histidine kinase RcsC
+FDFBIKBB_02323	CDS	630				hypothetical protein
+FDFBIKBB_02324	CDS	1401	sthA_3	1.6.1.1	COG1249	putative soluble pyridine nucleotide transhydrogenase
+FDFBIKBB_02325	CDS	861				hypothetical protein
+FDFBIKBB_02326	CDS	1344	rcsC_18	2.7.13.3		Sensor histidine kinase RcsC
+FDFBIKBB_02327	CDS	267	yajC		COG1862	Sec translocon accessory complex subunit YajC
+FDFBIKBB_02328	CDS	1857	secD		COG0342	Protein translocase subunit SecD
+FDFBIKBB_02329	CDS	918	secF		COG0341	Protein translocase subunit SecF
+FDFBIKBB_02330	CDS	201				hypothetical protein
+FDFBIKBB_02331	CDS	804	suhB_3	3.1.3.25	COG0483	Inositol-1-monophosphatase
+FDFBIKBB_02332	CDS	630				hypothetical protein
+FDFBIKBB_02333	CDS	822	trmJ	2.1.1.-		tRNA (cytidine/uridine/adenosine-2'-O-)-methyltransferase TrmJ
+FDFBIKBB_02334	CDS	774	cysE_2	2.3.1.30	COG1045	Serine acetyltransferase
+FDFBIKBB_02335	CDS	474	iscR		COG1959	HTH-type transcriptional regulator IscR
+FDFBIKBB_02336	CDS	1152	iscS	2.8.1.7	COG1104	Cysteine desulfurase IscS
+FDFBIKBB_02337	CDS	429	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+FDFBIKBB_02338	CDS	1125	rlmN	2.1.1.192	COG0820	Dual-specificity RNA methyltransferase RlmN
+FDFBIKBB_02339	CDS	822	lapB_2			Lipopolysaccharide assembly protein B
+FDFBIKBB_02340	CDS	1119	anmK	2.7.1.170	COG2377	Anhydro-N-acetylmuramic acid kinase
+FDFBIKBB_02341	CDS	1329	mepM	3.4.24.-	COG0739	Murein DD-endopeptidase MepM
+FDFBIKBB_02342	CDS	1200	tyrS	6.1.1.1	COG0162	Tyrosine--tRNA ligase
+FDFBIKBB_02343	CDS	1353				hypothetical protein
+FDFBIKBB_02344	CDS	11394				hypothetical protein
+FDFBIKBB_02345	CDS	531				hypothetical protein
+FDFBIKBB_02346	CDS	285				hypothetical protein
+FDFBIKBB_02347	CDS	549				hypothetical protein
+FDFBIKBB_02348	CDS	591				hypothetical protein
+FDFBIKBB_02349	CDS	858				hypothetical protein
+FDFBIKBB_02350	CDS	978	psd_2	4.1.1.65	COG0688	Phosphatidylserine decarboxylase proenzyme
+FDFBIKBB_02351	CDS	672				hypothetical protein
+FDFBIKBB_02352	CDS	1569				hypothetical protein
+FDFBIKBB_02353	CDS	126				hypothetical protein
+FDFBIKBB_02354	CDS	633	mtnB	4.2.1.109	COG0235	Methylthioribulose-1-phosphate dehydratase
+FDFBIKBB_02355	CDS	546	mtnD_2	1.13.11.54	COG1791	Acireductone dioxygenase
+FDFBIKBB_02356	CDS	696	mtnC	3.1.3.77		Enolase-phosphatase E1
+FDFBIKBB_02357	CDS	864	uspE		COG0589	Universal stress protein E
+FDFBIKBB_02358	CDS	978	ppsC_2	2.3.1.41		Phthiocerol synthesis polyketide synthase type I PpsC
+FDFBIKBB_02359	CDS	126				hypothetical protein
+FDFBIKBB_02360	CDS	528	ppa	3.6.1.1	COG0221	Inorganic pyrophosphatase
+FDFBIKBB_02361	CDS	675	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+FDFBIKBB_02362	CDS	1521	ilvA	4.3.1.19	COG1171	L-threonine dehydratase biosynthetic IlvA
+FDFBIKBB_02363	CDS	135				hypothetical protein
+FDFBIKBB_02364	CDS	744				hypothetical protein
+FDFBIKBB_02365	CDS	285	zapA		COG3027	Cell division protein ZapA
+FDFBIKBB_02366	CDS	207				hypothetical protein
+FDFBIKBB_02367	CDS	603				hypothetical protein
+FDFBIKBB_02368	CDS	1314	pepP	3.4.11.9	COG0006	Xaa-Pro aminopeptidase
+FDFBIKBB_02369	CDS	1245	ubiH	1.14.13.-	COG0654	2-octaprenyl-6-methoxyphenol hydroxylase
+FDFBIKBB_02370	CDS	1212	ubiI	1.14.13.240	COG0654	2-octaprenylphenol hydroxylase
+FDFBIKBB_02371	CDS	717				hypothetical protein
+FDFBIKBB_02372	CDS	777	tatC		COG0805	Sec-independent protein translocase protein TatC
+FDFBIKBB_02373	CDS	354	tatB			Sec-independent protein translocase protein TatB
+FDFBIKBB_02374	CDS	246	tatA_2		COG1826	Sec-independent protein translocase protein TatA
+FDFBIKBB_02375	CDS	333	hisE	3.6.1.31	COG0140	Phosphoribosyl-ATP pyrophosphatase
+FDFBIKBB_02376	CDS	1647	ubiB_3	2.7.-.-	COG0661	putative protein kinase UbiB
+FDFBIKBB_02377	CDS	639	ubiJ			Ubiquinone biosynthesis accessory factor UbiJ
+FDFBIKBB_02378	CDS	783	ubiE	2.1.1.163	COG2226	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+FDFBIKBB_02379	CDS	276				hypothetical protein
+FDFBIKBB_02380	CDS	1821		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase FadD17
+FDFBIKBB_02381	CDS	816	crt_2	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+FDFBIKBB_02382	CDS	759				hypothetical protein
+FDFBIKBB_02383	CDS	984				hypothetical protein
+FDFBIKBB_02384	CDS	1479		2.3.1.20		Putative diacyglycerol O-acyltransferase
+FDFBIKBB_02385	CDS	303				hypothetical protein
+FDFBIKBB_02386	CDS	915	ydjP	3.-.-.-	COG0596	AB hydrolase superfamily protein YdjP
+FDFBIKBB_02387	CDS	2163				hypothetical protein
+FDFBIKBB_02388	CDS	1032	pyrC	3.5.2.3	COG0418	Dihydroorotase
+FDFBIKBB_02389	CDS	309				hypothetical protein
+FDFBIKBB_02390	CDS	564	moaB		COG0521	Molybdenum cofactor biosynthesis protein B
+FDFBIKBB_02391	CDS	975				hypothetical protein
+FDFBIKBB_02392	CDS	792	btuD_4	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+FDFBIKBB_02393	CDS	891				hypothetical protein
+FDFBIKBB_02394	CDS	972				hypothetical protein
+FDFBIKBB_02395	CDS	921				hypothetical protein
+FDFBIKBB_02396	CDS	594	gmhA_2	5.3.1.28	COG0279	Phosphoheptose isomerase
+FDFBIKBB_02397	CDS	363				hypothetical protein
+FDFBIKBB_02398	CDS	1815	lpoA			Penicillin-binding protein activator LpoA
+FDFBIKBB_02399	CDS	855	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+FDFBIKBB_02400	CDS	675				hypothetical protein
+FDFBIKBB_02401	CDS	459				hypothetical protein
+FDFBIKBB_02402	CDS	1794				hypothetical protein
+FDFBIKBB_02403	CDS	444	mraZ		COG2001	Transcriptional regulator MraZ
+FDFBIKBB_02404	CDS	942	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+FDFBIKBB_02405	CDS	414	ftsL			Cell division protein FtsL
+FDFBIKBB_02406	CDS	1740	ftsI	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase FtsI
+FDFBIKBB_02407	CDS	1515	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+FDFBIKBB_02408	CDS	1011	hcf136			Ycf48-like protein
+FDFBIKBB_02409	CDS	2364				hypothetical protein
+FDFBIKBB_02410	CDS	1938	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase
+FDFBIKBB_02411	CDS	519	infC		COG0290	Translation initiation factor IF-3
+FDFBIKBB_02412	CDS	192	rpmI			50S ribosomal protein L35
+FDFBIKBB_02413	CDS	360	rplT		COG0292	50S ribosomal protein L20
+FDFBIKBB_02414	CDS	999	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+FDFBIKBB_02415	CDS	2373	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+FDFBIKBB_02416	CDS	303	ihfA		COG0776	Integration host factor subunit alpha
+FDFBIKBB_02417	CDS	357				hypothetical protein
+FDFBIKBB_02418	CDS	783	soj_4	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+FDFBIKBB_02419	CDS	1092				hypothetical protein
+FDFBIKBB_02420	CDS	489	cheW_2		COG0835	Chemotaxis protein CheW
+FDFBIKBB_02421	CDS	453				hypothetical protein
+FDFBIKBB_02422	CDS	417				hypothetical protein
+FDFBIKBB_02423	CDS	147				hypothetical protein
+FDFBIKBB_02424	CDS	1335	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+FDFBIKBB_02425	CDS	510				hypothetical protein
+FDFBIKBB_02426	CDS	1449	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+FDFBIKBB_02427	CDS	1458	gatA_2	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+FDFBIKBB_02428	CDS	288	gatC	6.3.5.-	COG0721	Glutamyl-tRNA(Gln) amidotransferase subunit C
+FDFBIKBB_02429	CDS	1038	mreB		COG1077	Cell shape-determining protein MreB
+FDFBIKBB_02430	CDS	960				hypothetical protein
+FDFBIKBB_02431	CDS	837	menH_2	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+FDFBIKBB_02432	CDS	933				hypothetical protein
+FDFBIKBB_02433	CDS	1842				hypothetical protein
+FDFBIKBB_02434	CDS	1473				hypothetical protein
+FDFBIKBB_02435	CDS	837				hypothetical protein
+FDFBIKBB_02436	CDS	1122		2.3.1.207	COG0332	Beta-ketodecanoyl-[acyl-carrier-protein] synthase
+FDFBIKBB_02437	CDS	3927				hypothetical protein
+FDFBIKBB_02438	CDS	474	phaJ	4.2.1.119	COG2030	(R)-specific enoyl-CoA hydratase
+FDFBIKBB_02439	CDS	2148	fadB			Fatty acid oxidation complex subunit alpha
+FDFBIKBB_02440	CDS	1176	fadA_2	2.3.1.16		3-ketoacyl-CoA thiolase
+FDFBIKBB_02441	CDS	744				hypothetical protein
+FDFBIKBB_02442	CDS	2655	topA	5.6.2.1	COG0550	DNA topoisomerase 1
+FDFBIKBB_02443	CDS	468				hypothetical protein
+FDFBIKBB_02444	CDS	1602	choD	1.1.3.6	COG2303	Cholesterol oxidase
+FDFBIKBB_02445	CDS	891	garR	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase
+FDFBIKBB_02446	CDS	453				hypothetical protein
+FDFBIKBB_02447	CDS	2595	sasA_9	2.7.-.-		Adaptive-response sensory-kinase SasA
+FDFBIKBB_02448	CDS	1575				hypothetical protein
+FDFBIKBB_02449	CDS	510				hypothetical protein
+FDFBIKBB_02450	CDS	159				hypothetical protein
+FDFBIKBB_02451	CDS	429				hypothetical protein
+FDFBIKBB_02452	CDS	1482	luxO		COG2204	Luminescence regulatory protein LuxO
+FDFBIKBB_02453	CDS	963	gchK	2.7.13.3	COG0642	Globin-coupled histidine kinase
+FDFBIKBB_02454	CDS	546				hypothetical protein
+FDFBIKBB_02455	CDS	1884	sasA_10	2.7.-.-		Adaptive-response sensory-kinase SasA
+FDFBIKBB_02456	CDS	1191				hypothetical protein
+FDFBIKBB_02457	CDS	936	menH_3	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+FDFBIKBB_02458	CDS	1149	mmgC	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+FDFBIKBB_02459	CDS	570				hypothetical protein
+FDFBIKBB_02460	CDS	1230	serA	1.1.1.95	COG0111	D-3-phosphoglycerate dehydrogenase
+FDFBIKBB_02461	CDS	1395		1.-.-.-	COG0277	putative FAD-linked oxidoreductase
+FDFBIKBB_02462	CDS	1008				hypothetical protein
+FDFBIKBB_02463	CDS	660	ycgM		COG0179	putative protein YcgM
+FDFBIKBB_02464	CDS	1269	ubiB_4	2.7.-.-		protein kinase UbiB
+FDFBIKBB_02465	CDS	1695				hypothetical protein
+FDFBIKBB_02466	CDS	1359				putative protein
+FDFBIKBB_02467	CDS	1611	bepA_6	3.4.-.-		Beta-barrel assembly-enhancing protease
+FDFBIKBB_02468	CDS	1563	ybaL		COG1226	Putative cation/proton antiporter YbaL
+FDFBIKBB_02469	CDS	846				hypothetical protein
+FDFBIKBB_02470	CDS	2154	pta	2.3.1.8	COG0280	Phosphate acetyltransferase
+FDFBIKBB_02471	CDS	1200	ackA	2.7.2.1	COG0282	Acetate kinase
+FDFBIKBB_02472	CDS	2181	btuB_4			Vitamin B12 transporter BtuB
+FDFBIKBB_02473	CDS	861				hypothetical protein
+FDFBIKBB_02474	CDS	1041				putative HTH-type transcriptional regulator
+FDFBIKBB_02475	CDS	501				hypothetical protein
+FDFBIKBB_02476	CDS	1326				hypothetical protein
+FDFBIKBB_02477	CDS	468	ybaK	4.2.-.-	COG2606	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+FDFBIKBB_02478	CDS	615	yjdF		COG3647	Inner membrane protein YjdF
+FDFBIKBB_02479	CDS	1047				hypothetical protein
+FDFBIKBB_02480	CDS	1008				hypothetical protein
+FDFBIKBB_02481	CDS	771				hypothetical protein
+FDFBIKBB_02482	CDS	294	yqjZ		COG2329	putative protein YqjZ
+FDFBIKBB_02483	CDS	2811	barA	2.7.13.3	COG0784	Signal transduction histidine-protein kinase BarA
+FDFBIKBB_02484	CDS	894	cysM	2.5.1.47	COG0031	Cysteine synthase B
+FDFBIKBB_02485	CDS	1353	rlmD	2.1.1.190	COG2265	23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD
+FDFBIKBB_02486	CDS	2247	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+FDFBIKBB_02487	CDS	861	mazG	3.6.1.8	COG1694	Nucleoside triphosphate pyrophosphohydrolase
+FDFBIKBB_02488	CDS	327				hypothetical protein
+FDFBIKBB_02489	CDS	2403				hypothetical protein
+FDFBIKBB_02490	CDS	1593				hypothetical protein
+FDFBIKBB_02491	CDS	1080	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+FDFBIKBB_02492	CDS	648	leuD1	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit 1
+FDFBIKBB_02493	CDS	1443	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+FDFBIKBB_02494	CDS	882	cmpR_2			HTH-type transcriptional activator CmpR
+FDFBIKBB_02495	CDS	1116	zapE		COG1485	Cell division protein ZapE
+FDFBIKBB_02496	CDS	504				hypothetical protein
+FDFBIKBB_02497	CDS	762	ybgI		COG0327	GTP cyclohydrolase 1 type 2 
+FDFBIKBB_02498	CDS	1110	hisC2	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase 2
+FDFBIKBB_02499	CDS	1326	hisD	1.1.1.23	COG0141	Histidinol dehydrogenase
+FDFBIKBB_02500	CDS	636	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+FDFBIKBB_02501	CDS	1263	murA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+FDFBIKBB_02502	CDS	231	ibaG		COG5007	Acid stress protein IbaG
+FDFBIKBB_02503	CDS	306				hypothetical protein
+FDFBIKBB_02504	CDS	696				hypothetical protein
+FDFBIKBB_02505	CDS	459	mlaD		COG1463	Intermembrane phospholipid transport system binding protein MlaD
+FDFBIKBB_02506	CDS	777	mlaE		COG0767	Intermembrane phospholipid transport system permease protein MlaE
+FDFBIKBB_02507	CDS	795	mlaF	3.6.3.-	COG1127	Intermembrane phospholipid transport system ATP-binding protein MlaF
+FDFBIKBB_02508	CDS	366				hypothetical protein
+FDFBIKBB_02509	CDS	1107	thiO	1.4.3.19		Glycine oxidase
+FDFBIKBB_02510	CDS	561				hypothetical protein
+FDFBIKBB_02511	CDS	453				hypothetical protein
+FDFBIKBB_02512	CDS	4071	pilY1_1			Type IV pilus biogenesis factor PilY1
+FDFBIKBB_02513	CDS	474				hypothetical protein
+FDFBIKBB_02514	CDS	996				hypothetical protein
+FDFBIKBB_02515	CDS	816				hypothetical protein
+FDFBIKBB_02516	CDS	1488	rhlE	3.6.4.13		ATP-dependent RNA helicase RhlE
+FDFBIKBB_02517	CDS	1650	ybiT		COG0488	putative ABC transporter ATP-binding protein YbiT
+FDFBIKBB_02518	CDS	534				hypothetical protein
+FDFBIKBB_02519	CDS	561				hypothetical protein
+FDFBIKBB_02520	CDS	192				hypothetical protein
+FDFBIKBB_02521	CDS	594	ntcA			Global nitrogen regulator
+FDFBIKBB_02522	CDS	423				hypothetical protein
+FDFBIKBB_02523	CDS	1407				hypothetical protein
+FDFBIKBB_02524	CDS	1089				hypothetical protein
+FDFBIKBB_02525	CDS	2001				hypothetical protein
+FDFBIKBB_02526	CDS	273				hypothetical protein
+FDFBIKBB_02527	CDS	513				hypothetical protein
+FDFBIKBB_02528	CDS	1347	atoC_3		COG2204	Regulatory protein AtoC
+FDFBIKBB_02529	CDS	1017				hypothetical protein
+FDFBIKBB_02530	CDS	699	pyrG_2	6.3.4.2		CTP synthase
+FDFBIKBB_02531	CDS	363				hypothetical protein
+FDFBIKBB_02532	CDS	381				hypothetical protein
+FDFBIKBB_02533	CDS	1698				hypothetical protein
+FDFBIKBB_02534	CDS	1065	aroF	2.5.1.54	COG0722	Phospho-2-dehydro-3-deoxyheptonate aldolase, Tyr-sensitive
+FDFBIKBB_02535	CDS	165				hypothetical protein
+FDFBIKBB_02536	CDS	486				hypothetical protein
+FDFBIKBB_02537	CDS	1386	cysG		COG0007	Siroheme synthase
+FDFBIKBB_02538	CDS	459	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+FDFBIKBB_02539	CDS	753		2.4.1.187		N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase
+FDFBIKBB_02540	CDS	660	epsL	2.-.-.-	COG2148	putative sugar transferase EpsL
+FDFBIKBB_02541	CDS	255				hypothetical protein
+FDFBIKBB_02542	CDS	969				hypothetical protein
+FDFBIKBB_02543	CDS	846	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+FDFBIKBB_02544	CDS	615	thrH	3.1.3.3	COG0560	Phosphoserine phosphatase ThrH
+FDFBIKBB_02545	CDS	978	cysB			HTH-type transcriptional regulator CysB
+FDFBIKBB_02546	CDS	459				hypothetical protein
+FDFBIKBB_02547	CDS	681				hypothetical protein
+FDFBIKBB_02548	CDS	498				hypothetical protein
+FDFBIKBB_02549	CDS	756	yciK	1.-.-.-	COG1028	putative oxidoreductase YciK
+FDFBIKBB_02550	CDS	441				hypothetical protein
+FDFBIKBB_02551	CDS	2373	rcsC_19	2.7.13.3		Sensor histidine kinase RcsC
+FDFBIKBB_02552	CDS	474		5.2.1.8	COG0545	putative FKBP-type peptidyl-prolyl cis-trans isomerase
+FDFBIKBB_02553	CDS	975	cheB_5	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+FDFBIKBB_02554	CDS	675	mupP	3.1.3.105	COG0546	N-acetylmuramic acid 6-phosphate phosphatase
+FDFBIKBB_02555	CDS	717	ubiG	2.1.1.222	COG2227	Ubiquinone biosynthesis O-methyltransferase
+FDFBIKBB_02556	CDS	378	triA	3.5.4.45		Melamine deaminase
+FDFBIKBB_02557	CDS	960	cobS	6.6.1.2		Aerobic cobaltochelatase subunit CobS
+FDFBIKBB_02558	CDS	1017				hypothetical protein
+FDFBIKBB_02559	CDS	144				hypothetical protein
+FDFBIKBB_02560	CDS	819				hypothetical protein
+FDFBIKBB_02561	CDS	474				hypothetical protein
+FDFBIKBB_02562	CDS	1788				hypothetical protein
+FDFBIKBB_02563	CDS	756	pdeB_2	3.1.4.52		Cyclic di-GMP phosphodiesterase PdeB
+FDFBIKBB_02564	CDS	420	yhfA		COG1765	Protein YhfA
+FDFBIKBB_02565	CDS	642	vfr		COG0664	Cyclic AMP receptor-like protein
+FDFBIKBB_02566	CDS	618				hypothetical protein
+FDFBIKBB_02567	CDS	2655	aceE	1.2.4.1	COG2609	Pyruvate dehydrogenase E1 component
+FDFBIKBB_02568	CDS	1620	aceF	2.3.1.12	COG0508	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+FDFBIKBB_02569	CDS	1443				hypothetical protein
+FDFBIKBB_02570	CDS	384				hypothetical protein
+FDFBIKBB_02571	CDS	210	cspLA		COG1278	Cold shock-like protein CspLA
+FDFBIKBB_02572	CDS	414				hypothetical protein
+FDFBIKBB_02573	CDS	1431	deaD	3.6.4.13	COG0513	ATP-dependent RNA helicase DeaD
+FDFBIKBB_02574	CDS	642				hypothetical protein
+FDFBIKBB_02575	CDS	387	folX_2	5.1.99.7	COG1539	Dihydroneopterin triphosphate 2'-epimerase
+FDFBIKBB_02576	CDS	549				hypothetical protein
+FDFBIKBB_02577	CDS	621				hypothetical protein
+FDFBIKBB_02578	CDS	900				hypothetical protein
+FDFBIKBB_02579	CDS	480				hypothetical protein
+FDFBIKBB_02580	CDS	267				hypothetical protein
+FDFBIKBB_02581	CDS	330				hypothetical protein
+FDFBIKBB_02582	CDS	987				hypothetical protein
+FDFBIKBB_02583	CDS	357	mnhC1		COG1006	Na(+)/H(+) antiporter subunit C1
+FDFBIKBB_02584	CDS	1506	mrpD		COG0651	Na(+)/H(+) antiporter subunit D
+FDFBIKBB_02585	CDS	1515	ndhB_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+FDFBIKBB_02586	CDS	255				hypothetical protein
+FDFBIKBB_02587	CDS	1722	ndhB_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+FDFBIKBB_02588	CDS	387				hypothetical protein
+FDFBIKBB_02589	CDS	1380		1.1.2.-	COG0277	L-gulono-1,4-lactone dehydrogenase
+FDFBIKBB_02590	CDS	771	occP			Octopine permease ATP-binding protein P
+FDFBIKBB_02591	CDS	657	adk	2.7.4.3		Adenylate kinase
+FDFBIKBB_02592	CDS	1410				hypothetical protein
+FDFBIKBB_02593	CDS	2667	ppc	4.1.1.31	COG2352	Phosphoenolpyruvate carboxylase
+FDFBIKBB_02594	CDS	345				hypothetical protein
+FDFBIKBB_02595	CDS	429		3.1.3.3	COG0560	Phosphoserine phosphatase
+FDFBIKBB_02596	CDS	546	ampD	3.5.1.28		1,6-anhydro-N-acetylmuramyl-L-alanine amidase AmpD
+FDFBIKBB_02597	CDS	2490				hypothetical protein
+FDFBIKBB_02598	CDS	522				hypothetical protein
+FDFBIKBB_02599	CDS	219				hypothetical protein
+FDFBIKBB_02600	CDS	468				hypothetical protein
+FDFBIKBB_02601	CDS	921				hypothetical protein
+FDFBIKBB_02602	CDS	3153	mfd	3.6.4.-	COG1197	Transcription-repair-coupling factor
+FDFBIKBB_02603	CDS	699				hypothetical protein
+FDFBIKBB_02604	CDS	2139	nrdZ	1.17.4.1		Vitamin B12-dependent ribonucleoside-diphosphate reductase
+FDFBIKBB_02605	CDS	987	glpE_2	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+FDFBIKBB_02606	CDS	189				hypothetical protein
+FDFBIKBB_02607	CDS	165				hypothetical protein
+FDFBIKBB_02608	CDS	2061				hypothetical protein
+FDFBIKBB_02609	CDS	2085				hypothetical protein
+FDFBIKBB_02610	CDS	2067				hypothetical protein
+FDFBIKBB_02611	CDS	402				hypothetical protein
+FDFBIKBB_02612	CDS	1992				hypothetical protein
+FDFBIKBB_02613	CDS	396	fliS		COG1516	Flagellar secretion chaperone FliS
+FDFBIKBB_02614	CDS	891	htpX_2	3.4.24.-	COG0501	Protease HtpX
+FDFBIKBB_02615	CDS	435	ibpA		COG0071	Small heat shock protein IbpA
+FDFBIKBB_02616	CDS	927	rdgC		COG2974	Recombination-associated protein RdgC
+FDFBIKBB_02617	CDS	234				hypothetical protein
+FDFBIKBB_02618	CDS	780	yaaA		COG3022	Peroxide stress resistance protein YaaA
+FDFBIKBB_02619	CDS	105				hypothetical protein
+FDFBIKBB_02620	CDS	288				hypothetical protein
+FDFBIKBB_02621	CDS	510				hypothetical protein
+FDFBIKBB_02622	CDS	405	tnsA			Transposon Tn7 transposition protein TnsA
+FDFBIKBB_02623	CDS	762	exoA_2	3.1.11.2	COG0708	Exodeoxyribonuclease
+FDFBIKBB_02624	CDS	666				hypothetical protein
+FDFBIKBB_02625	CDS	990	RBKS	2.7.1.15		Ribokinase
+FDFBIKBB_02626	CDS	1185	rfnT			Riboflavin transporter RfnT
+FDFBIKBB_02627	CDS	957	aes	3.1.1.-		Acetyl esterase
+FDFBIKBB_02628	CDS	588				hypothetical protein
+FDFBIKBB_02629	CDS	618				hypothetical protein
+FDFBIKBB_02630	CDS	222				hypothetical protein
+FDFBIKBB_02631	CDS	2163	pilQ			Type IV pilus biogenesis and competence protein PilQ
+FDFBIKBB_02632	CDS	537	aroK	2.7.1.71	COG0703	Shikimate kinase 1
+FDFBIKBB_02633	CDS	1074	aroB	4.2.3.4	COG0337	3-dehydroquinate synthase
+FDFBIKBB_02634	CDS	1593				hypothetical protein
+FDFBIKBB_02635	CDS	4449	gltB	1.4.1.13	COG0067	Glutamate synthase [NADPH] large chain
+FDFBIKBB_02636	CDS	1419	gltD	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain
+FDFBIKBB_02637	CDS	1068	hemE	4.1.1.37	COG0407	Uroporphyrinogen decarboxylase
+FDFBIKBB_02638	CDS	186				hypothetical protein
+FDFBIKBB_02639	CDS	1263				hypothetical protein
+FDFBIKBB_02640	CDS	1365	radA	3.6.4.-	COG1066	DNA repair protein RadA
+FDFBIKBB_02641	CDS	378				Cyclic diguanosine monophosphate-binding protein
+FDFBIKBB_02642	CDS	1662	ettA		COG0488	Energy-dependent translational throttle protein EttA
+FDFBIKBB_02643	CDS	1266	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+FDFBIKBB_02644	CDS	465	nrdR		COG1327	Transcriptional repressor NrdR
+FDFBIKBB_02645	CDS	1143	ribD		COG0117	Riboflavin biosynthesis protein RibD
+FDFBIKBB_02646	CDS	666	ribE	2.5.1.9		Riboflavin synthase
+FDFBIKBB_02647	CDS	1116	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+FDFBIKBB_02648	CDS	477	ribH	2.5.1.78		6,7-dimethyl-8-ribityllumazine synthase
+FDFBIKBB_02649	CDS	471	nusB			Transcription antitermination protein NusB
+FDFBIKBB_02650	CDS	966	thiL_2	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+FDFBIKBB_02651	CDS	486	pgpA	3.1.3.27	COG1267	Phosphatidylglycerophosphatase A
+FDFBIKBB_02652	CDS	198				hypothetical protein
+FDFBIKBB_02653	CDS	639				hypothetical protein
+FDFBIKBB_02654	CDS	1536		2.3.1.20		Putative diacyglycerol O-acyltransferase
+FDFBIKBB_02655	CDS	972	ispB	2.5.1.90	COG0142	Octaprenyl diphosphate synthase
+FDFBIKBB_02656	CDS	312	rplU		COG0261	50S ribosomal protein L21
+FDFBIKBB_02657	CDS	261	rpmA		COG0211	50S ribosomal protein L27
+FDFBIKBB_02658	CDS	1203	obg	3.6.5.-		GTPase Obg
+FDFBIKBB_02659	CDS	1128	proB	2.7.2.11		Glutamate 5-kinase
+FDFBIKBB_02660	CDS	267	rpsT		COG0268	30S ribosomal protein S20
+FDFBIKBB_02661	CDS	1209	adhB_3	1.1.1.1		Alcohol dehydrogenase 2
+FDFBIKBB_02662	CDS	288				hypothetical protein
+FDFBIKBB_02663	CDS	585				hypothetical protein
+FDFBIKBB_02664	CDS	933	dhmA	3.8.1.5	COG0596	Haloalkane dehalogenase
+FDFBIKBB_02665	CDS	1128				hypothetical protein
+FDFBIKBB_02666	CDS	321				hypothetical protein
+FDFBIKBB_02667	CDS	1608	murJ		COG0728	putative lipid II flippase MurJ
+FDFBIKBB_02668	CDS	306				hypothetical protein
+FDFBIKBB_02669	CDS	933	ribF		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+FDFBIKBB_02670	CDS	1350	gdhA	1.4.1.3		NAD(P)-specific glutamate dehydrogenase
+FDFBIKBB_02671	CDS	1335				hypothetical protein
+FDFBIKBB_02672	CDS	858	ydcV_2			Inner membrane ABC transporter permease protein YdcV
+FDFBIKBB_02673	CDS	786				hypothetical protein
+FDFBIKBB_02674	CDS	1686				hypothetical protein
+FDFBIKBB_02675	CDS	1188	thlA	2.3.1.9	COG0183	Acetyl-CoA acetyltransferase
+FDFBIKBB_02676	CDS	1905	acs	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+FDFBIKBB_02677	CDS	843	hbd	1.1.1.157	COG1250	3-hydroxybutyryl-CoA dehydrogenase
+FDFBIKBB_02678	CDS	1479				hypothetical protein
+FDFBIKBB_02679	CDS	1164				hypothetical protein
+FDFBIKBB_02680	CDS	696	trmB	2.1.1.33	COG0220	tRNA (guanine-N(7)-)-methyltransferase
+FDFBIKBB_02681	CDS	1749				hypothetical protein
+FDFBIKBB_02682	CDS	792	tcdA	6.1.-.-	COG1179	tRNA threonylcarbamoyladenosine dehydratase
+FDFBIKBB_02683	CDS	1821	nhaP2			K(+)/H(+) antiporter NhaP2
+FDFBIKBB_02684	CDS	420		2.7.7.-		A-adding tRNA nucleotidyltransferase
+FDFBIKBB_02685	CDS	447	moaE	2.8.1.12	COG0314	Molybdopterin synthase catalytic subunit
+FDFBIKBB_02686	CDS	252				hypothetical protein
+FDFBIKBB_02687	CDS	1224				hypothetical protein
+FDFBIKBB_02688	CDS	1263	rho	3.6.4.-	COG1158	Transcription termination factor Rho
+FDFBIKBB_02689	CDS	1491	ubiD	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+FDFBIKBB_02690	CDS	1002	tphA1I	1.14.12.15		Terephthalate 1,2-dioxygenase, reductase component 1
+FDFBIKBB_02691	CDS	1233	hemY		COG3071	Protein HemY
+FDFBIKBB_02692	CDS	717	hemX		COG2959	Protein HemX
+FDFBIKBB_02693	CDS	1095	dgcM	2.7.7.65	COG2199	Diguanylate cyclase DgcM
+FDFBIKBB_02694	CDS	879	cntI			Pseudopaline exporter CntI
+FDFBIKBB_02695	CDS	1800	atm1		COG5265	ATM1-type heavy metal exporter
+FDFBIKBB_02696	CDS	477				hypothetical protein
+FDFBIKBB_02697	CDS	900				hypothetical protein
+FDFBIKBB_02698	CDS	1449	gnd	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, decarboxylating
+FDFBIKBB_02699	CDS	735	pgl	3.1.1.31		6-phosphogluconolactonase
+FDFBIKBB_02700	CDS	1500	zwf	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase
+FDFBIKBB_02701	CDS	291				hypothetical protein
+FDFBIKBB_02702	CDS	705				hypothetical protein
+FDFBIKBB_02703	CDS	726				hypothetical protein
+FDFBIKBB_02704	CDS	744				hypothetical protein
+FDFBIKBB_02705	CDS	1098	hemH	4.99.1.1	COG0276	Ferrochelatase
+FDFBIKBB_02706	CDS	420				hypothetical protein
+FDFBIKBB_02707	CDS	699	fadR			Fatty acid metabolism regulator protein
+FDFBIKBB_02708	CDS	1464		1.14.13.-	COG2072	Baeyer-Villiger monooxygenase
+FDFBIKBB_02709	CDS	807	sadH_2	1.-.-.-		Putative oxidoreductase SadH
+FDFBIKBB_02710	CDS	345				hypothetical protein
+FDFBIKBB_02711	CDS	591				hypothetical protein
+FDFBIKBB_02712	CDS	366				hypothetical protein
+FDFBIKBB_02713	CDS	843				hypothetical protein
+FDFBIKBB_02714	CDS	1179				hypothetical protein
+FDFBIKBB_02715	CDS	561				hypothetical protein
+FDFBIKBB_02716	CDS	1656				hypothetical protein
+FDFBIKBB_02717	CDS	561				hypothetical protein
+FDFBIKBB_02718	CDS	831	thiD	2.7.1.49	COG0351	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+FDFBIKBB_02719	CDS	1149				hypothetical protein
+FDFBIKBB_02720	CDS	1038	recA		COG0468	Protein RecA
+FDFBIKBB_02721	CDS	1386	ptlI	1.14.15.32	COG2124	Pentalenene oxygenase
+FDFBIKBB_02722	CDS	1041	oleD_3	1.1.1.412	COG0451	2-alkyl-3-oxoalkanoate reductase
+FDFBIKBB_02723	CDS	684	cynT	4.2.1.1	COG0288	Carbonic anhydrase 1
+FDFBIKBB_02724	CDS	474				hypothetical protein
+FDFBIKBB_02725	CDS	225				hypothetical protein
+FDFBIKBB_02726	CDS	582				hypothetical protein
+FDFBIKBB_02727	CDS	1620				hypothetical protein
+FDFBIKBB_02728	CDS	432				hypothetical protein
+FDFBIKBB_02729	CDS	279				hypothetical protein
+FDFBIKBB_02730	CDS	915	bamD			Outer membrane protein assembly factor BamD
+FDFBIKBB_02731	CDS	837	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+FDFBIKBB_02732	CDS	615	ligF			Protein LigF
+FDFBIKBB_02733	CDS	120				hypothetical protein
+FDFBIKBB_02734	CDS	822				hypothetical protein
+FDFBIKBB_02735	CDS	774	ligI	3.1.1.57	COG3618	2-pyrone-4,6-dicarboxylate hydrolase
+FDFBIKBB_02736	CDS	621	fklB_2	5.2.1.8	COG0545	FKBP-type 22 kDa peptidyl-prolyl cis-trans isomerase
+FDFBIKBB_02737	CDS	1701	pld	3.1.4.4		Phospholipase D
+FDFBIKBB_02738	CDS	918				hypothetical protein
+FDFBIKBB_02739	CDS	693				hypothetical protein
+FDFBIKBB_02740	CDS	1212				hypothetical protein
+FDFBIKBB_02741	CDS	675				hypothetical protein
+FDFBIKBB_02742	CDS	498	gmm	3.6.1.-	COG0494	GDP-mannose mannosyl hydrolase
+FDFBIKBB_02743	CDS	828	smc			Chromosome partition protein Smc
+FDFBIKBB_02744	CDS	867	zipA			Cell division protein ZipA
+FDFBIKBB_02745	CDS	2031	ligA	6.5.1.2	COG0272	DNA ligase
+FDFBIKBB_02746	CDS	2547				hypothetical protein
+FDFBIKBB_02747	CDS	2019	mnmC		COG0665	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC
+FDFBIKBB_02748	CDS	600				hypothetical protein
+FDFBIKBB_02749	CDS	1608		2.4.1.352		Glucosylglycerate phosphorylase
+FDFBIKBB_02750	CDS	570				hypothetical protein
+FDFBIKBB_02751	CDS	1239	mgtA	2.4.1.-	COG0438	GDP-mannose-dependent alpha-mannosyltransferase
+FDFBIKBB_02752	CDS	423				hypothetical protein
+FDFBIKBB_02753	CDS	834	gtaB	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+FDFBIKBB_02754	CDS	648				hypothetical protein
+FDFBIKBB_02755	CDS	741	phnM	3.6.1.63	COG3454	Alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+FDFBIKBB_02756	CDS	612	phnN	2.7.4.23	COG3709	Ribose 1,5-bisphosphate phosphokinase PhnN
+FDFBIKBB_02757	CDS	672	dapH	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+FDFBIKBB_02758	CDS	1200				hypothetical protein
+FDFBIKBB_02759	CDS	1383				putative protein
+FDFBIKBB_02760	CDS	360				hypothetical protein
+FDFBIKBB_02761	CDS	522				hypothetical protein
+FDFBIKBB_02762	CDS	1080	glnL	2.7.13.3	COG3852	Sensory histidine kinase/phosphatase NtrB
+FDFBIKBB_02763	CDS	1428	glnG		COG2204	DNA-binding transcriptional regulator NtrC
+FDFBIKBB_02764	CDS	4122				hypothetical protein
+FDFBIKBB_02765	CDS	405				hypothetical protein
+FDFBIKBB_02766	CDS	774				hypothetical protein
+FDFBIKBB_02767	CDS	513				hypothetical protein
+FDFBIKBB_02768	CDS	477				hypothetical protein
+FDFBIKBB_02769	CDS	453				hypothetical protein
+FDFBIKBB_02770	CDS	519				hypothetical protein
+FDFBIKBB_02771	CDS	1230	epsF_3		COG1459	Type II secretion system protein F
+FDFBIKBB_02772	CDS	1758	epsE_3		COG2804	Type II secretion system protein E
+FDFBIKBB_02773	CDS	1158				hypothetical protein
+FDFBIKBB_02774	CDS	954				hypothetical protein
+FDFBIKBB_02775	CDS	1695	sctC			Type 3 secretion system secretin
+FDFBIKBB_02776	CDS	363				hypothetical protein
+FDFBIKBB_02777	CDS	678				hypothetical protein
+FDFBIKBB_02778	CDS	651				hypothetical protein
+FDFBIKBB_02779	CDS	897				hypothetical protein
+FDFBIKBB_02780	CDS	516				hypothetical protein
+FDFBIKBB_02781	CDS	519	ssb		COG0629	Single-stranded DNA-binding protein
+FDFBIKBB_02782	CDS	1365	yajR		COG0477	Inner membrane transport protein YajR
+FDFBIKBB_02783	CDS	2916	uvrA		COG0178	UvrABC system protein A
+FDFBIKBB_02784	CDS	390	rplQ		COG0203	50S ribosomal protein L17
+FDFBIKBB_02785	CDS	1005	rpoA	2.7.7.6		DNA-directed RNA polymerase subunit alpha
+FDFBIKBB_02786	CDS	621	rpsD		COG0522	30S ribosomal protein S4
+FDFBIKBB_02787	CDS	390	rpsK		COG0100	30S ribosomal protein S11
+FDFBIKBB_02788	CDS	357	rpsM		COG0099	30S ribosomal protein S13
+FDFBIKBB_02789	CDS	1332	secY		COG0201	Protein translocase subunit SecY
+FDFBIKBB_02790	CDS	435	rplO		COG0200	50S ribosomal protein L15
+FDFBIKBB_02791	CDS	189	rpmD		COG1841	50S ribosomal protein L30
+FDFBIKBB_02792	CDS	501	rpsE		COG0098	30S ribosomal protein S5
+FDFBIKBB_02793	CDS	351	rplR		COG0256	50S ribosomal protein L18
+FDFBIKBB_02794	CDS	534	rplF		COG0097	50S ribosomal protein L6
+FDFBIKBB_02795	CDS	393	rpsH		COG0096	30S ribosomal protein S8
+FDFBIKBB_02796	CDS	306	rpsN		COG0199	30S ribosomal protein S14
+FDFBIKBB_02797	CDS	540	rplE		COG0094	50S ribosomal protein L5
+FDFBIKBB_02798	CDS	318	rplX		COG0198	50S ribosomal protein L24
+FDFBIKBB_02799	CDS	369	rplN		COG0093	50S ribosomal protein L14
+FDFBIKBB_02800	CDS	270	rpsQ		COG0186	30S ribosomal protein S17
+FDFBIKBB_02801	CDS	192	rpmC		COG0255	50S ribosomal protein L29
+FDFBIKBB_02802	CDS	414	rplP		COG0197	50S ribosomal protein L16
+FDFBIKBB_02803	CDS	684	rpsC		COG0092	30S ribosomal protein S3
+FDFBIKBB_02804	CDS	333	rplV		COG0091	50S ribosomal protein L22
+FDFBIKBB_02805	CDS	276	rpsS		COG0185	30S ribosomal protein S19
+FDFBIKBB_02806	CDS	828	rplB		COG0090	50S ribosomal protein L2
+FDFBIKBB_02807	CDS	294	rplW		COG0089	50S ribosomal protein L23
+FDFBIKBB_02808	CDS	612	rplD		COG0088	50S ribosomal protein L4
+FDFBIKBB_02809	CDS	639	rplC		COG0087	50S ribosomal protein L3
+FDFBIKBB_02810	CDS	312	rpsJ		COG0051	30S ribosomal protein S10
+FDFBIKBB_02811	CDS	420				hypothetical protein
+FDFBIKBB_02812	CDS	1923				hypothetical protein
+FDFBIKBB_02813	CDS	1281				hypothetical protein
+FDFBIKBB_02814	CDS	516	wecA_2	2.7.8.40		UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase
+FDFBIKBB_02815	CDS	627				hypothetical protein
+FDFBIKBB_02816	CDS	1515				hypothetical protein
+FDFBIKBB_02817	CDS	753				hypothetical protein
+FDFBIKBB_02818	CDS	1284				hypothetical protein
+FDFBIKBB_02819	CDS	1005				hypothetical protein
+FDFBIKBB_02820	CDS	1284				hypothetical protein
+FDFBIKBB_02821	CDS	1494				hypothetical protein
+FDFBIKBB_02822	CDS	1644				hypothetical protein
+FDFBIKBB_02823	CDS	1872	lplT			Lysophospholipid transporter LplT
+FDFBIKBB_02824	CDS	1368	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+FDFBIKBB_02825	CDS	651	yidC		COG0706	Membrane protein insertase YidC
+FDFBIKBB_02826	CDS	582				hypothetical protein
+FDFBIKBB_02827	CDS	324				hypothetical protein
+FDFBIKBB_02828	CDS	222				hypothetical protein
+FDFBIKBB_02829	CDS	117				hypothetical protein
+FDFBIKBB_02830	CDS	1986		3.1.1.-		Putative serine esterase
+FDFBIKBB_02831	CDS	246	bcp	1.11.1.15	COG1225	Peroxiredoxin Bcp
+FDFBIKBB_02832	CDS	1065				hypothetical protein
+FDFBIKBB_02833	CDS	183	tusA_2		COG0425	Sulfur carrier protein TusA
+FDFBIKBB_02834	CDS	1467	bepA_7	3.4.-.-	COG4783	Beta-barrel assembly-enhancing protease
+FDFBIKBB_02835	CDS	531				hypothetical protein
+FDFBIKBB_02836	CDS	849	dsdC		COG0583	HTH-type transcriptional regulator DsdC
+FDFBIKBB_02837	CDS	774				hypothetical protein
+FDFBIKBB_02838	CDS	3903	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+FDFBIKBB_02839	CDS	1263				hypothetical protein
+FDFBIKBB_02840	CDS	1470	mltF	4.2.2.-	COG4623	Membrane-bound lytic murein transglycosylase F
+FDFBIKBB_02841	CDS	1302	ndh	1.6.99.3	COG1252	NADH dehydrogenase
+FDFBIKBB_02842	CDS	666	yiaD		COG2885	putative lipoprotein YiaD
+FDFBIKBB_02843	CDS	492				hypothetical protein
+FDFBIKBB_02844	CDS	912				hypothetical protein
+FDFBIKBB_02845	CDS	834	hcaR			Hca operon transcriptional activator HcaR
+FDFBIKBB_02846	CDS	372				hypothetical protein
+FDFBIKBB_02847	CDS	699	baeR		COG0745	Transcriptional regulatory protein BaeR
+FDFBIKBB_02848	CDS	1449	baeS	2.7.13.3	COG0642	Signal transduction histidine-protein kinase BaeS
+FDFBIKBB_02849	CDS	177				hypothetical protein
+FDFBIKBB_02850	CDS	192				hypothetical protein
+FDFBIKBB_02851	CDS	234				hypothetical protein
+FDFBIKBB_02852	CDS	471	mscL			Large-conductance mechanosensitive channel
+FDFBIKBB_02853	CDS	312				hypothetical protein
+FDFBIKBB_02854	CDS	585				hypothetical protein
+FDFBIKBB_02855	CDS	1335		1.14.13.-	COG2072	Baeyer-Villiger monooxygenase
+FDFBIKBB_02856	CDS	837	sadH_3	1.-.-.-		Putative oxidoreductase SadH
+FDFBIKBB_02857	CDS	885				hypothetical protein
+FDFBIKBB_02858	CDS	480				hypothetical protein
+FDFBIKBB_02859	CDS	609	yfcG	1.8.4.-	COG0625	Disulfide-bond oxidoreductase YfcG
+FDFBIKBB_02860	CDS	474				hypothetical protein
+FDFBIKBB_02861	CDS	729				hypothetical protein
+FDFBIKBB_02862	CDS	585				hypothetical protein
+FDFBIKBB_02863	CDS	3489	rcsC_20	2.7.13.3		Sensor histidine kinase RcsC
+FDFBIKBB_02864	CDS	651	liaR_2		COG2197	Transcriptional regulatory protein LiaR
+FDFBIKBB_02865	CDS	1947	acsA_3	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+FDFBIKBB_02866	CDS	357	rpoS_2			RNA polymerase sigma factor RpoS
+FDFBIKBB_02867	CDS	384	intA		COG0582	Prophage integrase IntA
+FDFBIKBB_02868	CDS	279				hypothetical protein
+FDFBIKBB_02869	CDS	423				hypothetical protein
+FDFBIKBB_02870	CDS	225				hypothetical protein
+FDFBIKBB_02871	CDS	333				hypothetical protein
+FDFBIKBB_02872	CDS	1329	czcC			Cobalt-zinc-cadmium resistance protein CzcC
+FDFBIKBB_02873	CDS	1650				hypothetical protein
+FDFBIKBB_02874	CDS	1059	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+FDFBIKBB_02875	CDS	1104				hypothetical protein
+FDFBIKBB_02876	CDS	2364				hypothetical protein
+FDFBIKBB_02877	CDS	861				hypothetical protein
+FDFBIKBB_02878	CDS	378				hypothetical protein
+FDFBIKBB_02879	CDS	432				hypothetical protein
+FDFBIKBB_02880	CDS	1140				hypothetical protein
+FDFBIKBB_02881	CDS	1929				hypothetical protein
+FDFBIKBB_02882	CDS	855	hdfR_2			HTH-type transcriptional regulator HdfR
+FDFBIKBB_02883	CDS	1764				hypothetical protein
+FDFBIKBB_02884	CDS	1299	wecA_3	2.7.8.40		UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase
+FDFBIKBB_02885	CDS	603				hypothetical protein
+FDFBIKBB_02886	CDS	1272				hypothetical protein
+FDFBIKBB_02887	CDS	1233				hypothetical protein
+FDFBIKBB_02888	CDS	960	rluD	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+FDFBIKBB_02889	CDS	762	yfiH	1.10.3.-	COG1496	Polyphenol oxidase
+FDFBIKBB_02890	CDS	1005				hypothetical protein
+FDFBIKBB_02891	CDS	441				hypothetical protein
+FDFBIKBB_02892	CDS	681				hypothetical protein
+FDFBIKBB_02893	CDS	495				hypothetical protein
+FDFBIKBB_02894	CDS	1017				Zinc-type alcohol dehydrogenase-like protein
+FDFBIKBB_02895	CDS	1056	rpfG	3.1.4.-	COG3437	Cyclic di-GMP phosphodiesterase response regulator RpfG
+FDFBIKBB_02896	CDS	255				hypothetical protein
+FDFBIKBB_02897	CDS	648	sspA_2		COG0625	Stringent starvation protein A
+FDFBIKBB_02898	CDS	1479	ctpL			Methyl-accepting chemotaxis protein CtpL
+FDFBIKBB_02899	CDS	912	oxyR			Hydrogen peroxide-inducible genes activator
+FDFBIKBB_02900	CDS	564	ahpC	1.11.1.15	COG0450	Alkyl hydroperoxide reductase C
+FDFBIKBB_02901	CDS	1575	ahpF	1.6.99.3		NADH dehydrogenase
+FDFBIKBB_02902	CDS	960				hypothetical protein
+FDFBIKBB_02903	CDS	978				hypothetical protein
+FDFBIKBB_02904	CDS	582				hypothetical protein
+FDFBIKBB_02905	CDS	198				hypothetical protein
+FDFBIKBB_02906	CDS	663	pphB	3.1.3.16	COG0639	Serine/threonine-protein phosphatase 2
+FDFBIKBB_02907	CDS	1329				hypothetical protein
+FDFBIKBB_02908	CDS	1125	desA3_2	1.14.19.-	COG3239	NADPH-dependent stearoyl-CoA 9-desaturase
+FDFBIKBB_02909	CDS	1176		1.-.-.-	COG1018	NADPH oxidoreductase
+FDFBIKBB_02910	CDS	633	fabR		COG1309	HTH-type transcriptional repressor FabR
+FDFBIKBB_02911	CDS	405				hypothetical protein
+FDFBIKBB_02912	CDS	582	nfuA		COG0316	Fe/S biogenesis protein NfuA
+FDFBIKBB_02913	CDS	1011	trpD_2	2.4.2.18		Anthranilate phosphoribosyltransferase
+FDFBIKBB_02914	CDS	324	tusE	2.8.1.-	COG2920	Sulfurtransferase TusE
+FDFBIKBB_02915	CDS	288	tusB			Protein TusB
+FDFBIKBB_02916	CDS	375	tusC			Protein TusC
