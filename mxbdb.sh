@@ -101,25 +101,26 @@ EOF
     else
         echo "Failed to create: $tmp_dir"
     fi
+fi
 
-    if mkdir -p "$log_dir"; then
-        echo "Log directory created"
+if mkdir -p "$log_dir"; then
+    echo "Log directory created"
 
-        cat > "$log_dir"/run.log <<EOF
-        ##########     LOG FILE     ##########
+    cat > "$log_dir"/run.log <<EOF
+##########     LOG FILE     ##########
 
-        This file records the duration of each checkpoint, memory and space usage, it is intended for developers,
-        feel free to delete it when the database is built on your machine.
+This file records the duration of each checkpoint, memory and space usage, it is intended for developers,
+feel free to delete it when the database is built on your machine.
 
-        Run: $(date)
+Run: $(date)
 
-        Process: $0
+Process: $0
+
+
 EOF
 
-    else
-        echo "Failed to create: $log_dir"
-    fi
-
+else
+    echo "Failed to create: $log_dir"
 fi
 
 if $run_chen; then

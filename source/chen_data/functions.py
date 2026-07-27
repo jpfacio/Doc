@@ -48,7 +48,7 @@ def filtering(df: pd.DataFrame, out: Path) -> pd.DataFrame:
     
     print(f"{removed} MAGs without geographical coordinates removed")
     
-    print("Randomizing 20 MAGs from metadata")
+    print("Randomizing MAGs from metadata")
     
     df = df.sample(n=20, random_state=42)
     
@@ -102,7 +102,7 @@ def get_url(url: str, out: Path) -> None:
         except subprocess.CalledProcessError: 
             print(f"Error downloading {url}. Attempt {attempt}/{MAX_RETRIES}")
             
-            with open('chen_download.log', 'a') as log:
+            with open('log/chen_download.log', 'a') as log:
                 log.write(
                     f"{time.ctime()} | Attempt {attempt}/{MAX_RETRIES} failed | {url}\n"
                 )
