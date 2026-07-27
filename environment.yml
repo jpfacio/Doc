@@ -36,7 +36,6 @@ dependencies:
   - pyproj
   - fiona
   - rtree
-  - antismash=7.1.0
   - pyhmmer=0.10.0
   - sqlalchemy
   - goatools
