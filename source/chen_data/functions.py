@@ -50,7 +50,7 @@ def filtering(df: pd.DataFrame, out: Path) -> pd.DataFrame:
     
     print("Randomizing MAGs from metadata")
     
-    df = df.sample(n=20, random_state=42)
+    df = df.sample(n=20)
     
     df['download'] = df['download'].str.replace('https://', 'ftp://', regex=False)
     

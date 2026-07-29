@@ -1,13 +1,16 @@
 from pathlib import Path
 import functions as f
 import pandas as pd
+from time import perf_counter
+from datetime import timedelta
+import subprocess
+import resource
 import requests
 import time
 import json
 import os
 
-seqkit_key = False
-checkm_key= False
+qc = True
 bakta_key= False
 uniprotkb_key = False
 basic_info_key = False
@@ -19,21 +22,41 @@ pah_key = False
 
 data_dir=Path("Data/Raw/Bins")
 tmp=Path("tmp")
+log=Path("log")
+log_run=Path("log/run.log")
 
 print("Generating summary statistics")
 
-if seqkit_key: 
-    f.st.seqkit_summary(data_dir, tmp)
-else:
-    pass
-
-if checkm_key:
-    for bin in data_dir.glob("*"):
-        output = tmp
-        print(f"Processing {bin.name}")
-        f.st.checkm2_analysis(str(bin), str(output))
-        
-        f.st.seqkit_filter(tmp / "summary_stats.tsv")
+if qc: 
+    
+    st_start = perf_counter()
+    
+    st_summary = f.st.seqkit_summary(data_dir, tmp)
+    
+    f.st.seq_filter(st_summary)
+    
+    f.st.seq_remove_500(data_dir)
+    
+    st_elapsed = perf_counter() - st_start
+    st_mem = resource.getrusage(resource.RUSAGE_SELF).ru_maxrss
+    
+    st_space = subprocess.run(
+        ["du", "-sh", '.'],
+        capture_output=True,
+        text=True,
+        check=True
+        )
+    
+    st_size = st_space.stdout.split()[0]
+    
+    with open(log_run, 'a') as run:
+            run.write(
+                "#####  FETCH QC CHECKPOINT  #####\n\n"
+                f"Execution time: {timedelta(seconds=round(st_elapsed))}\n"
+                f"Peak memory: {st_mem / 1024:.2f} MB\n"
+                f"Project size: {st_size}\n\n"
+            )
+            
 else:
     pass
 

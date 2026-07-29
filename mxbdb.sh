@@ -127,8 +127,7 @@ if $run_chen; then
     python3 "source/chen_data/run_chen.py"
 fi
 
-
-
+python "source/processing_pipeline/run_pp.py"
 
 
 

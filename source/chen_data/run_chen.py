@@ -9,7 +9,7 @@ import resource
 # Control keys
 
 get_json = True
-metadata = False
+metadata = True
 
 # Defining directories and files
 
@@ -52,8 +52,6 @@ if get_json:
     links = f.generate_ftp_list(chen_df_filtered)
 
     print('Downloading MAGs from metadata')
-    
-    fetch_start = perf_counter()
     
     f.fetch_urls(links, data_dir)
     
