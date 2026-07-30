@@ -37,6 +37,10 @@ if qc:
     
     f.st.seq_remove_500(data_dir)
     
+    checkm_data = f.st.run_checkm(data_dir, tmp, log)
+    
+    f.st.final_processing(st_summary, checkm_data, tmp)
+    
     st_elapsed = perf_counter() - st_start
     st_mem = resource.getrusage(resource.RUSAGE_SELF).ru_maxrss
     
@@ -51,7 +55,7 @@ if qc:
     
     with open(log_run, 'a') as run:
             run.write(
-                "#####  FETCH QC CHECKPOINT  #####\n\n"
+                "#####   QC CHECKPOINT  #####\n\n"
                 f"Execution time: {timedelta(seconds=round(st_elapsed))}\n"
                 f"Peak memory: {st_mem / 1024:.2f} MB\n"
                 f"Project size: {st_size}\n\n"

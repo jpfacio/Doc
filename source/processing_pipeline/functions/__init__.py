@@ -18,6 +18,7 @@ import os
 from goatools.obo_parser import GODag
 from concurrent.futures import ThreadPoolExecutor
 from functools import partial
+import time
 from time import perf_counter
 from datetime import timedelta
 
