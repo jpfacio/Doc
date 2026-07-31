@@ -10,6 +10,8 @@ import time
 import json
 import os
 
+# Control Keys
+
 qc = False
 bakta_key= False
 ent_key = True
@@ -21,14 +23,22 @@ uniparc_key = False
 go_analysis_key = False
 pah_key = False
 
+# Path definitions
+
 data_dir=Path("Data/Raw/Bins")
 tmp=Path("tmp")
 log=Path("log")
 log_run=Path("log/run.log")
+metadata=Path("tmp/metadata.csv")
 
-print("Generating summary statistics")
+
+###########################################
+##########     QC CHECKPOINT     ##########          
+###########################################
 
 if qc: 
+    
+    print("Generating summary statistics")
     
     st_start = perf_counter()
     
@@ -65,6 +75,10 @@ if qc:
 else:
     pass
 
+##############################################
+##########     BAKTA CHECKPOINT     ##########
+##############################################
+
 if bakta_key:
     
     print("Starting protein annotation (Bakta)")
@@ -96,33 +110,51 @@ if bakta_key:
 else:
     pass
 
+#################################################
+##########     ENTITIES CHECKPOINT     ##########
+#################################################
+
 if ent_key:
     
+    print("Building main entities")
+    
     processed_dir = Path("Data/Raw/Processed")
-    print('teste')
+    
+    for file in processed_dir.rglob('*'):
+        if file.is_file() == False:
+            continue
+        
+        str_file = str(file)
+        if '.tsv' not in str_file and '.gbff' not in str_file:
+            for _ in range(10):
+                file.unlink()
+                if file.exists() == False:
+                    break
+                time.sleep(1)
+        elif 'hypotheticals' in str_file:
+            for _ in range(10):
+                file.unlink()
+                if file.exists() == False:
+                    break
+                time.sleep(1)
+                
+    
+    genes_ent = pd.concat(
+        f.ent.create_genes_ent(tsv) for tsv in processed_dir.rglob("*.tsv")
+    )
+    genes_ent.to_csv("Data/Entities/genes.csv")
+    
+    bins_ent = f.ent.create_bins_ent(metadata)
+    bins_ent.to_csv("Data/Entities/bins.csv")
+
+
+else: 
+    pass
+    
 
     
 
-if test:    
-    data_annot = Path("Data/Raw/Processed")
-
-    tsv_annot = []
-    for i in data_annot.glob("*.tsv"):
-        name = i.name
-        if "hypotheticals" not in name and "inference" not in name:
-            tsv_annot.append(i)
-
-    genes_bins = []
-    for i in tsv_annot:
-        genes_temp = f.ent.create_genes_ent(i)
-        if not genes_temp.empty:
-            genes_bins.append(genes_temp)
-        
-    if genes_bins:
-        genes_ent = pd.concat(genes_bins, ignore_index=True)
-        genes_ent.to_csv("Data/Entities/genes.csv", index=False)
-    
-        
+if test:        
     metadata = "tmp/metadata.csv"
 
     f.ent.create_bins_ent(metadata)

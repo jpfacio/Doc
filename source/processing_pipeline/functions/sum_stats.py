@@ -183,7 +183,7 @@ def final_processing(seqkit: pd.DataFrame, checkm: pd.DataFrame, tmp_file: Path)
     ]
     
     seqkit.loc[:, 'file'] = seqkit['file'].str.removesuffix('.gz')
-    seqkit.loc[seqkit['num_seqs'] <= 1000]
+    seqkit = seqkit.loc[seqkit['num_seqs'] <= 1000]
     
     checkm = checkm[
         [

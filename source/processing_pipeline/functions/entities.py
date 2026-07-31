@@ -7,14 +7,27 @@ import json
 import re
 
 
-def create_genes_ent(tsv: str):
+def create_genes_ent(tsv: Path) -> pd.DataFrame:
+    
+    """This function is a core element of the database building module.
+    It receives a .tsv as input from the Bakta output and filters only
+    CDS rows, create the gene tags (BIN_XXXX), saves useful information
+    and retrieve the protein sequence from Bakta's .gbff file. The resulting
+    DataFrame will be the core data source from all the upcoming processes.
+    
+    Args:
+        tsv (Path): A .tsv file from Bakta output
+
+    Returns:
+        pd.DataFrame: Entity dataframe
+    """
     df = pd.read_csv(tsv, sep="\t", skiprows=5)
     df.columns.values[0] = df.columns[0].lstrip("#")
     
     df_cds = df[df["Type"] == "cds"]
     n_row = len(df_cds["Sequence Id"])
     
-    tsv_base = str(tsv).removesuffix(".fa.tsv")
+    tsv_base = str(tsv).removesuffix(".tsv")
     tsv_name = Path(tsv_base).name
     
     gene_tags = [f"{tsv_name}_{i:04d}" for i in range(1, n_row + 1)]
@@ -29,6 +42,7 @@ def create_genes_ent(tsv: str):
     gbff = tsv_path.with_suffix(".gbff")
     
     locus_tag = list(df_cds["Locus Tag"])
+    
     seq_dict = {}
 
     for record in SeqIO.parse(gbff, "genbank"):
@@ -39,6 +53,7 @@ def create_genes_ent(tsv: str):
                     seq = feature.qualifiers.get("translation", [""])[0]
                     seq_dict[locus] = seq
 
+        
     sequences = [seq_dict.get(locus) for locus in locus_tag]
     
     
@@ -53,7 +68,18 @@ def create_genes_ent(tsv: str):
     
     return genes_ent
     
-def create_bins_ent(path: str):
+def create_bins_ent(path: Path) -> pd.DataFrame:
+    
+    """This function defines the Bins entity of the database. It takes the 
+    previously saved metadata file from the tmp directory and store its info
+    in an entity containing the bins build from the data mining process
+    
+    Args:
+        path (Path): Filepath to be processed
+
+    Returns:
+        pd.DataFrame: Bins entity DataFrame
+    """
     metadata = pd.read_csv(path)
     
     bins = list(metadata["bin"])
@@ -68,7 +94,7 @@ def create_bins_ent(path: str):
                              "Date": date,
                              "Study_ID": study})
     
-    bins_ent.to_csv("Data/Entities/bins.csv", index=False)
+    return bins_ent
 
 def create_studies_ent(doi: str):
         raw_data = cn.content_negotiation(ids=doi, format="citeproc-json")
@@ -80,6 +106,7 @@ def create_studies_ent(doi: str):
         
         authors_str = ""
         authors = data.get("author", [])
+        
         for author in authors:
             family = author.get("family", "")
             given = author.get("given", "")
