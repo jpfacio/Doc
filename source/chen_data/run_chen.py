@@ -8,8 +8,8 @@ import resource
 
 # Control keys
 
-get_json = True
-metadata = True
+get_json = False
+metadata = False
 
 # Defining directories and files
 

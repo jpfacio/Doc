@@ -216,6 +216,8 @@ def final_processing(seqkit: pd.DataFrame, checkm: pd.DataFrame, tmp_file: Path)
                        stdout=subprocess.DEVNULL,
                        stderr=subprocess.DEVNULL)
         
+    df = df.loc[df['MIMAG'] != "Low"]
+        
     print(f"{len(low)} low quality MAGs removed.")
     
     table_path = tmp_file / "qc_metrics.tsv"

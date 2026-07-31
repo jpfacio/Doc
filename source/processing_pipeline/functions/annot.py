@@ -40,19 +40,22 @@ def bakta_analysis(bin: Path, db: str, output: Path) -> None:
     outdir = output / bin.stem
     outdir.mkdir(parents=True, exist_ok=True)
     
-    subprocess.run([
-        "bakta", "--db", 
-        str(db),
-        "--output",
-        str(outdir),
-        "--meta", "--threads", "2",
-        "--force",
-        str(bin)
-    ], check=True)
+    log_file = "log/bakta.log"
+    
+    with open(log_file, "w") as log:
+        subprocess.run([
+            "bakta", "--db", 
+            str(db),
+            "--output",
+            str(outdir),
+            "--meta", "--threads", "2",
+            "--force",
+            str(bin)
+        ], check=True, stdout=log, stderr=subprocess.STDOUT)
 
 def fetch_bakta(bins: list, db: Path, out: Path) -> None:
     
-    with ThreadPoolExecutor(max_workers=4) as executor:
+    with ThreadPoolExecutor(max_workers=5) as executor:
         list(executor.map(partial(bakta_analysis, db=db, output=out), bins))
     
     

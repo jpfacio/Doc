@@ -10,13 +10,14 @@ import time
 import json
 import os
 
-qc = True
+qc = False
 bakta_key= False
+ent_key = True
+test = False
 uniprotkb_key = False
 basic_info_key = False
 go_key = False
 uniparc_key = False
-annot_key = False
 go_analysis_key = False
 pah_key = False
 
@@ -68,15 +69,41 @@ if bakta_key:
     
     print("Starting protein annotation (Bakta)")
     
+    bakta_start = perf_counter()
+    
     bins_list = f.annot.path_to_list(data_dir)
-    f.annot.fetch_bakta(bins_list, Path('db-light'), Path('Data/Raw/Processed'))
+    f.annot.fetch_bakta(bins_list, Path('../db-light'), Path('Data/Raw/Processed'))
+    
+    bakta_elapsed = perf_counter() - bakta_start
+    bakta_mem = resource.getrusage(resource.RUSAGE_SELF).ru_maxrss
+    
+    bakta_space = subprocess.run(
+        ["du", "-sh", '.'],
+        capture_output=True,
+        text=True,
+        check=True
+        )
+    
+    bakta_size = bakta_space.stdout.split()[0]
+    
+    with open(log_run, 'a') as run:
+            run.write(
+                "#####   BAKTA CHECKPOINT  #####\n\n"
+                f"Execution time: {timedelta(seconds=round(bakta_elapsed))}\n"
+                f"Peak memory: {bakta_mem / 1024:.2f} MB\n"
+                f"Project size: {bakta_size}\n\n"
+            )
 else:
     pass
 
-if annot_key:
+if ent_key:
     
-    print("Processing protein annotation")
+    processed_dir = Path("Data/Raw/Processed")
+    print('teste')
+
     
+
+if test:    
     data_annot = Path("Data/Raw/Processed")
 
     tsv_annot = []
