@@ -96,42 +96,61 @@ def create_bins_ent(path: Path) -> pd.DataFrame:
     
     return bins_ent
 
-def create_studies_ent(doi: str):
+def create_studies_ent(meta: Path) -> pd.DataFrame:
+    
+    """This function builds the Studies entity, it takes the metadata table
+    and uses the unique DOIs as input to access the habanero package, which
+    contains an API to check descriptive data from scientific papers. It
+    stores information like author affiliations, year of publication,
+    keywords.
+    
+    Args:
+        meta (Path): Path to the metadata table.
+    
+    Returns:
+        pd.DataFrame: Complete studies entity.
+    """
+    
+    meta = pd.read_csv(meta)
+    studies = []
+
+    for doi in meta["id_study"].unique():
+
         raw_data = cn.content_negotiation(ids=doi, format="citeproc-json")
         data = json.loads(raw_data)
-        
+
         title = data.get("title", [""])[0] if isinstance(data.get("title"), list) else data.get("title", "")
-        
+
         keywords = "; ".join(data.get("subject", [])) if data.get("subject") else ""
-        
+
         authors_str = ""
         authors = data.get("author", [])
-        
+
         for author in authors:
             family = author.get("family", "")
             given = author.get("given", "")
             initial = given[0] if given else ""
             authors_str += f"{family}, {initial}.; "
         authors_str = authors_str[:-2] if authors_str.endswith("; ") else authors_str
-        
+
         container = data.get("container-title", [""]) if data.get("container-title") else ""
-        
+
         year = None
         issued = data.get("issued") or data.get("published")
         if issued and "date-parts" in issued and len(issued["date-parts"][0]) > 0:
             year = issued["date-parts"][0][0]
-    
+
         affil_list = []
         for author in authors:
             affil = author.get("affiliation", [])
             if affil:
                 for a in affil:
-                    country = a.get("country", "") 
+                    country = a.get("country", "")
                     if country and country not in affil_list:
                         affil_list.append(country)
         affil_str = "; ".join(affil_list)
-        
-        return pd.DataFrame([{
+
+        studies.append({
             "Study_ID": doi,
             "Title": title,
             "Keywords": keywords,
@@ -139,4 +158,6 @@ def create_studies_ent(doi: str):
             "Journal": container,
             "Year": year,
             "Affiliations": affil_str
-        }])
+        })
+
+    return pd.DataFrame(studies)

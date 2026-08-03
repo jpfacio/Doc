@@ -6,9 +6,9 @@ from habanero import cn
 import json
 import re
 from . import entities as ent
-from . import annot
+from . import bakta
 from . import sum_stats as st
-from . import go_analysis as go
+from . import go_terms as go
 from . import candidates as candidates
 from itertools import islice
 import requests
@@ -21,4 +21,5 @@ from functools import partial
 import time
 from time import perf_counter
 from datetime import timedelta
+from tqdm import tqdm
 
