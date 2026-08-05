@@ -15,8 +15,8 @@ import os
 qc = False
 bakta_key= False
 ent_key = False
-go = True
-pah_key = False
+go = False
+pah_key = True
 
 # Path definitions
 
@@ -169,22 +169,86 @@ if ent_key:
 else: 
     pass
 
+#############################################
+##########     GO CHECKPOINT     ##########
+#############################################
+
 if go:
-    # Remove later
+    
+    print("Running GO annotation module")
+    
+    go_start = perf_counter()
     
     genes_ent = pd.read_csv("Data/Entities/genes.csv")
     
-    database_metadata = f.go.create_database_metadata(genes_ent)
-    database_metadata.to_csv("tmp/database_metadata.csv", index=False)
+    annotations = f.go.create_database_metadata(genes_ent)
     
-    uniref2uniparc = f.go.fetch_uniref2uniparc(database_metadata)
-    uniref2uniparc.to_csv("tmp/database_metadata.csv", index=False)
+    annotations = f.go.fetch_uniref2uniparc(annotations)
     
-else: 
+    annotations = f.go.fetch_uniparc2interpro(annotations)
+    
+    ipr2go = f.go.parse_interpro2go("support_files/interpro2go.txt")
+    annotations = f.go.fetch_go_terms(annotations, ipr2go)
+    
+    annotations = f.go.resolve_go_names(annotations, "support_files/go-basic.obo")
+    
+    annotations.to_csv("Data/Entities/annotations.csv", index=False)
+    
+    go_elapsed = perf_counter() - go_start
+    go_mem = resource.getrusage(resource.RUSAGE_SELF).ru_maxrss
+    
+    go_space = subprocess.run(
+        ["du", "-sh", '.'],
+        capture_output=True,
+        text=True,
+        check=True
+        )
+    
+    go_size = go_space.stdout.split()[0]
+    
+    with open(log_run, 'a') as run:
+            run.write(
+                "#####   GO CHECKPOINT  #####\n\n"
+                f"Execution time: {timedelta(seconds=round(go_elapsed))}\n"
+                f"Peak memory: {go_mem / 1024:.2f} MB\n"
+                f"Project size: {go_size}\n\n"
+            )
+            
+else:
     pass
 
+############################################
+##########     PAH CHECKPOINT     ##########
+############################################
+
 if pah_key:
-    f.candidates.against_pah("Data/Reports/candidates.faa", "support_files/pah_db_v2.4/")
+    
+    print("Running PAH-degradation gene screening (DIAMOND)")
+    
+    pah_start = perf_counter()
+    
+    candidates, pah_summary = f.pah.run()
+    
+    pah_elapsed = perf_counter() - pah_start
+    pah_mem = resource.getrusage(resource.RUSAGE_SELF).ru_maxrss
+    
+    pah_space = subprocess.run(
+        ["du", "-sh", '.'],
+        capture_output=True,
+        text=True,
+        check=True
+        )
+    
+    pah_size = pah_space.stdout.split()[0]
+    
+    with open(log_run, 'a') as run:
+            run.write(
+                "#####   PAH CHECKPOINT  #####\n\n"
+                f"Execution time: {timedelta(seconds=round(pah_elapsed))}\n"
+                f"Peak memory: {pah_mem / 1024:.2f} MB\n"
+                f"Project size: {pah_size}\n\n"
+            )
+            
 else:
     pass
 

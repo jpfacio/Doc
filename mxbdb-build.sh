@@ -96,7 +96,7 @@ if [ -z "$skip_data" ]; then
         echo "Tmp directory created"
 
         cat > "$tmp_dir"/metadata.csv <<EOF
-        bin,sample,project,id_study,coord,date
+bin,sample,project,id_study,coord,date
 EOF
     else
         echo "Failed to create: $tmp_dir"
@@ -125,6 +125,13 @@ fi
 
 if $run_chen; then
     python3 "source/chen_data/run_chen.py"
+fi
+
+if [ ! -f "support_files/interpro2go.txt" ]; then
+    echo "Downloading InterPro2GO mapping"
+    if ! curl -fsSL "https://ftp.ebi.ac.uk/pub/databases/interpro/current_release/interpro2go" -o "support_files/interpro2go.txt"; then
+        echo "WARNING: failed to download interpro2go mapping"
+    fi
 fi
 
 python "source/processing_pipeline/run_pp.py"

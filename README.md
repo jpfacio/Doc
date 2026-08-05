@@ -39,7 +39,8 @@ MXD/
 │ ├── processing_pipeline/ # Core pipeline logic 
 │ └── test/ # Test subset and validation scripts
 │
-├── mxd.sh # Main entrypoint script 
+├── mxbdb-build.sh # Main entrypoint script 
+├── mxbdb-cli.py # Query CLI (Data/Entities CSVs)
 └── environment.yml # Conda environment 
 ```
 
@@ -61,10 +62,10 @@ conda activate mxd
 ### 2. Run the pipeline
 
 -Run full pipeline on all bins
-`./mxd.sh --all`
+`./mxbdb-build.sh --all`
 
 -Or run only on test subset
-`./mxd.sh --t`
+`./mxbdb-build.sh --t`
 
 -Or process Chen et al. (2022) database + your bins
-`./mxd.sh --chen`
+`./mxbdb-build.sh --chen`

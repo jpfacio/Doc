@@ -9,7 +9,7 @@ from . import entities as ent
 from . import bakta
 from . import sum_stats as st
 from . import go_terms as go
-from . import candidates as candidates
+from . import pah
 from itertools import islice
 import requests
 import time
